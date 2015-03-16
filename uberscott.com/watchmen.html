@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MightyDevCo</title>
+<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="pop_up_bg">
+<div>
+  <div class="row col92">
+    <div class="container portfolio_section padding">
+      <h2 class="battle"> <span> Bluray/</span>Watchmen</h2>
+      <div class="col-sm-12 padding">
+        <div class="flexslider">
+          <ul class="slides">
+            <li data-thumb="images//blue-ray1.jpg"> <iframe width="750" height="315" src="https://www.youtube.com/embed/dFfzMjKRQk8" frameborder="0" allowfullscreen></iframe>
+            <li data-thumb="images/sherlock_homes1.png"><img src="images/sherlock_homes1.png"   class="img-responsive" />
+                  
+          
+          </ul>
+        </div>
+      </div>
+      <div class="">
+        <div class="col33">
+          <div class="col41">
+            <div class="col11">
+              <label>Project </label>
+            </div>
+            <div class="col12"><span>Warner Brother's Maximum Movie Mode (MMM) for The Watchmen Blu-Ray disc</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Customer</label>
+            </div>
+            <div class="col12"><span>Warner Brothers</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Features </label>
+            </div>
+            <div class="col12"><span> Director walk ons, factoids, animated timelines, picture in picture, still galleries and</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>What I did</label>
+            </div>
+            <div class="col12"><span> This was the first Warner Brothers MMM and I programmed the first generation of the MMM engine for The Watchmen.  We reused the MMM for eight additional titles, improving it with each release.</span> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+
+<script defer src="js/jquery.flexslider.js"></script> 
+<script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        controlNav: "thumbnails",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

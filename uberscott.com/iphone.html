@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MightyDevCo</title>
+<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="pop_up_bg">
+<div>
+  <div class="row col92 col93">
+    <div class="container portfolio_section padding">
+      <h2 class=""><span>iPhone/</span>Love to Read</h2>
+      <div class="col-sm-12 padding">
+        <div class="flexslider">
+          <ul class="slides">
+            <li> <iframe width="750" height="315" src="https://www.youtube.com/embed/EsEfrsihKrM" frameborder="0" allowfullscreen></iframe>
+  
+           
+          </ul>
+        </div>
+      </div>
+      <div class="">
+        <div class="col33">
+          <div class="col41">
+            <div class="col11">
+              <label>Project </label>
+            </div>
+            <div class="col12"><span>colorful and creative animations to help kids learn their ABC's</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Customer</label>
+            </div>
+            <div class="col12"><span>Viva Kids</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Features </label>
+            </div>
+            <div class="col12"><span>A video for every letter of the alphabet, a carousel to choose a video and a slightly interactive dog made from a coffee cup.</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>What I did </label>
+            </div>
+            <div class="col12"><span>This was my first foray into the objective-c world.  I programmed most of the application myself, but I had some guidance from an experienced iOS developer. Thanks Jess!
+</span> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+
+<script defer src="js/jquery.flexslider.js"></script> 
+<script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        controlNav: "thumbnails",
+        start: function(slider){
+          $('body').removeClass('loading1');
+        }
+      });
+    });
+  </script>
+</body>
+</html>
