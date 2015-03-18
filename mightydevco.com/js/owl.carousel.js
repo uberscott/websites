@@ -1453,7 +1453,7 @@ if (typeof Object.create !== "function") {
 
         items : 3,
         itemsCustom : false,
-        itemsDesktop : [1199, 4],
+        itemsDesktop : [1199, 2],
         itemsDesktopSmall : [979, 3],
         itemsTablet : [768, 2],
         itemsTabletSmall : false,
@@ -1465,7 +1465,7 @@ if (typeof Object.create !== "function") {
         paginationSpeed : 800,
         rewindSpeed : 1000,
 
-        autoPlay : true,
+        autoPlay : false,
         stopOnHover : true,
 
         navigation : false,
