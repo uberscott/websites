@@ -709,10 +709,11 @@ table td[class*=col-], table th[class*=col-] { position: static; display: table-
 
     
     .padding{padding-left:10px; padding-right:10px !important;}
-    .col44 ul li{margin-right:5px;}
+    .col44 ul li{margin-right:20px; margin-bottom:10px !important;}
     
     
-    
+  .flex-control-thumbs li{margin-right:10px !important;}
+
     
 .table-responsive { width: 100%; margin-bottom: 15px; overflow-y: hidden; -ms-overflow-style: -ms-autohiding-scrollbar; border: 1px solid #ddd }
 .table-responsive>.table { margin-bottom: 0 }
@@ -1740,10 +1741,19 @@ td.visible-print, th.visible-print { display: table-cell!important }
     .submit{font-size:11pt !important;}
     
     
-
+}
 
 @media (min-width:768px) and (max-width:1024px) {
        .owl-buttons{display:none !important;}
        .owl-buttons{display:none !important;}
        .col-xs-offset-1{margin-left:0 !important;}
+	   .col44 ul li{margin-right:8px !important;}
+	   .fancybox-close{right:1px !important;}
+}
+
+@media (min-width:300px) and (max-width:319px) {
+	.col43{width:100% !important;}
+	.col44{width:100% !important;}
+	.colj{width:24% !important;}
+	
 }

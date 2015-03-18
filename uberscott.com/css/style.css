@@ -8,7 +8,7 @@ h2 { font-family: 'Roboto', sans-serif; letter-spacing: 0; text-align: left; col
 h3 { font-family: 'Roboto', sans-serif; }
 h4 { font-family: 'Roboto', sans-serif; }
 .contact_form { background: #005d82; border: 2px solid #4dafd5; padding: 10px 20px; float: right; width: 480px; }
-img:hover { opacity: 0.7; }
+
 .col1 { background:;
 }
 .col1 p { font-weight: 300; color: #fff; font-size: 11pt; line-height: 18px; margin: 0 0 14px 0; text-align: justify; }
@@ -87,4 +87,9 @@ iframe, object, embed {
 }
 .galler_bg{padding:0 20px;}
 .alert-info{font-size:9pt;font-family: 'Roboto', sans-serif; text-align:center;}
-.col1 p a{font-family: 'Roboto', sans-serif; font-weight:500; color:#fff;}
+.col1 p a{font-family: 'Roboto', sans-serif; font-weight:500; color:#fff; text-decoration:underline;}
+.col1 p a:hover{text-decoration:none;}
+.col59 .col12{ width:80%;}
+.col33 .col12 span strong{ font-weight:500;font-family: 'Roboto', sans-serif;}
+.footer{text-align:center;font-size:9pt;font-family: 'Roboto', sans-serif; color:#fff; background:#005d82; padding:5px 0;  left:0; right:0;}
+.footer p{margin:0; padding:0;}
