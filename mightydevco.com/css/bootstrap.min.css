@@ -1750,3 +1750,10 @@ td.visible-print, th.visible-print { display: table-cell!important }
 	   .col44 ul li{margin-right:8px !important;}
 	   .fancybox-close{right:1px !important;}
 }
+
+@media (min-width:300px) and (max-width:319px) {
+	.col43{width:100% !important;}
+	.col44{width:100% !important;}
+	.colj{width:24% !important;}
+	
+}
