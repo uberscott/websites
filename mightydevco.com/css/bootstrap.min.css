@@ -709,9 +709,9 @@ table td[class*=col-], table th[class*=col-] { position: static; display: table-
 
     
     .padding{padding-left:10px; padding-right:10px !important;}
-    .col44 ul li{margin-right:20px; margin-bottom:10px !important;}
+    .col44 ul li{margin-right:5px; margin-bottom:5px !important;}
     
-    
+    .col8{padding:0 !important;}
   .flex-control-thumbs li{margin-right:10px !important;}
 
     

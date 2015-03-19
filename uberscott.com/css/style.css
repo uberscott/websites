@@ -22,9 +22,9 @@ h4 { font-family: 'Roboto', sans-serif; }
 .shadow { text-align: center; margin: 8px 0; float: right; width: 100%; }
 .contact_form .form-control { background-color: #003e57; background-image: none; border: 1px solid #006c96; color: hsl(0, 0%, 33%); display: block; font-size: 14px; height: 40px; line-height: 1.42857; padding: 6px 12px; transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; width: 100%; border-radius: 0; }
 .contact_form h2 { text-align: left; font-weight: 500; margin: 0 0 10px 0; letter-spacing: 0; font-size: 18pt; }
-.send { margin: auto; text-align: center; background: #003e57; text-transform: uppercase; font-family: 'Roboto', sans-serif; display: block; font-size: 12pt; font-weight: 500; color: #fff; border: 1px solid #003347; padding: 8px 80px; }
+.send { margin: auto; text-align: center; background: #003e57; text-transform: uppercase; font-family: 'Roboto', sans-serif; display: block; font-size: 12pt; font-weight: 500; color: #fff; border: 1px solid #003347; padding: 8px 80px; border-radius:2px; }
 .android { background: url(../images/androis_bg.jpg) repeat; border: 2px solid #4dafd5; float: right; width: 480px; margin: 0 0 10px 0; padding: 0 10px 20px; height: auto; overflow: hidden; }
-.text { background: #1a1a1c; resize: none; width: 49%; border: none; text-align: center; padding: 30px 5px; border-radius: 0; height: 100px !important; float: left; margin-left: 10px; }
+.text3 { background: #1a1a1c; resize: none; width: 49%; border: none; text-align: center; padding: 30px 5px; border-radius: 0; height: 100px !important; float: left; margin-left: 10px; }
 .android p img { float: left; }
 .android p { margin: 20px 0; }
 .android h2 { margin: 0; padding: 10px 0; font-size: 18pt; }
