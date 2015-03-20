@@ -44,13 +44,13 @@
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
 	border-radius: 20px;
-	background: #c11616;
+	background: #38576f;
 }
 
-.owl-theme .owl-controls .owl-page.active span,
-.owl-theme .owl-controls.clickable .owl-page:hover span{
+.owl-theme .owl-controls .owl-page.active span
+{
 	filter: Alpha(Opacity=100);/*IE7 fix*/
-	opacity: 1; background:#38576f;
+	opacity: 1; background:#c11616;
 }
 
 /* If PaginationNumbers is true */
