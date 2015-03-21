@@ -703,7 +703,7 @@ table td[class*=col-], table th[class*=col-] { position: static; display: table-
     .col15{border-bottom: 4px dotted #fff; padding-bottom:20px; margin-bottom:10px;}
     .col15{background:none !important;}   
     
-    
+     
   
   .fancybox-close{top:3px !important ; right:3px !important;} 
 
@@ -1749,6 +1749,7 @@ td.visible-print, th.visible-print { display: table-cell!important }
        .col-xs-offset-1{margin-left:0 !important;}
 	   .col44 ul li{margin-right:8px !important;}
 	   .fancybox-close{right:1px !important;}
+	   .fancybox-wrap, .fancybox-skin, .fancybox-outer, .fancybox-inner, .fancybox-image, .fancybox-wrap iframe, .fancybox-wrap object, .fancybox-nav, .fancybox-nav span, .fancybox-tmp{width:740px !important;}
 }
 
 @media (min-width:300px) and (max-width:319px) {
@@ -1757,3 +1758,20 @@ td.visible-print, th.visible-print { display: table-cell!important }
 	.colj{width:24% !important;}
 	
 }
+
+@media only screen and (min-device-width:320px)and (max-device-width:480px) and (orientation : landscape) {
+  .fancybox-wrap, .fancybox-skin, .fancybox-outer, .fancybox-inner, .fancybox-image, .fancybox-wrap iframe, .fancybox-wrap object, .fancybox-nav, .fancybox-nav span, .fancybox-tmp{width:300px !important;}	
+	
+}
+
+@media only screen and (min-device-width:360px)and (max-device-width:640px) and (orientation : landscape) {
+  .fancybox-wrap, .fancybox-skin, .fancybox-outer, .fancybox-inner, .fancybox-image, .fancybox-wrap iframe, .fancybox-wrap object, .fancybox-nav, .fancybox-nav span, .fancybox-tmp{width:400px !important;}	
+	
+}
+
+
+@media only screen and (min-device-width:1280px)and (max-device-width:600px) and (orientation : landscape) {
+	  .fancybox-wrap, .fancybox-skin, .fancybox-outer, .fancybox-inner, .fancybox-image, .fancybox-wrap iframe, .fancybox-wrap object, .fancybox-nav, .fancybox-nav span, .fancybox-tmp{width:300px !important;}
+}
+
+

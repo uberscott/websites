@@ -3,7 +3,7 @@
 		
 $('#fancy6').fancybox({
                 'width':705,
-                'height': 800,
+                'height': 1100,
                 'transitionIn': 'elastic',
                 'transitionOut': 'elastic',
                 'type': 'iframe'
@@ -154,7 +154,7 @@ $('#fancy6').fancybox({
 				$.fancybox.open({
 					href : 'iframe.html',
 					type : 'iframe',
-					padding : 5
+					padding : 1
 				});
 			});
 

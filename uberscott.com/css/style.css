@@ -75,7 +75,7 @@ iframe, object, embed {
 }.col44 {
    
     float: right;
-    min-height: 442px;
+    min-height: 273px !important;
     padding: 0 !important;
     width: 65% !important;
 }
@@ -93,3 +93,7 @@ iframe, object, embed {
 .col33 .col12 span strong{ font-weight:500;font-family: 'Roboto', sans-serif;}
 .footer{text-align:center;font-size:9pt;font-family: 'Roboto', sans-serif; color:#fff; background:#005d82; padding:5px 0;  left:0; right:0;}
 .footer p{margin:0; padding:0;}
+.col29{text-align:left;}
+.col87 span{font-size:11pt !important;}
+.col87 .col41{margin-bottom:0 !important; line-height:18px !important;}
+.col69 .col12{ width:87%;}

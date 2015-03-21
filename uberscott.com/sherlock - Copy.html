@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MightyDevCo</title>
+<link rel="stylesheet" href="css/demo.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<link href="css/style.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="pop_up_bg">
+<div>
+  <div class="row col92">
+    <div class="container portfolio_section padding">
+      <h2 class="battle"> <span> Blu-ray /</span> Sherlock Holmes</h2>
+      <div class="col-sm-12 padding">
+        <div class="flexslider">
+          <ul class="slides">
+            <li data-thumb="images/sherlock-homes.png">
+              <iframe src="//player.vimeo.com/video/15471230?color=c4c4c4&title=0&byline=0&portrait=0" width="750" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <li data-thumb="images/sherlock-homes.png"> <img src="images/sherlock-homes.png"  class="img-responsive" />
+            <li data-thumb="images/sherlock-homes5.png"> <img src="images/sherlock-homes5.png"  class="img-responsive" />
+          </ul>
+        </div>
+      </div>
+      <div class="">
+        <div class="col33">
+          <div class="col41">
+            <div class="col11">
+              <label>Project </label>
+            </div>
+            <div class="col12"><span>Warner Brothers Maximum Movie Mode (MMM) for Sherlock Holmes Blu-ray discs</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Customer</label>
+            </div>
+            <div class="col12"><span>Warner Brothers</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Features </label>
+            </div>
+            <div class="col12"><span>MMM is much like a director's commentary for DVD, except it utilizes lots of Blu-ray technology. While the movie plays, the director can actually walk out in front of the film and give their commentary. Animated factoids about the movie, lower-thirds (speakers' ID tags) and picture-in-picture content are programmed to complement these director walk-ons — giving the viewer some behind-the-scenes info about the movie at least once a minute</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>Ancillary Info</label>
+            </div>
+            <div class="col12"><span> You may be wondering if I worked on Sherlock Holmes 1 or 2? I worked on both. It seemed cheap to headline Sherlock Holmes in my portfolio twice, even though they were legitimate sequels</span> </div>
+          </div>
+          <div class="col41">
+            <div class="col11">
+              <label>What I Did </label>
+            </div>
+            <div class="col12"><span>I developed the original MMM engine from scratch on a previous project. Configurability was THE exciting advancement in the MMM engine during the Sherlock Holmes era. We were able to hire people to configure XML files that then drove the MMM engine — instead of hiring nasty java programmers to customize it. ...Wait a minute! I'm a java programmer! </span> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+
+<script defer src="js/jquery.flexslider.js"></script> 
+<script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "stop",
+        controlNav: "thumbnails",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+</body>
+</html>

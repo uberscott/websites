@@ -25,8 +25,9 @@
       <div class="col-sm-12 padding">
         <div class="flexslider">
           <ul class="slides">
-            <li data-thumb="images//blue-ray1.jpg"> <iframe width="750" height="315" src="https://www.youtube.com/embed/dFfzMjKRQk8" frameborder="0" allowfullscreen></iframe>
+            <li data-thumb="images/blu-ray9.png"> <iframe width="750" height="315" src="https://www.youtube.com/embed/dFfzMjKRQk8" frameborder="0" allowfullscreen></iframe>
             <li data-thumb="images/sherlock_homes1.png"><img src="images/sherlock_homes1.png"   class="img-responsive" />
+            
                   
           
           </ul>
@@ -56,7 +57,7 @@
             <div class="col11">
               <label>What I Did</label>
             </div>
-            <div class="col12"><span> This was the first Warner Brothers MMM, and I programmed the first generation of the MMM engine for The Watchmen.  We reused the MMM for eight additional titles, improving it with each release</span> </div>
+            <div class="col12"><span> This was the first Warner Brothers' MMM, and I programmed the first generation of the MMM engine for The Watchmen.  We reused the MMM for eight additional titles, improving it with each release</span> </div>
           </div>
         </div>
       </div>
@@ -75,7 +76,8 @@
     });
     $(window).load(function(){
       $('.flexslider').flexslider({
-        animation: "slide",
+     animation: "stop",
+		slideshow: false,
         controlNav: "thumbnails",
         start: function(slider){
           $('body').removeClass('loading');
