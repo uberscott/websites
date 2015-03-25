@@ -6,15 +6,7 @@ function snapGallery(gallery) {
 
 	selected.className = 'selected';
 
-	if (window.location.hash) {
-		var hashedImg = document.getElementById(window.location.hash.substring(1, window.location.hash.length));
-		if (hashedImg) {
-			setSelected(hashedImg);
-		}
-		// TODO: fix scrolling into view when a hash is used
-  } else {
-		featured.scrollIntoView();
-  }
+	
 
 	function nextImage() {
 		var next = selected;

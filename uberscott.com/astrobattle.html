@@ -21,7 +21,7 @@
 <div>
   <div class="row col92">
     <div class="container portfolio_section padding">
-      <h2 class="battle"> <span> Bluray /</span> Astro Battle</h2>
+      <h2 class="battle">  Astro Battle</h2>
       <div class="col-sm-12 padding">
         <div class="flexslider">
           <ul class="slides">
@@ -84,7 +84,8 @@
     });
     $(window).load(function(){
       $('.flexslider').flexslider({
-        animation: "slide",
+         animation: "stop",
+		slideshow: false,
         controlNav: "thumbnails",
         start: function(slider){
           $('body').removeClass('loading');
