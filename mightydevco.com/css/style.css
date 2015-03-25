@@ -13,8 +13,8 @@ a:hover, a:focus { outline: none !important; }
 .col2 { background: #d7d6b1; text-align: center; border-bottom: 8px solid #385870; padding: 30px 20px; }
 .col8 { background: url(../images/slide_bg.png) no-repeat top center; position:relative; padding: 45px 0 40px 0; background-size:cover;
 }
-.col15 {  padding:0 35px; background:url(../images/border-right.png) right center repeat-y;}
-.col7{padding:0 70px;}
+.col15 {  padding:0 14px; background:url(../images/border-right.png) right center repeat-y;}
+.col7{padding:0 64px;}
 .col2 h2 { font-family: 'Rajdhani-Bold'; text-transform: none; color: #385870; position: relative; padding: 8px 0 3px 0; text-align: center; text-transform:uppercase; }
 .col2 h2:before { background-image: url(../images/arrow.png); background-repeat: no-repeat; content: " "; font-family: "Open Sans", sans-serif; height: 3px; left: 0; padding: 0 20px; margin: 0 auto; width: 136px; height:3px;position: absolute; background-position: center center; right: 0; top: 0; z-index: 7; }
 .col2 h2:after { background-image: url(../images/arrow.png); background-repeat: no-repeat; content: " ";  left: 0; padding: 0 20px; margin: 0 auto; width: 136px; position: absolute; background-position: center center;height:3px; right: 0; bottom: 0; z-index: 7; }
