@@ -5,7 +5,7 @@
 
 			$('#fancy1').fancybox({
                 'width': 930,
-                'height': 442,
+                'height': 443,
                 'transitionIn': 'elastic',
                 'transitionOut': 'elastic',
                 'type': 'iframe'

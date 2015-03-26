@@ -14,7 +14,7 @@ a:hover, a:focus { outline: none !important; }
 .col8 { background: url(../images/slide_bg.png) no-repeat top center; position:relative; padding: 45px 0 40px 0; background-size:cover;
 }
 .col15 {  padding:0 14px; background:url(../images/border-right.png) right center repeat-y;}
-.col7{padding:0 64px;}
+.col7{padding:0 62px;}
 .col2 h2 { font-family: 'Rajdhani-Bold'; text-transform: none; color: #385870; position: relative; padding: 8px 0 3px 0; text-align: center; text-transform:uppercase; }
 .col2 h2:before { background-image: url(../images/arrow.png); background-repeat: no-repeat; content: " "; font-family: "Open Sans", sans-serif; height: 3px; left: 0; padding: 0 20px; margin: 0 auto; width: 136px; height:3px;position: absolute; background-position: center center; right: 0; top: 0; z-index: 7; }
 .col2 h2:after { background-image: url(../images/arrow.png); background-repeat: no-repeat; content: " ";  left: 0; padding: 0 20px; margin: 0 auto; width: 136px; position: absolute; background-position: center center;height:3px; right: 0; bottom: 0; z-index: 7; }
@@ -68,7 +68,7 @@ font-family:'Arvo-Regular' !important;
 .colj9{clear:both;}
 .colj15{margin-top:90px;}
 .col43{width:35%; float:left;}
-.col44{float:right; width:65% !important; padding:0 !important;background:url(../images/bg_top.png) no-repeat top center #d7d6b1; min-height:444px;}
+.col44{float:right; width:65% !important; padding:0 !important;background:url(../images/bg_top.png) no-repeat top center #d7d6b1; min-height:443px;}
 .col44 h2{margin-top:20px !important;}
 .col44 ul{margin:10px auto; padding:0; text-align:center;}
 .col44 ul li{list-style:none; display:inline-block; margin-right:20px;}
