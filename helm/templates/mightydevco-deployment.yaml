@@ -43,6 +43,8 @@ spec:
               cpu: 100m
               memory: 16Mi
 
+     imagePullSecrets:
+     - actionopoly  
 
       {{- with .Values.nodeSelector }}
       nodeSelector:
