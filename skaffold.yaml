@@ -1,0 +1,30 @@
+apiVersion: skaffold/v1beta13
+kind: Config
+build:
+  tagPolicy:
+    gitCommit: {}
+
+  artifacts:
+
+  - image: gcr.io/thc-production/uberscott
+    context: uberscott.com
+
+  - image: gcr.io/thc-production/mightydevco
+    context: mightydevco.com
+
+
+deploy:
+  helm:
+    flags:
+        upgrade: ["--timeout", "3600"]
+        install: ["--timeout", "3600"]
+
+    releases:
+    - name: uberscott
+      namespace: uberscott
+      chartPath: helm
+      values:
+        uberscott: gcr.io/thc-production/uberscott
+        mightydevco: gcr.io/thc-production/mightydevco
+
+
