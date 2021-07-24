@@ -6,25 +6,23 @@ build:
 
   artifacts:
 
-  - image: gcr.io/thc-production/uberscott
+  - image: docker.io/uberscott/uberscott.com
     context: uberscott.com
 
-  - image: gcr.io/thc-production/mightydevco
+  - image: docker.io/uberscott/mightydevco
     context: mightydevco.com
 
 
 deploy:
   helm:
     flags:
-        upgrade: ["--timeout", "3600"]
-        install: ["--timeout", "3600"]
 
     releases:
     - name: uberscott
-      namespace: uberscott
+      namespace: scott
       chartPath: helm
       values:
-        uberscott: gcr.io/thc-production/uberscott
-        mightydevco: gcr.io/thc-production/mightydevco
+        uberscott: docker.io/uberscott/uberscott.com
+        mightydevco: docker.io/uberscott/mightydevco
 
 
