@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://uberscott.com/projects/astrobattle/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/maximum-movie-mode/astrobattle/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/the-canary-sings/astrobattle/</loc>
+  </url><url>
     <loc>http://uberscott.com/categories/</loc>
   </url><url>
+    <loc>http://uberscott.com/projects/maximum-movie-mode/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/mechtron/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/recert5/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/starlane/</loc>
+  </url><url>
     <loc>http://uberscott.com/tags/</loc>
+  </url><url>
+    <loc>http://uberscott.com/projects/the-canary-sings/</loc>
   </url><url>
     <loc>http://uberscott.com/</loc>
   </url>
