@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
+<h1 id="project-name">{{ .Param "title" }}</h1>
+<img src="{{ .Param "image" }}" class="title"/>
+
+{{ .Content }}
+
+<section id="screenshots">
+<h2>Screenshots</h2>
+  <div class="screenshots">
+  {{ range $value := $.Param "screenshots" }}
+
+  <img src="{{ printf "projects/%s/images/%s" $.File.TranslationBaseName $value | relURL }}"/>
+  {{ end }}
+  </div>
+</section>
+
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script type="text/javascript" >
+$(document).ready(function(){
+  $('.screenshots').slick(
+   );
+});
+</script>
+
+<script type="text/javascript" >
+$(document).ready(function(){
+  $('.screenshots').slick({
+  centerMode: true,
+  centerPadding: '60px',
+  slidesToShow: 3,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 3
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
+      }
+    }
+  ]
+}
+   );
+});
+</script>
+{{ end }}
