@@ -1,0 +1,62 @@
+html {
+  background-color: #2196f3;
+  
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  margin: 0px;
+}
+
+h2 {
+font-size: xx-large;
+font-family: 'Lobster', cursive;
+margin-bottom: 0px;
+}
+
+p {
+  margin-top: 4px;
+  font-size: large;
+}
+
+body {
+
+}
+
+a > img {
+  border: 3px solid #0066cc; 
+}
+
+
+a > img:hover { 
+  border: 3px solid #ffcc00; 
+} 
+
+
+footer {
+  background-color: #0066cc;
+}
+
+footer > nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  color: #ff9900;
+  font-style: bold;
+  font: bold;
+}
+
+
+a:hover {
+  color: #ffcc00;
+  font-style: bold;
+  font: bold;
+}
+
+
+
+
+
+

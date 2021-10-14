@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recert5</title>
+    <link>recert5/</link>
+    <description>Recent content on Recert5</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="recert5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>recert5/getting-started/</link>
+      <pubDate>Sun, 25 Jul 2021 11:51:01 -0500</pubDate>
+      
+      <guid>recert5/getting-started/</guid>
+      <description>GETTING STARTED This getting started guide was developed under the same lofty goal of EVERY Kubernetes getting started guide: The Goal: To be EASY. And we lived up to that goal if you don&amp;rsquo;t include the tricky parts that we sprinkled in just for meanness. So tread without fear, but keep your wits about you&amp;hellip;
+before you start your quest you will need:
+kubectl, helm and curl command line tools</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>recert5/contact/</link>
+      <pubDate>Thu, 22 Jul 2021 14:49:39 -0500</pubDate>
+      
+      <guid>recert5/contact/</guid>
+      <description>This contact page is still coming together. If you need help don&amp;rsquo;t hesitate to email: scott@mightydevco.com
+Don&amp;rsquo;t be shy about contacting Uberscott&amp;ndash;the developer of Recert5&amp;ndash; And Don&amp;rsquo;t worry about him thinking your quesitons are stupid or mean&amp;hellip; Uberscott handles ALL kinds of feedback fairly. Just checkout some examples below:
+EXAMPLES OF FEEDBACK Here are a few example corespondence that could have easily been responded to with ridicule or anger on some other open source project, but not here:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>recert5/about/</link>
+      <pubDate>Thu, 22 Jul 2021 01:47:28 -0500</pubDate>
+      
+      <guid>recert5/about/</guid>
+      <description>About page</description>
+    </item>
+    
+  </channel>
+</rss>

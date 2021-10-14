@@ -1,0 +1,118 @@
+html {
+  background-color: #2196f3;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+}
+
+body{
+  margin: 0px;
+}
+
+header {
+  margin-top: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+header > h1 {
+  font-size: 64px;
+  font-family: 'Aldrich', sans-serif; 
+  font-size: 64px;
+  margin: 0px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+
+header > p {
+  margin: 0px;
+}
+
+header > div > p {
+  margin: 0px;
+  font-size: small;
+}
+
+header > h2 {
+  margin: 0px;
+  font-size: 48px;
+  font-family: 'Dynalight', sans-serif; 
+}
+
+h2 {
+font-size: xx-large;
+font-family: 'Lobster', cursive;
+margin-bottom: 0px;
+}
+
+p {
+  margin-top: 4px;
+  font-size: large;
+}
+
+body {
+
+}
+
+a > img {
+  border: 3px solid #0066cc; 
+}
+
+
+a > img:hover { 
+  border: 3px solid #ffcc00; 
+} 
+
+
+footer {
+  background-color: #0066cc;
+}
+
+footer > nav {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  color: #ff9900;
+  font-weight: bold;
+}
+
+
+a:hover {
+  color: #ffcc00;
+  font-weight: 200%;
+}
+
+a {
+  font-weight: 200%;
+}
+
+section#content {
+  margin-top: 16px;
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+
+  section#content {
+    width: 95%;
+    margin-top: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 128px;
+  }
+
+
+}
+
+
+
+
+
+

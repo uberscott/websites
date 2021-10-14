@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+
+   
+<head>
+<meta charset="utf-8">
+<title>{{ .Site.Title }}</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aldrich&family=Dynalight&family=Lobster&family=Roboto:ital,wght@0,300;0,400;1,100;1,400&display=swap" rel="stylesheet">
+{{ $css := resources.Get "css/common.css" }}
+{{ $css := resources.Get "css/home.css" }}
+<link rel="stylesheet" href="{{"css/common.css" | relURL }}">
+<link rel="stylesheet" href="{{"css/home.css" | relURL }}">
+
+</head>
+<body>
+
+  <header>
+   <h1>UBERSCOTT</h1>
+   <p>a portfolio page for:</p>
+   <h2>Scott Williams</h2>
+   <div>
+     <img src="{{"images/scott.png" | relURL }}" class="article-img" alt="Scott Williams">
+     <p><em>[scott is not nearly as serious in real life as he looks in this picture]</em></p>
+   </div>
+  </header>
+
+
+  <section id="content">
+  <article id="about">
+  <h2>About</h2>
+  <p>Scott is passionate about creating user experiences through code.</p>
+  </article>
+
+  <article id="projects">
+  <h2>Projects</h2>
+       <a href="http://starlane.io/"><img src="{{"images/starlane2.png" | relURL }}" alt="Starlane.io"></a>
+       <a href="http://mechtron.io/"><img src="{{"images/mechtron.png" | relURL }}" alt="Mechtron.io"></a>
+       <a href="{{"/astrobattle/" | relURL }}"><img src="{{"images/astro-battle.png" | relURL }}" alt="Astro Battle"></a>
+  </article>
+
+
+  <article id="resume">
+  <h2>Resume</h2>
+       If you are interested in hiring Uberscott you can download his resume: [<strong><a href="{{"files/scott-williams.pdf" | relURL }}">PDF</a></strong>]
+  </article>
+
+
+  <article id="contact">
+  <h2>Contact</h2>
+  Reach out to Uberscott by emailing him: <strong>scott@mightydevco.com</strong>
+  </article>
+
+
+</section>
+
+
+
+</body>
+</html>

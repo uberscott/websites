@@ -1,0 +1,19 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ .Site.Title }}</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aldrich&family=Dynalight&family=Lobster&family=Roboto:ital,wght@0,300;0,400;1,100;1,400&display=swap" rel="stylesheet">
+{{ $css := resources.Get "css/common.css" }}
+{{ $css := resources.Get "css/project.css" }}
+<link rel="stylesheet" href="{{"css/common.css" | relURL }}">
+<link rel="stylesheet" href="{{"css/project.css" | relURL }}">
+
+
+</head>
+
+
+
+

@@ -1,0 +1,52 @@
+
+
+#title {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#title > h1 {
+  font-size: 64px;
+  font-family: 'Aldrich', sans-serif; 
+  font-size: 64px;
+  margin: 0px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+
+#title > p {
+  margin: 0px;
+}
+
+#title > div > p {
+  margin: 0px;
+  font-size: small;
+}
+
+#title > h2 {
+  margin: 0px;
+  font-size: 48px;
+  font-family: 'Dynalight', sans-serif; 
+}
+
+.article-img{
+  width: 480px;
+  height: 225px;
+}
+
+#projects > img {
+  width: 480px;
+  height: 96px;
+}
+
+#content {
+  margin-top: 16px;
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
