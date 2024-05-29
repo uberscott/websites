@@ -6,7 +6,7 @@ build:
 
   artifacts:
 
-  - image: docker.io/uberscott/uberscott.com
+  - image: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
     context: uberscott.com
 
   - image: docker.io/uberscott/mightydevco
@@ -22,7 +22,7 @@ deploy:
       namespace: scott
       chartPath: helm
       values:
-        uberscott: docker.io/uberscott/uberscott.com
+        uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
         mightydevco: docker.io/uberscott/mightydevco
 
 
