@@ -9,10 +9,6 @@ build:
   - image: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
     context: uberscott.com
 
-  - image: docker.io/uberscott/mightydevco
-    context: mightydevco.com
-
-
 deploy:
   helm:
     flags:
@@ -23,6 +19,5 @@ deploy:
       chartPath: helm
       values:
         uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
-        mightydevco: docker.io/uberscott/mightydevco
 
 

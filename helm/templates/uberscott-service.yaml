@@ -9,7 +9,7 @@ metadata:
     app.kubernetes.io/managed-by: {{ .Release.Service }}
 spec:
   type: LoadBalancer
-  #loadBalancerIP: "35.224.94.191"
+  loadBalancerIP: "34.28.205.69"
   ports:
     - port: 80
       targetPort: http
