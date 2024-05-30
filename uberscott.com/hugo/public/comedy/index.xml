@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comedies on Uberscott</title>
+    <link>http://localhost:1313/comedy/</link>
+    <description>Recent content in Comedies on Uberscott</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/comedy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/comedy/deez-nutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/comedy/deez-nutz/</guid>
+      <description>&lt;!DOCTYPE html&gt; Uberscott UBERSCOTT DEEZ NUTS LIVE AT 3 CLUBS Show 5 minutes of comedy about being an adult dependent, why comas are funny and how meth addicts make great friends!&#xA;Media Like &amp;amp; Subscribe! Don&#39;t forget to Like &amp;amp; Subscribe!</description>
+    </item>
+  </channel>
+</rss>
