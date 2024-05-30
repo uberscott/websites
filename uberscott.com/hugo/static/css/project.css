@@ -25,7 +25,7 @@ h1#project-name {
 }
 
 /* On screens that are 992px or less, set the background color to blue */
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 640px) {
 
   section#content {
     width: 95%;
@@ -35,6 +35,9 @@ h1#project-name {
     margin-bottom: 128px;
   }
 
+  html {
+    background-color: red;
+  }
 
 }
 
