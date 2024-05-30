@@ -13,7 +13,7 @@
 
 {{ .Content }}
 
-{{ if or ($.Param "videos") ($.Param "screenshots") }}
+{{ if or ($.Param "videos") ($.Param "screenshots") ($.Param "vidlink") }}
 <section id="media">
 <h2>Media</h2>
   <div class="media">
@@ -25,6 +25,10 @@
 
 </div>
   {{ end }}
+  {{ end }}
+
+  {{ if $.Param "vidlink" }}
+  <a href="{{ printf "%s" $.Params.vidlink }}"><img src="{{ printf "projects/%s/images/%s" $.File.TranslationBaseName $.Params.vidsrc | relURL }}"/></a>
   {{ end }}
 
 

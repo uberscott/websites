@@ -2,7 +2,8 @@
 title: "DEEZ NUTZ"
 
 
-screenshots: ["deez-nutz-vid.png"]
+vidsrc: "deez-nutz-vid.png"
+vidlink: "https://www.youtube.com/watch?v=XcSql2bHvf8"
 ---
 
 ## What is it?
