@@ -3,7 +3,6 @@ title: "ASTRO BATTLE"
 image: "/images/astrobattle/title-pic.png"
 
 screenshots: ["designpanel.png","astro-battle11.png","astro-battle9.png","astro-battle10.png","astro-battle12.png"]
-videos: ["8zX1naMfgSY"]
 
 ---
 
