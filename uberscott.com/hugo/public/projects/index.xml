@@ -47,7 +47,7 @@
       <link>http://localhost:1313/projects/recert5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/recert5/</guid>
-      <description>Project A Kubernetes Operator for Automatically Refreshing Your Let&amp;rsquo;s Encrypt Certificates&#xA;What is it? DevOps people are too important to be bothered with remembering to keep SSL certs up to date! That&amp;rsquo;s why we just let our bosses nag us about it when the site goes down! But now there&amp;rsquo;s a better way, you can get Recert 5 to automatically renew your SSL Certs for you!&#xA;Circa 2020 - CURRENT</description>
+      <description>Project This project turned out to be a complete waste of time because I was unaware that CERT MANAGER existed! Anyway this is A Kubernetes Operator for Automatically Refreshing Your Let&amp;rsquo;s Encrypt Certificates&amp;hellip; please do not use it as this sort of thing is now maintained by a self avowed stand up comedian with no interest any more in certificates&#xA;What is it? DevOps people are too important to be bothered with remembering to keep SSL certs up to date!</description>
     </item>
     <item>
       <title>STARLANE</title>
