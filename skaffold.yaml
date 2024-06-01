@@ -15,7 +15,7 @@ deploy:
 
     releases:
     - name: uberscott
-      namespace: scott
+      namespace: uberscott
       chartPath: helm
       values:
         uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott

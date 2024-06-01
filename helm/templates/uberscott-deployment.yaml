@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: uberscott
+  namespace: uberscott
   labels:
     app.kubernetes.io/name: uberscott
     helm.sh/chart: {{ include "helm.chart" . }}
@@ -16,6 +17,7 @@ spec:
   template:
     metadata:
       labels:
+        app: uberscott
         app.kubernetes.io/name: uberscott
         app.kubernetes.io/instance: {{ .Release.Name }}
     spec:
@@ -44,7 +46,7 @@ spec:
               memory: 16Mi
 
       imagePullSecrets:
-      - name: actionopoly  
+      - name: uberscott 
 
 
 

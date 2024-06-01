@@ -2,19 +2,13 @@ apiVersion: v1
 kind: Service
 metadata:
   name: uberscott
-  labels:
-    app.kubernetes.io/name: uberscott
-    helm.sh/chart: {{ include "helm.chart" . }}
-    app.kubernetes.io/instance: {{ .Release.Name }}
-    app.kubernetes.io/managed-by: {{ .Release.Service }}
+  namespace: uberscott
 spec:
-  type: LoadBalancer
-  loadBalancerIP: "34.28.205.69"
-  ports:
-    - port: 80
-      targetPort: http
-      protocol: TCP
-      name: http
   selector:
-    app.kubernetes.io/name: uberscott
-    app.kubernetes.io/instance: {{ .Release.Name }}
+    app: uberscott
+  type: LoadBalancer 
+  loadBalancerIP: 34.134.138.246
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
