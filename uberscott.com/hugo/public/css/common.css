@@ -39,7 +39,6 @@ header > h1 {
   filter: none;
   font-size: 64px;
   font-family: 'Aldrich', sans-serif; 
-  font-size: 64px;
   margin: 0px;
   text-align: center;
   letter-spacing: 10px;
@@ -178,6 +177,8 @@ section#content {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
+  font-style: bold;
+  font-size: 24px;
 }
 
 .show > .details > .city {
@@ -192,7 +193,6 @@ section#content {
   font-weight: 500;
     font-style: italic;
 }
-
 
 
 
