@@ -1,8 +1,13 @@
 html {
   background-color: #2196f3;
   font-family: 'Roboto', sans-serif;
-  font-weight: 150;
+  font-weight: 350;
 }
+
+em  {
+  font-weight: 500;
+}
+
 
 img {
 	max-width: 95%;
@@ -27,6 +32,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  max-width: 480px;
 }
 
 header > h1 {
@@ -46,7 +52,6 @@ header > a {
 header > a > h1 {
   color: black;
   text-decoration: none;
-  font-size: 64px;
   font-family: 'Aldrich', sans-serif; 
   font-size: 64px;
   margin: 0px;
@@ -127,6 +132,65 @@ section#content {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 128px;
+}
+
+
+.show {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.show > a {
+        font-size: 32px;
+	margin: 0px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style:  bold;
+  text-shadow: 3px 3px 3px rgba(0,0,0,0.38);
+
+}
+
+.show > .name {
+        font-size: 32px;
+	margin: 0px;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style:  bold;
+  text-shadow: 3px 3px 3px rgba(0,0,0,0.38);
+
+}
+
+
+.show > .details  {
+	margin-left: 24px;
+}
+
+
+
+.show > .details > div {
+	margin: 0px;
+}
+
+
+.show > .details > .venue {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+}
+
+.show > .details > .city {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  }
+
+.datetime {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+    font-style: italic;
 }
 
 
