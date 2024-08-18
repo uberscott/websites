@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://uberscott.com/signup/</loc>
+    <loc>http://localhost:1313/signup/</loc>
     <lastmod>2024-06-17T10:25:52-05:00</lastmod>
   </url><url>
-    <loc>http://uberscott.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-17T10:25:52-05:00</lastmod>
   </url><url>
-    <loc>http://uberscott.com/posts/gum-cover-letter/</loc>
+    <loc>http://localhost:1313/posts/gum-cover-letter/</loc>
     <lastmod>2024-06-16T15:48:29-05:00</lastmod>
   </url><url>
-    <loc>http://uberscott.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-16T15:48:29-05:00</lastmod>
   </url><url>
-    <loc>http://uberscott.com/projects/astrobattle/</loc>
+    <loc>http://localhost:1313/projects/astrobattle/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/maximum-movie-mode/astrobattle/</loc>
+    <loc>http://localhost:1313/projects/maximum-movie-mode/astrobattle/</loc>
   </url><url>
-    <loc>http://uberscott.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/deez-nutz/</loc>
+    <loc>http://localhost:1313/projects/deez-nutz/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/maximum-movie-mode/</loc>
+    <loc>http://localhost:1313/projects/maximum-movie-mode/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/mechtron/</loc>
+    <loc>http://localhost:1313/projects/mechtron/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/recert5/</loc>
+    <loc>http://localhost:1313/projects/recert5/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/starlane/</loc>
+    <loc>http://localhost:1313/projects/starlane/</loc>
   </url><url>
-    <loc>http://uberscott.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://uberscott.com/projects/the-canary-sings/</loc>
+    <loc>http://localhost:1313/projects/the-canary-sings/</loc>
   </url>
 </urlset>

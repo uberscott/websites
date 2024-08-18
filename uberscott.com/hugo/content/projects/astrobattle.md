@@ -2,8 +2,7 @@
 title: "ASTRO BATTLE"
 image: "/images/astrobattle/title-pic.png"
 
-screenshots: ["designpanel.png","astro-battle11.png","astro-battle9.png","astro-battle10.png","astro-battle12.png"]
-
+screenshots: [ "2.png", "5.png", "7.png", "8.png", "action-1.png", "action-3.png", "action.gif", "astro-battle10.png", "astro-battle11.png", "astro-battle12.png", "astro-battle13.png", "astro-battle14.png", "astro-battle15.png", "astro-battle9.png", "astrobattle.jpeg", "design-1.png", "designpanel.gif", "designpanel.png", "designtool.gif", "designtool_thumb.gif", "nag_upsell.gif", "splash_r.gif", "tutorial-1.png", "tutorial-2.png"]
 videos: ["7jV_4oWMdWA"]
 ---
 

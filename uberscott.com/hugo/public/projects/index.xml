@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Uberscott</title>
-    <link>http://uberscott.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Uberscott</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://uberscott.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ASTRO BATTLE</title>
-      <link>http://uberscott.com/projects/astrobattle/</link>
+      <link>http://localhost:1313/projects/astrobattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/astrobattle/</guid>
+      <guid>http://localhost:1313/projects/astrobattle/</guid>
       <description>Project Astro Battle &amp;ndash; An Online Multiplayer Space Shooter&#xA;What is it? A 2D space shooter where players could build a space ship and then play with it online! Players built ships by snapping several &amp;ldquo;modules&amp;rdquo; together&amp;hellip; The positioning and weight of the ship modules affected the ships physics when playing online. AND the fun part was that players could fight with other players in an arena to see whos piloting and ship building skill was better!</description>
     </item>
     <item>
       <title>ASTRO BATTLE</title>
-      <link>http://uberscott.com/projects/maximum-movie-mode/astrobattle/</link>
+      <link>http://localhost:1313/projects/maximum-movie-mode/astrobattle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/maximum-movie-mode/astrobattle/</guid>
+      <guid>http://localhost:1313/projects/maximum-movie-mode/astrobattle/</guid>
       <description>Project A 2D space shooter where players could build a space ship and then play with it online! Players built ships by snapping several &amp;ldquo;modules&amp;rdquo; together&amp;hellip; The positioning and weight of the ship modules affected the ships physics when playing online. AND the fun part was that players could fight with other players in an arena to see whos piloting and ship building skill was better!&#xA;Enthusiastic Astro Battle fans came from all over the world.</description>
     </item>
     <item>
       <title>DEEZ NUTZ</title>
-      <link>http://uberscott.com/projects/deez-nutz/</link>
+      <link>http://localhost:1313/projects/deez-nutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/deez-nutz/</guid>
+      <guid>http://localhost:1313/projects/deez-nutz/</guid>
       <description>What is it? 5 minute standup routine on being an adult dependent, why comas are funny and the enriching experience of making friends with Meth Addicts!</description>
     </item>
     <item>
       <title>MAXIMUM MOVIE MODE</title>
-      <link>http://uberscott.com/projects/maximum-movie-mode/</link>
+      <link>http://localhost:1313/projects/maximum-movie-mode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/maximum-movie-mode/</guid>
+      <guid>http://localhost:1313/projects/maximum-movie-mode/</guid>
       <description>Project Warner Brothers Maximum Movie Mode for Blu-Ray.&#xA;What is it? When the Maximum Movie Mode feature was playing the movie experience was enhanced with voice overs, picture in picture windows, gallery link outs and fact popups about the making of the movie not to mention the director would sometimes pause the movie, step in front of the screen and talk directly to the audience.&#xA;Circa 2009 - 2013&#xA;What I did Programmed the Maximum Movie Mode engine used in THE WATCHMEN, SHERLOCK HOLMES 1 &amp;amp; 2, TERMINATOR 4 and more.</description>
     </item>
     <item>
       <title>MECHTRON</title>
-      <link>http://uberscott.com/projects/mechtron/</link>
+      <link>http://localhost:1313/projects/mechtron/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/mechtron/</guid>
+      <guid>http://localhost:1313/projects/mechtron/</guid>
       <description>Project Run WebAssembly Everywhere&#xA;What is it? It&amp;rsquo;s a Framework for deploying WebAssembly on the client and server AND allowing those WebAssembly compontents to use a Resource Mesh to do useful things in the enterprise.&#xA;Circa 2021 - CURRENT&#xA;What I did Created a Standard for writing Mechtrons&#xA;Website http://mechtron.io</description>
     </item>
     <item>
       <title>RECERT 5</title>
-      <link>http://uberscott.com/projects/recert5/</link>
+      <link>http://localhost:1313/projects/recert5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/recert5/</guid>
+      <guid>http://localhost:1313/projects/recert5/</guid>
       <description>Project This project turned out to be a complete waste of time because I was unaware that CERT MANAGER existed! Anyway this is A Kubernetes Operator for Automatically Refreshing Your Let&amp;rsquo;s Encrypt Certificates&amp;hellip; please do not use it as this sort of thing is now maintained by a self avowed stand up comedian with no interest any more in certificates&#xA;What is it? DevOps people are too important to be bothered with remembering to keep SSL certs up to date!</description>
     </item>
     <item>
       <title>STARLANE</title>
-      <link>http://uberscott.com/projects/starlane/</link>
+      <link>http://localhost:1313/projects/starlane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/starlane/</guid>
+      <guid>http://localhost:1313/projects/starlane/</guid>
       <description>Project The Worlds first Resource Mesh&#xA;What is it? You can send messages to all of the Micro-Resources in the enterprise! Databases, Files, you name it &amp;ndash; You&amp;rsquo;ll go crazy with power!&#xA;Circa 2021 - CURRENT&#xA;What I did Rust &amp;amp; Kubernetes a Operator in Golang&#xA;Website http://starlane.io</description>
     </item>
     <item>
       <title>THE CANARY SINGS</title>
-      <link>http://uberscott.com/projects/the-canary-sings/</link>
+      <link>http://localhost:1313/projects/the-canary-sings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://uberscott.com/projects/the-canary-sings/</guid>
+      <guid>http://localhost:1313/projects/the-canary-sings/</guid>
       <description>Project A Mobile App Dashboard for your Shopify Store&#xA;What is it? Shopify owners need to know if their store is profitable on the go&amp;hellip; this is especially true if they are paying for variable Facebook Ads! The Canary Sings tracks the profitability of your store by subtracting Cost of Goods and Facebook Ads from Sales in real time and sings a little song every time your store makes a sale!</description>
     </item>
   </channel>
