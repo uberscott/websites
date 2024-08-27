@@ -8,6 +8,9 @@ build:
 
   - image: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
     context: uberscott.com
+  - image: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
+    context: starlane.io
+
 
 deploy:
   helm:
@@ -16,8 +19,16 @@ deploy:
     releases:
     - name: uberscott
       namespace: uberscott
-      chartPath: helm
+      chartPath: uberscott.com/helm
       values:
         uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
+
+    - name: starlane
+      namespace: uberscott
+      chartPath: starlane.io/helm
+      values:
+        uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
+
+
 
 
