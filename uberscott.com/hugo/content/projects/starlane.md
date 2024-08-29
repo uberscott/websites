@@ -7,7 +7,7 @@ An Orchestration and Infrastructure Framework for WebAssembly Components
 
 ## What is WebAssembly?
 
-WebAssembly](https://webassembly.org) (Wasm) is going to disrupt the industry in the next few years. Its a standard for a deterministic virtual machine which is completely isolated from the host environment (it cannot make any dangerous system calls.) Guest method invocation on a host must be explicitly whitelisted. WebAssembly was introduced as a high performance alternative to JavaScript on the browser but in the coming years its compact and secure nature has made it an obvious choice for the backend and in particular will probably replace or augment containers. Many popular languages are presently undergoing accelerated efforts to update their compilers to support WebAssembly targets.
+[WebAssembly](https://webassembly.org) (Wasm) is going to disrupt the industry in the next few years. Its a standard for a deterministic virtual machine which is completely isolated from the host environment (it cannot make any dangerous system calls.) Guest method invocation on a host must be explicitly whitelisted. WebAssembly was introduced as a high performance alternative to JavaScript on the browser but in the coming years its compact and secure nature has made it an obvious choice for the backend and in particular will probably replace or augment containers. Many popular languages are presently undergoing accelerated efforts to update their compilers to support WebAssembly targets.
 
 ## And Why Starlane?
 
