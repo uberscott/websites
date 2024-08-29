@@ -1,4 +1,7 @@
-# ABOUT ## THE THREE GOALS OF STARLANE FRAMEWORK
+# ABOUT 
+
+## THE THREE GOALS OF STARLANE FRAMEWORK
+
 1. Simplify the wiring and orchestrating of the discreet feature components of an application. 
 2. Bring the Micro Service Archetectue pattern to the frontend and ease the development hastles associated with micro service archetecture on the backend.
 3. make feature component addition, extension and overwriting of deployed applications easier and more secure. 
@@ -92,7 +95,7 @@ all
   
    Goal 3.3 may seem similar to goal 3.1... yet it is actually something quite different and as far as I know potentially a unique offering from Starlane. We have already covered extension of a feature component but Starlane also facilitates allowing 3rd parties to override a feature component.  And this innovartion is best described by example:
 
-   ***EXAMPLE 1: A Custom Profile Page***...  o
+   1. ***A Custom Profile Page***...  o
      But first: Story Time.... Many years ago a social media site for rock bands called MySpace.com achieved viral adoption because users were able to greatly customize their outfacing profile page.  The ironic thing was that style customization was not permitted intensionally.  I looked at the front end code myself.  Some hackers discovered that a stowed away css style sheet on certain posts would override the common style from MySpace.  An explosion of 3rd party websites appeared overnight written by hackers which made it exceedly simple for any person--even a non technical person--to customize the style of their profile page.  The exploit of course only effected a web pages style so it was harmless enough.  But what a crazy development at time in the ancient days of the internet when 3rd party apps and customization didn't exist!  In my opinion visionaries like Mark Zuckerberg and Steve Jobs recognize the exponential impact that 3rd party contribution could bring to any platform.
 
    Well, lets pretend we are making a modern MySpace.com clone some 20 years since that company lost all its market share.  And we are implementing in it Starlane of course.  We could create one feature component called "UserProfile" and decorate it with configurations that allows it to be overwritten and thusly a 3rd party could make a completely new type of stylized profile available for the platform to securely override the defafault UserProfile implementation.
@@ -100,13 +103,13 @@ j
    Of course its neat to change the style of the UserProfile, but that isn't really revolutionary.  Let's instead imagine a 3rd party developer submits a feature component that overrides the UserProfile's behavior.  He has added a countdown widget that shows how many seconds to the your band's next gig... he created a user presense indicator so people can see who esle is looking at the profile in real time and he has made it so that all users looking at your profile page can chat with eachother.  The magic isn't in any example I have supplied. I'm just an individual with a limited imagination.  The magic is that an application was rolled out by one entity and at some subsequent time wholly unanticipated things come to life in the platform you are creating!  Maybe most of them aren't so good.  But SOME innovations change the world in unexpected ways.
    
    
- ***EXAMPLE 2: A GAME CLIENT***
+ 2. ***A GAME CLIENT***
    Again: Story time... ages ago I created a multiplayer 2d space shooter game that featured significant ship customization to the players.  One unrealized objective of that project was to enable players to write custom AI bots and mod some aspects of the game... etc.  Typically in games then and now a nifty scripting language called Lua is the goto for modding a games and AI bots.  Lua has a great security model based on whitelisted host calls which makes gives it reasonable security, however, it is an interpreted language which means it runs too slow for some performance intensitve requirements.  Lua is also not a very good language in my personal opinion.  I hope I haven't offended any dedicated Lua developers by saying that... I still think you guys are SUPER COOL!  But the broader point I am making is that there is not many options available to game developers who want to enable players to mod the game.  Its been pretty much Lua or bust. Modding via WebAssembly is Lua's equal in terms of security model, it is not interpreted but compiled to a special machine code so it is performant and it allows contribution in almost all popular languages. Who knows someone may create a Lua to WebAssembly compiler and life will go on for the dedicated modders everywhere.
 
   The innovation that Starlane brings by virtue of WebAssembly is tightly compiled, performant and secure executable overrides on the gaming client AND server.
 
 
-***EXAMPLE 3: CUSTOM BILLING***
+3. ***CUSTOM BILLING***
    Guess what?  It's story time again!  My father and brother run the family business (i'm not allowed on the premisis anymore... really who WOULD trust a Rust developer even one that is family?)  They run a complicated business to business (B2B) supply chain operation that serves about 100 customers.  Unfortunately, pretty much each business has differing requirements and procedures when it comes to billing largly in terms of the papertrail and analytics they need to process the presented bill.  And remember people and companies don't really like to be billed for using a service or product that they have already consumed so they are prone to be grumpy if they are asked to give money and presented with a headache at the same time.
 
 The programmers at Dad's company are a smart bunch (when I was allowed to visit they would feed me lunch)  And these smart people have implemented a rules based system that tailor the experience for each customer. Additionaly the Accounts Billable staff are very mindfull and dedicated so the outcomes are largely good. So I wouldn't propose that they refactor what was working... but I like to imagine what utility Starlane would bring to this equation especially if they had to change their business model to business to consumer.
@@ -147,38 +150,4 @@ So the billing archetecture was carefully crafted as a collection of feature com
 
 
 
-
-   Maybe he has created a presence indicator that shows the users that are viewing the page in real time.... What if 
-
-
-   maybe its a lot like MySpace back in the day.  And the thing that made MySpace popular in my opinion is that they overlooked a serious exploit in their css code that allowed people to hack and override their style sheets and then third parties started supplying online hacking tools so MySpacers could customize their personal profile page in a way that better reflected their personality.  
-   
-
-
-
-
-                    Part "C" is unique to Starlane as far as I know.  Most platform extensibility occurs at the application level.  For Apple App Store an entire 
-                    application runs in your phone to make it do something it couldn't do before and Facebook and Shopify ADD things to the existing experience.  
-
-                    Starlane is meant to coordinate a decoupled gathering of components which typically represent features.  And one of its design
-                    goals is for application developers to flag some components as overridable.  What that means is that not only can a user expand
-                    the capabilities of his Facebook page or iPhone by adding an application... Parts of a Starlane application itself can be modified and 
-                    extended at the feature level if the Application developer allows it.
-
-                    This is again facilitated by an exposed API coniguration and trusted by virtue of WebAssembly's security model.
-
-		    Some examples might be: A developer in America releases a weight watching app that has a calculator feature implemented in pound units.
-		    Because he implemented the calculator feature in a Starlane WebAssembly component he can allow a developer in Europe who he doesn't
-		    even know to overwrite that feature components using metric units.
-
-		    Lets say you wrote a web application that is akin to a forums billboard for math enthusiasts and you have a extensible component feature 
-		    called a "Post" and you implemented a text only post.  Even though your users are highly interested in the domain topic they get
-		    frustrated writing equations because of text expressive shortcomings. If you you made it with an extensible Starlane components 
-		    another developer may come along and add a LaText post type (which is a simple markup language for generating mathematical expressions.)
-
-		    The point with component overriding is that your application can avail itself to the creativity of the whole wide world with minimal
-		    effort and reasonably negligible security concerns.
-
-
-
-                    
+                   

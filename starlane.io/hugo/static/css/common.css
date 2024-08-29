@@ -24,12 +24,12 @@ h1 {
 h2 {
   color: grey;
   font-family: "Josefin Sans", sans-serif;
-  font-size: xx-large;
+  font-size: x-large;
   background: -webkit-linear-gradient(white, #38495a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top: 30px;
-  margin-bottom: 4px;
+  margin-bottom: 30px;
 }
 
 h3 {
@@ -42,6 +42,10 @@ h3 {
   margin-top: 30px;
   margin-bottom: 4px;
 }
+
+
+
+
 
 p {
   color: #999999;
@@ -78,4 +82,17 @@ li p {
 strong {
   font-weight: 400%;
   color: #ffffff;
+
+  }
+
+
+#speil {
+	max-width: 1520px;
+}
+
+#speil p {
+  color: #eeeeee;
+  font-family: "Raleway", sans-serif;
+  font-size: medium;
+  margin-bottom: 30px:
 }
