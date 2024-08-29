@@ -24,11 +24,10 @@ deploy:
         uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
 
     - name: starlane
-      namespace: uberscott
+      namespace: starlane 
       chartPath: starlane.io/helm
       values:
-        uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
-
+        starlane: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
 
 
 

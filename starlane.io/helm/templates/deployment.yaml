@@ -1,10 +1,10 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: uberscott
-  namespace: uberscott
+  name: starlane
+  namespace: starlane
   labels:
-    app.kubernetes.io/name: uberscott
+    app.kubernetes.io/name: starlane
     helm.sh/chart: {{ include "helm.chart" . }}
     app.kubernetes.io/instance: {{ .Release.Name }}
     app.kubernetes.io/managed-by: {{ .Release.Service }}
@@ -12,18 +12,18 @@ spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      app.kubernetes.io/name: uberscott
+      app.kubernetes.io/name: starlane
       app.kubernetes.io/instance: {{ .Release.Name }}
   template:
     metadata:
       labels:
-        app: uberscott
-        app.kubernetes.io/name: uberscott
+        app: starlane
+        app.kubernetes.io/name: starlane
         app.kubernetes.io/instance: {{ .Release.Name }}
     spec:
       containers:
         - name: nginx
-          image: {{ .Values.uberscott }}
+          image: {{ .Values.starlane }}
           imagePullPolicy: {{ .Values.image.pullPolicy }}
           ports:
             - name: http
@@ -46,7 +46,7 @@ spec:
               memory: 16Mi
 
       imagePullSecrets:
-      - name: uberscott 
+      - name: starlane 
 
 
 

@@ -1,7 +1,13 @@
 apiVersion: networking.gke.io/v1
 kind: ManagedCertificate
 metadata:
-  name: uberscott
+  name: starlane
+  namespace: starlane
+  labels:
+    app.kubernetes.io/name: starlane
+    helm.sh/chart: {{ include "helm.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
 spec:
   domains:
-    - uberscott.com
+    - starlane.io
