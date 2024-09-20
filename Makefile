@@ -1,6 +1,6 @@
 all:
-	cd uberscott.com/hugo && hugo -D 
-	cd starlane.io/hugo && hugo -D 
+	$(MAKE) -C uberscott.com
+	$(MAKE) -C starlane.io
 
 
 

@@ -1,4 +1,7 @@
 
+#medium {
+	max-width: 350px;
+}
 header {
   display: block;
   z-index: 1;
