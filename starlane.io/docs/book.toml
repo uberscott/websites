@@ -1,0 +1,11 @@
+[book]
+title = "Documentation for starlane"
+authors = ["Scott Williams"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "../hugo/public/docs"                # the directory where the output is placed
+create-missing = true             # whether or not to create missing pages
+use-default-preprocessors = true  # use the default preprocessors
