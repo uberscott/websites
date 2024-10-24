@@ -11,6 +11,6 @@ spec:
   ingressClassName: "gce"
   defaultBackend:
     service:
-      name: uberscott-nodeport
+      name: uberscott
       port:
         number: 80
