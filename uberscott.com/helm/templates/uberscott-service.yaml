@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: uberscott
   labels:
-    app.kubernetes.io/name: starlane
+    app.kubernetes.io/name: uberscott
     helm.sh/chart: {{ include "helm.chart" . }}
     app.kubernetes.io/instance: {{ .Release.Name }}
     app.kubernetes.io/managed-by: {{ .Release.Service }}
