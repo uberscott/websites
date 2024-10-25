@@ -1,4 +1,12 @@
 
+// <uniquifier>: Use a unique and descriptive class name
+
+.space-grotesk-<uniquifier> {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
 
 .ascii-art {
 font-size: large;
@@ -16,7 +24,7 @@ body {
   margin: 0px;
   background: black;
   color: #aaaaaa;
-  font-family: "gome", sans-serif;
+  font-family: "primary", sans-serif;
 }
 
 
@@ -37,8 +45,8 @@ h1 {
 
 h2 {
   color: grey;
-  font-family: "gome", sans-serif;
-  font-size: x-large;
+  font-family: "VT323";
+  font-size: xx-large;
   background: -webkit-linear-gradient(white, #6dd7fd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -46,16 +54,20 @@ h2 {
   margin-bottom: 30px;
 }
 
-h3 {
-  color: grey;
-  font-family: "gome", sans-serif;
+
+.slogan {
+  font-family: "gome";
   font-size: x-large;
-  background: -webkit-linear-gradient(white, #6dd7fd);
+  font-weight: 400;
+  font-style: normal;
+  font-width: expanded;
+
+
+  background: -webkit-linear-gradient(#ffffff, #ddf5fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-top: 30px;
-  margin-bottom: 4px;
 }
+
 
 
 
@@ -106,7 +118,7 @@ strong {
 
 #speil p {
   color: #eeeeee;
-  font-family: "mana", sans-serif;
+  font-family: "Space Grotesk", serif;
   font-size: x-large;
   margin-bottom: 30px:
 }

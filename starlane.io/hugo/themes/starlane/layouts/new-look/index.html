@@ -4,6 +4,10 @@
 
 
 <style>
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&family=VT323&display=swap');
+
+
 @font-face {
   font-family: "gome";
   src: url({{"fonts/gome-pixel.regular.otf" | relURL}});
@@ -11,12 +15,20 @@
 }
 
 
-
 @font-face {
   font-family: "mana";
   src: url({{"fonts/manaspc.ttf" | relURL}});
   font-weight: 100;
 }
+
+
+
+
+
+
+
+
+
 
 </style>
 
@@ -27,12 +39,10 @@
 <meta charset="utf-8">
 <title>{{ .Site.Title }}</title>
 
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Jura&family=Stick+No+Bills:wght@200&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;400&display=swap" rel="stylesheet">
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&family=VT323&display=swap" rel="stylesheet">
 
 {{ $css := resources.Get "css/stars.css" }}
 {{ $css := resources.Get "css/common2.css" }}
@@ -89,7 +99,7 @@
 
 </section>
 
-  <h2 style="font-family:'gome'">An Orchestration and Infrastructure Framework for WebAssembly Components</h2>
+  <h2 class="slogan">An Orchestration and Infrastructure Framework for WebAssembly Components</h2>
 
 <footer>
 
