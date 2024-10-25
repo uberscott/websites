@@ -1,3 +1,17 @@
+
+.ascii-art {
+font-size: large;
+   font-family: monospace;
+  white-space: pre;
+  line-height: 1em;
+  background: -webkit-linear-gradient(#ffffff, #6dd7fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+
+
 body {
   margin: 0px;
   background: black;

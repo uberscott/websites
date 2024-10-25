@@ -1,4 +1,27 @@
 
+#ascii-title{
+font-size: large;
+   font-family: monospace;
+  white-space: pre;
+  line-height: 1em;
+  background: -webkit-linear-gradient(#ffffff, #6dd7fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: block;
+  z-index: 1;
+  margin-top: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: large;
+  width: 960px;
+
+
+}
+
+
+
+
+
 #medium {
 	max-width: 350px;
 }
