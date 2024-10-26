@@ -3,24 +3,53 @@
 <html lang="en-US">
 
 
+<style>
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&family=VT323&display=swap');
+
+
+@font-face {
+  font-family: "gome";
+  src: url({{"fonts/gome-pixel.regular.otf" | relURL}});
+  font-weight: 100;
+}
+
+
+@font-face {
+  font-family: "mana";
+  src: url({{"fonts/manaspc.ttf" | relURL}});
+  font-weight: 100;
+}
+
+
+
+
+
+
+
+
+
+
+</style>
+
+
+
    
 <head>
 <meta charset="utf-8">
 <title>{{ .Site.Title }}</title>
 
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Jura&family=Stick+No+Bills:wght@200&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;400&display=swap" rel="stylesheet">
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&family=VT323&display=swap" rel="stylesheet">
 
 {{ $css := resources.Get "css/stars.css" }}
-{{ $css := resources.Get "css/common.css" }}
-{{ $css := resources.Get "css/home.css" }}
+{{ $css := resources.Get "css/common2.css" }}
+{{ $css := resources.Get "css/home2.css" }}
 <link rel="stylesheet" href="{{"css/stars.css" | relURL }}">
-<link rel="stylesheet" href="{{"css/common.css" | relURL }}">
-<link rel="stylesheet" href="{{"css/home.css" | relURL }}">
+<link rel="stylesheet" href="{{"css/common2.css" | relURL }}">
+<link rel="stylesheet" href="{{"css/home2.css" | relURL }}">
 
 <script src="https://kit.fontawesome.com/e63e797fac.js" crossorigin="anonymous"></script>
 
@@ -45,14 +74,30 @@
 </header>
 
 
-<section id="card">
-  <h1 id="title">STARLANE</h1>
-  <h2>An Orchestration and Infrastructure Framework for WebAssembly Components</h2>
+<section  id="ascii-title">
+
+  ▄ ██╗▄ ███████╗████████╗ █████╗   ██████╗ ██╗      █████╗  ██╗   ██╗███████╗  ▄ ██╗▄
+   ████╗ ██╔════╝╚══██╔══╝██╔══██╗  ██╔══██╗██║     ██╔══██╗ ███╗  ██║██╔════╝   ████╗
+  ▀╚██╔▀ ███████╗   ██║   ███████║  ██████╔╝██║     ███████║ █╔██╗ ██║█████╗    ▀╚██╔▀
+    ╚═╝  ╚════██║   ██║   ██╔══██║  ██╔══██╗██║     ██╔══██║ █║╚██╗██║██╔══╝      ╚═╝
+         ███████║   ██║   ██║  ██║  ██║  ██║███████╗██║  ██║ █║ ╚████║███████╗
+         ╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ═╝  ╚═══╝╚══════╝
+
+
+
+
 </section>
+
+  <h2 class="slogan">An Orchestration and Infrastructure Framework for WebAssembly Components Lets put even more text here and have it wrap a bit to see if gradient still works</h2>
+
+<section id="content">
+
+</section>
+
 
 <footer>
 
-<section id="speil">
+<section class="speil">
 <p>The Starlane website is currently marinating in its cocoon phase and will soon emerge as the software equivalent of natures own magnificent butterfly.</p>
 
 <a href="https://medium.com/@uberscott/starlane-reduce-the-drudgery-of-infrastructure-code-with-webassembly-398d1b0d19f1"><img src="{{"medium.png" | relURL }}" id="medium" alt="Medium"></a>

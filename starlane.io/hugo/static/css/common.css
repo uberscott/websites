@@ -1,4 +1,13 @@
 
+// <uniquifier>: Use a unique and descriptive class name
+
+.space-grotesk-<uniquifier> {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
 .ascii-art {
 font-size: large;
    font-family: monospace;
@@ -11,21 +20,20 @@ font-size: large;
 }
 
 
-
 body {
   margin: 0px;
   background: black;
   color: #aaaaaa;
-  font-family: "Raleway", sans-serif;
+  font-family: "primary", sans-serif;
 }
 
 
 
 h1 {
   color: grey;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "gome", sans-serif;
   font-size: xxx-large;
-  background: -webkit-linear-gradient(white, #38495a);
+  background: -webkit-linear-gradient(white, #6dd7fd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 16px;
@@ -37,32 +45,39 @@ h1 {
 
 h2 {
   color: grey;
-  font-family: "Josefin Sans", sans-serif;
-  font-size: x-large;
-  background: -webkit-linear-gradient(white, #38495a);
+  font-family: "VT323";
+  font-size: xx-large;
+  background: -webkit-linear-gradient(white, #6dd7fd);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-top: 30px;
   margin-bottom: 30px;
 }
 
-h3 {
-  color: grey;
-  font-family: "Josefin Sans", sans-serif;
+
+.slogan {
+color:white;
+  font-family: "gome";
   font-size: x-large;
-  background: -webkit-linear-gradient(white, #38495a);
+  font-weight: 400;
+  font-style: normal;
+  font-width: expanded;
+
+
+
+  background: -webkit-linear-gradient(white, #eeaa5a);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-top: 30px;
-  margin-bottom: 4px;
+
+
 }
 
 
 
 
 
+
 p {
-  color: #999999;
   margin-top: 0px;
 }
 
@@ -94,19 +109,26 @@ li p {
 
 
 strong {
-  font-weight: 400%;
+  font-weight: 200%;
   color: #ffffff;
 
   }
 
 
-#speil {
-	max-width: 1520px;
+.speil {
+color: white;
+  max-width: 1520px;
+  background: -webkit-linear-gradient(white, #eeaa5a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 }
 
-#speil p {
+.speil p {
   color: #eeeeee;
-  font-family: "Raleway", sans-serif;
+  font-family: "Space Grotesk", serif;
   font-size: x-large;
   margin-bottom: 30px:
 }
+
+
