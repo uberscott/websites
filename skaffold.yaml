@@ -6,10 +6,12 @@ build:
 
   artifacts:
 
-  - image: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
-    context: uberscott.com
-  - image: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
-    context: starlane.io
+#  - image: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
+#    context: uberscott.com
+#  - image: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
+#    context: starlane.io
+  - image: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
+    context: punch-line.app
 
 
 deploy:
@@ -17,17 +19,23 @@ deploy:
     flags:
 
     releases:
-    - name: uberscott
-      namespace: uberscott
-      chartPath: uberscott.com/helm
-      values:
-        uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
+#    - name: uberscott
+#      namespace: uberscott
+#      chartPath: uberscott.com/helm
+#      values:
+#        uberscott: us-central1-docker.pkg.dev/uberscott/uberscott/uberscott
+#
+#    - name: starlane
+#      namespace: starlane 
+#      chartPath: starlane.io/helm
+#      values:
+#        starlane: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
 
-    - name: starlane
-      namespace: starlane 
-      chartPath: starlane.io/helm
+    - name: punchline
+      namespace: punchline
+      chartPath: punch-line.app/helm
       values:
-        starlane: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
+        punchline: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
 
 
 
