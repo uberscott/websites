@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: punchline
+  labels:
+    app.kubernetes.io/name: punchline
+    helm.sh/chart: {{ include "helm.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+  annotations:
+    kubernetes.io/ingress.global-static-ip-name: punchline
+    #networking.gke.io/managed-certificates: punchline
+    kubernetes.io/ingress.class: "gce"  
+
+spec:
+  ingressClassName: "gce"
+  defaultBackend:
+    service:
+      name: punchline
+      port:
+        number: 80
+
