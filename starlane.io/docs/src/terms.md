@@ -1,19 +1,15 @@
 # TERMS
 
-The Cosmic Initiative uses terms with an Astro Physics them in order to avoid name collision with other domains in the architecture. For example a compute Node is called a Star and a Resource is called a Particle.
+Starlane uses terms with an Astro Physics theme in order to avoid name collision with other domains in the architecture. For example a compute Node is called a Star and a Resource is called a Particle.
 
-## UNIVERSAL TERMS
-
-These are terms that exist in the Universal Dimension which is not concerned with security or orchestration. Applications are typically built in this dimension in order to quicken development and centralize complexity.
+## SPACE TERMS
+These are terms that exist in `SPACE` **starlane::space::\*** which is not concerned with infrastructure. 
 
 - **Particle** - A resource (User,File,Database, Database Row, Mechtron...etc.)
 - **Kind** - a hierarchtical type descriptor for a particle. A kind can be composed of a nested Base, Sub & a Specific to exactly describe a particle
 - **Point** - an address that in most cases is the location of a Particle
 - **Wave** - A message that is transmitted to and from Particles
 - **Mechtron** - A WebAssembly component that implements the `cosmic-universe` & `mechtron` packages giving it the ability to act as a Particle (send and receive Waves)
-- **Cosmos** - The entirety of the "World" that these Particles live in... The Entire Enterprise.
-- **Cosmic Fabric** The space between Particles, the space that Waves traverse
-- **Universal Dimension** - A simplified view and API of the Cosmos that is not concerned with security or orchestration.
 
 ## HYPERVERSAL TERMS
 

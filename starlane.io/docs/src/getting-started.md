@@ -28,22 +28,30 @@ rustup default nightly
 cargo install starlane
 ```
 
+```bash
+starlane install
+```
+Follow the instructions to create a local postgres registry for starlane.
+
 Congrats! You now have Starlane installed on your machine!
+
+
 
 ### START A STARLANE SERVER INSTANCE
 
 Open a terminal and run the following command to start a server instance of Starlane:
 
 ```bash
-starlane 
+starlane run
 ```
 
-At this point starlane should be serving a Http Server on port 8080. Open a browser and point it to [http://localhost:8080/](http://localhost:8080/). You should see a "404" page (since there isn't a localhost space or routing bind.)
 
+### ACCESS THE STARLANE TERMINAL
 
-### COSMIC CLI
-You need to have the cosmic-cli installed in order to access your starlane instance:
+with `starlane run` executing... start a new terminal and execute:
 
 ```bash
-cargo install cosmic-cli
+starlane term
 ```
+
+It should bring up a Command Line Interface for the running Starlane instance.
