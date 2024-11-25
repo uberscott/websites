@@ -1,7 +1,9 @@
 apiVersion: v2
-appVersion: "1.16.0"
-description: punch-line.app
 name: punchline
+description: punch-line.ap 
+
+type: application
+
 version: 0.1.0
 
-
+appVersion: "1.16.0"
