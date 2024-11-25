@@ -9,7 +9,7 @@ metadata:
     app.kubernetes.io/managed-by: {{ .Release.Service }}
   annotations:
     kubernetes.io/ingress.global-static-ip-name: punchline
-    #networking.gke.io/managed-certificates: punchline
+    networking.gke.io/managed-certificates: punchline
     kubernetes.io/ingress.class: "gce"  
 
 spec:
