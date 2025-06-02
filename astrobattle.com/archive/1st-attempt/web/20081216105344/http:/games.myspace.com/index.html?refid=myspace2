@@ -1,0 +1,1211 @@
+<html id="Form1">
+	
+
+
+<!-- Channel Skin - Start -->
+
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://games.myspace.com:80/?refid=myspace2","20081216040140","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1229400100");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+	
+<meta name="Description" content="Play games for free now! Add them to your MySpace profile and play online multiplayer games with your friends at MySpace Games."/>
+<meta name="verify-v1" content="7YGMEkLzqZwwDvnyumG9QeSJq7JgzCye9uyzdjF5j0s="/>
+<title>MySpace Games: Play Free Online Games With Your Friends</title>
+	
+	<!-- CommonLibraries Start-->
+		<script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://clienttools.oberon-media.com/Oberon.ClientTools/2010.0/ClientJs/Prototype.js"></script>
+	
+	
+		<script type="text/javascript" src="/web/20081216040140js_/http://games.myspace.com/Scripts/ClientJs/Common.js"></script>
+	
+	
+	<script>
+	String.prototype.contains = function(s){ return -1 != this.indexOf(s) }
+	</script>	
+	<!-- CommonLibraries End -->
+	
+	<!-- UserAccount -->
+	<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20081216040140js_/http://userassets-2.apizone.oberon-media.com/ClientDalBuilder/app/clienttools.ashx?version=1800.0"></script>
+	<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20081216040140js_/http://userassets-2.apizone.oberon-media.com/ClientDalBuilder/app/clienttools.ashx?version=1800.0&amp;channel=110343720"></script>
+	<!-- /UserAccount -->
+
+	
+<!-- Games catalog Start -->
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20081216040140js_/http://clienttools.oberon-media.com/GameCatalog/CatalogJS/1800.0/GameCatalog.js"></script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20081216040140js_/http://catalog-prod.apizone.oberon-media.com/CatalogClientDal/1800.0/App/Catalog.ashx?channel=110343720&amp;lc=en"></script> 
+<!-- Games catalog End -->
+
+	<!-- presence catalog Start -->
+	<script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://clienttools.oberon-media.com/GameCatalog/PresenceJS/1601.0/PresenceCatalog.js"></script>
+	<script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://usercount-2.apizone.oberon-media.com/PresenceGet/1100/App/NumberOfPlayers.ashx?channel=110343720&amp;lc=en"></script>
+	<!-- presence catalog End -->
+	
+	<!-- MySpace Script Start  -- for header and footer -->
+	<!-- ELS2MWEBNET3289 -->
+<!-- GamesHead -->
+<script type="text/javascript">
+	
+var MySpace = {};
+var MySpaceRes = {};
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"GamesHead"};
+
+	MySpace.StaticContentBase='https://web.archive.org/web/20081216040140/http://x.myspacecdn.com';
+	
+MySpace.ClientMaintenanceConfigs = {"asyncphotobrowsecaching":0,"msplinksconvertall":0,"photocommentsajax":0,"inf_ind_newvideocomment":0,"promptaftertagging":0,"enablevideocategorydropdown":0,"applications_userapppreferences":0,"applications_enablev2addapppopup":0,"inf_ind_unreadim":0,"webimtestclient":0,"applications_showafterloaduhp":0,"applications_showafterloadprofiles":0,"photoviewcountsui":0,"mailnavcounterclientsideupdates":0,"eventrounterfailover":0,"applications_enablev2settingspopup":0,"applications_enablev2requestpermissionpopup":0};
+MySpace.ClientIntMaintenanceConfigs = {};
+
+</script>
+	<!--MainXHTML-->
+	
+	<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"></meta>
+	<meta http-equiv="expires" content="0"/>
+	<meta http-equiv="Pragma" content="no-cache"/>	
+	
+
+<script type="text/javascript">
+MySpace.Ads = {};
+
+MySpace.Header = {}; MySpace.Header.IsTrueGlobalHeaderEnabled = false; MySpace.Header.Navigation = {};MySpace.Header.Navigation.OnAfterRender = function(){};
+</script>
+
+<script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://x.myspacecdn.com/modules/common/static/js/myspacejs068.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216040140cs_/http://x.myspacecdn.com/modules/common/static/css/global028.css"/>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216040140cs_/http://x.myspacecdn.com/modules/common/static/css/header/siteheader007.css"/>
+<script src="https://web.archive.org/web/20081216040140js_/http://cms.myspacecdn.com/cms/js/373acb20f33f4b87b78aa7cfe78c6e700126.js" type="text/javascript"></script>
+<style type="text/css">#header{width:960px;}#topnav{width:960px;}</style>
+	<!-- MySpace Script End -->
+	
+	
+	<!-- Global Scripts Start -->
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/javascript/2100/TC.Utils.js"></script>
+	<script>TC.OnlinePlayers.settings.onlinePlayersUnavailable = "0";</script>
+	
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/scripts/EnhanceCatalog.aspx"></script>
+	
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/Javascript/2100/ClientMgr.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/Javascript/2100/Diamond/Profile.js"></script>
+	<!-- Profile Manager Globals Start -->
+	<script type="text/javascript" language="javascript">
+		ProfileMgr.init(
+						 { channel               : 110343720
+						 , channelHomePage		 : "https://web.archive.org/web/20081216040140/http://games.myspace.com/"
+						 , authenticationAdapter : "https://web.archive.org/web/20081216040140/http://auth.games.myspace.com/1500/ProcessAuthentication.ashx"
+						 , loginTarget           : "GameCenterMainWindow"
+						 }
+						);
+	</script>
+	<script type="text/javascript">
+		window.name = "GameCenterMainWindow";
+	</script>
+	<!-- /Profile Manager Globals End -->
+	<script type="text/javascript" language="javascript" src="/web/20081216040140js_/http://games.myspace.com/Javascript/2100/GlobalFN.js"></script>
+	<script type="text/javascript" language="javascript" src="/web/20081216040140js_/http://games.myspace.com/Javascript/2100/UserMedals.js"></script>
+	
+	 <script type="text/javascript" language="javascript">
+	    TC.UserMedals.addRankingLevel(1 ,'');
+        TC.MpRanking.addRankingLevel(		999	,'/Graphics/MySpace/en//userPortlet/bullet2.gif');
+        TC.MpRanking.addRankingLevel(		1199,'/Graphics/MySpace/en//userPortlet/bullet3.gif');
+        TC.MpRanking.addRankingLevel(		1399,'/Graphics/MySpace/en//userPortlet/bullet4.gif');
+        TC.MpRanking.addRankingLevel(		1599,'/Graphics/MySpace/en//userPortlet/bullet1.gif');
+        TC.MpRanking.addRankingLevel(		1799,'/Graphics/MySpace/en//userPortlet/bullet5.gif');
+        TC.MpRanking.addRankingLevel(		1999,'/Graphics/MySpace/en//userPortlet/bullet6.gif');
+        TC.MpRanking.addMaximumRankingLevel(2000,'/Graphics/MySpace/en//userPortlet/bullet7.gif');
+	</script>
+
+	<!-- Internal Scripts Start-->
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/scripts/generalScripts.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/scripts/GlobalFN.js"></script><!-- Local -->
+	<script type="text/javascript" language="JavaScript" src="/web/20081216040140js_/http://games.myspace.com/scripts/GameScoreMgr.js"></script>
+	<script type="text/javascript" language="javascript">
+		Project.init( { authenticationAdapterURL : "https://web.archive.org/web/20081216040140/http://auth.games.myspace.com/1500/ProcessAuthentication.ashx"
+					  , channelCode				 : 110343720
+					  , maximumPlayersinRoom      : 105
+					  }
+					);
+	</script>
+	<!-- Internal Scripts End-->
+	
+	
+	
+	<!-- Style start -->
+	<link rel="stylesheet" type="text/css" href="/web/20081216040140cs_/http://games.myspace.com/css/Styles.aspx?RefID=1/">
+	<!-- Style End -->
+
+	
+	
+
+	
+	<!-- WebAnalysis Head Start -omniture -->
+	
+<!-- Omniture Head - Start -->
+<script type="text/javascript" src="/web/20081216040140js_/http://games.myspace.com/WebAnalysis/APP/scripts/s_code.js"></script>
+<script type="text/javascript" src="/web/20081216040140js_/http://games.myspace.com/WebAnalysis/APP/scripts/WebAnalysisSiteTracking.js"></script>
+<script type="text/javascript" src="/web/20081216040140js_/http://games.myspace.com/WebAnalysis/APP/scripts/GameCatalog.Mediator.js"></script>
+<script type="text/javascript">document.write("<s" + "cript type='text/javascript' src='/WebAnalysis/APP/GenerateCode.ashx?"+ GetScriptSrcQueryString() +"'></s" + "cript>");</script>
+<!-- Omniture Head - End -->
+	<!-- WebAnalysis Head End - omniture -->
+	
+	
+	<!-- Tageted ads parameters -->	
+	
+<!-- script for Myspace ads (targeted ads) start -->
+<script type="text/javascript">
+	var gcat =  0;
+	var gsku =  0;
+</script>
+<!-- script for Myspace ads (targeted ads) end -->
+	<!-- End Tageted ads parameters (hidden) -->
+</head>
+<body style="margin: 0px;">
+	
+	<!-- MySpace Header  - Start -->
+	<input type="hidden" id="bannerContent" value="<script type=&quot;text/javascript&quot; src=&quot;http://fimserve.myspace.com/?context=Games&amp;location=AdSpecial2&quot; ></script>"><textarea style="display:none" id="guestPartnerHeader"><div align="center"><div id="mySpaceHeaderGuest" style="width:960px"><script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://www.myspace.com/Modules/Common/HttpHandlers/CMS.ashx?placementId=myspace_partners_games&amp;skintest="></script><script type="text/javascript">MySpace.ClientContext.FunctionalContext = "Games";</script>
+<!-- BOH Standard -->
+<script type="text/javascript">MySpace.Header = {}; MySpace.Header.IsTrueGlobalHeaderEnabled = false; MySpace.Header.Navigation = {};MySpace.Header.Navigation.OnAfterRender = function(){};</script><!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"Games"};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+msglobalnav.loadStrings({});
+</script><!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script type="text/javascript">
+sdc_wrapper_refresh("tkn_leaderboard", "/MySpaceGames/Games,50000000", "Frame1", 30);</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/" title="MySpace a place for friends" style="background-image:url(https://web.archive.org/web/20081216040140im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong>&nbsp;<em>a place for friends</em></a></h1></div>
+<span id="searchControlHeader"><!-- BOS -->
+<div id="searchContainer_Header" class="global"><form id="formSearch_Header" name="srch_Header" onsubmit="return (document.getElementById('search_q_Header').value.length > 0);" action="https://web.archive.org/web/20081216040140/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Header" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Header" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Header" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Header" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Header');" onmouseout="msglobalnav.hideSearchTypes('Header');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Header" onmouseover="msglobalnav.srchMenuList(true,'Header');" onmouseout="msglobalnav.srchMenuList(false,'Header');"><ul><li><a id="People_Header" href="javascript:msglobalnav.switchSearchTypeTo('People','Header')">People</a></li><li><a id="AllMySpace_Header" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Header')">MySpace</a></li><li><a id="Web_Header" href="javascript:msglobalnav.switchSearchTypeTo('Web','Header')">Web</a></li><li><a id="Music_Header" href="javascript:msglobalnav.switchSearchTypeTo('Music','Header')">Music</a></li><li><a id="MySpaceTV_Header" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Header')">Video</a></li><li><a id="Images_Header" href="javascript:msglobalnav.switchSearchTypeTo('Images','Header')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Header"/></div></div><div id="googleLogo_Header" style="background-image: url(https://web.archive.org/web/20081216040140im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><!-- Begin SetFocus on Header Search Box -->
+<script type="text/javascript">if (MySpace) if (!MySpace.Header) { MySpace.Header ={}; } MySpace.Header.SetFocus = "true";function setSearchBoxFocus(){if (MySpace && MySpace.Header && MySpace.ClientContext)if (MySpace.ClientContext.FunctionalContext != "Splash") if (MySpace.Header.SetFocus == "true") if (document.getElementById("search_q_Header")){document.getElementById("search_q_Header").focus();} } if(typeof(setSearchBoxFocus) != 'undefined'){setSearchBoxFocus();MySpace.Header.SetFocus="false";}</script><!-- End SetFocus on Header Search Box -->
+<!-- EOS -->
+</span></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.Writer = 'Global_Standard';
+//>]]>
+</script>
+<!-- _Nav: N:Global_Standard V:All, Anonymous G:66514_20081202.1 F:null M:Standard-->
+
+<div id="topnav"><ul id="leftNav"><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/">Home</a></li><li><a href="https://web.archive.org/web/20081216040140/http://browseusers.myspace.com/Browse/Browse.aspx">Browse People</a></li><li><a href="https://web.archive.org/web/20081216040140/http://search.myspace.com/index.cfm?fuseaction=find">Find People</a></li><li><a href="https://web.archive.org/web/20081216040140/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20081216040140/http://music.myspace.com/">Music</a></li><li><a href="https://web.archive.org/web/20081216040140/http://vids.myspace.com/">Video</a></li><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav10" onmouseover="msglobalnav.toggle('10',true);" onmouseout="msglobalnav.toggle('10',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=splash">Log In</a></li><li><a href="https://web.archive.org/web/20081216040140/http://signup.myspace.com/index.cfm?fuseaction=join">Sign Up</a></li></ul></div>
+<div id="subnav"><ul id="subNav10" onmouseover="msglobalnav.subToggle('10',true);" onmouseout="msglobalnav.subToggle('10',false);"><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=splash.more">More on MySpace</a></li><li><a href="https://web.archive.org/web/20081216040140/http://apps.myspace.com/index.cfm?fuseaction=apps">Apps Gallery</a></li><li><a href="https://web.archive.org/web/20081216040140/http://classifieds.myspace.com/?cm_mmc_o=FYl5zgwCjCAlzCjCFzbEEzMCjCFzbEEzM">Classifieds</a></li><li><a href="https://web.archive.org/web/20081216040140/http://events.myspace.com/">Events</a></li><li><a href="https://web.archive.org/web/20081216040140/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20081216040140/http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="https://web.archive.org/web/20081216040140/http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://blog.myspace.com/">Top Blogs</a></li><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/myspacemobile">Mobile</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://celebrity.myspace.com/index.cfm?fuseaction=celebrity">Celebrity</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://comedy.myspace.com/">Comedy</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/?refid=myspace2">Games</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=impact">IMPACT</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://ksolo.myspace.com/">Karaoke</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://movies.myspace.com/">Movies</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.OnAfterRender();
+//>]]>
+</script></div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo_Header', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<noscript>
+<div style="TEXT-ALIGN: center">
+<div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: #ffcc99; PADDING-BOTTOM: 4px; MARGIN: 0px auto; WIDTH: 960px; COLOR: #d95801; PADDING-TOP: 4px; TEXT-ALIGN: center">Having trouble? You need to have <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/javascriptissues" target="_blank">JavaScript enabled</a>
+                    to use all of MySpace's features. <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/javascriptissues" target="_blank">Click here</a>
+                    for help enabling it.</div></div></noscript><!-- EOH -->
+<style>#toprightlinks{display: none !important;}</style></div></div></textarea><textarea style="display:none" id="loginPartnerHeader"><div align="center"><div id="mySpaceHeaderUser" style="width:960px"><script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://www.myspace.com/Modules/Common/HttpHandlers/CMS.ashx?placementId=myspace_partners_games&amp;skintest="></script><script type="text/javascript">MySpace.ClientContext.FunctionalContext = "Games";</script>
+<!-- BOH Standard -->
+<script type="text/javascript">MySpace.Header = {}; MySpace.Header.IsTrueGlobalHeaderEnabled = false; MySpace.Header.Navigation = {};MySpace.Header.Navigation.OnAfterRender = function(){};</script><!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"Games"};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+msglobalnav.loadStrings({});
+</script><!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script type="text/javascript">
+sdc_wrapper_refresh("tkn_leaderboard", "/MySpaceGames/Games,50000000", "Frame1", 30);</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/" title="MySpace a place for friends" style="background-image:url(https://web.archive.org/web/20081216040140im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong>&nbsp;<em>a place for friends</em></a></h1></div>
+<span id="searchControlHeader"><!-- BOS -->
+<div id="searchContainer_Header" class="global"><form id="formSearch_Header" name="srch_Header" onsubmit="return (document.getElementById('search_q_Header').value.length > 0);" action="https://web.archive.org/web/20081216040140/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Header" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Header" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Header" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Header" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Header');" onmouseout="msglobalnav.hideSearchTypes('Header');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Header" onmouseover="msglobalnav.srchMenuList(true,'Header');" onmouseout="msglobalnav.srchMenuList(false,'Header');"><ul><li><a id="People_Header" href="javascript:msglobalnav.switchSearchTypeTo('People','Header')">People</a></li><li><a id="AllMySpace_Header" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Header')">MySpace</a></li><li><a id="Web_Header" href="javascript:msglobalnav.switchSearchTypeTo('Web','Header')">Web</a></li><li><a id="Music_Header" href="javascript:msglobalnav.switchSearchTypeTo('Music','Header')">Music</a></li><li><a id="MySpaceTV_Header" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Header')">Video</a></li><li><a id="Images_Header" href="javascript:msglobalnav.switchSearchTypeTo('Images','Header')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Header"/></div></div><div id="googleLogo_Header" style="background-image: url(https://web.archive.org/web/20081216040140im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><!-- Begin SetFocus on Header Search Box -->
+<script type="text/javascript">if (MySpace) if (!MySpace.Header) { MySpace.Header ={}; } MySpace.Header.SetFocus = "true";function setSearchBoxFocus(){if (MySpace && MySpace.Header && MySpace.ClientContext)if (MySpace.ClientContext.FunctionalContext != "Splash") if (MySpace.Header.SetFocus == "true") if (document.getElementById("search_q_Header")){document.getElementById("search_q_Header").focus();} } if(typeof(setSearchBoxFocus) != 'undefined'){setSearchBoxFocus();MySpace.Header.SetFocus="false";}</script><!-- End SetFocus on Header Search Box -->
+<!-- EOS -->
+</span></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.Writer = 'Global_Standard';
+//>]]>
+</script>
+<!-- _Nav: N:Global_Standard V:All, LoggedIn G:66514_20081202.1 F:null M:Standard-->
+
+<div id="topnav"><ul id="leftNav"><li><a href="https://web.archive.org/web/20081216040140/http://home.myspace.com/index.cfm?fuseaction=user">Home</a></li><li><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox" id="nav2" onmouseover="msglobalnav.toggle('2',true);" onmouseout="msglobalnav.toggle('2',false);">Mail&nbsp;<small>&#9660;</small></a></li><li><a href="https://web.archive.org/web/20081216040140/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid={UserID}" id="nav3" onmouseover="msglobalnav.toggle('3',true);" onmouseout="msglobalnav.toggle('3',false);">Profile&nbsp;<small>&#9660;</small></a></li><li><a href="https://web.archive.org/web/20081216040140/http://friends.myspace.com/index.cfm?fuseaction=user.viewfriends&amp;friendID={UserID}" id="nav4" onmouseover="msglobalnav.toggle('4',true);" onmouseout="msglobalnav.toggle('4',false);">Friends&nbsp;<small>&#9660;</small></a></li><li><a href="https://web.archive.org/web/20081216040140/http://music.myspace.com/">Music</a></li><li><a href="https://web.archive.org/web/20081216040140/http://vids.myspace.com/">Video</a></li><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav10" onmouseover="msglobalnav.toggle('10',true);" onmouseout="msglobalnav.toggle('10',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><a href="https://web.archive.org/web/20081216040140/http://profileedit.myspace.com/index.cfm?fuseaction=accountSettings.contactInfo">My Account</a></li><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=signout">Sign Out</a></li></ul></div>
+<div id="subnav"><ul id="subNav2" onmouseover="msglobalnav.subToggle('2',true);" onmouseout="msglobalnav.subToggle('2',false);"><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox">Inbox</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.compose">Compose</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.friendRequests">Friend Requests</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.sentbox">Sent Mail</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=mail.savebox">Saved Mail</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=adb">Address Book</a></li></ul><ul id="subNav3" onmouseover="msglobalnav.subToggle('3',true);" onmouseout="msglobalnav.subToggle('3',false);"><li class="last"><a href="https://web.archive.org/web/20081216040140/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid={UserID}">My Profile</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://profileedit.myspace.com/index.cfm?fuseaction=profile.interests">Edit Profile</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://profileedit.myspace.com/index.cfm?fuseaction=profile.upgradeprofile">Customize Profile</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://comment.myspace.com/index.cfm?fuseaction=user.viewComments&amp;friendID={UserID}">My Comments</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewAlbums&amp;friendID={UserID}">My Photos</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://vids.myspace.com/index.cfm?fuseaction=vids.myvideos">My Videos</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://blog.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID={UserID}">My Blog</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://favorites.myspace.com/index.cfm?fuseaction=user.favorites">My Favorites</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://profileedit.myspace.com/index.cfm?fuseaction=accountSettings.applicationSettings">My Apps</a></li></ul><ul id="subNav4" onmouseover="msglobalnav.subToggle('4',true);" onmouseout="msglobalnav.subToggle('4',false);"><li class="last"><a href="https://web.archive.org/web/20081216040140/http://friends.myspace.com/index.cfm?fuseaction=user.viewfriends&amp;friendID={UserID}">My Friends</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://friends.myspace.com/index.cfm?fuseaction=user.viewfriends&amp;friendID={UserID}&amp;view=online">Online Friends</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://activities.myspace.com/index.cfm?fuseaction=friendupdates.home">Friend Updates</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://friends.myspace.com/index.cfm?fuseaction=profile.friendmoods">Status and Mood</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://bulletins.myspace.com/index.cfm?fuseaction=bulletin">Bulletins</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://browseusers.myspace.com/Browse/Browse.aspx">Browse People</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://search.myspace.com/index.cfm?fuseaction=find">Find Friends</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://invites.myspace.com/index.cfm?fuseaction=invite.abinvite">Invite Friends</a></li></ul><ul id="subNav10" onmouseover="msglobalnav.subToggle('10',true);" onmouseout="msglobalnav.subToggle('10',false);"><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=splash.more">More on MySpace</a></li><li><a href="https://web.archive.org/web/20081216040140/http://apps.myspace.com/index.cfm?fuseaction=apps">Apps Gallery</a></li><li><a href="https://web.archive.org/web/20081216040140/http://classifieds.myspace.com/?cm_mmc_o=FYl5zgwCjCAlzCjCFzbEEzMCjCFzbEEzM">Classifieds</a></li><li><a href="https://web.archive.org/web/20081216040140/http://events.myspace.com/">Events</a></li><li><a href="https://web.archive.org/web/20081216040140/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20081216040140/http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="https://web.archive.org/web/20081216040140/http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://blog.myspace.com/">Top Blogs</a></li><li><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/myspacemobile">Mobile</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://celebrity.myspace.com/index.cfm?fuseaction=celebrity">Celebrity</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://comedy.myspace.com/">Comedy</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/?refid=myspace2">Games</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=impact">IMPACT</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://ksolo.myspace.com/">Karaoke</a></li><li class="last"><a href="https://web.archive.org/web/20081216040140/http://movies.myspace.com/">Movies</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.OnAfterRender();
+//>]]>
+</script></div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo_Header', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<noscript>
+<div style="TEXT-ALIGN: center">
+<div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: #ffcc99; PADDING-BOTTOM: 4px; MARGIN: 0px auto; WIDTH: 960px; COLOR: #d95801; PADDING-TOP: 4px; TEXT-ALIGN: center">Having trouble? You need to have <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/javascriptissues" target="_blank">JavaScript enabled</a>
+                    to use all of MySpace's features. <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/javascriptissues" target="_blank">Click here</a>
+                    for help enabling it.</div></div></noscript><!-- EOH -->
+<style>#toprightlinks{display: none !important;}</style></div></div></textarea>
+
+
+<script type="text/javascript">
+ /***************************************************/ 
+ // render myspace header for guest and users
+ //(replace all links with the user ID)
+ /***************************************************/
+	if(Project.isMySpaceLoggedIn())
+	{
+		//check if user id cookie exist
+		//!!(string) = is null or empty
+		if((!!Project.readCookie(Project.UserIdCookieName)) == false)
+		{
+			// call handler		
+			Project.createMySpaceUserIDCookie();			
+			//write header			
+			document.write($('loginPartnerHeader').value);
+		}
+		else
+		{
+		    var mySpaceUserId = Project.readCookie(Project.UserIdCookieName);
+			
+			//Write Header and Replace the {UserId} with the value
+			var headerHtmlContent = $('loginPartnerHeader').value;
+			document.write(headerHtmlContent.split("{UserID}").join(mySpaceUserId));
+		}							
+	}
+	else 
+	{	
+		document.write($('guestPartnerHeader').value);
+	}
+	
+	var bannerElement = document.getElementById('bannerContent');
+	document.write(bannerElement.value);
+
+</script>
+
+	<!-- MySpace Header  - End -->
+	
+	<!-- Top Navigation Bar - Start -->
+	
+<!-- Start Main Navigation Area -->
+<div id="mainNav"> 
+	<table class="height100Percents width100Percents">
+		<tr>
+			<td rowspan="2"><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/GUI_spacer_266x54.gif" title="MySpace Games" border="0"></a></td>
+			<td style="padding-right:20px" id="online_users_count" class="numPlayers">
+			<img class="alignMiddle" title="my games" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/ICN_PlayerSingle_16x15.gif"/>&nbsp;<a class="boldGrey" href="javascript:Project.openMyGames(&quot;https://web.archive.org/web/20081216040140/http://games.myspace.com/UserMyGames.aspx?channel=110343720&quot;);" style="font-size: 10px;font-weight: bold;color: black;">my games</a>&nbsp;&nbsp;&nbsp;&nbsp;<img class="alignMiddle" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/ICN_PlayerNumber_16x15.gif" title="Number of Players">&nbsp;<script>document.write(PresenceCatalog.NumberOfPlayers) </script> players online
+			</td>
+			<td class="width19">&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="100%">
+				<div class="inline floatLeft"><a class="navBtn" id="110044360" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110044360">multiplayer</a></div>
+				<div class="inline floatLeft"><a class="navBtn" id="110085510" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110085510">puzzle</a></div>
+				<div class="inline floatLeft"><a class="navBtn" id="110084727" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110084727">action</a></div>
+				<div class="inline floatLeft"><a class="navBtn" id="110087360" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110087360">cards</a></div>
+				<div class="inline floatLeft"><a class="navBtn" id="110094440" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110094440">word</a></div>
+				<div class="inline floatLeft"><a class="navBtn" id="11009827" href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=11009827">strategy</a></div>
+				<div class="inline floatLeft"><a class="navBtnDownload" id="downloadsBar" href="/web/20081216040140/http://games.myspace.com/Downloads.aspx">downloads</a></div>
+			</td>
+			 <td class="width19">&nbsp;</td>
+		</tr>
+	</table>
+</div>
+<!-- Start Sub Menu -->
+
+		<div id="barTabs" class="barTabs">
+				<div id="barTabsInner" style="display:none">
+			
+						<table id="barTabsInner1"><tr>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1000&amp;genre=Top&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1000" class="subLink">
+						top games</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1002&amp;genre=New&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1002" class="subLink">
+						new games</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1100710&amp;genre=Hidden Object&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1100710" class="subLink">
+						hidden object</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110109903&amp;genre=Adrenaline&amp;RefID=myspace2&amp;ln=en&amp;=0" id="110109903" class="subLink">
+						adrenaline</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1007&amp;genre=Puzzle&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1007" class="subLink">
+						puzzle</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110127790&amp;genre=Time Management&amp;RefID=myspace2&amp;ln=en&amp;=0" id="110127790" class="subLink">
+						time management</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110125467&amp;genre=Classics&amp;RefID=myspace2&amp;ln=en&amp;=0" id="110125467" class="subLink">
+						classics</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1008&amp;genre=Word&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1008" class="subLink">
+						word</a>
+					
+						<div class="divider"></div></td>
+					
+						<td><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=1004&amp;genre=Cards&amp;RefID=myspace2&amp;ln=en&amp;=0" id="1004" class="subLink">
+						casino</a>
+					
+						</td></tr></table>
+					
+			
+			</div>
+		</div>
+	
+	<!-- End Sub Menu -->
+	<!-- Top NavigationBar - End -->
+
+	<!-- a Place Holder for middle content Start -->
+	
+	<div align="center">
+	<table cellpadding="0" cellspacing="0" border="0" width="960px"><tr><td>
+	<!-- Main Content -->
+	<div id="mainContent"> 
+		<!--[if !IE]> HP Content <![endif]--> 
+		<div id="hpContent">
+			<!--[if !IE]> Featured Games Box <![endif]--> 
+			<div id="featuredGames"> 
+				<table>
+					<tr> 
+						<td><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Titles/Title_FeaturedGames_410x27.gif"></td>
+					</tr>
+					<tr> 
+						<td class="featuredGame">
+							<div><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/Land/ToLobby.aspx?code=113433433&amp;refid=flash" target="_self"><object width="385" height="261" codebase="https://web.archive.org/web/20081216040140oe_/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"> <param name="movie" value="/images/promos/myspace/385x261chuzzle.swf"> <param name="wmode" value="transparent"> <embed src="/web/20081216040140oe_/http://games.myspace.com/images/promos/myspace/385x261chuzzle.swf" width="385" height="261" wmode="transparent"> </embed> </object></a></div>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<!--[if !IE]> End Featured Games Box <![endif]--> 
+			<!--[if !IE]> New Games Box <![endif]-->
+				<div id="newGames"> 
+				
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110083820&amp;genre=Online New&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLnewgames.gif" title="New Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=4e431053-83f3-4ab1-8409-41b889553683&amp;RefID=myspace2&amp;code=115289813&amp;ln=en','115256437')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/blingblingblaster60x60.gif" title="Bling Bling Blaster"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=4e431053-83f3-4ab1-8409-41b889553683&amp;RefID=myspace2&amp;code=115289813&amp;ln=en','115256437')">Bling Bling Blaster</a></div>
+						<div id="play_btn_115289813_Online New" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=4e431053-83f3-4ab1-8409-41b889553683&amp;RefID=myspace2&amp;code=115289813&amp;ln=en','115256437')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Bling Bling Blaster" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/butterfly_escape60x60.gif" title="Butterfly Escape"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')">Butterfly Escape</a></div>
+						<div id="play_btn_113640557_Online New" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Butterfly Escape" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=2119719e-988d-441d-b7dd-0554b2c9d3de&amp;RefID=myspace2&amp;code=115275680&amp;ln=en','115242337')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/the_black_knight60x60.gif" title="The Black Knight"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=2119719e-988d-441d-b7dd-0554b2c9d3de&amp;RefID=myspace2&amp;code=115275680&amp;ln=en','115242337')">The Black Knight</a></div>
+						<div id="play_btn_115275680_Online New" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=2119719e-988d-441d-b7dd-0554b2c9d3de&amp;RefID=myspace2&amp;code=115275680&amp;ln=en','115242337')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play The Black Knight" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110083820&amp;genre=Online New&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;New&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table>
+				</div>
+			<!--[if !IE]> End New Games Box <![endif]-->
+			<!--[if !IE]> Top Games Box <![endif]-->
+				<div id="topGames"> 
+				
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeader"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110082753&amp;genre=Online Top&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLtopgames.gif" title="Online Top Games"></a></td>
+		
+	</tr>
+	<tr> 
+		<td class="categoryContentA">	
+			<table class="categoryA">
+					
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=ee189d97-c50f-46af-91f3-922b34de6080&amp;RefID=myspace2&amp;code=115283787&amp;ln=en','115250583')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/fishdom90x90.gif" title="Fishdom"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=ee189d97-c50f-46af-91f3-922b34de6080&amp;RefID=myspace2&amp;code=115283787&amp;ln=en','115250583')">Fishdom</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_115283787_Online Top"><a onclick="Project.openLobby('Lobby.aspx?lobby=ee189d97-c50f-46af-91f3-922b34de6080&amp;RefID=myspace2&amp;code=115283787&amp;ln=en','115250583')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Fishdom" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=27f2117b-6fb2-4cbf-9649-21fccad49246&amp;RefID=myspace2&amp;code=114888990&amp;ln=en','114855630')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/wordz90x90.gif" title="Wordz"><div style="display:none" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=27f2117b-6fb2-4cbf-9649-21fccad49246&amp;RefID=myspace2&amp;code=114888990&amp;ln=en','114855630')">Wordz</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_114888990_Online Top"><a onclick="Project.openLobby('Lobby.aspx?lobby=27f2117b-6fb2-4cbf-9649-21fccad49246&amp;RefID=myspace2&amp;code=114888990&amp;ln=en','114855630')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Wordz" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/BigMoney90x90.gif" title="Big Money"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')">Big Money</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_115317760_Online Top"><a onclick="Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Big Money" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=7e7459f2-127a-4b10-b277-0a324c0bf48b&amp;RefID=myspace2&amp;code=114848900&amp;ln=en','11481587')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/bubble_town90x90.gif" title="Bubble Town"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=7e7459f2-127a-4b10-b277-0a324c0bf48b&amp;RefID=myspace2&amp;code=114848900&amp;ln=en','11481587')">Bubble Town</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_114848900_Online Top"><a onclick="Project.openLobby('Lobby.aspx?lobby=7e7459f2-127a-4b10-b277-0a324c0bf48b&amp;RefID=myspace2&amp;code=114848900&amp;ln=en','11481587')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Bubble Town" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=23490db4-d594-4967-95ec-569b95a9426f&amp;RefID=myspace2&amp;code=115209793&amp;ln=en','115176620')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/master_qwans_mahjongg90x90.gif" title="Master Qwan’s Mahjongg"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=23490db4-d594-4967-95ec-569b95a9426f&amp;RefID=myspace2&amp;code=115209793&amp;ln=en','115176620')">Master Qwan’s Mahjongg</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_115209793_Online Top"><a onclick="Project.openLobby('Lobby.aspx?lobby=23490db4-d594-4967-95ec-569b95a9426f&amp;RefID=myspace2&amp;code=115209793&amp;ln=en','115176620')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Master Qwan’s Mahjongg" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+							
+					<tr> 
+						<td colspan="5" class="moreGames"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110082753&amp;genre=Online Top&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More Top&nbsp;Games</a></td>
+					</tr>
+			</table>	
+		</td>
+	</tr>
+</table>
+				</div>
+			<!--[if !IE]> End Top Games Box <![endif]-->
+			<!--[if !IE]> Multi Player Games Box <![endif]-->
+				<div id="multiplayerGames"> 
+					
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeader"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110044360&amp;genre=Multiplayer&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/multi.gif" title="Multiplayer Games"></a></td>
+		
+	</tr>
+	<tr> 
+		<td class="categoryContentA">	
+			<table class="categoryA">
+					
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=05500637-5d42-4dfa-8a9b-a90e533405ab&amp;RefID=myspace2&amp;code=115352427&amp;ln=en','11531933')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/pool_v2_mp90x90.gif" title="Pool - New and Improved !"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=05500637-5d42-4dfa-8a9b-a90e533405ab&amp;RefID=myspace2&amp;code=115352427&amp;ln=en','11531933')">Pool - New and Improved !</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_115352427_Multiplayer"><a onclick="Project.openLobby('Lobby.aspx?lobby=05500637-5d42-4dfa-8a9b-a90e533405ab&amp;RefID=myspace2&amp;code=115352427&amp;ln=en','11531933')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Pool - New and Improved !" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=94e2633e-f22a-4fc8-8b5d-4dbcf8048ce5&amp;RefID=myspace2&amp;code=115437680&amp;ln=en','115402100')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/wpt90x90.gif" title="World Poker Tour"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=94e2633e-f22a-4fc8-8b5d-4dbcf8048ce5&amp;RefID=myspace2&amp;code=115437680&amp;ln=en','115402100')">World Poker Tour</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_115437680_Multiplayer"><a onclick="Project.openLobby('Lobby.aspx?lobby=94e2633e-f22a-4fc8-8b5d-4dbcf8048ce5&amp;RefID=myspace2&amp;code=115437680&amp;ln=en','115402100')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play World Poker Tour" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=45b03bd6-7946-41e0-bbc9-e438fed37edb&amp;RefID=myspace2&amp;code=110342160&amp;ln=en','110339673')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/chess_mp90x90.gif" title="Chess"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=45b03bd6-7946-41e0-bbc9-e438fed37edb&amp;RefID=myspace2&amp;code=110342160&amp;ln=en','110339673')">Chess</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_110342160_Multiplayer"><a onclick="Project.openLobby('Lobby.aspx?lobby=45b03bd6-7946-41e0-bbc9-e438fed37edb&amp;RefID=myspace2&amp;code=110342160&amp;ln=en','110339673')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Chess" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=ea209a11-af00-4cf2-960e-ef6763d7680c&amp;RefID=myspace2&amp;code=110487250&amp;ln=en','110486387')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/darts_cricket_mp90x90.gif" title="Darts: Cricket"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=ea209a11-af00-4cf2-960e-ef6763d7680c&amp;RefID=myspace2&amp;code=110487250&amp;ln=en','110486387')">Darts: Cricket</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_110487250_Multiplayer"><a onclick="Project.openLobby('Lobby.aspx?lobby=ea209a11-af00-4cf2-960e-ef6763d7680c&amp;RefID=myspace2&amp;code=110487250&amp;ln=en','110486387')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Darts: Cricket" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+						
+							<td width="100px">
+							<table>
+								<tr> 
+									<td class="gameIconA"><div style="position:relative" id="bgIcon1"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=0b23533c-53f1-49a9-aacf-dbb4b1a4fa19&amp;RefID=myspace2&amp;code=110060403&amp;ln=en','110060513')"><img class="icon1" width="90px" height="90px" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails90x90/checkers90x90.gif" title="Checkers"><div style="display:block" class="highScoreIconBig" title="Play Diamond games to save your high score!"></div></a></div></td>
+								</tr>
+								<tr> 
+									<td class="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=0b23533c-53f1-49a9-aacf-dbb4b1a4fa19&amp;RefID=myspace2&amp;code=110060403&amp;ln=en','110060513')">Checkers</a></td>
+								</tr>
+								<tr> 
+									<td class="playButton"><div id="play_btn_110060403_Multiplayer"><a onclick="Project.openLobby('Lobby.aspx?lobby=0b23533c-53f1-49a9-aacf-dbb4b1a4fa19&amp;RefID=myspace2&amp;code=110060403&amp;ln=en','110060513')"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Checkers" border="0"></a></div></td>
+								</tr>
+							</table>
+							</td>
+							
+					<tr> 
+						<td colspan="5" class="moreGames"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110044360&amp;genre=Multiplayer&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More Multiplayer&nbsp;Games</a></td>
+					</tr>
+			</table>	
+		</td>
+	</tr>
+</table>
+				</div>
+			<!--[if !IE]> End Multi Player Games Box <![endif]-->
+			<!--[if !IE]> Downloads Box <![endif]-->
+				<div id="downloads"> 
+					<table id="_ctl0_DownloadsUC1_oDownloadsTable" border="0" cellpadding="0" cellspacing="0" height="100%">
+	<tr>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110086293&amp;genre=Online Arcade&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLarcade.gif" title="Arcade Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=0ccabcc2-d558-41c6-93f9-c980dae41891&amp;RefID=myspace2&amp;code=113715840&amp;ln=en','11368410')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/more_bloons60x60.gif" title="More Bloons"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=0ccabcc2-d558-41c6-93f9-c980dae41891&amp;RefID=myspace2&amp;code=113715840&amp;ln=en','11368410')">More Bloons</a></div>
+						<div id="play_btn_113715840_Online Arcade" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=0ccabcc2-d558-41c6-93f9-c980dae41891&amp;RefID=myspace2&amp;code=113715840&amp;ln=en','11368410')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play More Bloons" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=71247203-7e7c-4302-9cf3-13d49146b0e4&amp;RefID=myspace2&amp;code=115207150&amp;ln=en','115174777')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/gold_miner_classic60x60.gif" title="Gold Miner Classic"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=71247203-7e7c-4302-9cf3-13d49146b0e4&amp;RefID=myspace2&amp;code=115207150&amp;ln=en','115174777')">Gold Miner Classic</a></div>
+						<div id="play_btn_115207150_Online Arcade" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=71247203-7e7c-4302-9cf3-13d49146b0e4&amp;RefID=myspace2&amp;code=115207150&amp;ln=en','115174777')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Gold Miner Classic" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=8af7eec0-3149-4172-b9b9-4e72d505cdec&amp;RefID=myspace2&amp;code=113699237&amp;ln=en','113668533')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/diner_dash_flo_go60x60.gif" title="Diner Dash: Flo on the Go"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=8af7eec0-3149-4172-b9b9-4e72d505cdec&amp;RefID=myspace2&amp;code=113699237&amp;ln=en','113668533')">Diner Dash: Flo on the Go</a></div>
+						<div id="play_btn_113699237_Online Arcade" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=8af7eec0-3149-4172-b9b9-4e72d505cdec&amp;RefID=myspace2&amp;code=113699237&amp;ln=en','113668533')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Diner Dash: Flo on the Go" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110086293&amp;genre=Online Arcade&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Arcade&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+		<td></td>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110085510&amp;genre=Online Puzzle&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLpuzzle.gif" title="Puzzle Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/BigMoney60x60.gif" title="Big Money"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')">Big Money</a></div>
+						<div id="play_btn_115317760_Online Puzzle" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=a139ac12-9f37-4e51-8f8e-17d71f7d3ed9&amp;RefID=myspace2&amp;code=115317760&amp;ln=en','115284853')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Big Money" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=646c898e-7a49-4ba6-a211-e590979bed32&amp;RefID=myspace2&amp;code=114771193&amp;ln=en','114738273')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/jewelquest60x60.gif" title="Jewel Quest"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=646c898e-7a49-4ba6-a211-e590979bed32&amp;RefID=myspace2&amp;code=114771193&amp;ln=en','114738273')">Jewel Quest</a></div>
+						<div id="play_btn_114771193_Online Puzzle" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=646c898e-7a49-4ba6-a211-e590979bed32&amp;RefID=myspace2&amp;code=114771193&amp;ln=en','114738273')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Jewel Quest" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=9218d644-6b8d-4758-a33d-da877e8e9db1&amp;RefID=myspace2&amp;code=114845410&amp;ln=en','114812443')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/Elemental60x60.gif" title="Elemental"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=9218d644-6b8d-4758-a33d-da877e8e9db1&amp;RefID=myspace2&amp;code=114845410&amp;ln=en','114812443')">Elemental</a></div>
+						<div id="play_btn_114845410_Online Puzzle" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=9218d644-6b8d-4758-a33d-da877e8e9db1&amp;RefID=myspace2&amp;code=114845410&amp;ln=en','114812443')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Elemental" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110085510&amp;genre=Online Puzzle&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Puzzle&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+		<td></td>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110084727&amp;genre=Online Action&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLaction.gif" title="Action Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/butterfly_escape60x60.gif" title="Butterfly Escape"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')">Butterfly Escape</a></div>
+						<div id="play_btn_113640557_Online Action" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=a71c73e0-4beb-4de8-92f6-9145bdecc72f&amp;RefID=myspace2&amp;code=113640557&amp;ln=en','113609633')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Butterfly Escape" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=b68ac02a-5953-49b3-b3d7-6b9392332ada&amp;RefID=myspace2&amp;code=114730623&amp;ln=en','114697840')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/bubble_elements60x60.gif" title="Bubble Elements"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=b68ac02a-5953-49b3-b3d7-6b9392332ada&amp;RefID=myspace2&amp;code=114730623&amp;ln=en','114697840')">Bubble Elements</a></div>
+						<div id="play_btn_114730623_Online Action" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=b68ac02a-5953-49b3-b3d7-6b9392332ada&amp;RefID=myspace2&amp;code=114730623&amp;ln=en','114697840')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Bubble Elements" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=8f496d47-a096-433a-8b83-01007a6fae35&amp;RefID=myspace2&amp;code=113850300&amp;ln=en','113818863')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/Pillage_the_Village60x60.gif" title="Pillage the Village"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=8f496d47-a096-433a-8b83-01007a6fae35&amp;RefID=myspace2&amp;code=113850300&amp;ln=en','113818863')">Pillage the Village</a></div>
+						<div id="play_btn_113850300_Online Action" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=8f496d47-a096-433a-8b83-01007a6fae35&amp;RefID=myspace2&amp;code=113850300&amp;ln=en','113818863')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Pillage the Village" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110084727&amp;genre=Online Action&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Action&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+	<tr>
+		<td colspan="5"></td>
+	</tr>
+	<tr>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110087360&amp;genre=Online Cards&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLcards.gif" title="Cards Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=df6ed4d2-f323-493c-a456-b38c9206e71b&amp;RefID=myspace2&amp;code=113472560&amp;ln=en','113441573')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/jewelquest_sol60x60.gif" title="Jewel Quest Solitaire"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=df6ed4d2-f323-493c-a456-b38c9206e71b&amp;RefID=myspace2&amp;code=113472560&amp;ln=en','113441573')">Jewel Quest Solitaire</a></div>
+						<div id="play_btn_113472560_Online Cards" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=df6ed4d2-f323-493c-a456-b38c9206e71b&amp;RefID=myspace2&amp;code=113472560&amp;ln=en','113441573')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Jewel Quest Solitaire" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=674c42cb-a1c1-4196-b1c4-39f90115c952&amp;RefID=myspace2&amp;code=113722710&amp;ln=en','113691727')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/spider_solitaire60x60.gif" title="Spider Solitaire"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=674c42cb-a1c1-4196-b1c4-39f90115c952&amp;RefID=myspace2&amp;code=113722710&amp;ln=en','113691727')">Spider Solitaire</a></div>
+						<div id="play_btn_113722710_Online Cards" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=674c42cb-a1c1-4196-b1c4-39f90115c952&amp;RefID=myspace2&amp;code=113722710&amp;ln=en','113691727')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Spider Solitaire" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=c4175ced-a80f-49f6-b7a7-ce3e57491308&amp;RefID=myspace2&amp;code=114786333&amp;ln=en','114753397')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/poker_superstars_360x60.gif" title="Poker Superstars III"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=c4175ced-a80f-49f6-b7a7-ce3e57491308&amp;RefID=myspace2&amp;code=114786333&amp;ln=en','114753397')">Poker Superstars III</a></div>
+						<div id="play_btn_114786333_Online Cards" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=c4175ced-a80f-49f6-b7a7-ce3e57491308&amp;RefID=myspace2&amp;code=114786333&amp;ln=en','114753397')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Poker Superstars III" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110087360&amp;genre=Online Cards&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Cards&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+		<td></td>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110094440&amp;genre=Online Word&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLword.gif" title="Word Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=2d90cd65-8c9c-4811-bb7f-dbd682f27e98&amp;RefID=myspace2&amp;code=115309603&amp;ln=en','115276917')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/schooled60x60.gif" title="Schooled"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=2d90cd65-8c9c-4811-bb7f-dbd682f27e98&amp;RefID=myspace2&amp;code=115309603&amp;ln=en','115276917')">Schooled</a></div>
+						<div id="play_btn_115309603_Online Word" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=2d90cd65-8c9c-4811-bb7f-dbd682f27e98&amp;RefID=myspace2&amp;code=115309603&amp;ln=en','115276917')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Schooled" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=f4623ee1-5555-4eb7-9e6b-00b8e501ac73&amp;RefID=myspace2&amp;code=114862470&amp;ln=en','114829643')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/Boggle60x60.gif" title="Boggle"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=f4623ee1-5555-4eb7-9e6b-00b8e501ac73&amp;RefID=myspace2&amp;code=114862470&amp;ln=en','114829643')">Boggle</a></div>
+						<div id="play_btn_114862470_Online Word" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=f4623ee1-5555-4eb7-9e6b-00b8e501ac73&amp;RefID=myspace2&amp;code=114862470&amp;ln=en','114829643')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Boggle" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=643c27e7-531e-4921-b9e7-2032b16c5091&amp;RefID=myspace2&amp;code=114965590&amp;ln=en','114932637')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/flipwords260x60.gif" title="Flip Words 2"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=643c27e7-531e-4921-b9e7-2032b16c5091&amp;RefID=myspace2&amp;code=114965590&amp;ln=en','114932637')">Flip Words 2</a></div>
+						<div id="play_btn_114965590_Online Word" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=643c27e7-531e-4921-b9e7-2032b16c5091&amp;RefID=myspace2&amp;code=114965590&amp;ln=en','114932637')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Flip Words 2" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=110094440&amp;genre=Online Word&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Word&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+		<td></td>
+		<td>
+<table class="width100Percents">
+	<tr> 
+		<td class="categoryHeaderB"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=11009827&amp;genre=Online Strategy&amp;RefID=myspace2&amp;ln=en&amp;=0"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Category/OLstrategy.gif" title="Strategy Games" border="0"></a></td>
+	</tr>
+	<tr> 
+		<td class="categoryContentB">
+			<table class="categoryB">
+			
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=0bdf9af6-00ca-4286-89f2-f655aaf661b8&amp;RefID=myspace2&amp;code=114890210&amp;ln=en','114857510')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/sonny60x60.gif" title="Sonny"><div style="display:none" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=0bdf9af6-00ca-4286-89f2-f655aaf661b8&amp;RefID=myspace2&amp;code=114890210&amp;ln=en','114857510')">Sonny</a></div>
+						<div id="play_btn_114890210_Online Strategy" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=0bdf9af6-00ca-4286-89f2-f655aaf661b8&amp;RefID=myspace2&amp;code=114890210&amp;ln=en','114857510')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Sonny" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=76e0543b-1f1e-4034-87b4-a6f4dbd1dc77&amp;RefID=myspace2&amp;code=114892457&amp;ln=en','114859503')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/desktop_tower_defence60x60.gif" title="Desktop Tower Defense"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=76e0543b-1f1e-4034-87b4-a6f4dbd1dc77&amp;RefID=myspace2&amp;code=114892457&amp;ln=en','114859503')">Desktop Tower Defense</a></div>
+						<div id="play_btn_114892457_Online Strategy" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=76e0543b-1f1e-4034-87b4-a6f4dbd1dc77&amp;RefID=myspace2&amp;code=114892457&amp;ln=en','114859503')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Desktop Tower Defense" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr> 
+						<td class="gameIconB"><div style="position:relative" id="bgIcon2"><a href="javascript:Project.openLobby('Lobby.aspx?lobby=40fdf6f0-3b6f-4feb-9c83-5e4be13906b2&amp;RefID=myspace2&amp;code=114790867&amp;ln=en','114757960')"><img width="60px" height="60px" class="icon2" src="/web/20081216040140im_/http://games.myspace.com/images/games/thumbnails60x60/battleship60x60.gif" title="Battleship"><div style="display:block" class="highScoreIcon" title="Play Diamond games to save your high score!"></div></a></div></td>
+						<td class="alignLeft alignTop">
+						<div id="gameLink"><a class="boldGrey" href="javascript:Project.openLobby('Lobby.aspx?lobby=40fdf6f0-3b6f-4feb-9c83-5e4be13906b2&amp;RefID=myspace2&amp;code=114790867&amp;ln=en','114757960')">Battleship</a></div>
+						<div id="play_btn_114790867_Online Strategy" class="alignRight"><br><a onclick="Project.openLobby('Lobby.aspx?lobby=40fdf6f0-3b6f-4feb-9c83-5e4be13906b2&amp;RefID=myspace2&amp;code=114790867&amp;ln=en','114757960')"><img style="cursor:pointer" src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/Buttons/BTN_play_56x27.gif" title="Play Battleship" border="0"></a></div>
+						</td>
+					</tr>
+				
+					<tr>
+						<td colspan="2" class="alignRight"><a href="/web/20081216040140/http://games.myspace.com/Category.aspx?code=11009827&amp;genre=Online Strategy&amp;RefID=myspace2&amp;ln=en&amp;=0" class="boldGrey">More&nbsp;Strategy&nbsp;Games</a></td>
+					</tr>
+					
+			</table>
+		</td>
+	</tr>
+</table></td>
+	</tr>
+</table>
+
+				</div>
+				<!--[if !IE]>End Downloads Box <![endif]-->			
+		<!--[if !IE]> End HP Content <![endif]-->
+		</div>
+		<!--[if !IE]> HP Right Column <![endif]-->
+		<div id="hpRight"> 
+			<!--[if !IE]> Top Right Ad Box <![endif]-->
+			<div class="IndexAd"><div style="border: solid 1px #7BA03B;"><script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://fimserve.myspace.com/?context=Games&amp;location=MedRec"></script>
+<script type="text/javascript">var gcat=3;var gsku=222222;</script></div></div>
+			<!--[if !IE]> End Top Right Ad Box <![endif]-->
+			
+			<!--[if !IE]> Top Right Ad Box <![endif]-->
+			<div class="IndexAd"></div>
+			<!--[if !IE]> End Top Right Ad Box <![endif]-->
+			
+			<!--[if !IE]> Cloe's Game News Box <![endif]-->
+			
+
+<div id="gameNews"> 
+	<table class="width100Percents">
+		<tr>
+			<td><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/chloe"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/Header_gameNews_310x82.gif" border="0"></a></td>
+		</tr>
+		<tr>
+			<td width="280px" class="bgGameNews"><div align="left">
+<!-- add to friends -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2" style="Padding: 0 0 10 0;">
+<table><tr><td><a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&amp;friendID=215787097"><img src="https://web.archive.org/web/20081216040140im_/http://games.myspace.com/images/promos/myspace/icon-add-to-friends.gif" width="16" height="18"></a></td>
+<td>&nbsp;<a href="https://web.archive.org/web/20081216040140/http://messaging.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&amp;friendID=215787097" class="newsLink">Add to Friends</a></td></tr></table>
+</td>
+</tr>
+</table>
+<!-- /add to friends -->
+
+<table class="width100Percents">
+	<tr>
+		<td class="gameNewsIcon"><div id="bgNewsIcon"><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/Land/ToLobby.aspx?code=115352427&amp;refid=homenews"><img src="/web/20081216040140im_/http://games.myspace.com/images/games/pool_v2_mp/pool_v2_mp_icon01.gif" alt="8ball" border="0" class="newsIcon"></a></div></td>
+		<td class="alignLeft alignTop"><h1 class="newsTitle">Featured Game</h1>
+		<p class="newsDescr">In our popular multiplayer pool game you can play three different fun modes: 9-ball, cutthroat, and the always classic 8-ball. Just go to game settings and select the pool variety you want. Play <a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/Land/ToLobby.aspx?code=115352427&amp;refid=homenews" class="newsLink">Pool!</a>!
+
+</p></td>
+	</tr>
+</table>
+
+<!-- dashed hr -->
+<table class="hrNews">
+	<tr>
+		<td><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/GUI_hrGameNews_261x1.gif" alt=""></td>
+	</tr>
+</table>
+<!-- end dashed hr-->
+
+<table class="width100Percents">
+	<tr>
+		<td class="gameNewsIcon"><div id="bgNewsIcon"><a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/Land/ToLobby.aspx?code=114848900&amp;refid=homenews"><img src="/web/20081216040140im_/http://games.myspace.com/images/games/scurbbles/scurbbles_icon01.gif" alt="GameIcon" border="0" class="newsIcon"></a></div></td>
+		<td class="alignLeft alignTop"><h1 class="newsTitle">Tip of the day</h1>
+		<p class="newsDescr">Trying to boost your score in Bubble Town? You'll have a tough time beating my score, 
+but be sure to aim carefully and bounce your shots off the walls to reach the difficult to reach places and get out of a tight 
+jam. You will also receive more bonus points by doing this! Play <a href="https://web.archive.org/web/20081216040140/http://games.myspace.com/Land/ToLobby.aspx?code=114848900&amp;refid=homenews" class="newsLink">Bubble Town</a> now!</p></td>
+	</tr>
+</table>
+
+<!-- dashed hr -->
+<table class="hrNews">
+	<tr>
+		<td><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/GUI_hrGameNews_261x1.gif" alt=""></td>
+	</tr>
+</table>
+<!-- end dashed hr-->
+
+<table class="width100Percents">
+	<tr>
+		<td class="gameNewsIcon"><div id="bgNewsIcon"><a href="https://web.archive.org/web/20081216040140/http://blog.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=215787097"><img src="/web/20081216040140im_/http://games.myspace.com/images/promos/myspace/blog_icon.gif" alt="GameIcon" border="0" class="newsIcon"></a></div></td>
+		<td class="alignLeft alignTop"><h1 class="newsTitle">My Blog</h1>
+		<p class="newsDescr"><b>News flash! News flash!</b><br>Brand new games! My weekend update with pics! MySpace 
+Games updates! <a href="https://web.archive.org/web/20081216040140/http://blog.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=215787097" class="newsLink">View my 
+blog</a> for MySpace Games updates and more!</p></td> 
+	</tr>
+</table>
+
+<!-- dashed hr -->
+<table class="hrNews">
+	<tr>
+		<td><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/GUI_hrGameNews_261x1.gif" alt=""></td>
+	</tr>
+</table>
+<!-- end dashed hr-->
+<div class="alignRight"><a href="https://web.archive.org/web/20081216040140/http://www.myspace.com/myspacegames" class="newsLink paddingR5px">Go To Chloe's Profile</a></div></td>
+		</tr>
+		<tr>
+			<td><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/Footer_gameNews_310x15.gif"></td>
+		</tr>
+	</table>
+</div>
+			<!--[if !IE]> End Cloe's Game News Box <![endif]-->
+			
+			<!--[if !IE]> HOF Box <![endif]-->
+			
+			<!--[if !IE]> End HOF Box <![endif]-->
+			
+			<!--[if !IE]> Right Ad Box <![endif]-->
+			<div class="IndexAd"></div>
+			<!--[if !IE]> End  Right Ad Box <![endif]-->
+			
+			<!--[if !IE]> Sponsered Links Box <![endif]-->
+			<div id="sponseredLinks"><div style="border: solid 1px #7BA03B;"><script type="text/javascript">var disableMSPLinks=1;</script>
+<script src="https://web.archive.org/web/20081216040140js_/http://fimserve.myspace.com/?placement=myspace_games" type="text/javascript"></script></div></div>
+			<!--[if !IE]> End Sponsered Links Box <![endif]-->
+			
+			
+		</div>
+		<!--[if !IE]> End HP Right Column <![endif]-->
+		<div id="bgStretch">&nbsp;</div>
+		
+		<!--[if !IE]> bottom Box <![endif]-->
+		<div style="text-align: -moz-center;width:100%;_text-align:center">
+			<div style="width:730px"></div>
+		</div>
+		<!--[if !IE]> End bottom Box <![endif]-->
+		
+	</div>
+	<!-- End Main Content -->
+	</td></tr></table>
+	</div>
+
+	<!-- a Place Holder for middle content End -->
+	
+	<!-- Oberon Footer - Start -->
+	
+<!-- Footer -->
+<div><div id="pfooter" style="position:relative;top:-1px"><img src="/web/20081216040140im_/http://games.myspace.com/Graphics/MySpace/en/GUI/ICN_oberon_28x23.gif" title="Oberon Media" class="alignMiddle">&nbsp;<span class="spacer35px">Presented by Oberon Media</span><a id="lnkAbout" target="_blank" style="font-weight:normal" href="/web/20081216040140/http://games.myspace.com/AboutUs.aspx" class="footer">About us</a>&nbsp;|<a id="lnkFAQ" target="_blank" style="font-weight:normal" href="/web/20081216040140/http://games.myspace.com/FAQ.aspx" class="footer">&nbsp;Support</a>&nbsp;|<a id="lnkNotices" target="_blank" style="font-weight:normal" href="/web/20081216040140/http://games.myspace.com/Notices.aspx" class="footer">&nbsp;Notices</a>&nbsp;|&nbsp;<a id="lnkPrivacy" target="_blank" style="font-weight:normal" href="/web/20081216040140/http://games.myspace.com/Privacy.aspx" class="footer">Oberon Media Privacy</a></div></div>
+<!-- End Footer -->
+	<!-- Oberon Footer - End -->
+				
+	<!-- MySpace Footer  - Start -->
+	<!-- Footer:Standard Start -->
+<script type="text/javascript">if (MySpace.Footer == null)MySpace.Footer = {};MySpace.Footer.InternationalLinkFunction = function() {if (document.getElementById("intlLink") != null){ if (document.getElementById("internationalLinks") == null){document.getElementById("intlLink").href = "https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=InternationalMap";document.getElementById("intlLink").innerHTML = "MySpace International";}else{document.getElementById("intlLink").href = "javascript:msglobalnav.toggleInternationalLinks();";}}}; $addHandler(window, 'load', MySpace.Footer.InternationalLinkFunction);  </script><style type="text/css">
+#footer{POSITION :static;}
+</style>
+<script>
+var isIntlFooterOn = false;
+var isie = navigator.userAgent.indexOf('MSIE') >= 0
+msglobalnav.toggleInternationalLinks = function() {
+    var internationalLinks = document.getElementById('internationalLinks');
+            var intlLink = document.getElementById('intlLink');
+            if (isIntlFooterOn) {
+                 internationalLinks.style.visibility = 'hidden';
+		    }
+            else {
+                var pos = Sys.UI.DomElement.getLocation(intlLink);
+                if (!isie) {
+                    internationalLinks.style.marginLeft = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) + 25) + 'px';
+                }
+                else {
+                    var lo = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) - (document.body.offsetWidth / 2));
+                    if (-lo > internationalLinks.offsetWidth) 
+                        lo = lo + (document.body.offsetWidth / 2);
+                    internationalLinks.style.marginLeft = lo + 'px';
+                }
+                internationalLinks.style.visibility = 'visible';
+
+            }
+            isIntlFooterOn = !isIntlFooterOn;
+    };
+</script>
+
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br><a class="text" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">About</a> | <a class="text" href="https://web.archive.org/web/20081216040140/http://faq.myspace.com/" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">FAQ</a> | <a class="text" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">Terms</a> |  <a class="text" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">Privacy Policy</a> | <a class="text" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safety_pagehome" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">Safety Tips</a> | <a class="text" href="https://web.archive.org/web/20081216040140/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">Contact MySpace</a> |
+<script type="text/javascript">
+if(displayAbuseReportLink == true)
+{
+document.write("<a hr" + "ef='https://web.archive.org/web/20081216040140/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\">Report Abuse<" + "/a> | ");
+}
+</script>
+ <a class="text" href="https://web.archive.org/web/20081216040140/https://advertise.myspace.com/login.html?adv=gf.1" target="_blank" onclick="MySpace.CMS.track('a596c25c-17be-4564-96f3-fef1aadb27d4')">Advertise</a> | <a class="text" id="intlLink" href="javascript:msglobalnav.toggleInternationalLinks();">MySpace International  ▼</a>
+
+<script>	
+function popLanguageOverlay(culture, url)
+{
+        MySpace.UI.Header.languageLinkClick(culture, url, 1);
+}	
+</script>
+ 
+ 
+
+
+<br/><span id="searchControlFooter"><!-- BOS -->
+<div id="searchContainer_Footer" class="global"><form id="formSearch_Footer" name="srch_Footer" onsubmit="return (document.getElementById('search_q_Footer').value.length > 0);" action="https://web.archive.org/web/20081216040140/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Footer" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Footer" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Footer" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Footer" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Footer');" onmouseout="msglobalnav.hideSearchTypes('Footer');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Footer" onmouseover="msglobalnav.srchMenuList(true,'Footer');" onmouseout="msglobalnav.srchMenuList(false,'Footer');"><ul><li><a id="People_Footer" href="javascript:msglobalnav.switchSearchTypeTo('People','Footer')">People</a></li><li><a id="AllMySpace_Footer" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Footer')">MySpace</a></li><li><a id="Web_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Web','Footer')">Web</a></li><li><a id="Music_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Music','Footer')">Music</a></li><li><a id="MySpaceTV_Footer" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Footer')">Video</a></li><li><a id="Images_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Images','Footer')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Footer"/></div></div><div id="googleLogo_Footer" style="background-image: url(https://web.archive.org/web/20081216040140im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><script type="text/javascript">var _notImportant = 12;</script><!-- EOS -->
+</span><div class="clear">&copy;2003-2008 MySpace.com. All Rights Reserved.
+
+</div><style><!--
+
+div#searchContainer_Footer {z-index:1000000 !important;}
+div#internationalLinks{z-index:1000009 !important;}
+
+
+--></style>
+<div id="internationalLinks" style="height: 485px;margin-top: -485px; .margin-top: -485px;">
+<div class="closer"><a href="javascript:msglobalnav.toggleInternationalLinks();">Close</a></div>
+<div class="column"><div class="header">Americas</div>
+<ul class="bottomMargin"><li><a href="https://web.archive.org/web/20081216040140/http://br.myspace.com/">Brazil</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://ca.myspace.com/">Canada </a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://cf.myspace.com/">Canada (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://la.myspace.com/">Latin America (Español)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://mx.myspace.com/">Mexico</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://us.myspace.com/">United States (English)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://latino.myspace.com/">United States (Latino)</a></li>
+</ul><div class="header">Asia Pacific</div>
+<ul><li><a href="https://web.archive.org/web/20081216040140/http://au.myspace.com/">Australia</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://in.myspace.com/">India</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://jp.myspace.com/">Japan</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://kr.myspace.com/">Korea</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://nz.myspace.com/">New Zealand</a></li>
+</ul></div>
+<div class="column"><div class="header">Europe</div>
+<ul><li><a href="https://web.archive.org/web/20081216040140/http://at.myspace.com/">Austria</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://belgie.myspace.com/">Belgium (Nederland)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://belgique.myspace.com/">Belgium (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://dk.myspace.com/">Denmark</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://fi.myspace.com/">Finland</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://fr.myspace.com/">France</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://de.myspace.com/">Germany</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://ie.myspace.com/">Ireland</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://it.myspace.com/">Italy</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://nl.myspace.com/">Netherlands</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://no.myspace.com/">Norway</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://pt.myspace.com/">Portugal</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://pl.myspace.com/">Poland</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://ru.myspace.com/">Russia</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://es.myspace.com/">Spain</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://se.myspace.com/">Sweden</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://schweiz.myspace.com/">Switzerland (Deutsch)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://suisse.myspace.com/">Switzerland (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://svizzera.myspace.com/">Switzerland (Italiano)</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://tr.myspace.com/">Turkey</a></li>
+<li><a href="https://web.archive.org/web/20081216040140/http://uk.myspace.com/">UK</a></li>
+</ul></div></div>
+
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googleLogo_Footer', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+</script>
+<![endif]-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20081216040140/https://ssl." : "https://web.archive.org/web/20081216040140/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6293770-1");
+pageTracker._setDomainName(".myspace.com");
+pageTracker._setSampleRate("1"); //sets sampling rate to 1 percent
+pageTracker._trackPageview(); 
+</script><!-- Footer:Standard End -->
+<script type="text/javascript" src="https://web.archive.org/web/20081216040140js_/http://x.myspacecdn.com/modules/common/static/js/global039.js"></script>
+<div><script type="text/javascript">
+  
+   //hide myspace latino
+    function hideLatinoLink()
+    {	
+		var msLatino = document.getElementById('msLatino');
+        if(msLatino!=null)msLatino.style.display='none';
+    } 
+	hideLatinoLink();
+</script></div>
+	<!-- MySpace Footer  - End -->
+
+	
+</body>
+<!-- /Channel Skin - End --></html><!--
+     FILE ARCHIVED ON 04:01:40 Dec 16, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:32 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.686
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.01
+  esindex: 0.015
+  cdx.remote: 56.084
+  LoadShardBlock: 191.158 (3)
+  PetaboxLoader3.resolve: 151.139 (2)
+  PetaboxLoader3.datanode: 179.568 (4)
+  load_resource: 289.381
+-->

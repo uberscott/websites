@@ -1,0 +1,1018 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--GLOBAL-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- ELS2MWEBNET2173 -->
+<!-- Signup -->
+<head id="ctl00_ctl00_ctl00_Head1"><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://signups.myspace.com:80/index.cfm?fuseaction=signup","20081216072227","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1229412147");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<script type="text/javascript">
+	
+var MySpace = {};
+var MySpaceRes = {};
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"Signup"};
+
+	MySpace.StaticContentBase='https://web.archive.org/web/20081216072227/http://x.myspacecdn.com';
+	
+MySpace.ClientMaintenanceConfigs = {"asyncphotobrowsecaching":0,"msplinksconvertall":0,"photocommentsajax":0,"inf_ind_newvideocomment":0,"promptaftertagging":0,"enablevideocategorydropdown":0,"applications_userapppreferences":0,"applications_enablev2addapppopup":0,"inf_ind_unreadim":0,"webimtestclient":0,"applications_showafterloaduhp":0,"applications_showafterloadprofiles":0,"photoviewcountsui":0,"mailnavcounterclientsideupdates":0,"eventrounterfailover":0,"applications_enablev2settingspopup":0,"applications_enablev2requestpermissionpopup":0};
+MySpace.ClientIntMaintenanceConfigs = {};
+
+</script><title>
+	Signup For MySpace, now with Free Music
+</title><meta name="description" content="Signup for MySpace and get an account now! MySpace is a completely free and now with hundreds of thousands of FREE streaming Music! Create your custom MySpace Profile, upload your pictures, share your photo album, send mail and IMs, write blogs and comments and share your much. Signup for MySpace Today!"/>
+	<!--MainXHTML-->
+	
+	<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"></meta>
+	<meta http-equiv="expires" content="0"/>
+	<meta http-equiv="Pragma" content="no-cache"/>	
+	
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>      
+
+
+<script type="text/javascript" src="https://web.archive.org/web/20081216072227js_/http://x.myspacecdn.com/modules/common/static/js/myspacejs068.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20081216072227js_/http://x.myspacecdn.com/modules/signup/static/js/signup022.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216072227cs_/http://x.myspacecdn.com/modules/common/static/css/global028.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216072227cs_/http://x.myspacecdn.com/modules/signup/static/css/signup016.css"/>
+<script src="https://web.archive.org/web/20081216072227js_/http://cms.myspacecdn.com/cms/js/7d1331698b2044e98d8858bb096e2f270127.js" type="text/javascript"></script>
+</head>
+<body id="ctl00_ctl00_ctl00_body">
+
+	
+    <div id="wrap">         
+
+
+   <form name="aspnetForm" method="post" action="/web/20081216072227/http://signups.myspace.com/index.cfm?fuseaction=signup" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINzc4MzU3MThkGAEFPWN0bDAwJGN0bDAwJGN0bDAwJGNwTWFpbiRjcE1haW4kY3BNYWluJENhcHRjaGEkQ2FwdGNoYUNvbnRyb2wPFCsAAmRoZA=="/>
+</div>
+
+<script type="text/javascript"> var g_statelist = [ {id: "1", title: "Alabama", refID:"223"},{id: "2", title: "Alaska", refID:"223"},{id: "3", title: "Arizona", refID:"223"},{id: "4", title: "Arkansas", refID:"223"},{id: "5", title: "California", refID:"223"},{id: "6", title: "Colorado", refID:"223"},{id: "7", title: "Connecticut", refID:"223"},{id: "8", title: "Delaware", refID:"223"},{id: "9", title: "Washington DC", refID:"223"},{id: "10", title: "Florida", refID:"223"},{id: "11", title: "Georgia", refID:"223"},{id: "12", title: "Hawaii", refID:"223"},{id: "13", title: "Idaho", refID:"223"},{id: "14", title: "Illinois", refID:"223"},{id: "15", title: "Indiana", refID:"223"},{id: "16", title: "Iowa", refID:"223"},{id: "17", title: "Kansas", refID:"223"},{id: "18", title: "Kentucky", refID:"223"},{id: "19", title: "Louisiana", refID:"223"},{id: "20", title: "Maine", refID:"223"},{id: "21", title: "Maryland", refID:"223"},{id: "22", title: "Massachusetts", refID:"223"},{id: "23", title: "Michigan", refID:"223"},{id: "24", title: "Minnesota", refID:"223"},{id: "25", title: "Mississippi", refID:"223"},{id: "26", title: "Missouri", refID:"223"},{id: "27", title: "Montana", refID:"223"},{id: "28", title: "Nebraska", refID:"223"},{id: "29", title: "Nevada", refID:"223"},{id: "30", title: "New Hampshire", refID:"223"},{id: "31", title: "New Jersey", refID:"223"},{id: "32", title: "New Mexico", refID:"223"},{id: "33", title: "New York", refID:"223"},{id: "34", title: "North Carolina", refID:"223"},{id: "35", title: "North Dakota", refID:"223"},{id: "36", title: "Ohio", refID:"223"},{id: "37", title: "Oklahoma", refID:"223"},{id: "38", title: "Oregon", refID:"223"},{id: "39", title: "Pennsylvania", refID:"223"},{id: "40", title: "Rhode Island", refID:"223"},{id: "41", title: "South Carolina", refID:"223"},{id: "42", title: "South Dakota", refID:"223"},{id: "43", title: "Tennessee", refID:"223"},{id: "44", title: "Texas", refID:"223"},{id: "45", title: "Utah", refID:"223"},{id: "46", title: "Vermont", refID:"223"},{id: "47", title: "Virginia", refID:"223"},{id: "48", title: "Washington", refID:"223"},{id: "49", title: "West Virginia", refID:"223"},{id: "50", title: "Wisconsin", refID:"223"},{id: "51", title: "Wyoming", refID:"223"},{id: "52", title: "Ontario", refID:"38"},{id: "53", title: "Alberta", refID:"38"},{id: "54", title: "Prince Edward", refID:"38"},{id: "55", title: "Newfoundland", refID:"38"},{id: "56", title: "British Columbia", refID:"38"},{id: "57", title: "Nunavut", refID:"38"},{id: "58", title: "Manitoba", refID:"38"},{id: "59", title: "Nova Scotia", refID:"38"},{id: "60", title: "New Brunswick", refID:"38"},{id: "61", title: "Saskatchewan", refID:"38"},{id: "62", title: "Quebec", refID:"38"},{id: "63", title: "Yukon", refID:"38"},{id: "64", title: "East", refID:"222"},{id: "65", title: "Channel Islands", refID:"222"},{id: "66", title: "London and South East", refID:"222"},{id: "67", title: "Midlands", refID:"222"},{id: "68", title: "Northeast", refID:"222"},{id: "69", title: "Northern Ireland", refID:"222"},{id: "70", title: "Northwest", refID:"222"},{id: "71", title: "Scotland", refID:"222"},{id: "72", title: "South", refID:"222"},{id: "73", title: "Southwest", refID:"222"},{id: "74", title: "Wales", refID:"222"},{id: "75", title: "Australian Capital Territory", refID:"13"},{id: "76", title: "New South Wales", refID:"13"},{id: "77", title: "Northern Territory", refID:"13"},{id: "78", title: "Queensland", refID:"13"},{id: "79", title: "South Australia ", refID:"13"},{id: "80", title: "Tasmania", refID:"13"},{id: "82", title: "Western Australia", refID:"13"},{id: "84", title: "Isle Of Man", refID:"222"},{id: "87", title: "Central And Western", refID:"96"},{id: "88", title: "Eastern", refID:"96"},{id: "89", title: "Islands", refID:"96"},{id: "90", title: "Kowloon City", refID:"96"},{id: "91", title: "Kwai Tsing", refID:"96"},{id: "92", title: "Kwun Tong", refID:"96"},{id: "93", title: "North", refID:"96"},{id: "94", title: "Sai Kung", refID:"96"},{id: "95", title: "Sha Tin", refID:"96"},{id: "96", title: "Sham Shui Po", refID:"96"},{id: "97", title: "Southern", refID:"96"},{id: "98", title: "Tai Po", refID:"96"},{id: "99", title: "Tsuen Wan", refID:"96"},{id: "100", title: "Tuen Mun", refID:"96"},{id: "101", title: "Wan Chai", refID:"96"},{id: "102", title: "Wong Tai Sin", refID:"96"},{id: "103", title: "Yau Tsim Mong", refID:"96"},{id: "104", title: "Yuen Long", refID:"96"},{id: "105", title: "East", refID:"188"},{id: "106", title: "North", refID:"188"},{id: "107", title: "South", refID:"188"},{id: "108", title: "West", refID:"188"},{id: "110", title: "Victoria", refID:"13"},{id: "111", title: "All", refID:"188"},{id: "113", title: "All", refID:"240"},{id: "119", title: "Carlow", refID:"103"},{id: "120", title: "Cavan", refID:"103"},{id: "121", title: "Clare", refID:"103"},{id: "122", title: "Cork", refID:"103"},{id: "123", title: "Donegal", refID:"103"},{id: "124", title: "Dublin", refID:"103"},{id: "125", title: "Galway", refID:"103"},{id: "126", title: "Kerry", refID:"103"},{id: "127", title: "Kildare", refID:"103"},{id: "128", title: "Kilkenny", refID:"103"},{id: "129", title: "Laois", refID:"103"},{id: "130", title: "Leitrim", refID:"103"},{id: "131", title: "Limerick", refID:"103"},{id: "132", title: "Longford", refID:"103"},{id: "133", title: "Louth", refID:"103"},{id: "134", title: "Mayo", refID:"103"},{id: "135", title: "Meath", refID:"103"},{id: "136", title: "Monaghan", refID:"103"},{id: "137", title: "Offaly", refID:"103"},{id: "138", title: "Roscommon", refID:"103"},{id: "139", title: "Sligo", refID:"103"},{id: "140", title: "Tipperary", refID:"103"},{id: "141", title: "Waterford", refID:"103"},{id: "142", title: "Westmeath", refID:"103"},{id: "143", title: "Wexford", refID:"103"},{id: "144", title: "Wicklow", refID:"103"},{id: "145", title: "DOM", refID:"73"},{id: "146", title: "TOM", refID:"73"},{id: "147", title: "Ile-de-France", refID:"73"},{id: "148", title: "Midi-Pyrénées", refID:"73"},{id: "149", title: "Poitou-Charentes", refID:"73"},{id: "150", title: "Haute-Normandie", refID:"73"},{id: "151", title: "Limousin", refID:"73"},{id: "152", title: "Aquitaine", refID:"73"},{id: "153", title: "PACA", refID:"73"},{id: "154", title: "Pays de la Loire", refID:"73"},{id: "155", title: "Auvergne", refID:"73"},{id: "156", title: "Nord-Pas-de-Calais", refID:"73"},{id: "157", title: "Alsace", refID:"73"},{id: "158", title: "Picardie", refID:"73"},{id: "159", title: "Basse-Normandie", refID:"73"},{id: "160", title: "Champagne-Ardenne", refID:"73"},{id: "161", title: "Centre", refID:"73"},{id: "162", title: "Corse", refID:"73"},{id: "163", title: "Languedoc-Roussillon", refID:"73"},{id: "164", title: "Bourgogne", refID:"73"},{id: "165", title: "Franche-Comté", refID:"73"},{id: "166", title: "Rhône-Alpes", refID:"73"},{id: "167", title: "Bretagne", refID:"73"},{id: "168", title: "Lorraine", refID:"73"},{id: "217", title: "Agrigento", refID:"105"},{id: "218", title: "Alessandria", refID:"105"},{id: "219", title: "Ancona", refID:"105"},{id: "220", title: "Aosta", refID:"105"},{id: "221", title: "Arezzo", refID:"105"},{id: "222", title: "Ascoli Piceno", refID:"105"},{id: "223", title: "Asti", refID:"105"},{id: "224", title: "Avellino", refID:"105"},{id: "225", title: "Bari", refID:"105"},{id: "226", title: "Belluno", refID:"105"},{id: "227", title: "Benevento", refID:"105"},{id: "228", title: "Bergamo", refID:"105"},{id: "229", title: "Biella", refID:"105"},{id: "230", title: "Bologna", refID:"105"},{id: "231", title: "Bolzano", refID:"105"},{id: "232", title: "Brescia", refID:"105"},{id: "233", title: "Brindisi", refID:"105"},{id: "234", title: "Cagliari", refID:"105"},{id: "235", title: "Caltanissetta", refID:"105"},{id: "236", title: "Campobasso", refID:"105"},{id: "237", title: "Caserta", refID:"105"},{id: "238", title: "Catania", refID:"105"},{id: "239", title: "Catanzaro", refID:"105"},{id: "240", title: "Chieti", refID:"105"},{id: "241", title: "Como", refID:"105"},{id: "242", title: "Cosenza", refID:"105"},{id: "243", title: "Cremona", refID:"105"},{id: "244", title: "Crotone", refID:"105"},{id: "245", title: "Cuneo", refID:"105"},{id: "246", title: "Enna", refID:"105"},{id: "247", title: "Ferrara", refID:"105"},{id: "248", title: "Firenze", refID:"105"},{id: "249", title: "Foggia", refID:"105"},{id: "250", title: "Forlì - Cesena", refID:"105"},{id: "251", title: "Frosinone", refID:"105"},{id: "252", title: "Genova", refID:"105"},{id: "253", title: "Gorizia", refID:"105"},{id: "254", title: "Grosseto", refID:"105"},{id: "255", title: "Imperia", refID:"105"},{id: "256", title: "Isernia", refID:"105"},{id: "257", title: "La Spezia", refID:"105"},{id: "258", title: "L'Aquila", refID:"105"},{id: "259", title: "Latina", refID:"105"},{id: "260", title: "Lecce", refID:"105"},{id: "261", title: "Lecco", refID:"105"},{id: "262", title: "Livorno", refID:"105"},{id: "263", title: "Lodi", refID:"105"},{id: "264", title: "Lucca", refID:"105"},{id: "265", title: "Macerata", refID:"105"},{id: "266", title: "Mantova", refID:"105"},{id: "267", title: "Massa Carrara", refID:"105"},{id: "268", title: "Matera", refID:"105"},{id: "269", title: "Messina", refID:"105"},{id: "270", title: "Milano", refID:"105"},{id: "271", title: "Modena", refID:"105"},{id: "272", title: "Napoli", refID:"105"},{id: "273", title: "Novara", refID:"105"},{id: "274", title: "Nuoro", refID:"105"},{id: "275", title: "Oristano", refID:"105"},{id: "276", title: "Padova", refID:"105"},{id: "277", title: "Palermo", refID:"105"},{id: "278", title: "Parma", refID:"105"},{id: "279", title: "Pavia", refID:"105"},{id: "280", title: "Perugia", refID:"105"},{id: "281", title: "Pesaro", refID:"105"},{id: "282", title: "Pescara", refID:"105"},{id: "283", title: "Piacenza", refID:"105"},{id: "284", title: "Pisa", refID:"105"},{id: "285", title: "Pistoia", refID:"105"},{id: "286", title: "Pordenone", refID:"105"},{id: "287", title: "Potenza", refID:"105"},{id: "288", title: "Prato", refID:"105"},{id: "289", title: "Ragusa", refID:"105"},{id: "290", title: "Ravenna", refID:"105"},{id: "291", title: "Reggio Calabria", refID:"105"},{id: "292", title: "Reggio Emilia", refID:"105"},{id: "293", title: "Rieti", refID:"105"},{id: "294", title: "Rimini", refID:"105"},{id: "295", title: "Roma", refID:"105"},{id: "296", title: "Rovigo", refID:"105"},{id: "297", title: "Salerno", refID:"105"},{id: "298", title: "Sassari", refID:"105"},{id: "299", title: "Savona", refID:"105"},{id: "300", title: "Siena", refID:"105"},{id: "301", title: "Siracusa", refID:"105"},{id: "302", title: "Sondrio", refID:"105"},{id: "303", title: "Taranto", refID:"105"},{id: "304", title: "Teramo", refID:"105"},{id: "305", title: "Terni", refID:"105"},{id: "306", title: "Torino", refID:"105"},{id: "307", title: "Trapani", refID:"105"},{id: "308", title: "Trento", refID:"105"},{id: "309", title: "Treviso", refID:"105"},{id: "310", title: "Trieste", refID:"105"},{id: "311", title: "Udine", refID:"105"},{id: "312", title: "Varese", refID:"105"},{id: "313", title: "Venezia", refID:"105"},{id: "314", title: "Verbania-Cusio-Ossola", refID:"105"},{id: "315", title: "Vercelli", refID:"105"},{id: "316", title: "Verona", refID:"105"},{id: "317", title: "Vibo Valenza", refID:"105"},{id: "318", title: "Vicenza", refID:"105"},{id: "319", title: "Viterbo", refID:"105"},{id: "320", title: "Berlin", refID:"81"},{id: "321", title: "Nordrhein-Westfalen", refID:"81"},{id: "322", title: "Mecklenburg-Vorpommern", refID:"81"},{id: "323", title: "Saarland", refID:"81"},{id: "324", title: "Baden-Württemberg", refID:"81"},{id: "325", title: "Sachsen-Anhalt", refID:"81"},{id: "326", title: "Bayern", refID:"81"},{id: "327", title: "Hamburg", refID:"81"},{id: "328", title: "Bremen", refID:"81"},{id: "329", title: "Rheinland-Pfalz", refID:"81"},{id: "330", title: "Sachsen ", refID:"81"},{id: "331", title: "Thüringen", refID:"81"},{id: "333", title: "Schleswig-Holstein", refID:"81"},{id: "334", title: "Niedersachsen", refID:"81"},{id: "335", title: "Hessen", refID:"81"},{id: "336", title: "Brandenburg", refID:"81"},{id: "337", title: "Álava", refID:"195"},{id: "338", title: "Albacete", refID:"195"},{id: "339", title: "Alicante", refID:"195"},{id: "340", title: "Almería", refID:"195"},{id: "341", title: "Asturias", refID:"195"},{id: "342", title: "Ávila", refID:"195"},{id: "343", title: "Badajoz", refID:"195"},{id: "344", title: "Balears, Illes", refID:"195"},{id: "345", title: "Barcelona", refID:"195"},{id: "346", title: "Burgos", refID:"195"},{id: "347", title: "Cáceres", refID:"195"},{id: "348", title: "Cádiz", refID:"195"},{id: "349", title: "Cantabria", refID:"195"},{id: "350", title: "Castellón", refID:"195"},{id: "351", title: "Ceuta", refID:"195"},{id: "352", title: "Ciudad Real", refID:"195"},{id: "353", title: "Córdoba", refID:"195"},{id: "354", title: "Coruña, A", refID:"195"},{id: "355", title: "Cuenca", refID:"195"},{id: "356", title: "Girona/Gerona", refID:"195"},{id: "357", title: "Granada", refID:"195"},{id: "358", title: "Guadalajara", refID:"195"},{id: "359", title: "Guipúzcoa", refID:"195"},{id: "360", title: "Huelva", refID:"195"},{id: "361", title: "Huesca", refID:"195"},{id: "362", title: "Jaén", refID:"195"},{id: "363", title: "León", refID:"195"},{id: "364", title: "Lérida/Lleida", refID:"195"},{id: "365", title: "Lugo", refID:"195"},{id: "366", title: "Madrid", refID:"195"},{id: "367", title: "Málaga", refID:"195"},{id: "368", title: "Melilla", refID:"195"},{id: "369", title: "Murcia", refID:"195"},{id: "370", title: "Navarra", refID:"195"},{id: "371", title: "Ourense", refID:"195"},{id: "372", title: "Palencia", refID:"195"},{id: "373", title: "Palmas, Las", refID:"195"},{id: "374", title: "Pontevedra", refID:"195"},{id: "375", title: "Rioja, La", refID:"195"},{id: "376", title: "Salamanca", refID:"195"},{id: "377", title: "Santa Cruz de Tenerife", refID:"195"},{id: "378", title: "Segovia", refID:"195"},{id: "379", title: "Sevilla", refID:"195"},{id: "380", title: "Soria", refID:"195"},{id: "381", title: "Tarragona", refID:"195"},{id: "382", title: "Teruel", refID:"195"},{id: "383", title: "Toledo", refID:"195"},{id: "384", title: "Valencia", refID:"195"},{id: "385", title: "Valladolid", refID:"195"},{id: "386", title: "Vizcaya", refID:"195"},{id: "387", title: "Zamora", refID:"195"},{id: "388", title: "Zaragoza", refID:"195"},{id: "389", title: "Drenthe", refID:"150"},{id: "390", title: "Flevoland", refID:"150"},{id: "391", title: "Friesland", refID:"150"},{id: "392", title: "Gelderland", refID:"150"},{id: "393", title: "Groningen", refID:"150"},{id: "394", title: "Limburg", refID:"150"},{id: "395", title: "Noord-Brabant", refID:"150"},{id: "396", title: "Noord-Holland", refID:"150"},{id: "397", title: "Overijssel", refID:"150"},{id: "398", title: "Utrecht", refID:"150"},{id: "399", title: "Zeeland", refID:"150"},{id: "400", title: "Zuid-Holland", refID:"150"},{id: "401", title: "Northwest Territories", refID:"38"},{id: "402", title: "Auckland", refID:"153"},{id: "403", title: "Bay of Plenty", refID:"153"},{id: "404", title: "Canterbury", refID:"153"},{id: "405", title: "Gisborne", refID:"153"},{id: "406", title: "Hawke's Bay", refID:"153"},{id: "407", title: "Manawatu-Wanganui", refID:"153"},{id: "408", title: "Marlborough", refID:"153"},{id: "409", title: "Nelson", refID:"153"},{id: "410", title: "Northland", refID:"153"},{id: "411", title: "Otago", refID:"153"},{id: "412", title: "Southland", refID:"153"},{id: "413", title: "Taranaki", refID:"153"},{id: "414", title: "Tasman", refID:"153"},{id: "415", title: "Waikato", refID:"153"},{id: "416", title: "Wellington", refID:"153"},{id: "417", title: "West Coast", refID:"153"},{id: "418", title: "Aguascalientes", refID:"138"},{id: "419", title: "Baja California", refID:"138"},{id: "420", title: "Baja California Sur", refID:"138"},{id: "421", title: "Campeche", refID:"138"},{id: "422", title: "Chiapas", refID:"138"},{id: "423", title: "Chihuahua", refID:"138"},{id: "424", title: "Coahuila", refID:"138"},{id: "425", title: "Colima", refID:"138"},{id: "426", title: "Distrito Federal", refID:"138"},{id: "427", title: "Durango", refID:"138"},{id: "428", title: "Guanajuato", refID:"138"},{id: "429", title: "Guerrero", refID:"138"},{id: "430", title: "Hidalgo", refID:"138"},{id: "431", title: "Jalisco", refID:"138"},{id: "432", title: "México", refID:"138"},{id: "433", title: "Michoacán", refID:"138"},{id: "434", title: "Morelos", refID:"138"},{id: "435", title: "Nayarit", refID:"138"},{id: "436", title: "Nuevo León", refID:"138"},{id: "437", title: "Oaxaca", refID:"138"},{id: "438", title: "Puebla", refID:"138"},{id: "439", title: "Querétaro", refID:"138"},{id: "440", title: "Quintana Roo", refID:"138"},{id: "441", title: "San Luis Potosí", refID:"138"},{id: "442", title: "Sinaloa", refID:"138"},{id: "443", title: "Sonora", refID:"138"},{id: "444", title: "Tabasco", refID:"138"},{id: "445", title: "Tamaulipas", refID:"138"},{id: "446", title: "Tlaxcala", refID:"138"},{id: "447", title: "Veracruz", refID:"138"},{id: "448", title: "Yucatán", refID:"138"},{id: "449", title: "Zacatecas ", refID:"138"},{id: "450", title: "北京市", refID:"44"},{id: "451", title: "重庆市", refID:"44"},{id: "452", title: "天津市", refID:"44"},{id: "453", title: "上海市", refID:"44"},{id: "454", title: "黑龙江省", refID:"44"},{id: "455", title: "吉林省", refID:"44"},{id: "456", title: "辽宁省", refID:"44"},{id: "457", title: "青海省", refID:"44"},{id: "458", title: "山西省", refID:"44"},{id: "459", title: "陕西省", refID:"44"},{id: "460", title: "河南省", refID:"44"},{id: "461", title: "湖南省", refID:"44"},{id: "462", title: "湖北省", refID:"44"},{id: "463", title: "河北省", refID:"44"},{id: "464", title: "安徽省", refID:"44"},{id: "465", title: "江苏省", refID:"44"},{id: "466", title: "浙江省", refID:"44"},{id: "467", title: "江西省", refID:"44"},{id: "468", title: "山东省", refID:"44"},{id: "469", title: "广东省", refID:"44"},{id: "470", title: "云南省", refID:"44"},{id: "471", title: "贵州省", refID:"44"},{id: "472", title: "四川省", refID:"44"},{id: "473", title: "海南省", refID:"44"},{id: "474", title: "福建省", refID:"44"},{id: "475", title: "台湾省", refID:"44"},{id: "476", title: "甘肃省", refID:"44"},{id: "477", title: "宁夏回族自治区", refID:"44"},{id: "478", title: "广西壮族自治区", refID:"44"},{id: "479", title: "内蒙古自治区", refID:"44"},{id: "480", title: "新疆维吾尔族自治区", refID:"44"},{id: "481", title: "西藏自治区", refID:"44"},{id: "482", title: "香港特别行政区", refID:"44"},{id: "483", title: "澳门特别行政区", refID:"44"},{id: "484", title: "Buenos Aires (Ciudad Autónoma de)", refID:"10"},{id: "485", title: "Buenos Aires (provincia) ", refID:"10"},{id: "486", title: "Catamarca ", refID:"10"},{id: "487", title: "Chaco ", refID:"10"},{id: "488", title: "Chubut ", refID:"10"},{id: "489", title: "Córdoba ", refID:"10"},{id: "490", title: "Corrientes ", refID:"10"},{id: "491", title: "Entre Ríos ", refID:"10"},{id: "492", title: "Formosa ", refID:"10"},{id: "493", title: "Jujuy ", refID:"10"},{id: "494", title: "La Pampa ", refID:"10"},{id: "495", title: "La Rioja ", refID:"10"},{id: "496", title: "Mendoza ", refID:"10"},{id: "497", title: "Misiones ", refID:"10"},{id: "498", title: "Neuquén ", refID:"10"},{id: "499", title: "Río Negro ", refID:"10"},{id: "500", title: "Salta ", refID:"10"},{id: "501", title: "San Juan ", refID:"10"},{id: "502", title: "San Luis ", refID:"10"},{id: "503", title: "Santa Cruz ", refID:"10"},{id: "504", title: "Santa Fe ", refID:"10"},{id: "505", title: "Santiago del Estero ", refID:"10"},{id: "506", title: "Tierra del Fuego ", refID:"10"},{id: "507", title: "Tucumán ", refID:"10"},{id: "508", title: "Alajuela", refID:"51"},{id: "509", title: "Cartago", refID:"51"},{id: "510", title: "Guanacaste", refID:"51"},{id: "511", title: "Heredia", refID:"51"},{id: "512", title: "Limón", refID:"51"},{id: "513", title: "Puntarenas", refID:"51"},{id: "514", title: "San José", refID:"51"},{id: "515", title: "Amazonas", refID:"229"},{id: "516", title: "Anzoátegui", refID:"229"},{id: "517", title: "Apure", refID:"229"},{id: "518", title: "Aragua", refID:"229"},{id: "519", title: "Barinas", refID:"229"},{id: "520", title: "Bolívar", refID:"229"},{id: "521", title: "Carabobo", refID:"229"},{id: "522", title: "Cojedes", refID:"229"},{id: "523", title: "Delta Amacuro  ", refID:"229"},{id: "524", title: "Dependencias Federales", refID:"229"},{id: "525", title: "Distrito Capital", refID:"229"},{id: "526", title: "Falcón", refID:"229"},{id: "527", title: "Guárico", refID:"229"},{id: "528", title: "Lara", refID:"229"},{id: "529", title: "Mérida", refID:"229"},{id: "530", title: "Miranda", refID:"229"},{id: "531", title: "Monagas", refID:"229"},{id: "532", title: "Nueva Esparta  ", refID:"229"},{id: "533", title: "Portuguesa", refID:"229"},{id: "534", title: "Sucre", refID:"229"},{id: "535", title: "Táchira", refID:"229"},{id: "536", title: "Trujillo", refID:"229"},{id: "537", title: "Vargas", refID:"229"},{id: "538", title: "Yaracuy", refID:"229"},{id: "539", title: "Zulia", refID:"229"},{id: "540", title: "Amazonas", refID:"47"},{id: "541", title: "Antioquia", refID:"47"},{id: "542", title: "Arauca", refID:"47"},{id: "543", title: "Atlántico", refID:"47"},{id: "544", title: "Bogotá (Distrito Capital)", refID:"47"},{id: "545", title: "Bolívar", refID:"47"},{id: "546", title: "Boyacá", refID:"47"},{id: "547", title: "Caldas", refID:"47"},{id: "548", title: "Caquetá", refID:"47"},{id: "549", title: "Casanare", refID:"47"},{id: "550", title: "Cauca", refID:"47"},{id: "551", title: "Cesar", refID:"47"},{id: "552", title: "Chocó", refID:"47"},{id: "553", title: "Córdoba", refID:"47"},{id: "554", title: "Cundinamarca", refID:"47"},{id: "555", title: "Guainía", refID:"47"},{id: "556", title: "Guaviare", refID:"47"},{id: "557", title: "Huila", refID:"47"},{id: "558", title: "La Guajira", refID:"47"},{id: "559", title: "Magdalena", refID:"47"},{id: "560", title: "Meta", refID:"47"},{id: "561", title: "Nariño", refID:"47"},{id: "562", title: "Norte de Santander", refID:"47"},{id: "563", title: "Putumayo", refID:"47"},{id: "564", title: "Quindío", refID:"47"},{id: "565", title: "Risaralda", refID:"47"},{id: "566", title: "San Andrés and Providencia", refID:"47"},{id: "567", title: "Santander", refID:"47"},{id: "568", title: "Sucre", refID:"47"},{id: "569", title: "Tolima", refID:"47"},{id: "570", title: "Valle del Cauca", refID:"47"},{id: "571", title: "Vaupés", refID:"47"},{id: "572", title: "Vichada", refID:"47"},{id: "573", title: "Azuay", refID:"62"},{id: "574", title: "Bolívar", refID:"62"},{id: "575", title: "Cañar", refID:"62"},{id: "576", title: "Carchi", refID:"62"},{id: "577", title: "Chimborazo", refID:"62"},{id: "578", title: "Cotopaxi", refID:"62"},{id: "579", title: "El Oro", refID:"62"},{id: "580", title: "Esmeraldas", refID:"62"},{id: "581", title: "Galápagos", refID:"62"},{id: "582", title: "Guayas", refID:"62"},{id: "583", title: "Imbabura", refID:"62"},{id: "584", title: "Loja", refID:"62"},{id: "585", title: "Los Ríos", refID:"62"},{id: "586", title: "Manabí", refID:"62"},{id: "587", title: "Morona Santiago", refID:"62"},{id: "588", title: "Napo", refID:"62"},{id: "589", title: "Orellana", refID:"62"},{id: "590", title: "Pastaza", refID:"62"},{id: "591", title: "Pichincha", refID:"62"},{id: "592", title: "Sucumbíos", refID:"62"},{id: "593", title: "Tungurahua", refID:"62"},{id: "594", title: "Zamora Chinchipe", refID:"62"},{id: "595", title: "Amazonas", refID:"167"},{id: "596", title: "Ancash", refID:"167"},{id: "597", title: "Apurímac", refID:"167"},{id: "598", title: "Arequipa", refID:"167"},{id: "599", title: "Ayacucho", refID:"167"},{id: "600", title: "Cajamarca", refID:"167"},{id: "601", title: "Callao", refID:"167"},{id: "602", title: "Cusco", refID:"167"},{id: "603", title: "Huancavelica", refID:"167"},{id: "604", title: "Huánuco", refID:"167"},{id: "605", title: "Ica", refID:"167"},{id: "606", title: "Junín", refID:"167"},{id: "607", title: "La Libertad", refID:"167"},{id: "608", title: "Lambayeque", refID:"167"},{id: "609", title: "Lima", refID:"167"},{id: "610", title: "Loreto", refID:"167"},{id: "611", title: "Madre de Dios", refID:"167"},{id: "612", title: "Moquegua", refID:"167"},{id: "613", title: "Pasco", refID:"167"},{id: "614", title: "Piura", refID:"167"},{id: "615", title: "Puno", refID:"167"},{id: "616", title: "San Martín", refID:"167"},{id: "617", title: "Tacna", refID:"167"},{id: "618", title: "Tumbes", refID:"167"},{id: "619", title: "Ucayali", refID:"167"},{id: "620", title: "Artigas", refID:"225"},{id: "621", title: "Canelones", refID:"225"},{id: "622", title: "Cerro Largo", refID:"225"},{id: "623", title: "Colonia", refID:"225"},{id: "624", title: "Durazno", refID:"225"},{id: "625", title: "Flores", refID:"225"},{id: "626", title: "Florida", refID:"225"},{id: "627", title: "Lavalleja", refID:"225"},{id: "628", title: "Maldonado", refID:"225"},{id: "629", title: "Montevideo", refID:"225"},{id: "630", title: "Paysandú", refID:"225"},{id: "631", title: "Río Negro", refID:"225"},{id: "632", title: "Rivera", refID:"225"},{id: "633", title: "Rocha", refID:"225"},{id: "634", title: "Salto", refID:"225"},{id: "635", title: "San José", refID:"225"},{id: "636", title: "Soriano", refID:"225"},{id: "637", title: "Tacuarembó", refID:"225"},{id: "638", title: "Treinta y Tres", refID:"225"},{id: "639", title: "Tarapacá", refID:"43"},{id: "640", title: "Antofagasta", refID:"43"},{id: "641", title: "Atacama", refID:"43"},{id: "642", title: "Coquimbo", refID:"43"},{id: "643", title: "Valparaíso", refID:"43"},{id: "644", title: "Metropolitana de Santiago", refID:"43"},{id: "645", title: "Libertador", refID:"43"},{id: "646", title: "Maule", refID:"43"},{id: "647", title: "Biobío", refID:"43"},{id: "648", title: "La Araucanía", refID:"43"},{id: "649", title: "Los Lagos", refID:"43"},{id: "650", title: "Aisén del General Carlos Ibáñez del Campo", refID:"43"},{id: "651", title: "Magallanes y Antártica Chilena", refID:"43"},{id: "652", title: "Stockholms län", refID:"203"},{id: "653", title: "Uppsala län", refID:"203"},{id: "654", title: "Södermanlands län", refID:"203"},{id: "655", title: "Östergötlands län", refID:"203"},{id: "656", title: "Jönköpings län", refID:"203"},{id: "657", title: "Kronobergs län", refID:"203"},{id: "658", title: "Kalmar län", refID:"203"},{id: "659", title: "Gotlands län", refID:"203"},{id: "660", title: "Blekinge län", refID:"203"},{id: "661", title: "Skåne län", refID:"203"},{id: "662", title: "Hallands län", refID:"203"},{id: "663", title: "Västra Götalands län", refID:"203"},{id: "664", title: "Värmlands län", refID:"203"},{id: "665", title: "Örebro län", refID:"203"},{id: "666", title: "Västmanlands län", refID:"203"},{id: "667", title: "Dalarnas län", refID:"203"},{id: "668", title: "Gävleborgs län", refID:"203"},{id: "669", title: "Västernorrlands län", refID:"203"},{id: "670", title: "Jämtlands län", refID:"203"},{id: "671", title: "Västerbottens län", refID:"203"},{id: "672", title: "Norrbottens län", refID:"203"},{id: "673", title: "Burgenland", refID:"14"},{id: "674", title: "Kärnten", refID:"14"},{id: "675", title: "Niederösterreich", refID:"14"},{id: "676", title: "Oberösterreich", refID:"14"},{id: "677", title: "Salzburg", refID:"14"},{id: "678", title: "Steiermark", refID:"14"},{id: "679", title: "Tirol", refID:"14"},{id: "680", title: "Vorarlberg", refID:"14"},{id: "681", title: "Wien", refID:"14"},{id: "682", title: "Zurich", refID:"204"},{id: "683", title: "Bern", refID:"204"},{id: "684", title: "Lucerne", refID:"204"},{id: "685", title: "Uri", refID:"204"},{id: "686", title: "Schwyz", refID:"204"},{id: "687", title: "Obwald", refID:"204"},{id: "688", title: "Nidwald", refID:"204"},{id: "689", title: "Glarus", refID:"204"},{id: "690", title: "Zug", refID:"204"},{id: "691", title: "Friburg", refID:"204"},{id: "692", title: "Solothurn", refID:"204"},{id: "693", title: "Basle-City", refID:"204"},{id: "694", title: "Basle-Country", refID:"204"},{id: "695", title: "Schaffhausen", refID:"204"},{id: "696", title: "Appenzell-Outer-Rhodes", refID:"204"},{id: "697", title: "Appenzell-Inner-Rhodes", refID:"204"},{id: "698", title: "St-Gall", refID:"204"},{id: "699", title: "Grisons", refID:"204"},{id: "700", title: "Argovia", refID:"204"},{id: "701", title: "Turgovia", refID:"204"},{id: "702", title: "Tessin", refID:"204"},{id: "703", title: "Waadt", refID:"204"},{id: "704", title: "Wallis", refID:"204"},{id: "705", title: "Neuenburg", refID:"204"},{id: "706", title: "Genf", refID:"204"},{id: "707", title: "Jura", refID:"204"},{id: "708", title: "Hovedstaden", refID:"57"},{id: "709", title: "Midtjylland", refID:"57"},{id: "710", title: "Nordjylland", refID:"57"},{id: "711", title: "Sjælland", refID:"57"},{id: "712", title: "Syddanmark", refID:"57"},{id: "713", title: "Lappi", refID:"72"},{id: "714", title: "Pohjois-Pohjanmaa", refID:"72"},{id: "715", title: "Kainuu", refID:"72"},{id: "716", title: "Pohjois-Karjala", refID:"72"},{id: "717", title: "Pohjois-Savo", refID:"72"},{id: "718", title: "Etelä-Savo", refID:"72"},{id: "719", title: "Etelä-Pohjanmaa", refID:"72"},{id: "720", title: "Pohjanmaa", refID:"72"},{id: "721", title: "Pirkanmaa", refID:"72"},{id: "722", title: "Satakunta", refID:"72"},{id: "723", title: "Keski-Pohjanmaa", refID:"72"},{id: "724", title: "Keski-Suomi", refID:"72"},{id: "725", title: "Varsinais-Suomi", refID:"72"},{id: "726", title: "Etelä-Karjala", refID:"72"},{id: "727", title: "Päijät-Häme", refID:"72"},{id: "728", title: "Kanta-Häme", refID:"72"},{id: "729", title: "Uusimaa", refID:"72"},{id: "730", title: "Itä-Uusimaa", refID:"72"},{id: "731", title: "Kymenlaakso", refID:"72"},{id: "732", title: "Ahvenanmaa", refID:"72"},{id: "733", title: "Østfold", refID:"160"},{id: "734", title: "Akershus", refID:"160"},{id: "735", title: "Oslo", refID:"160"},{id: "736", title: "Hedmark", refID:"160"},{id: "737", title: "Oppland", refID:"160"},{id: "738", title: "Buskerud", refID:"160"},{id: "739", title: "Vestfold", refID:"160"},{id: "740", title: "Telemark", refID:"160"},{id: "741", title: "Aust-Agder", refID:"160"},{id: "742", title: "Vest-Agder", refID:"160"},{id: "743", title: "Rogaland", refID:"160"},{id: "744", title: "Hordaland", refID:"160"},{id: "745", title: "Sogn og Fjordane", refID:"160"},{id: "746", title: "Møre og Romsdal", refID:"160"},{id: "747", title: "Sør-Trøndelag", refID:"160"},{id: "748", title: "Nord-Trøndelag", refID:"160"},{id: "749", title: "Nordland", refID:"160"},{id: "750", title: "Troms", refID:"160"},{id: "751", title: "Finnmark", refID:"160"},{id: "752", title: "Andaman & Nicobar", refID:"99"},{id: "753", title: "Andhra Pradesh", refID:"99"},{id: "754", title: "Arunachal Pradesh", refID:"99"},{id: "755", title: "Assam", refID:"99"},{id: "756", title: "Bihar", refID:"99"},{id: "757", title: "Chandigarh", refID:"99"},{id: "758", title: "Chattisgarh", refID:"99"},{id: "759", title: "Dadra and Nagar Haveli", refID:"99"},{id: "760", title: "Daman & Diu", refID:"99"},{id: "761", title: "Delhi", refID:"99"},{id: "762", title: "Goa", refID:"99"},{id: "763", title: "Gujarat", refID:"99"},{id: "764", title: "Haryana", refID:"99"},{id: "765", title: "Himachal Pradesh", refID:"99"},{id: "766", title: "Jammu & Kashmir", refID:"99"},{id: "767", title: "Jharkhand", refID:"99"},{id: "768", title: "Karnataka", refID:"99"},{id: "769", title: "Kerala", refID:"99"},{id: "770", title: "Lakshadweep", refID:"99"},{id: "771", title: "Madhya Pradesh", refID:"99"},{id: "772", title: "Maharashtra", refID:"99"},{id: "773", title: "Manipur", refID:"99"},{id: "774", title: "Meghalaya", refID:"99"},{id: "775", title: "Mizoram", refID:"99"},{id: "776", title: "Nagaland", refID:"99"},{id: "777", title: "Orissa", refID:"99"},{id: "778", title: "Puducherry", refID:"99"},{id: "779", title: "Punjab", refID:"99"},{id: "780", title: "Rajasthan", refID:"99"},{id: "781", title: "Sikkim", refID:"99"},{id: "782", title: "Tamil Nadu", refID:"99"},{id: "783", title: "Tripura", refID:"99"},{id: "784", title: "Uttar Pradesh", refID:"99"},{id: "785", title: "Uttarakhand", refID:"99"},{id: "786", title: "West Bengal", refID:"99"},{id: "787", title: "Acre", refID:"30"},{id: "788", title: "Alagoas", refID:"30"},{id: "789", title: "Amapá", refID:"30"},{id: "790", title: "Amazonas", refID:"30"},{id: "791", title: "Bahia", refID:"30"},{id: "792", title: "Ceará", refID:"30"},{id: "793", title: "Distrito Federal", refID:"30"},{id: "794", title: "Espírito Santo", refID:"30"},{id: "795", title: "Goiás", refID:"30"},{id: "796", title: "Maranhão", refID:"30"},{id: "797", title: "Mato Grosso", refID:"30"},{id: "798", title: "Mato Grosso do Sul", refID:"30"},{id: "799", title: "Minas Gerais", refID:"30"},{id: "800", title: "Pará", refID:"30"},{id: "801", title: "Paraíba", refID:"30"},{id: "802", title: "Paraná", refID:"30"},{id: "803", title: "Pernambuco", refID:"30"},{id: "804", title: "Piauí", refID:"30"},{id: "805", title: "Rio de Janeiro", refID:"30"},{id: "806", title: "Rio Grande do Norte", refID:"30"},{id: "807", title: "Rio Grande do Sul", refID:"30"},{id: "808", title: "Rondônia", refID:"30"},{id: "809", title: "Roraima", refID:"30"},{id: "810", title: "Santa Catarina", refID:"30"},{id: "811", title: "São Paulo", refID:"30"},{id: "812", title: "Sergipe", refID:"30"},{id: "813", title: "Tocantins", refID:"30"},{id: "840", title: "제주", refID:"113"},{id: "841", title: "대구", refID:"113"},{id: "842", title: "전북", refID:"113"},{id: "843", title: "울산", refID:"113"},{id: "844", title: "대전", refID:"113"},{id: "845", title: "인천", refID:"113"},{id: "846", title: "전남", refID:"113"},{id: "847", title: "서울", refID:"113"},{id: "848", title: "경기", refID:"113"},{id: "849", title: "충남", refID:"113"},{id: "850", title: "부산", refID:"113"},{id: "851", title: "경남", refID:"113"},{id: "852", title: "강원", refID:"113"},{id: "853", title: "충북", refID:"113"},{id: "854", title: "광주", refID:"113"},{id: "855", title: "경북", refID:"113"},{id: "856", title: "Адыгеяn", refID:"176"},{id: "857", title: "Алтайский крайn", refID:"176"},{id: "858", title: "Амурская обл.n", refID:"176"},{id: "859", title: "Архангельская обл.n", refID:"176"},{id: "860", title: "Астраханская обл.n", refID:"176"},{id: "861", title: "Башкортостан(Башкирия)n", refID:"176"},{id: "862", title: "Белгородская обл.n", refID:"176"},{id: "863", title: "Брянская обл.n", refID:"176"},{id: "864", title: "Бурятияn", refID:"176"},{id: "865", title: "Владимирская обл.n", refID:"176"},{id: "866", title: "Волгоградская обл.n", refID:"176"},{id: "867", title: "Вологодская обл.n", refID:"176"},{id: "868", title: "Воронежская обл.n", refID:"176"},{id: "869", title: "Дагестанn", refID:"176"},{id: "870", title: "Еврейская обл.n", refID:"176"},{id: "871", title: "Ивановская обл.n", refID:"176"},{id: "872", title: "Ингушетияn", refID:"176"},{id: "873", title: "Иркутская обл.n", refID:"176"},{id: "874", title: "Кабардино-Балкарияn", refID:"176"},{id: "875", title: "Калининградская обл.n", refID:"176"},{id: "876", title: "Калмыкияn", refID:"176"},{id: "877", title: "Калужская обл.n", refID:"176"},{id: "878", title: "Камчатский крайn", refID:"176"},{id: "879", title: "Карачаево-Черкесская Республикаn", refID:"176"},{id: "880", title: "Карелияn", refID:"176"},{id: "881", title: "Кемеровская обл.n", refID:"176"},{id: "882", title: "Кировская обл.n", refID:"176"},{id: "883", title: "Комиn", refID:"176"},{id: "884", title: "Костромская обл.n", refID:"176"},{id: "885", title: "Краснодарский крайn", refID:"176"},{id: "886", title: "Красноярский крайn", refID:"176"},{id: "887", title: "Курганская обл.n", refID:"176"},{id: "888", title: "Курская обл.n", refID:"176"},{id: "889", title: "Липецкая обл.n", refID:"176"},{id: "890", title: "Магаданская обл.n", refID:"176"},{id: "891", title: "Марий Элn", refID:"176"},{id: "892", title: "Мордовияn", refID:"176"},{id: "893", title: "Москва и Московская обл.n", refID:"176"},{id: "894", title: "Мурманская обл.n", refID:"176"},{id: "895", title: "Нижегородская (Горьковская) обл.n", refID:"176"},{id: "896", title: "Новосибирская обл.n", refID:"176"},{id: "897", title: "Омская обл.n", refID:"176"},{id: "898", title: "Оренбургская обл.n", refID:"176"},{id: "899", title: "Орловская обл.n", refID:"176"},{id: "900", title: "Пензенская обл.n", refID:"176"},{id: "901", title: "Пермский крайn", refID:"176"},{id: "902", title: "Приморский крайn", refID:"176"},{id: "903", title: "Псковская обл.n", refID:"176"},{id: "904", title: "Ростовская обл.n", refID:"176"},{id: "905", title: "Рязанская обл.n", refID:"176"},{id: "906", title: "Самарская обл.n", refID:"176"},{id: "907", title: "Санкт-Петербург и областьn", refID:"176"},{id: "908", title: "Саратовская обл.n", refID:"176"},{id: "909", title: "Саха (Якутия)n", refID:"176"},{id: "910", title: "Сахалинn", refID:"176"},{id: "911", title: "Свердловская обл.n", refID:"176"},{id: "912", title: "Северная Осетияn", refID:"176"},{id: "913", title: "Смоленская обл.n", refID:"176"},{id: "914", title: "Ставропольский крайn", refID:"176"},{id: "915", title: "Тамбовская обл.n", refID:"176"},{id: "916", title: "Татарстанn", refID:"176"},{id: "917", title: "Тверская обл.n", refID:"176"},{id: "918", title: "Томская обл.n", refID:"176"},{id: "919", title: "Тува (Тувинская Респ.)n", refID:"176"},{id: "920", title: "Тульская обл.n", refID:"176"},{id: "921", title: "Тюменская обл. и Ханты-Мансийский АОn", refID:"176"},{id: "922", title: "Удмуртияn", refID:"176"},{id: "923", title: "Ульяновская обл.n", refID:"176"},{id: "924", title: "Хабаровский крайn", refID:"176"},{id: "925", title: "Хакасияn", refID:"176"},{id: "926", title: "Челябинская обл.n", refID:"176"},{id: "927", title: "Чечняn", refID:"176"},{id: "928", title: "Читинская обл.n", refID:"176"},{id: "929", title: "Чувашияn", refID:"176"},{id: "930", title: "Чукотский АОn", refID:"176"},{id: "931", title: "Ямало-Ненецкий АОn", refID:"176"},{id: "932", title: "Ярославская обл.n", refID:"176"},{id: "933", title: "Greater Poland", refID:"170"},{id: "934", title: "Kuyavia-Pomerania", refID:"170"},{id: "935", title: "Lesser Poland", refID:"170"},{id: "936", title: "Łódź", refID:"170"},{id: "937", title: "Lower Silesia", refID:"170"},{id: "938", title: "Lublin", refID:"170"},{id: "939", title: "Lubusz", refID:"170"},{id: "940", title: "Masovia", refID:"170"},{id: "941", title: "Opole", refID:"170"},{id: "942", title: "Podlasie", refID:"170"},{id: "943", title: "Pomerania", refID:"170"},{id: "944", title: "Silesia", refID:"170"},{id: "945", title: "Subcarpathia", refID:"170"},{id: "946", title: "Swietokrzyskie", refID:"170"},{id: "947", title: "Warmia-Masuria", refID:"170"},{id: "948", title: "West Pomerania", refID:"170"},{id: "949", title: "Viana do Castelo", refID:"171"},{id: "950", title: "Portalegre", refID:"171"},{id: "951", title: "Faro", refID:"171"},{id: "952", title: "Santarém", refID:"171"},{id: "953", title: "Braga", refID:"171"},{id: "954", title: "Leiria", refID:"171"},{id: "955", title: "Porto", refID:"171"},{id: "956", title: "Guarda", refID:"171"},{id: "957", title: "Viseu", refID:"171"},{id: "958", title: "Bragança", refID:"171"},{id: "959", title: "Setúbal", refID:"171"},{id: "960", title: "Évora", refID:"171"},{id: "961", title: "Castelo Branco", refID:"171"},{id: "962", title: "Lisboa", refID:"171"},{id: "963", title: "Aveiro", refID:"171"},{id: "964", title: "Coimbra", refID:"171"},{id: "965", title: "Madeira", refID:"171"},{id: "966", title: "Beja", refID:"171"},{id: "967", title: "Vila Real", refID:"171"},{id: "968", title: "Açores", refID:"171"},{id: "969", title: "Adana", refID:"215"},{id: "970", title: "Adıyaman", refID:"215"},{id: "971", title: "Afyonkarahisar", refID:"215"},{id: "972", title: "Ağrı", refID:"215"},{id: "973", title: "Amasya", refID:"215"},{id: "974", title: "Ankara", refID:"215"},{id: "975", title: "Antalya", refID:"215"},{id: "976", title: "Artvin", refID:"215"},{id: "977", title: "Aydın", refID:"215"},{id: "978", title: "Balıkesir", refID:"215"},{id: "979", title: "Bilecik", refID:"215"},{id: "980", title: "Bingöl", refID:"215"},{id: "981", title: "Bitlis", refID:"215"},{id: "982", title: "Bolu", refID:"215"},{id: "983", title: "Burdur", refID:"215"},{id: "984", title: "Bursa", refID:"215"},{id: "985", title: "Çanakkale", refID:"215"},{id: "986", title: "Çankırı", refID:"215"},{id: "987", title: "Çorum", refID:"215"},{id: "988", title: "Denizli", refID:"215"},{id: "989", title: "Diyarbakır", refID:"215"},{id: "990", title: "Edirne", refID:"215"},{id: "991", title: "Elazığ", refID:"215"},{id: "992", title: "Erzincan", refID:"215"},{id: "993", title: "Erzurum", refID:"215"},{id: "994", title: "Eskişehir", refID:"215"},{id: "995", title: "Gaziantep", refID:"215"},{id: "996", title: "Giresun", refID:"215"},{id: "997", title: "Gümüşhane", refID:"215"},{id: "998", title: "Hakkari", refID:"215"},{id: "999", title: "Hatay", refID:"215"},{id: "1000", title: "Isparta", refID:"215"},{id: "1001", title: "Mersin", refID:"215"},{id: "1002", title: "İstanbul", refID:"215"},{id: "1003", title: "İzmir", refID:"215"},{id: "1004", title: "Karşıyaka", refID:"215"},{id: "1005", title: "Kars", refID:"215"},{id: "1006", title: "Kastamonu", refID:"215"},{id: "1007", title: "Kayseri", refID:"215"},{id: "1008", title: "Kırklareli", refID:"215"},{id: "1009", title: "Kırşehir", refID:"215"},{id: "1010", title: "Kocaeli", refID:"215"},{id: "1011", title: "Konya", refID:"215"},{id: "1012", title: "Kütahya", refID:"215"},{id: "1013", title: "Malatya", refID:"215"},{id: "1014", title: "Manisa", refID:"215"},{id: "1015", title: "Kahramanmaraş", refID:"215"},{id: "1016", title: "Mardin", refID:"215"},{id: "1017", title: "Muğla", refID:"215"},{id: "1018", title: "Muş", refID:"215"},{id: "1019", title: "Nevşehir", refID:"215"},{id: "1020", title: "Niğde", refID:"215"},{id: "1021", title: "Ordu", refID:"215"},{id: "1022", title: "Rize", refID:"215"},{id: "1023", title: "Sakarya", refID:"215"},{id: "1024", title: "Samsun", refID:"215"},{id: "1025", title: "Siirt", refID:"215"},{id: "1026", title: "Sinop", refID:"215"},{id: "1027", title: "Sivas", refID:"215"},{id: "1028", title: "Tekirdağ", refID:"215"},{id: "1029", title: "Tokat", refID:"215"},{id: "1030", title: "Trabzon", refID:"215"},{id: "1031", title: "Tunceli", refID:"215"},{id: "1032", title: "Şanlıurfa", refID:"215"},{id: "1033", title: "Uşak", refID:"215"},{id: "1034", title: "Van", refID:"215"},{id: "1035", title: "Yozgat", refID:"215"},{id: "1036", title: "Zonguldak", refID:"215"},{id: "1037", title: "Aksaray", refID:"215"},{id: "1038", title: "Bayburt", refID:"215"},{id: "1039", title: "Karaman", refID:"215"},{id: "1040", title: "Kırıkkale", refID:"215"},{id: "1041", title: "Batman", refID:"215"},{id: "1042", title: "Şırnak", refID:"215"},{id: "1043", title: "Bartın", refID:"215"},{id: "1044", title: "Ardahan", refID:"215"},{id: "1045", title: "Iğdır", refID:"215"},{id: "1046", title: "Yalova", refID:"215"},{id: "1047", title: "Karabük", refID:"215"},{id: "1048", title: "Kilis", refID:"215"},{id: "1049", title: "Osmaniye", refID:"215"},{id: "1050", title: "Düzce", refID:"215"},{id: "1051", title: "Antwerp", refID:"21"},{id: "1052", title: "Brussels-capital", refID:"21"},{id: "1053", title: "East Flanders", refID:"21"},{id: "1054", title: "Flemish Brabant", refID:"21"},{id: "1055", title: "Hainaut", refID:"21"},{id: "1056", title: "Liège", refID:"21"},{id: "1057", title: "Limburg", refID:"21"},{id: "1058", title: "Luxembourg", refID:"21"},{id: "1059", title: "Namur", refID:"21"},{id: "1060", title: "Walloon Brabant", refID:"21"},{id: "1061", title: "West Flanders", refID:"21"},{id: "205", title: "北海道", refID:"107"},{id: "207", title: "青森県", refID:"107"},{id: "191", title: "秋田県", refID:"107"},{id: "188", title: "岩手県", refID:"107"},{id: "204", title: "宮城県", refID:"107"},{id: "190", title: "山形県", refID:"107"},{id: "184", title: "福島県", refID:"107"},{id: "196", title: "茨城県", refID:"107"},{id: "192", title: "栃木県", refID:"107"},{id: "189", title: "群馬県", refID:"107"},{id: "216", title: "埼玉県", refID:"107"},{id: "180", title: "千葉県", refID:"107"},{id: "199", title: "東京都", refID:"107"},{id: "174", title: "神奈川県", refID:"107"},{id: "193", title: "山梨県", refID:"107"},{id: "198", title: "長野県", refID:"107"},{id: "203", title: "新潟県", refID:"107"},{id: "185", title: "富山県", refID:"107"},{id: "175", title: "石川県", refID:"107"},{id: "209", title: "福井県", refID:"107"},{id: "177", title: "岐阜県", refID:"107"},{id: "171", title: "静岡県", refID:"107"},{id: "194", title: "愛知県", refID:"107"},{id: "195", title: "三重県", refID:"107"},{id: "181", title: "滋賀県", refID:"107"},{id: "170", title: "京都府", refID:"107"},{id: "172", title: "大阪府", refID:"107"},{id: "202", title: "兵庫県", refID:"107"},{id: "208", title: "奈良県", refID:"107"},{id: "186", title: "和歌山県", refID:"107"},{id: "211", title: "鳥取県", refID:"107"},{id: "213", title: "島根県", refID:"107"},{id: "178", title: "岡山県", refID:"107"},{id: "176", title: "広島県", refID:"107"},{id: "215", title: "山口県", refID:"107"},{id: "200", title: "徳島県", refID:"107"},{id: "197", title: "香川県", refID:"107"},{id: "173", title: "愛媛県", refID:"107"},{id: "182", title: "高知県", refID:"107"},{id: "201", title: "福岡県", refID:"107"},{id: "210", title: "佐賀県", refID:"107"},{id: "179", title: "長崎県", refID:"107"},{id: "183", title: "熊本県", refID:"107"},{id: "187", title: "大分県", refID:"107"},{id: "214", title: "宮崎県", refID:"107"},{id: "212", title: "鹿児島県", refID:"107"},{id: "206", title: "沖縄県", refID:"107"}];
+</script>
+<script src="https://web.archive.org/web/20081216072227js_/http://x.myspacecdn.com/modules/common/static/js/webuivalidation.js" type="text/javascript"></script>
+			
+    
+
+    <div class="signupTable">
+    
+		<input type="hidden" name="ll2q9JCERvr3n/DTGRexrYfXjcp0JPduHgamkVTdc7rzzOzapPxPXS094k7MDH58Tu7dvuD6ajAJo3ugy91o/A==_+" value="xJTj8TqcF17VM/Sa4GpzdIsdf5wSRqpLM/R6hi/R//pmWRPlIdW1CQfhV57ASSXB" \>
+<input type="hidden" name="gLStdhPBajWXylD2etZFEAPXvUnbY88PXP+z6LIWvAPrfz2PGkJeQ3+oQbSNbi5bfJ8wWk8LjDt4NdIOwlUdkQ==_+" value="JQEnRTck4Ggdcldmxxo5B6SxicTFV1QGEC56o1tXSn3+DBHblAG/HM20RP7l87SO" \>
+<input type="hidden" name="LB1cjjZ+B4ovNgwm7FjpXAAlHBDKmt+dgns2DX9xFT84PI26DgGOcQx8Bh9YhzPGTX58+ILJWDLvw1lUPqiTtg==_+" value="2Hi6svK7GYtS1g9qeVj+IRIK9ceYFxjBQXKGKH87t1jlPTdyDG1ABywhgAoKIz8z" \>
+<input type="hidden" name="Ng0zBFuOOCxw8o80SAvwVFM/PKCPJUS9hRX0lLi2HVy/n71JF88F4plpcDJLMRvxeg79uxM9hJghqLBWirOCvA==_+" value="ND6QRohcV2r6073p25hQWGjBYpj3RdYlPzGd5eM8T1GGimkF5z4mcEAOufZ3y6iS" \>
+<input type="hidden" name="Ig1JPXagn5jJ6ih41sMVIxPgatumNTMWuJDBocFuoPUAHsJFuhGdQxRiWlmdG3lA_+" value="pXh//cFXoAmNaczy4ZCC+RKW9mhkw0tGaGLT9LbvDIR4mhqYbwyMr7ybFDyGdNxDSGKzwLB7eIaFW7pKO9cA4RDjWJ4TbRPsbK+STByRd+nhGefV2Rt2lmdHDrFtZaOprtFy0NzotSmasJ0ndVGQcCMwHoinBG3PmI1TZOevMCo=" \>
+<input type="hidden" name="8UxZOPmc5n6Hs/8KYuRrQmW2wfx+Whj2Gmmx8wD6CTy8UnfmppZBEizdntG1U50w_+" value="n/bGpaLVJwyxu0eD4HOarKP1vPITawzEIn/F06e+1e6SmOra4WJmdkiUBq6nqJsbxHuWMm3BkAUWNhxmBiCtH4vm/lZMQEsP871sdOAmU8hw5yPrBzrvqQpJ9pZt0vzcsEJ4SmCPqRUx3UhjKJQVlIonmE5qa/+/3BZtW0bqc0K/ocC+SFjexlCwdTUoKdkwag9HtkL/5Z2Xr3v5lxpUlOwYd+n72ZrijrQWDieOS+UXL02yM/0HseAei8kxvm4hG4AsTpx9nBEVJbpwoxzFQg==" \>
+<input type="hidden" name="ZQpUaFOgT3ga6u2kHlCkOW+c68ACvxrVTCLX1ARQ8kkpuhBdideegQ3iZe7F3edP_+" value="7xR9mxoiy75IXXYpyNAh27nSQQesdItot9i9LLgovZmxwSE4wtyZnXVks4NKoH6+" \>
+
+		
+	
+		
+<div class="signupTopDiv" style="float:left;">
+    <!-- HEADER -->
+    <div id="signupLanguageToggle">
+        <ul id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_SignupHeader_LanguageToggleList"><li id="current"><a href="/web/20081216072227/http://signups.myspace.com/index.cfm?fuseaction=signup&amp;c=en-US">U.S.A.</a></li><li><a href="/web/20081216072227/http://signups.myspace.com/index.cfm?fuseaction=signup&amp;c=es-US">USA (Spanish) </a></li></ul>
+    </div>
+   <div style="float:left; padding-left: 10px;">
+	<img src="https://web.archive.org/web/20081216072227im_/http://x.myspace.com/images/LogoDotcom.gif" id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_SignupHeader_SignupHeaderLogo" class="signupLogo"/>
+   </div> 
+</div>
+<div class="signupTopGutter" style="clear:left;"></div>
+		<div class="signupLeftcol">
+
+			
+			<div style="clear:left;">
+</div>
+			<div class="signupTopleft">
+</div>
+			<div class="signupTopcenter">
+</div>
+			<div class="signupTopright">
+</div>
+			
+<div id="JoinNowHeader" class="signupTop">
+    <span class="signupText">Join MySpace Here!</span>
+    <span class="signupText2">Already a member? <a id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_JoinNowHeader_LoginLink" href="https://web.archive.org/web/20081216072227/http://signups.myspace.com/index.cfm?fuseaction=signup.addinvitor&amp;iId=&amp;gID=&amp;MyToken=ed26aca8-e883-430f-b9b6-dc280b1d9ac3">login</a></span>
+</div>
+			
+			<div class="signupContent">
+
+				<div class="signupContentInner">
+
+					
+<div class="signupformbr"></div>
+	<div class="signupFormLftcol">Email Address:</div> 
+	<div class="signupFormRgtcol">
+	    <input type="text" id="Email" name="Email" class="signupinput" value=""/>
+	</div>
+	
+	<div class="signupformbr"></div>
+	<div class="signupFormLftcol">Confirm Email Address:</div> 
+	<div class="signupFormRgtcol">
+	    <input type="text" id="ConfirmEmail" name="ConfirmEmail" class="signupinput" value=""/>
+	</div>
+	
+	<div class="signupformbr"></div>
+	<div class="signupFormLftcol">Password:</div> 
+	<div class="signupFormRgtcol">
+	    <input type="password" id="Password" name="Password" class="signupinput" value=""/>
+	</div>
+	<div class="signupformbr"></div>
+	<div class="signupFormLftcol">Confirm Password:</div> 
+	<div class="signupFormRgtcol">
+	    <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="signupinput" value=""/>
+	</div>
+					<div class="signupformdivider">
+</div>
+					
+	<div class="signupFormLftcol">First Name:</div> <div class="signupFormRgtcol"><input type="text" id="FirstName" name="FirstName" class="signupinput" value=""/></div>
+	<div class="signupformbr"></div>
+	<div class="signupFormLftcol">Last Name:</div> <div class="signupFormRgtcol"><input type="text" id="LastName" name="LastName" class="signupinput" value=""/></div>
+					<div class="signupformbr">
+</div>
+					
+<div class="signupFormLftcol">Country:</div>
+<div class="signupFormRgtcol">
+    <select id="Country" name="Country" class="signupinput" onchange=" populateStates('Country', 'Regions', ''); displayPostalCodeSample('Country', 'PostalCode');">
+<option value="1_AF">Afghanistan</option>
+<option value="2_AL">Albania</option>
+<option value="3_DZ">Algeria</option>
+<option value="4_AS">American Samoa</option>
+<option value="5_AD">Andorra</option>
+<option value="6_AO">Angola</option>
+<option value="7_AI">Anguilla</option>
+<option value="8_AQ">Antarctica</option>
+<option value="9_AG">Antigua and Barbuda</option>
+<option value="10_AR">Argentina</option>
+<option value="11_AM">Armenia</option>
+<option value="12_AW">Aruba</option>
+<option value="13_AU">Australia</option>
+<option value="14_AT">Austria</option>
+<option value="15_AZ">Azerbaijan</option>
+<option value="16_BS">Bahamas</option>
+<option value="17_BH">Bahrain</option>
+<option value="18_BD">Bangladesh</option>
+<option value="19_BB">Barbados</option>
+<option value="20_BY">Belarus</option>
+<option value="21_BE">Belgium</option>
+<option value="22_BZ">Belize</option>
+<option value="23_BJ">Benin</option>
+<option value="24_BM">Bermuda</option>
+<option value="25_BT">Bhutan</option>
+<option value="26_BO">Bolivia</option>
+<option value="27_BA">Bosnia and Herzegowina</option>
+<option value="28_BW">Botswana</option>
+<option value="29_BV">Bouvet Island</option>
+<option value="30_BR">Brazil</option>
+<option value="31_IO">British Indian Ocean Territory</option>
+<option value="32_BN">Brunei Darussalam</option>
+<option value="33_BG">Bulgaria</option>
+<option value="34_BF">Burkina Faso</option>
+<option value="35_BI">Burundi</option>
+<option value="36_KH">Cambodia</option>
+<option value="37_CM">Cameroon</option>
+<option value="38_CA">Canada</option>
+<option value="39_CV">Cape Verde</option>
+<option value="40_KY">Cayman Islands</option>
+<option value="41_CF">Central African Republic</option>
+<option value="42_TD">Chad</option>
+<option value="43_CL">Chile</option>
+<option value="44_CN">China</option>
+<option value="45_CX">Christmas Island</option>
+<option value="46_CC">Cocoa (Keeling) Islands</option>
+<option value="47_CO">Colombia</option>
+<option value="48_KM">Comoros</option>
+<option value="49_CG">Congo</option>
+<option value="50_CK">Cook Islands</option>
+<option value="51_CR">Costa Rica</option>
+<option value="52_CI">Cote Divoire</option>
+<option value="53_CT">Croatia (Hrvatska)</option>
+<option value="54_CU">Cuba</option>
+<option value="55_CY">Cyprus</option>
+<option value="56_CZ">Czech Republic</option>
+<option value="57_DK">Denmark</option>
+<option value="58_DJ">Djibouti</option>
+<option value="240_DS">DoDDs Schools</option>
+<option value="59_DM">Dominica</option>
+<option value="60_DO">Dominican Republic</option>
+<option value="61_TP">East Timor</option>
+<option value="62_EC">Ecuador</option>
+<option value="63_EG">Egypt</option>
+<option value="64_SV">El Salvador</option>
+<option value="65_GQ">Equatorial Guinea</option>
+<option value="66_ER">Eritrea</option>
+<option value="67_EE">Estonia</option>
+<option value="68_ET">Ethiopia</option>
+<option value="69_FK">Falkland Islands (Malvinas)</option>
+<option value="70_FO">Faroe Islands</option>
+<option value="71_FJ">Fiji</option>
+<option value="72_FI">Finland</option>
+<option value="236_YU">Former Yugoslavia</option>
+<option value="73_FR">France</option>
+<option value="78_GA">Gabon</option>
+<option value="79_GM">Gambia</option>
+<option value="80_GE">Georgia</option>
+<option value="81_DE">Germany</option>
+<option value="82_GH">Ghana</option>
+<option value="83_GI">Gibraltar</option>
+<option value="84_GR">Greece</option>
+<option value="85_GL">Greenland</option>
+<option value="86_GD">Grenada</option>
+<option value="88_GU">Guam</option>
+<option value="89_GT">Guatemala</option>
+<option value="90_GN">Guinea</option>
+<option value="91_GW">Guinea-Bissau</option>
+<option value="92_GY">Guyana</option>
+<option value="93_HT">Haiti</option>
+<option value="94_HM">Heard and Mc Donald Islands</option>
+<option value="95_HN">Honduras</option>
+<option value="96_HK">Hong Kong</option>
+<option value="97_HU">Hungary</option>
+<option value="98_IS">Iceland</option>
+<option value="99_IN">India</option>
+<option value="100_ID">Indonesia</option>
+<option value="101_IR">Iran (Islamic Republic of)</option>
+<option value="102_IQ">Iraq</option>
+<option value="103_IE">Ireland</option>
+<option value="104_IL">Israel</option>
+<option value="105_IT">Italy</option>
+<option value="106_JM">Jamaica</option>
+<option value="107_JP">Japan</option>
+<option value="108_JO">Jordan</option>
+<option value="109_KZ">Kazakhstan</option>
+<option value="110_KE">Kenya</option>
+<option value="111_KI">Kiribati</option>
+<option value="112_KP">Korea, Democratic Peoples Republic of</option>
+<option value="113_KR">Korea, Republic of</option>
+<option value="114_KW">Kuwait</option>
+<option value="115_KG">Kyrgyzstan</option>
+<option value="116_LA">Laos</option>
+<option value="117_LV">Latvia</option>
+<option value="118_LB">Lebanon</option>
+<option value="119_LS">Lesotho</option>
+<option value="120_LR">Liberia</option>
+<option value="121_LY">Libyan Arab Jamahiriya</option>
+<option value="122_LI">Liechtenstein</option>
+<option value="123_LT">Lithuania</option>
+<option value="124_LU">Luxembourg</option>
+<option value="125_MO">Macau</option>
+<option value="126_MK">Macedonia, Republic of</option>
+<option value="127_MG">Madagascar</option>
+<option value="128_MW">Malawi</option>
+<option value="129_MY">Malaysia</option>
+<option value="130_MV">Maldives</option>
+<option value="131_ML">Mali</option>
+<option value="132_MT">Malta</option>
+<option value="133_MH">Marshall Islands</option>
+<option value="135_MR">Mauritania</option>
+<option value="136_MU">Mauritius</option>
+<option value="138_MX">Mexico</option>
+<option value="139_FM">Micronesia, Federated States of</option>
+<option value="140_MD">Moldova, Republic of</option>
+<option value="141_MC">Monaco</option>
+<option value="142_MN">Mongolia</option>
+<option value="143_MS">Montserrat</option>
+<option value="144_MA">Morocco</option>
+<option value="145_MZ">Mozambique</option>
+<option value="146_MM">Myanmar</option>
+<option value="147_NA">Namibia</option>
+<option value="148_NR">Nauru</option>
+<option value="149_NP">Nepal</option>
+<option value="150_NL">Netherlands</option>
+<option value="151_AN">Netherlands Antilles</option>
+<option value="153_NZ">New Zealand</option>
+<option value="154_NI">Nicaragua</option>
+<option value="155_NE">Niger</option>
+<option value="156_NG">Nigeria</option>
+<option value="157_NU">Niue</option>
+<option value="158_NF">Norfolk Island</option>
+<option value="159_MP">Northern Mariana Islands</option>
+<option value="160_NO">Norway</option>
+<option value="161_OM">Oman</option>
+<option value="162_PK">Pakistan</option>
+<option value="163_PW">Palau</option>
+<option value="164_PA">Panama</option>
+<option value="165_PG">Papua New Guinea</option>
+<option value="166_PY">Paraguay</option>
+<option value="167_PE">Peru</option>
+<option value="168_PH">Philippines</option>
+<option value="169_PN">Pitcairn</option>
+<option value="170_PL">Poland</option>
+<option value="171_PT">Portugal</option>
+<option value="172_PR">Puerto Rico</option>
+<option value="173_QA">Qatar</option>
+<option value="175_RO">Romania</option>
+<option value="176_RU">Russian Federation</option>
+<option value="177_RW">Rwanda</option>
+<option value="178_KN">Saint Kitts and Nevis</option>
+<option value="179_LC">Saint Lucia</option>
+<option value="180_VC">Saint Vincent and the Grenadines</option>
+<option value="181_WS">Samoa</option>
+<option value="182_SM">San Marino</option>
+<option value="183_ST">Sao Tome and Principe</option>
+<option value="184_SA">Saudi Arabia</option>
+<option value="185_SN">Senegal</option>
+<option value="241_RS">Serbia</option>
+<option value="186_SC">Seychelles</option>
+<option value="187_SL">Sierra Leone</option>
+<option value="188_SG">Singapore</option>
+<option value="189_SK">Slovakia (Slovak Republic)</option>
+<option value="190_SI">Slovenia</option>
+<option value="191_Sb">Solomon Islands</option>
+<option value="192_SO">Somalia</option>
+<option value="193_ZA">South Africa</option>
+<option value="194_GS">South Georgia and the South Sandwich Islands</option>
+<option value="195_ES">Spain</option>
+<option value="196_LK">Sri Lanka</option>
+<option value="197_SH">St. Helena</option>
+<option value="199_SD">Sudan</option>
+<option value="200_SR">Suriname</option>
+<option value="201_SJ">Svalbard and Jan Mayen Islands</option>
+<option value="202_SZ">Swaziland</option>
+<option value="203_SE">Sweden</option>
+<option value="204_CH">Switzerland</option>
+<option value="205_SY">Syrian ArabRepublic</option>
+<option value="206_TW">Taiwan</option>
+<option value="207_TJ">Tajikistan</option>
+<option value="208_TZ">Tanzania,  United Republic of</option>
+<option value="209_TH">Thailand</option>
+<option value="210_TG">Togo</option>
+<option value="211_TK">Tokelau</option>
+<option value="212_TO">Tonga</option>
+<option value="213_TT">Trinidad and Tobago</option>
+<option value="214_TN">Tunisia</option>
+<option value="215_TR">Turkey</option>
+<option value="216_TM">Turkmenistan</option>
+<option value="217_TC">Turks and Caicos Islands</option>
+<option value="218_TV">Tuvalu</option>
+<option value="219_UG">Uganda</option>
+<option value="220_UA">Ukraine</option>
+<option value="221_AE">United ArabEmirates</option>
+<option value="222_UK">United Kingdom</option>
+<option value="223_US" selected>United States</option>
+<option value="224_UM">United States Minor Outlying Islands</option>
+<option value="225_UY">Uruguay</option>
+<option value="226_UZ">Uzbekistan</option>
+<option value="227_VU">Vanuatu</option>
+<option value="228_VA">Vatican City State(Holy See)</option>
+<option value="229_VE">Venezuela</option>
+<option value="230_VN">Viet Nam</option>
+<option value="231_VG">Virgin Islands (British)</option>
+<option value="232_VI">Virgin Islands (U.S.)</option>
+<option value="234_EH">Western Sahara</option>
+<option value="235_YE">Yeman</option>
+<option value="237_ZR">Zaire</option>
+<option value="238_ZM">Zambia</option>
+<option value="239_ZW">Zimbabwe</option>
+</select>
+
+</div>
+<div class="signupformbr"></div>
+<div id="lblRegion" class="signupFormLftcol">State:</div>
+<div class="signupFormRgtcol">
+    <select id="Regions" name="Regions" class="signupinput">
+<option value="">-- Please Select --</option>
+</select>
+
+</div>
+<div class="signupformbr"></div>
+<div class="signupFormLftcol">Postal Code:</div>
+<div class="signupFormRgtcol">
+    <input type="text" id="PostalCode" name="PostalCode" class="signupinput" value=""/>
+</div>
+<div class="signupformbr"></div>
+					<div class="signupformdivider">
+</div>
+					
+<div class="signupFormLftcol">Date Of Birth:</div> <div class="signupFormRgtcol"><select id="Month" name="Month" class="signupinput1" onchange="return ShowAgeLockingMessage(this.id);">
+<option value="-1">Month</option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+<select id="Day" name="Day" class="signupinput1" onchange="return ShowAgeLockingMessage(this.id);">
+<option value="-1">Day</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select id="Year" name="Year" class="signupinput1" onchange="return ShowAgeLockingMessage(this.id);">
+<option value="-1">Year</option>
+<option value="2008">2008</option>
+<option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
+<option value="2002">2002</option>
+<option value="2001">2001</option>
+<option value="2000">2000</option>
+<option value="1999">1999</option>
+<option value="1998">1998</option>
+<option value="1997">1997</option>
+<option value="1996">1996</option>
+<option value="1995">1995</option>
+<option value="1994">1994</option>
+<option value="1993">1993</option>
+<option value="1992">1992</option>
+<option value="1991">1991</option>
+<option value="1990">1990</option>
+<option value="1989">1989</option>
+<option value="1988">1988</option>
+<option value="1987">1987</option>
+<option value="1986">1986</option>
+<option value="1985">1985</option>
+<option value="1984">1984</option>
+<option value="1983">1983</option>
+<option value="1982">1982</option>
+<option value="1981">1981</option>
+<option value="1980">1980</option>
+<option value="1979">1979</option>
+<option value="1978">1978</option>
+<option value="1977">1977</option>
+<option value="1976">1976</option>
+<option value="1975">1975</option>
+<option value="1974">1974</option>
+<option value="1973">1973</option>
+<option value="1972">1972</option>
+<option value="1971">1971</option>
+<option value="1970">1970</option>
+<option value="1969">1969</option>
+<option value="1968">1968</option>
+<option value="1967">1967</option>
+<option value="1966">1966</option>
+<option value="1965">1965</option>
+<option value="1964">1964</option>
+<option value="1963">1963</option>
+<option value="1962">1962</option>
+<option value="1961">1961</option>
+<option value="1960">1960</option>
+<option value="1959">1959</option>
+<option value="1958">1958</option>
+<option value="1957">1957</option>
+<option value="1956">1956</option>
+<option value="1955">1955</option>
+<option value="1954">1954</option>
+<option value="1953">1953</option>
+<option value="1952">1952</option>
+<option value="1951">1951</option>
+<option value="1950">1950</option>
+<option value="1949">1949</option>
+<option value="1948">1948</option>
+<option value="1947">1947</option>
+<option value="1946">1946</option>
+<option value="1945">1945</option>
+<option value="1944">1944</option>
+<option value="1943">1943</option>
+<option value="1942">1942</option>
+<option value="1941">1941</option>
+<option value="1940">1940</option>
+<option value="1939">1939</option>
+<option value="1938">1938</option>
+<option value="1937">1937</option>
+<option value="1936">1936</option>
+<option value="1935">1935</option>
+<option value="1934">1934</option>
+<option value="1933">1933</option>
+<option value="1932">1932</option>
+<option value="1931">1931</option>
+<option value="1930">1930</option>
+<option value="1929">1929</option>
+<option value="1928">1928</option>
+<option value="1927">1927</option>
+<option value="1926">1926</option>
+<option value="1925">1925</option>
+<option value="1924">1924</option>
+<option value="1923">1923</option>
+<option value="1922">1922</option>
+<option value="1921">1921</option>
+<option value="1920">1920</option>
+<option value="1919">1919</option>
+<option value="1918">1918</option>
+<option value="1917">1917</option>
+<option value="1916">1916</option>
+<option value="1915">1915</option>
+<option value="1914">1914</option>
+<option value="1913">1913</option>
+<option value="1912">1912</option>
+<option value="1911">1911</option>
+<option value="1910">1910</option>
+<option value="1909">1909</option>
+<option value="1908">1908</option>
+</select>
+</div>
+<div class="signupformbr"></div>
+<div class="signupFormLftcol"></div>
+<div class="signupFormRgtcol">
+	<div style="float: left; padding-top: 1px;">
+		<input type="checkbox" id="BirthdaySee" checked="true"/> 
+	</div>
+	<div style="float: left; margin-top: 4px;">
+		Allow others to see when it's my birthday
+	</div>
+</div>
+<div class="signupformbr"></div>
+<div class="signupFormLftcol">Gender:</div> <div class="signupFormRgtcol"><input type="radio" name="gender" value="F" id="genderF"/> Female <input type="radio" name="gender" value="M" id="genderM"/> Male</div>
+<div class="signupformbr"></div>
+					
+<div class="signupFormLftcol">Preferred Site &amp; Language:</div>
+<div id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_PreferredSiteLanguage_DropDownDiv" class="signupFormRgtcol"><select id="PreferredCulture" name="PreferredCulture" class="signupinput" onchange="handleOnChangePreferredCulture(this.id);">
+<option value="en-AU">Australia</option>
+<option value="de-AT">Austria</option>
+<option value="fr-BE">Belgium (Français)</option>
+<option value="nl-BE">Belgium (Nederlands)</option>
+<option value="pt-BR">Brazil</option>
+<option value="en-CA">Canada (English)</option>
+<option value="fr-CA">Canada (French)</option>
+<option value="da-DK">Denmark</option>
+<option value="fi-FI">Finland</option>
+<option value="fr-FR">France</option>
+<option value="de-DE">Germany</option>
+<option value="en-IN">India</option>
+<option value="en-IE">Ireland</option>
+<option value="it-IT">Italy</option>
+<option value="es-LA">Latin America (Spanish)</option>
+<option value="es-MX">Mexico</option>
+<option value="nl-NL">Netherlands</option>
+<option value="en-NZ">New Zealand</option>
+<option value="nb-NO">Norway</option>
+<option value="pl-PL">Poland</option>
+<option value="pt-PT">Portugal</option>
+<option value="ru-RU">Russia</option>
+<option value="es-ES">Spain</option>
+<option value="sv-SE">Sweden</option>
+<option value="de-CH">Switzerland (Deutsch)</option>
+<option value="fr-CH">Switzerland (Français)</option>
+<option value="it-CH">Switzerland (Italiano)</option>
+<option value="tu-TR">Turkey</option>
+<option value="en-GB">U.K.</option>
+<option value="en-US" selected>U.S.A.</option>
+<option value="es-US">USA (Spanish) </option>
+</select></div>
+					<div class="signupformdivider">
+</div>
+					
+<div class="signupFormLftcol">Verification:</div>
+<div class="signupFormRgtcol">
+
+
+
+
+<script language="JavaScript">
+<!--
+var i = 0;
+var secs = 80;
+var timerID = null;
+var tbID = 'ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaResponseTextBox';
+
+var url = 'https://web.archive.org/web/20081216072227/http://security.myspace.com/captcha/captcha.aspx?SecurityToken=1FC7340F26F84F2F9D4AC7DC3BF546B4&dl=0&ho=1&uc=1';
+var imageID = 'ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaImage';
+
+
+function RefreshCI()
+{
+    clearTimeout(timerID);
+    var tb = document.getElementById(tbID);
+    tb.value = '';
+
+    var ci = document.getElementById(imageID);
+    ci.src = url + "&r=" + ++i; 
+ 
+   
+    timerID = self.setTimeout("RefreshCI()", secs * 1000);
+    
+}
+
+function StartCITimer()
+{
+    timerID = self.setTimeout("RefreshCI()", secs * 1000);
+}
+//-->
+</script>
+
+
+
+<div class="captcha">						
+    <table>	
+      <tr>					
+	    <td>
+	        <img id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaImage" src="https://web.archive.org/web/20081216072227im_/http://security.myspace.com/captcha/captcha.aspx?SecurityToken=1FC7340F26F84F2F9D4AC7DC3BF546B4&amp;dl=0&amp;ho=1&amp;uc=1" style="border-width:0px;"/>
+	        &nbsp;&nbsp; <a href="javascript:RefreshCI();"><img src="https://web.archive.org/web/20081216072227im_/http://x.myspace.com/images/icons/refreshicon2.jpg" border="0" contenteditable="false" id="IMG2"/></a>
+	    </td>
+	  </tr>
+
+    </table>
+    <br/>
+    <br/>
+	<span id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaLabel1">Please enter the text from the image above:</span> 
+	<br/>
+    <span id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaLabel2">The letters are not case-sensitive.</span>
+    <br/>
+    <span id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaLabel3">Do not type spaces between the numbers and letters.</span>
+    <br/>
+    <br/>
+	<input name="ctl00$ctl00$ctl00$cpMain$cpMain$cpMain$Captcha$CaptchaControl$captchaResponseTextBox" type="text" maxlength="50" id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_captchaResponseTextBox"/>
+	<div>
+		
+		&nbsp;<br/>
+	</div>	
+    <input type="hidden" name="ctl00$ctl00$ctl00$cpMain$cpMain$cpMain$Captcha$CaptchaControl$reCaptchaChallengeField" id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Captcha_CaptchaControl_reCaptchaChallengeField"/>
+</div>   
+
+
+</div>
+<div class="signupformbr">
+</div>
+					
+
+<div align="left">
+<textarea id="SecondaryTermsJP" rows="7" class="signUpTemsDiv2" readonly="true">
+	
+</textarea>
+</div>
+<div class="signupformbr"></div>
+<div align="left">
+<textarea id="SecondaryTermsKR1" rows="7" class="signUpTemsDiv2" readonly="true">
+	
+</textarea>
+</div>
+<div class="signupformbr"></div>
+<div align="left">
+<textarea id="SecondaryTermsKR2" rows="7" class="signUpTemsDiv2" readonly="true">
+	
+</textarea>
+</div>
+<div class="signupformbr"></div>
+<div style="clear:left;"></div>
+<div class="signUpCheckTerms">
+	<input id="Terms" type="checkbox" name="Terms"/>
+	<label>By checking the box, you confirm that:</label>
+</div>
+<div id="TermsDiv" class="signUpTemsDiv">
+	You agree to the MySpace <a href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms">Terms of Service</a> and <a href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy">Privacy Policy</a>.  You also agree to receive the MySpace e-mail newsletter and account updates targeted to you by MySpace, unless you have chosen to opt out of them.
+</div>
+<div class="signupformbr"></div>
+
+					
+					
+<div class="signupBtnDiv">
+	<input type="submit" name="ctl00$ctl00$ctl00$cpMain$cpMain$cpMain$Submit$SubmitButton" value="Sign Up" onclick="if (! ValidateForm() ) return false;" id="ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_Submit_SubmitButton" class="signupSubmitBtn"/>
+</div>
+
+				</div>
+			</div>
+			<div style="clear:left;">
+</div>
+			<div class="signupBtmleft">
+</div>
+			<div class="signupBtmcenter">
+</div>
+			<div class="signupBtmright">
+</div>
+		</div>
+		
+		<div class="signupRightcol">
+
+			<div class="signupBandbtn">
+	<div class="signupBtncontent">
+		<span class="signupBandHead">Musician</span>
+		<div class="signupBandcopy">If you are a Musician, <a href="https://web.archive.org/web/20081216072227/http://signup.myspace.com/index.cfm?fuseaction=bandjoin" onclick="MySpace.CMS.track('747d4dcd-fc4e-409f-b12e-ff4e5994db44')">Sign up here</a></div>
+	</div>
+</div>
+<div class="signupComedian">
+	<div class="signupBtncontent">
+		<span class="signupBandHead">COMEDIAN</span>
+		<div class="signupBandcopy">If you are a comedian, <a href="https://web.archive.org/web/20081216072227/http://collect.myspace.com/index.cfm?fuseaction=comedianJoin" onclick="MySpace.CMS.track('747d4dcd-fc4e-409f-b12e-ff4e5994db44')">Sign up here</a></div>
+	</div>
+</div>
+<div class="signupFilmmaker">
+	<div class="signupBtncontent">
+		<span class="signupBandHead">FILMMAKER</span>
+		<div class="signupBandcopy">If you are a film maker, <a href="https://web.archive.org/web/20081216072227/http://signup.myspace.com/index.cfm?fuseaction=filmmakerJoin" onclick="MySpace.CMS.track('747d4dcd-fc4e-409f-b12e-ff4e5994db44')">Sign up here</a></div>
+	</div>
+</div>
+<div class="signupWhyJoin">
+	<div class="signupWhytop"></div>
+	<div class="signupWhybtm">
+		<div class="signupwhycontent">
+			<div class="whyHeaderText">Why Join MySpace?</div>
+			<div class="whyCopyText">
+				<span class="signupIcon1"></span>
+				<div class="whyCopyTextlist">Create a Custom Profile</div>
+			 </div>
+		 <div class="whyCopyText">
+			<span class="signupIcon2"></span>
+			<div class="whyCopyTextlist">Upload Pictures</div>
+		 </div>
+		 <div class="whyCopyText">
+			<span class="signupIcon3"></span>
+			<div class="whyCopyTextlist">Share Photo Album</div>
+		 </div>
+		  <div class="whyCopyText">
+			<span class="signupIcon4"></span>
+			<div class="whyCopyTextlist">Send Mail and IM's</div>
+		 </div>
+		 <div class="whyCopyText">
+			<span class="signupIcon5"></span>
+			<div class="whyCopyTextlist">Write Blogs &amp; Comments</div>
+		 </div>
+		  <div class="whyCopyText">
+			<span class="signupIcon6"></span>
+			<div class="whyCopyTextlist">It's FREE!</div>
+		 </div>
+	   </div>
+	</div>
+</div>       
+ <div class="signupPrivacy">
+	<div class="signupPrivacytop">
+		<div class="signupPrivacycontent">
+				<div class="signupPrivacyText">
+					
+MySpace understands that user privacy is the key to our success.
+					<br><br>
+					
+Already a member?
+					<br><br>
+					Please read our <a href="https://web.archive.org/web/20081216072227/http://www.myspace.com/Modules/Common/Pages/Privacy.aspx" onclick="MySpace.CMS.track('747d4dcd-fc4e-409f-b12e-ff4e5994db44')">
+privacy policy</a>
+				 </div>
+		   </div>
+	  </div>
+	<div class="signupPrivacybtm"></div>
+</div>
+		</div>
+		<div class="signupSpacer">
+</div>
+	
+
+
+		
+		
+
+    </div>        
+
+    
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+StartCITimer();//]]>
+</script>
+
+<script type="text/javascript">
+<!--
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+// -->
+</script>
+        </form>
+   
+	
+		<!-- Footer:Standard Start -->
+<script type="text/javascript">if (MySpace.Footer == null)MySpace.Footer = {};MySpace.Footer.InternationalLinkFunction = function() {if (document.getElementById("intlLink") != null){ if (document.getElementById("internationalLinks") == null){document.getElementById("intlLink").href = "https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=InternationalMap";document.getElementById("intlLink").innerHTML = "MySpace International";}else{document.getElementById("intlLink").href = "javascript:msglobalnav.toggleInternationalLinks();";}}}; $addHandler(window, 'load', MySpace.Footer.InternationalLinkFunction);  </script><style type="text/css">
+#footer{POSITION :static;}
+</style>
+<script>
+var isIntlFooterOn = false;
+var isie = navigator.userAgent.indexOf('MSIE') >= 0
+msglobalnav.toggleInternationalLinks = function() {
+    var internationalLinks = document.getElementById('internationalLinks');
+            var intlLink = document.getElementById('intlLink');
+            if (isIntlFooterOn) {
+                 internationalLinks.style.visibility = 'hidden';
+		    }
+            else {
+                var pos = Sys.UI.DomElement.getLocation(intlLink);
+                if (!isie) {
+                    internationalLinks.style.marginLeft = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) + 25) + 'px';
+                }
+                else {
+                    var lo = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) - (document.body.offsetWidth / 2));
+                    if (-lo > internationalLinks.offsetWidth) 
+                        lo = lo + (document.body.offsetWidth / 2);
+                    internationalLinks.style.marginLeft = lo + 'px';
+                }
+                internationalLinks.style.visibility = 'visible';
+
+            }
+            isIntlFooterOn = !isIntlFooterOn;
+    };
+</script>
+
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br/><a class="text" href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">About</a>
+ | <a class="text" href="https://web.archive.org/web/20081216072227/http://faq.myspace.com/" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">FAQ</a>
+ | <a class="text" href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Terms</a>
+ | <a class="text" href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Privacy Policy</a>
+ | <a class="text" href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safety_pagehome" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Safety Tips</a>
+ | <a class="text" href="https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Contact MySpace</a> |
+<!-- REPORT ABUSE LINK -->
+<script type="text/javascript">
+//<![CDATA[
+    if (MySpace != null && MySpace.ClientContext != null && MySpace.ClientContext.DisplayFriendId != null && MySpace.ClientContext.DisplayFriendId > 0) {
+        document.write("<a hr" + "ef='https://web.archive.org/web/20081216072227/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\">Report Abuse<" + "/a> | ");
+    }
+//>]]>
+
+</script> 
+<a class="text" href="https://web.archive.org/web/20081216072227/https://advertise.myspace.com/login.html?adv=gf.1" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Advertise</a> <span style="color:red">New!</span>
+ | <a class="text" id="intlLink" href="javascript:msglobalnav.toggleInternationalLinks();">MySpace International  ▼</a> 
+ <span id="msLatino">| <a class="text" href="https://web.archive.org/web/20081216072227/http://latino.myspace.com/" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">MySpace Latino</a></span>
+<script type="text/javascript">function popLanguageOverlay(culture, url){ MySpace.UI.Header.languageLinkClick(culture, url, 1); }</script>
+
+<br/><span id="searchControlFooter"><!-- BOS -->
+<div id="searchContainer_Footer" class="global"><form id="formSearch_Footer" name="srch_Footer" onsubmit="return (document.getElementById('search_q_Footer').value.length > 0);" action="https://web.archive.org/web/20081216072227/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Footer" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Footer" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Footer" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Footer" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Footer');" onmouseout="msglobalnav.hideSearchTypes('Footer');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Footer" onmouseover="msglobalnav.srchMenuList(true,'Footer');" onmouseout="msglobalnav.srchMenuList(false,'Footer');"><ul><li><a id="People_Footer" href="javascript:msglobalnav.switchSearchTypeTo('People','Footer')">People</a></li><li><a id="AllMySpace_Footer" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Footer')">MySpace</a></li><li><a id="Web_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Web','Footer')">Web</a></li><li><a id="Music_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Music','Footer')">Music</a></li><li><a id="MySpaceTV_Footer" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Footer')">Video</a></li><li><a id="Images_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Images','Footer')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Footer"/></div></div><div id="googleLogo_Footer" style="background-image: url(https://web.archive.org/web/20081216072227im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><script type="text/javascript">var _notImportant = 12;</script><!-- EOS -->
+</span><div class="clear">&copy;2003-2008 MySpace.com. All Rights Reserved.
+<style type="text/css">
+#topnav ul li.dropDown { z-index: 1000001; }
+</style>
+
+</div><style><!--
+
+div#searchContainer_Footer {z-index:1000000 !important;}
+div#internationalLinks{z-index:1000009 !important;}
+
+
+--></style>
+<div id="internationalLinks" style="height: 485px;margin-top: -485px; .margin-top: -485px;">
+<div class="closer"><a href="javascript:msglobalnav.toggleInternationalLinks();">Close</a></div>
+<div class="column"><div class="header">Americas</div>
+<ul class="bottomMargin"><li><a href="https://web.archive.org/web/20081216072227/http://br.myspace.com/">Brazil</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://ca.myspace.com/">Canada </a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://cf.myspace.com/">Canada (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://la.myspace.com/">Latin America (Español)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://mx.myspace.com/">Mexico</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://us.myspace.com/">United States (English)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://latino.myspace.com/">United States (Latino)</a></li>
+</ul><div class="header">Asia Pacific</div>
+<ul><li><a href="https://web.archive.org/web/20081216072227/http://au.myspace.com/">Australia</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://in.myspace.com/">India</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://jp.myspace.com/">Japan</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://kr.myspace.com/">Korea</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://nz.myspace.com/">New Zealand</a></li>
+</ul></div>
+<div class="column"><div class="header">Europe</div>
+<ul><li><a href="https://web.archive.org/web/20081216072227/http://at.myspace.com/">Austria</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://belgie.myspace.com/">Belgium (Nederland)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://belgique.myspace.com/">Belgium (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://dk.myspace.com/">Denmark</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://fi.myspace.com/">Finland</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://fr.myspace.com/">France</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://de.myspace.com/">Germany</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://ie.myspace.com/">Ireland</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://it.myspace.com/">Italy</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://nl.myspace.com/">Netherlands</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://no.myspace.com/">Norway</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://pt.myspace.com/">Portugal</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://pl.myspace.com/">Poland</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://ru.myspace.com/">Russia</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://es.myspace.com/">Spain</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://se.myspace.com/">Sweden</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://schweiz.myspace.com/">Switzerland (Deutsch)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://suisse.myspace.com/">Switzerland (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://svizzera.myspace.com/">Switzerland (Italiano)</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://tr.myspace.com/">Turkey</a></li>
+<li><a href="https://web.archive.org/web/20081216072227/http://uk.myspace.com/">UK</a></li>
+</ul></div></div>
+
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googleLogo_Footer', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+</script>
+<![endif]-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20081216072227/https://ssl." : "https://web.archive.org/web/20081216072227/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6293770-1");
+pageTracker._setDomainName(".myspace.com");
+pageTracker._setSampleRate("1"); //sets sampling rate to 1 percent
+pageTracker._trackPageview(); 
+</script><!-- Footer:Standard End -->
+
+		</div>
+	
+   
+   
+<script type="text/javascript" src="https://web.archive.org/web/20081216072227js_/http://x.myspacecdn.com/modules/common/static/js/global039.js"></script>
+	
+<script type="text/javascript">
+var v = $get('ctl00_ctl00_ctl00_cpMain_cpMain_cpMain_JoinNowHeader_LoginLink'); if(v.offsetTop > 120)$get('JoinNowHeader').style.height='35px';
+HintElements.push({id: "Email", hint: "Please enter a valid e-mail address. You will need to confirm your e-mail address to activate your account.", head: "Enter Email Address", style: "" }); 
+HintElements.push({id: "Password", hint: "Password must be between 6 and 10 characters, and contain at least 1 number or punctuation character.", head: "", style: "" }); 
+HintElements.push({id: "ConfirmPassword", hint: "Please confirm password.", head: "", style: "" }); 
+HintElements.push({id: "ConfirmEmail", hint: "Please confirm email address.", head: "", style: "" }); 
+ValElements.push({id: "Email", type: "required", val: "true", body: "Please enter your email address.", head: "Email Address:", style: ""}); 
+ValElements.push({id: "Email", type: "regex", val: "email", body: "Incorrect email address. Please re-enter", head: "Email Address:", style: ""}); 
+ValElements.push({id: "Password", type: "customfunc", val: ValidatePassword, body: "Password must have at least 6 characters. Please Re-enter.", head: "Incorrect password format.", style: ""});  ClientStrings.push({key:"EmailErrorMessage5", msg: "Password too closely resembles first name."}); ClientStrings.push({key:"PasswordErrorMessage6", msg: "Password too closely resembles last name."}); ClientStrings.push({key:"PasswordErrorMessage7", msg: "Password too closely resembles email."}); ClientStrings.push({key:"PasswordErrorMessage8", msg: "Space is not ALLOWED for password. Please re-enter."}); ClientStrings.push({key:"PasswordErrorMessage", msg: "Password must be between 6 and 10 characters, and contain at least 1 number or punctuation character. Please re-enter password."});
+ValElements.push({id: "ConfirmPassword", type: "customfunc", val: ValidateConfPassword, body: "Please re-enter password.", head: "Passwords do not match.", style: ""}); 
+ValElements.push({id: "ConfirmEmail", type: "customfunc", val: ValidateConfEmail, body: "Please re-enter email address.", head: "Email addresses do not match.", style: ""}); 
+HintElements.push({id: "FirstName", hint: "Your first and last name will be displayed publicly.  You can hide your full name after you sign up; just click &amp;quot;My Account&amp;quot;", head: "Want your friends to find you? Use your full name.", style: "" }); 
+HintElements.push({id: "LastName", hint: "Your first and last name will be displayed publicly.  You can hide your full name after you sign up; just click &amp;quot;My Account&amp;quot;", head: "Want your friends to find you? Use your full name.", style: "" }); 
+ValElements.push({id: "FirstName", type: "required", val: "true", body: "First Name is a required field. Please enter your real first name.", head: "First Name:", style: ""}); 
+ValElements.push({id: "LastName", type: "required", val: "true", body: "Last Name is a required field. Please enter your real last name.", head: "Last Name:", style: ""}); 
+populateStates('Country', 'Regions', ''); ShowValidationErrors();
+HintElements.push({id: "Regions", hint: "Please select your region", head: "", style: "" }); 
+HintElements.push({id: "PostalCode", hint: "Enter your correct postal code and make it easier for your friends to find you.", head: "", style: "" }); 
+ValElements.push({id: "PostalCode", type: "customfunc", val: validatePostalCode, body: "", head: "Postal Code:", style: ""});  ClientStrings.push({key:"PostalCodeErrorMessage", msg: "Please enter a Postal Code."}); ClientStrings.push({key:"ZipCodeErrorMessage", msg: "Enter a valid zipcode"}); ClientStrings.push({key:"LoginErrorMessage23", msg: "Please enter a valid Postal Code."}); ClientStrings.push({key:"LoginErrorMessage18", msg: "Please enter a valid Postal Code."}); ClientStrings.push({key:"International_SignupPleaseEnterPostalCodeErro2", msg: "Please enter your Postal Code. (Non-mandatory field)"}); ClientStrings.push({key:"International_SignupPleaseEnterPostalCode", msg: "Please enter your Postal Code."}); ClientStrings.push({key:"Example", msg: "Example"});
+ValElements.push({id: "Regions", type: "customfunc", val: validateRegion, body: "", head: "Please select your region", style: ""}); 
+ValElements.push({id: "Year", type: "customfunc", val: ValidateAge, body: "", head: "Date Of Birth:", style: ""}); 
+ValElements.push({id: "genderM", type: "customfunc", val: ValidateGender, body: "Gender:", head: "Gender:", style: ""});  ClientStrings.push({key:"BirthdayErrorMessage", msg: "Please enter a valid date for your birthday."}); ClientStrings.push({key:"LoginErrorMessage29", msg: "We’re sorry. Based on the information you have submitted to us, you are ineligible to register on MySpace.com."}); ClientStrings.push({key:"GenderErrorMessage", msg: "Please select your Gender."}); ClientStrings.push({key:"AreYouSure", msg: "Are You Sure?"}); ClientStrings.push({key:"AgeLockingText", msg: "Please confirm you are {0} years old.  You will not be able to change this after sign up."});
+ var dobErrDisplayEleId = 'Year'
+var v = $get('Month'); if(v)v.style.marginRight='8px';
+ ClientStrings.push({key:"en-AU", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"de-AT", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"fr-BE", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"nl-BE", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"pt-BR", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-CA", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"fr-CA", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"da-DK", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"fi-FI", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"fr-FR", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"de-DE", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-IN", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-IE", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different and may be less favorable to you compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"it-IT", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"es-LA", msg: "You confirm that you know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"es-MX", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"nl-NL", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-NZ", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"nb-NO", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"pl-PL", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"pt-PT", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"ru-RU", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"es-ES", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"sv-SE", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"de-CH", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"fr-CH", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"it-CH", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"tu-TR", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-GB", msg: "You know MySpace.com is a website operated by MySpace in the U.S., and you consent to the transfer of your personal data to the U.S. , where your personal data will be subject to U.S. law and where the level of data protection is different compared to your country. You also agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a> which describe how your personal data will be used."}); ClientStrings.push({key:"en-US", msg: "You agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a>.  You also agree to receive the MySpace e-mail newsletter and account updates targeted to you by MySpace, unless you have chosen to opt out of them."}); ClientStrings.push({key:"es-US", msg: "You agree to the MySpace <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.terms'>Terms of Service</a> and <a href='https://web.archive.org/web/20081216072227/http://www.myspace.com/index.cfm?fuseaction=misc.privacy'>Privacy Policy</a>."});
+ValElements.push({id: "Terms", type: "customfunc", val: ValidateTermsOfUse, body: "", head: "Terms of Service", style: "bottom"});  ClientStrings.push({key:"TOSErrorMessage", msg: "You must accept MySpace terms of use. Please check the “terms of use” check box to accept."});
+DisplaySecondaryUserAgreement('en-US');
+</script>
+
+
+   
+<script type="text/javascript">
+	MySpace.Application._raiseDOMloaded();
+</script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 07:22:27 Dec 16, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:17 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.747
+  exclusion.robots: 0.027
+  exclusion.robots.policy: 0.011
+  esindex: 0.014
+  cdx.remote: 12.155
+  LoadShardBlock: 108.423 (3)
+  PetaboxLoader3.datanode: 164.585 (4)
+  load_resource: 169.23
+  PetaboxLoader3.resolve: 34.652
+-->

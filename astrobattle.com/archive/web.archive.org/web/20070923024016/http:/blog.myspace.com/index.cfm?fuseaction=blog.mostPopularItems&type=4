@@ -1,0 +1,1205 @@
+ <!-- --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+	
+	
+
+	
+
+	
+	
+
+  
+  
+  
+  
+
+  
+		
+		
+
+		
+				
+
+
+
+
+	
+	
+	
+
+
+
+    
+
+
+
+<!-- false -->
+<!-- 1 -->
+<!-- YES -->
+
+
+	
+	
+		
+		<!-- ELS2MWEBBLU0299 -->
+		<!-- BlogMostPopularItems -->
+		<html lang="en" xml:lang="en">
+		<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://blog.myspace.com:80/index.cfm?fuseaction=blog.mostPopularItems&amp;type=4","20080914072237","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1221376957");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+			<title>MySpace</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta http-equiv="Content-Language" content="en"/>
+			<meta http-equiv="expires" content="0">
+			<meta http-equiv="Pragma" content="no-cache">
+			<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking">
+			
+			
+			
+			
+        
+          <link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspace.com/js/myspace.css">
+	
+        		
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspacecdn.com/modules/common/static/css/global018.css"/>
+				
+
+
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspacecdn.com/modules/common/static/css/master.css"/>
+				
+	
+        		
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspace.com/js/google-003.css">
+	
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspacecdn.com/modules/common/static/css/header/siteheader004.css">
+			
+		      	
+	
+	
+
+
+
+    
+
+		      
+			
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="https://web.archive.org/web/20080914072237js_/http://x.myspacecdn.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+						
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="https://web.archive.org/web/20080914072237js_/http://x.myspacecdn.com/modules/common/static/js/myspacejs060.js"></script>
+         		
+         		
+			<script type="text/javascript">
+				randomseed = Date.parse(new Date());				
+				
+				//url
+					var ad_Topic_ID =	1;
+				
+			</script>
+        
+				
+			<script>
+				if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+				Type.registerNamespace("MySpace");
+				
+				MySpace.ClientContext = {"UserId":0,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"BlogMostPopularItems"};
+				
+				
+				Type.registerNamespace("MySpaceRes");
+				
+				
+				MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};				
+			</script>
+			
+			
+        
+		</head>
+
+
+	<body bgcolor="e5e5e5" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" text="000000" alink="003399" vlink="003399" link="003399">
+
+		<script type="text/javascript">if(top != self){top.location.replace(self.location.href);}</script>
+      
+      <div align="center">
+        <div style="background:white;width:960px;margin:0 auto;padding:0;">
+       
+			<!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"BlogMostPopularItems"};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+msglobalnav.loadStrings({});
+</script><script type="text/javascript">
+var disableMSPLinks=1; 
+</script>
+
+<style type="text/css">
+#header * { font-family:verdana,arial,sans-serif,helvetica; }
+.popup_wrapper {z-index: 1000001 !important;}
+</style>
+<script type="text/javascript">
+	msglobalnav.applyAlphaImageLoader = function(id, url, method)
+	{
+        var el = document.getElementById(id);
+        if (el == null) return;
+        var img = new Image();
+        img.src = url;
+	    el.style.backgroundImage = 'none';
+		$addHandler(window, 'load', function()
+		{
+	        el.style.filter = 'progid:DXImagetransform.Microsoft.AlphaImageLoader(enabled="true", src="' + url + '", sizingMethod="' + method + '");';				
+		});
+    }	
+
+</script>
+<!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script src="https://web.archive.org/web/20080914072237js_/http://creative.myspacecdn.com/cms/js/ad_wrapper0111.js" type="text/javascript"></script>
+<script type="text/javascript">
+sdc_wrapper("tkn_leaderboard", "/MySpaceBlog/BlogCategory,13014002", "Frame1");
+</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/" title="MySpace a place for friends" style="background-image:url(https://web.archive.org/web/20080914072237im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong><em>a place for friends</em></a></h1></div>
+<span id="searchControlHeader"><!-- BOS -->
+<div id="searchContainer_Header" class="global"><form id="formSearch_Header" name="srch_Header" onsubmit="return (document.getElementById('search_q_Header').value.length > 0);" action="https://web.archive.org/web/20080914072237/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Header" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Header" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Header" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Header" style="text-decoration:none !important;" onclick="openSearchTypes('Header');" onmouseout="hideSearchTypes('Header');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Header" onmouseover="srchMenuList(true,'Header');" onmouseout="srchMenuList(false,'Header');"><ul><li><a id="People_Header" href="javascript:switchSearchTypeTo('People','Header')">People</a></li><li><a id="AllMySpace_Header" href="javascript:switchSearchTypeTo('AllMySpace','Header')">MySpace</a></li><li><a id="Web_Header" href="javascript:switchSearchTypeTo('Web','Header')">Web</a></li><li><a id="Music_Header" href="javascript:switchSearchTypeTo('Music','Header')">Music</a></li><li><a id="MySpaceTV_Header" href="javascript:switchSearchTypeTo('MySpaceTV','Header')">Video</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Header"/></div></div><div id="googleLogo_Header" style="background-image: url(https://web.archive.org/web/20080914072237im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><!-- EOS -->
+</span></div>
+<div id="topnav"><ul id="leftNav"><li><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/">Home</a></li><li><a href="https://web.archive.org/web/20080914072237/http://browseusers.myspace.com/Browse/Browse.aspx">Browse People</a></li><li><a href="https://web.archive.org/web/20080914072237/http://search.myspace.com/index.cfm?fuseaction=find">Find People</a></li><li><a href="https://web.archive.org/web/20080914072237/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20080914072237/http://music.myspace.com/">Music</a></li><li><a href="https://web.archive.org/web/20080914072237/http://vids.myspace.com/">Videos</a></li><li><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav0" onmouseover="msglobalnav.toggle('0',true);" onmouseout="msglobalnav.toggle('0',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=splash">Log In</a></li><li><a href="https://web.archive.org/web/20080914072237/http://signup.myspace.com/index.cfm?fuseaction=join">Sign Up</a></li></ul></div>
+<div id="subnav"><ul id="subNav0" onmouseover="msglobalnav.subToggle('0',true);" onmouseout="msglobalnav.subToggle('0',false);"><li class="divider"><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=splash.more">More on MySpace</a></li><li><a href="https://web.archive.org/web/20080914072237/http://apps.myspace.com/index.cfm?fuseaction=apps">Apps Gallery</a></li><li><a href="https://web.archive.org/web/20080914072237/http://classifieds.myspace.com/?cm_mmc_o=FYl5zgwCjCAlzCjCFzbEEzMCjCFzbEEzM">Classifieds</a></li><li><a href="https://web.archive.org/web/20080914072237/http://events.myspace.com/">Events</a></li><li><a href="https://web.archive.org/web/20080914072237/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20080914072237/http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="https://web.archive.org/web/20080914072237/http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/">Top Blogs</a></li><li><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/myspacemobile">Mobile</a></li><li><a href="https://web.archive.org/web/20080914072237/http://celebrity.myspace.com/index.cfm?fuseaction=celebrity">Celebrity</a></li><li><a href="https://web.archive.org/web/20080914072237/http://comedy.myspace.com/">Comedy</a></li><li><a href="https://web.archive.org/web/20080914072237/http://games.myspace.com/?refid=myspace2">Games</a></li><li><a href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=impact">Politics</a></li><li><a href="https://web.archive.org/web/20080914072237/http://ksolo.myspace.com/">Karaoke</a></li><li class="last"><a href="https://web.archive.org/web/20080914072237/http://movies.myspace.com/">Movies</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo_Header', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<noscript>
+<div style="TEXT-ALIGN: center">
+<div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: #ffcc99; PADDING-BOTTOM: 4px; MARGIN: 0px auto; WIDTH: 960px; COLOR: #d95801; PADDING-TOP: 4px; TEXT-ALIGN: center">Having trouble? You need to have <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/javascriptissues" target="_blank">JavaScript enabled</a> to use all of MySpace's features. <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/javascriptissues" target="_blank">Click here</a> for help enabling it.</div></div></noscript>
+<script type="text/javascript">
+var defaultSearchFix = document.getElementById("search_t_Header");if (defaultSearchFix != null) {    if (defaultSearchFix.value == "Video") {        defaultSearchFix.value = "MySpaceTV";        switchSearchTypeTo("MySpaceTV", "Header");    }    if (defaultSearchFix.value == "MySpace") {        defaultSearchFix.value = "AllMySpace";        switchSearchTypeTo("AllMySpace", "Header");    }    if (defaultSearchFix.value == "Web")         switchSearchTypeTo("Web", "Header");    if (defaultSearchFix.value == "People")         switchSearchTypeTo("People", "Header");    if (defaultSearchFix.value == "Music")         switchSearchTypeTo("Music", "Header");		}
+var defaultSearchFooterFix = document.getElementById("search_t_Footer"); if (defaultSearchFooterFix != null) {	if (defaultSearchFooterFix.value == "Video") {		defaultSearchFooterFix.value = "MySpaceTV";		switchSearchTypeTo("MySpaceTV", "Footer");	}	if (defaultSearchFooterFix.value == "MySpace") {		defaultSearchFooterFix.value = "AllMySpace";		switchSearchTypeTo("AllMySpace", "Footer");	}	if (defaultSearchFooterFix.value == "Web") 		switchSearchTypeTo("Web", "Footer");	if (defaultSearchFooterFix.value == "People") 		switchSearchTypeTo("People", "Footer");	if (defaultSearchFooterFix.value == "Music") 		switchSearchTypeTo("Music", "Footer");}
+var searchBtnFix = document.getElementById("submit_Header");
+if (searchBtnFix != null) searchBtnFix.value = " Search ";
+var searchBtnFooterFix = document.getElementById("submit_Footer");
+if (searchBtnFooterFix != null)searchBtnFooterFix.value = " Search ";
+
+</script>
+<style type="text/css">
+	#srchMenuListBox_Header{white-space:nowrap !important;z-index:1000000 !important;background-image:none !important;}
+	#srchMenuListBox_Footer{white-space:nowrap !important;z-index:1000000 !important;background-image:none !important;}
+DIV.srchfieldLayer{width:304px !important;z-index: 1000000 !important;}
+DIV.srchfieldLayer div {z-index: 1000000 !important;}
+DIV.srchfieldLayer div div {z-index: 1000000 !important;}
+div#srchMenuContainer * {z-index:1000000 !important;}
+div#srchMenuContainer {z-index:1000000 !important;}
+div#srchMenuListBox_Header ul{z-index: 1000000 !important; }
+div#srchMenuListBox_Footer ul{z-index: 1000000 !important; }
+div#searchContainer_Header {width:470px !important;}
+div#searchContainer_Footer {z-index:1000000 !important;}
+</style><!-- EOH -->
+	
+			
+		
+
+		
+      
+	
+
+				
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080914072237cs_/http://x.myspace.com/js/blog-popular-v1.css">
+
+
+<div align="center">
+<div id="blogwrapper">
+	<table cellspacing="0" cellpadding="0" id="bloghead">
+		<form action="https://web.archive.org/web/20080914072237/http://searchresults.myspace.com/index.cfm?fuseaction=advancedFind.results&amp;websearch=1&amp;spotId=3" method="post" name="blogSearch">
+			<input type="hidden" name="SearchType" value="blog">
+			<input type="hidden" name="LogID" value="blog"/>
+			<input type="hidden" name="SearchBoxID" value="header"/>
+		<tr>
+			<td><h1>Most Popular Blog Posts - Updated Daily</h1>
+				<p style="margin-top:3px;">Total Blogs: 201,744,593
+					<br/>Blog Today:     609,808</p>
+			</td>
+			<td class="text">
+				<input type="text" name="searchRequest" value="Search Blogs" style="width:170px;" onfocus="this.value=''"/>
+				<input type="submit" name="submitSearch" value="Search"/>
+			</td>
+		</tr>
+		</form>
+	</table>
+	<table align="center" border="0" cellspacing="0" cellpadding="5">
+		<tr valign="top">
+			<td width="180" align="left" valign="top" class="blacktext10nb">
+				<div class="sideblog">
+					<h3>My Controls</h3>
+					<ul>
+						<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.controlcenter&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">Blog Home</a></li>
+						
+							<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mysubscriptions&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">My Subscriptions</a></li>
+							<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mysubscribers&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">My Readers</a></li>
+						
+						<li class="last"><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.myPrivateList&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">My Preferred List</a></li>
+					</ul>
+				</div>
+				<div class="sideblog" id="MostPopular">
+					<h3>Most Popular</h3>
+					<ul>
+						<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularItems&amp;type=1&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">Music</a></li>
+						<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularItems&amp;type=2&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">Books</a></li>
+						<li><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularItems&amp;type=3&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">DVD/Video</a></li>
+						<li class="last"><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularItems&amp;type=4&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="man">Games</a></li>
+					</ul>
+				</div>
+				<div id="blogcategories">
+					<h3>Blog Categories</h3>
+					<a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopular&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">All Categories</a>
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=1&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Art and Photography</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=4&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Automotive</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=2&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Blogging</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=6&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Dreams and the Supernatural</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=3&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Fashion, Style, Shopping</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=7&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Food and Restaurants</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=8&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Friends</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=9&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Games</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=10&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Goals, Plans, Hopes</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=11&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Jobs, Work, Careers</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=12&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Life</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=14&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Movies, TV, Celebrities</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=15&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Music</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=16&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">MySpace</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=17&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">News and Politics</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=18&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Parties and Nightlife</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=19&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Pets and Animals</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=26&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Podcast</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=20&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Quiz/Survey</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=21&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Religion and Philosophy</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=13&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Romance and Relationships</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=22&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">School, College, Greek</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=23&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Sports</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=24&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Travel and Places</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=5&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Web, HTML, Tech</a>
+						
+					
+						
+							<br/><a href="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm?fuseaction=blog.mostPopularByCategory&amp;BlogCategoryID=25&amp;Mytoken=C24DFA90-374C-4304-8D30958F43774082165818471" class="topQuartile">Writing and Poetry</a>
+						
+					
+				</div>
+			</td>
+			<td width="1"></td>
+			<td width="510">
+				<table cellpadding="3" cellspacing="0" align="center" id="MostResults">
+					<thead>
+						<tr><td colspan="3">Top Games Picks</td></tr>
+					</thead>
+					<tr class="nav"><td colspan="3" style="border-bottom:1px solid #ccc;">
+<script language="JavaScript">
+<!--
+function NextPage( page )
+{
+	document.PageForm.page.value = page;
+	document.PageForm.submit();
+}
+//-->
+</script>
+
+
+	<table border="0" cellspacing="2" cellpadding="0" width="100%">
+		<tr>
+			<td colspan="4">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td nowrap>Listing
+							1-10 of 
+							51&nbsp;&nbsp;&nbsp;</td>
+						<td align="center" nowrap>
+							
+							
+								
+									1&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(1)">2</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(2)">3</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(3)">4</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(4)">5</a>&nbsp;&nbsp;
+								
+							
+							
+								<a href="javascript:NextPage('5')">&gt;&gt;</a>&nbsp;&nbsp;
+							
+							of&nbsp;
+							
+								<a href="javascript:NextPage('5')">6</a>
+							
+						</td>
+						<td align="right" width="150" nowrap>
+							
+							
+							<a href="javascript:NextPage('1')">Next</a> &gt;
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+</td></tr>
+					<form name="PageForm" action="https://web.archive.org/web/20080914072237/http://blog.myspace.com/index.cfm" method="get">
+					<input type="hidden" name="fuseaction" value="blog.mostPopularItems">
+					<input type="hidden" name="type" value="4">
+					<input type="hidden" name="page" value="">
+					<input type="hidden" name="Mytoken" value="AACB6AA7-3B3D-4EAA-93FC21D9FEBB3526165818471">
+					</form>
+					
+						<tbody>
+						
+							<tr>
+								<td class="blogitemrank">1.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/510CQiYV2bL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Electronic-Arts-15352-Spore/dp/B000FKBCX4?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FKBCX4" class="prodname" target="_blank">Spore</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>22</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000FKBCX4/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Electronic-Arts-15352-Spore/dp/B000FKBCX4?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FKBCX4" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">2.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51YBPAS2NDL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Blizzard-Entertainment-World-of-Warcraft/dp/B000067FDW?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000067FDW" class="prodname" target="_blank">World of Warcraft</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>9</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000067FDW/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Blizzard-Entertainment-World-of-Warcraft/dp/B000067FDW?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000067FDW" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">3.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51-sTAVzeFL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Legend-Zelda-Twilight-Princess/dp/B000FQBPCQ?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FQBPCQ" class="prodname" target="_blank">The Legend of Zelda: Twilight Princess</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>7</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000FQBPCQ/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Legend-Zelda-Twilight-Princess/dp/B000FQBPCQ?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FQBPCQ" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">4.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51atrAxEVlL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Microsoft-9UE-00001-Halo-3/dp/B000FRU0NU?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FRU0NU" class="prodname" target="_blank">Halo 3</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000FRU0NU/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Microsoft-9UE-00001-Halo-3/dp/B000FRU0NU?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FRU0NU" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">5.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51ducPGtaPL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Metal-Gear-Solid-Guns-Patriots/dp/B000FQ2D5E?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FQ2D5E" class="prodname" target="_blank">Metal Gear Solid 4: Guns of the Patriots</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000FQ2D5E/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Metal-Gear-Solid-Guns-Patriots/dp/B000FQ2D5E?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000FQ2D5E" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">6.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/61WQ8qb9cmL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Blizzard-Entertainment-020626726191-Warcraft-Battlechest/dp/B000H96C9M?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H96C9M" class="prodname" target="_blank">World of Warcraft Battlechest</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000H96C9M/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Blizzard-Entertainment-020626726191-Warcraft-Battlechest/dp/B000H96C9M?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000H96C9M" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">7.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51M0Ct2Rg7L._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Call-Duty-4-Modern-Warfare/dp/B000TTFLS8?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000TTFLS8" class="prodname" target="_blank">Call of Duty 4: Modern Warfare</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000TTFLS8/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Call-Duty-4-Modern-Warfare/dp/B000TTFLS8?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000TTFLS8" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">8.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/41iQxZxxHcL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Nintendo-RVLRRFNE-Wii-Fit/dp/B000VJRU44?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000VJRU44" class="prodname" target="_blank">Wii Fit</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B000VJRU44/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Nintendo-RVLRRFNE-Wii-Fit/dp/B000VJRU44?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B000VJRU44" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">9.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/51mBzT7XwPL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Namco-21016-Tales-of-Vesperia/dp/B0015HZLVA?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0015HZLVA" class="prodname" target="_blank">Tales of Vesperia</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B0015HZLVA/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/Namco-21016-Tales-of-Vesperia/dp/B0015HZLVA?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0015HZLVA" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+							<tr>
+								<td class="blogitemrank">10.</td>
+								<td width="75"><img src="https://web.archive.org/web/20080914072237im_/http://ecx.images-amazon.com/images/I/5102wkDRlHL._SL75_.jpg" border="0" width="75" align="left" hspace="10" vspace="3"></td>
+								<td width="80%"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/The-Sims-2-Apartment-Life/dp/B001AIR1F8?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B001AIR1F8" class="prodname" target="_blank">The Sims 2: Apartment Life</a>
+									
+									<div class="totals">Total MySpace Blog Links: <strong>5</strong></div>
+									<div class="morerelated"><a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/exec/obidos/tg/detail/-/B001AIR1F8/myspace08-20" target="_blank">more info</a> - 
+										<a href="https://web.archive.org/web/20080914072237/http://www.amazon.com/The-Sims-2-Apartment-Life/dp/B001AIR1F8?SubscriptionId=10YFNG2YAAQ0VTNNR4R2&amp;tag=myspace08-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B001AIR1F8" target="_blank">see related</a></div>
+								</td>
+							</tr>
+						
+						</tbody>
+					
+					<tr class="nav"><td colspan="3">
+<script language="JavaScript">
+<!--
+function NextPage( page )
+{
+	document.PageForm.page.value = page;
+	document.PageForm.submit();
+}
+//-->
+</script>
+
+
+	<table border="0" cellspacing="2" cellpadding="0" width="100%">
+		<tr>
+			<td colspan="4">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td nowrap>Listing
+							1-10 of 
+							51&nbsp;&nbsp;&nbsp;</td>
+						<td align="center" nowrap>
+							
+							
+								
+									1&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(1)">2</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(2)">3</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(3)">4</a>&nbsp;&nbsp;
+								
+							
+								
+									<a href="javascript:NextPage(4)">5</a>&nbsp;&nbsp;
+								
+							
+							
+								<a href="javascript:NextPage('5')">&gt;&gt;</a>&nbsp;&nbsp;
+							
+							of&nbsp;
+							
+								<a href="javascript:NextPage('5')">6</a>
+							
+						</td>
+						<td align="right" width="150" nowrap>
+							
+							
+							<a href="javascript:NextPage('1')">Next</a> &gt;
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+</td></tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div></div>
+
+				
+	
+    <style type="text/css">
+	    div#msft{background-color:#e5e5e5;width:100%;text-align:center;line-height:2em;}
+	    div#msft a{color:#039;font-family:Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:underline;font-size:8pt;}
+	    div#msft a#cprt{color:#000;font-weight:normal;font-size:90%;}div#msft a:hover{color:#39e !important;}
+    </style>
+
+    
+	    
+	    
+	        
+    		    
+	        
+    		
+		    
+    		
+		    
+    
+
+    
+        <div id="msft">
+            <!-- Footer:Standard Start -->
+
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br><a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">About</a> | <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=misc.faq" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">FAQ</a> | <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Terms</a> |  <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Privacy Policy</a> | <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safetysite" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Safety Tips</a> | <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Contact MySpace</a> |
+<!-- REPORT ABUSE LINK -->
+<script type="text/javascript">
+    if (MySpace != null && MySpace.ClientContext != null && MySpace.ClientContext.DisplayFriendId != null && MySpace.ClientContext.DisplayFriendId > 0) {
+        document.write("<a hr" + "ef='https://web.archive.org/web/20080914072237/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\">Report Abuse<" + "/a> | ");
+    }
+</script> <a class="text" href="https://web.archive.org/web/20080914072237/http://www.myspace.com/modules/common/pages/sales.aspx" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Advertise</a> | <a class="text" id="intlLink" href="javascript:msglobalnav.toggleInternationalLinks();">MySpace International  ▼</a> <span id="msLatino">| <a class="text" href="https://web.archive.org/web/20080914072237/http://latino.myspace.com/" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">MySpace Latino</a></span>
+<script>	
+function popLanguageOverlay(culture, url)
+{
+        MySpace.UI.Header.languageLinkClick(culture, url, 1);
+}	
+</script>
+
+<br/><span id="searchControlFooter"><!-- BOS -->
+<div id="searchContainer_Footer" class="global"><form id="formSearch_Footer" name="srch_Footer" onsubmit="return (document.getElementById('search_q_Footer').value.length > 0);" action="https://web.archive.org/web/20080914072237/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Footer" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Footer" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Footer" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Footer" style="text-decoration:none !important;" onclick="openSearchTypes('Footer');" onmouseout="hideSearchTypes('Footer');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Footer" onmouseover="srchMenuList(true,'Footer');" onmouseout="srchMenuList(false,'Footer');"><ul><li><a id="People_Footer" href="javascript:switchSearchTypeTo('People','Footer')">People</a></li><li><a id="AllMySpace_Footer" href="javascript:switchSearchTypeTo('AllMySpace','Footer')">MySpace</a></li><li><a id="Web_Footer" href="javascript:switchSearchTypeTo('Web','Footer')">Web</a></li><li><a id="Music_Footer" href="javascript:switchSearchTypeTo('Music','Footer')">Music</a></li><li><a id="MySpaceTV_Footer" href="javascript:switchSearchTypeTo('MySpaceTV','Footer')">Video</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Footer"/></div></div><div id="googleLogo_Footer" style="background-image: url(https://web.archive.org/web/20080914072237im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><script type="text/javascript">var _notImportant = 12;</script><!-- EOS -->
+</span><div class="clear">&copy;2003-2008 MySpace.com. All Rights Reserved.
+
+</div><script type="text/javascript">
+    var ___footerFix = (function(){
+        var _strict = null;
+        var strict = (function(){
+            if (_strict == null) {
+                var d = document.doctype
+                _strict = (document.compatMode == "CSS1Compat")
+                _strict = (d && d.systemId ? (d.systemId.indexOf("strict") > -1 ? true : (d.publicId.indexOf("transitional") > -1 ? true : false)) : (d && d.publicId.indexOf("transitional") == -1 ? true : _strict))
+                _strict = (d && d.name.indexOf(".dtd") > -1) ? true : _strict
+            }
+            return _strict;
+        }());
+        
+        var isie = navigator.userAgent.indexOf('MSIE') >= 0
+        
+        function position(o){
+            var fixBrowserQuirks = true;
+            var left = 0, top = 0, parentNode = null, offsetParent = null;
+            offsetParent = o.offsetParent;
+            var originalObject = o;
+            var el = o;
+            while (el.parentNode != null) {
+                el = el.parentNode;
+                if (el.offsetParent != null) {
+                    var considerScroll = true;
+                    if (fixBrowserQuirks && window.opera) {
+                        if (el == originalObject.parentNode || el.nodeName == "TR") {
+                            considerScroll = false;
+                        }
+                    }
+                    if (considerScroll) {
+                        if (el.scrollTop && el.scrollTop > 0) {
+                            top -= el.scrollTop;
+                        }
+                        if (el.scrollLeft && el.scrollLeft > 0) {
+                            left -= el.scrollLeft;
+                        }
+                    }
+                }
+                if (el == offsetParent) {
+                    left += o.offsetLeft;
+                    if (el.clientLeft && el.nodeName != "TABLE") {
+                        left += el.clientLeft;
+                    }
+                    top += o.offsetTop;
+                    if (el.clientTop && el.nodeName != "TABLE") {
+                        top += el.clientTop;
+                    }
+                    o = el;
+                    if (o.offsetParent == null) {
+                        if (o.offsetLeft) {
+                            left += o.offsetLeft;
+                        }
+                        if (o.offsetTop) {
+                            top += o.offsetTop;
+                        }
+                    }
+                    offsetParent = o.offsetParent;
+                }
+            }
+            return {
+                'top': top,
+                'left': left
+            };
+        }
+        
+        var output = {};
+        
+        //FOOTER FUNCTION & FIELDS
+        var isIntlFooterOn = false;
+        
+        output.toggleInternationalLinks = function(f){
+            if (f != null) {
+                isIntlFooterOn = f;
+            }
+            var internationalLinks = document.getElementById('internationalLinks');
+            var intlLink = document.getElementById('intlLink');
+            if (isIntlFooterOn) {
+                 internationalLinks.style.visibility = 'hidden';
+		    }
+            else {
+                var pos = position(intlLink);
+                if (!isie) {
+                    internationalLinks.style.marginLeft = (pos.left - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) + 25) + 'px';
+                }
+                else {
+                    var lo = (pos.left - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) - (document.body.offsetWidth / 2));
+                    if (-lo > internationalLinks.offsetWidth) 
+                        lo = lo + (document.body.offsetWidth / 2);
+                    internationalLinks.style.marginLeft = lo + 'px';
+                }
+                internationalLinks.style.visibility = 'visible';
+
+            }
+            isIntlFooterOn = !isIntlFooterOn;
+        }
+        
+        
+        return output;
+    }
+    ());
+    if (msglobalnav != null) {
+        msglobalnav.toggleInternationalLinks = ___footerFix.toggleInternationalLinks;
+    }
+</script>
+
+<style type="text/css">
+             #footer {
+                float:none;
+                clear:both;
+                z-index: 10009 !important;
+                font-size: 11px !important;
+                font-weight: normal !important;
+				font-family: Verdana, Arial, Helvetica, sans-serif !important;	
+				line-height: normal !important;			
+            }
+            #footer *
+			{
+                font-size: 11px !important;
+                font-weight: normal !important;
+				font-family: Verdana, Arial, Helvetica, sans-serif !important;	
+				line-height: normal !important;			
+            }
+            div#footer a {
+            	
+                white-space: nowrap !important;
+ 				text-decoration:underline !important;
+            }
+			
+			#internationalLinks {
+                text-align: left;
+                padding: 0;
+                border: 1px #7299B8 solid;
+                background-color: #fff;
+                z-index: 10099 !important;
+                width: 400px;
+                text-align: center;
+                height: 435px;
+                margin-top: -448px;				
+                .margin-top: -435px;
+                visibility: hidden;
+                overflow: hidden;
+                position: absolute;
+                font-size: 11px !important;
+                font-weight: normal !important;
+				font-family: Verdana, Arial, Helvetica, sans-serif !important;	
+				line-height: normal !important;			
+
+            }
+			#internationalLinks *
+			{
+                font-size: 11px !important;
+                font-weight: normal !important;
+				font-family: Verdana, Arial, Helvetica, sans-serif !important;	
+				line-height: normal !important;			
+			}
+
+div#internationalLinks{z-index:1000009 !important;}
+
+            #internationalLinks div.column {
+                float: left;
+                padding: 0 0 0 15px;
+                width: 180px;
+                text-align: left;
+				overflow: hidden;
+				text-overflow:ellipsis;
+            }
+
+            #internationalLinks ul {
+                list-style: none !important;	
+                margin: 0 !important;	
+                padding: 0 !important;	
+            }
+
+            #internationalLinks ul.bottomMargin {
+                margin: 0 0 35px 0 !important;	
+            }
+
+            #internationalLinks ul li {
+                list-style: none !important;	
+                margin: 7px 0 !important;	
+                padding: 0 !important;	
+				height:12px !important;	
+				line-height:12px !important;	
+				display:block !important;	
+            }
+
+
+            #internationalLinks div.header {
+                font-size: 12px !important;
+                margin: 10px 0 3px;
+                padding: 0 0 3px 0;
+                font-weight: bold !important;
+                color: #000;
+				border-bottom:#7299B8 solid 1px;
+            }
+
+            #internationalLinks a {
+                color: #039 !important;
+                font-size: 11px !important;
+                font-weight: normal !important;
+				text-decoration:underline !important;
+            }
+			#internationalLinks a:hover {
+                color: #69F !important;
+            }
+			#internationalLinks .closer {
+                text-align:right;
+				background:#7299B8;
+				padding:3px 10px 5px;
+				clear:both;
+				float:none;
+            }
+			#internationalLinks .closer a {
+                font-size:10px !important;
+				color:#fff !important;
+            }
+			#internationalLinks .closer a:hover {
+				color:#def !important;
+            }
+        </style>
+<div id="internationalLinks">
+    <div class="closer"><a href="javascript:msglobalnav.toggleInternationalLinks();">Close</a></div>
+    <div class="column">
+        <div class="header">
+            Americas
+        </div>
+        <ul class="bottomMargin">
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://br.myspace.com/">Brazil</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://ca.myspace.com/">Canada </a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://cf.myspace.com/">Canada (Français)</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://la.myspace.com/">Latin America (Español)</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://mx.myspace.com/">Mexico</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://us.myspace.com/">United States (English)</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://latino.myspace.com/">United States (Latino)</a>
+            </li>
+        </ul>
+        <div class="header">
+            Asia Pacific
+        </div>
+        <ul>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://au.myspace.com/">Australia</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://in.myspace.com/">India</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://jp.myspace.com/">Japan</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://kr.myspace.com/">Korea</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://nz.myspace.com/">New Zealand</a>
+            </li>
+        </ul>
+    </div>
+    <div class="column">
+        <div class="header">
+            Europe
+        </div>
+        <ul>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://at.myspace.com/">Austria</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://dk.myspace.com/">Denmark</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://fi.myspace.com/">Finland</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://fr.myspace.com/">France</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://de.myspace.com/">Germany</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://ie.myspace.com/">Ireland</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://it.myspace.com/">Italy</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://nl.myspace.com/">Netherlands</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://no.myspace.com/">Norway</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://pt.myspace.com/">Portugal</a>
+            </li>
+			            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://pl.myspace.com/">Poland</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://ru.myspace.com/">Russia</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://es.myspace.com/">Spain</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://se.myspace.com/">Sweden</a>
+            </li>
+            <li>
+                <a href="https://web.archive.org/web/20080914072237/http://schweiz.myspace.com/">Switzerland (Deutsch)</a>
+            </li>
+            <li><a href="https://web.archive.org/web/20080914072237/http://suisse.myspace.com/">
+            Switzerland (Français)
+            </a>
+        </li>
+        <li>
+            <a href="https://web.archive.org/web/20080914072237/http://svizzera.myspace.com/">Switzerland (Italiano)</a>
+        </li>
+		        <li>
+            <a href="https://web.archive.org/web/20080914072237/http://tr.myspace.com/">Turkey</a>
+        </li>
+        <li>
+            <a href="https://web.archive.org/web/20080914072237/http://uk.myspace.com/">UK</a>
+        </li>
+        </ul>
+    </div>
+</div>
+
+</div>
+<script type="text/javascript"> var updateClientTimeZone = 1; </script><!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googleLogo_Footer', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+</script>
+<![endif]-->
+<!-- Footer:Standard End -->
+
+        </div>
+    
+    
+      </div>
+    
+
+    
+        
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+         
+		<script type="text/javascript" src="https://web.archive.org/web/20080914072237js_/http://x.myspacecdn.com/modules/common/static/js/global033.js"></script>
+         
+    
+</body>
+</html>
+			
+	
+
+
+	
+
+
+
+<!-- onRequestEnd -->
+
+	
+
+
+
+<!--
+     FILE ARCHIVED ON 07:22:37 Sep 14, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:55:36 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.672
+  exclusion.robots: 0.027
+  exclusion.robots.policy: 0.012
+  esindex: 0.012
+  cdx.remote: 793.462
+  LoadShardBlock: 363.681 (3)
+  PetaboxLoader3.resolve: 382.764 (4)
+  PetaboxLoader3.datanode: 167.555 (4)
+  load_resource: 267.719
+-->

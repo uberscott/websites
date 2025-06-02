@@ -1,0 +1,2891 @@
+ <!-- --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://events.myspace.com:80/index.cfm?fuseaction=events.detail&amp;eventID=344806.19316","20080727095054","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1217152254");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<center>
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+	
+	
+	
+
+
+
+    
+
+
+
+<!-- false -->
+<!-- 1 -->
+<!-- YES -->
+
+
+	
+	
+		
+		<!-- ELS2MWEBBLU0142 -->
+		<!-- EventsDetail -->
+		<html lang="en" xml:lang="en">
+		<head>
+			<title>MySpace</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta http-equiv="Content-Language" content="en"/>
+			<meta http-equiv="expires" content="0">
+			<meta http-equiv="Pragma" content="no-cache">
+			<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking">
+			
+			
+			
+			
+        
+          <link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080727095054cs_/http://x.myspace.com/js/myspace.css">
+	
+        		
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080727095054cs_/http://x.myspacecdn.com/modules/common/static/css/global016.css"/>
+				
+
+
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080727095054cs_/http://x.myspacecdn.com/modules/common/static/css/master.css"/>
+				
+	
+        		
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080727095054cs_/http://x.myspace.com/js/google-003.css">
+	
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20080727095054cs_/http://x.myspacecdn.com/modules/common/static/css/header/siteheader004.css">
+			
+		      	
+	
+	
+
+
+
+    
+
+		      
+			
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="https://web.archive.org/web/20080727095054js_/http://x.myspacecdn.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+						
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="https://web.archive.org/web/20080727095054js_/http://x.myspacecdn.com/modules/common/static/js/myspacejs056.js"></script>
+         		
+         		
+			<script type="text/javascript">
+				randomseed = Date.parse(new Date());				
+				
+				//url
+					var ad_Topic_ID =	1;
+				
+			</script>
+        
+				
+			<script>
+				if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+				Type.registerNamespace("MySpace");
+				
+				MySpace.ClientContext = {"UserId":0,"DisplayFriendId":0,"IsLoggedIn":false};
+				
+				
+				Type.registerNamespace("MySpaceRes");
+				
+				
+				MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};				
+			</script>
+			
+			
+        
+		</head>
+
+
+	<body bgcolor="e5e5e5" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" text="000000" alink="003399" vlink="003399" link="003399">
+
+		<script type="text/javascript">if(top != self){top.location.replace(self.location.href);}</script>
+      
+      <div align="center">
+        <div style="background:white;width:960px;margin:0 auto;padding:0;">
+       
+			<!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+</script><script type="text/javascript">
+var disableMSPLinks=1; 
+</script>
+
+<style type="text/css">
+#header * { font-family:verdana,arial,sans-serif,helvetica; }
+.popup_wrapper {z-index: 1000001 !important;}
+</style>
+<script type="text/javascript">
+	msglobalnav.applyAlphaImageLoader = function(id, url, method)
+	{
+        var el = document.getElementById(id);
+        if (el == null) return;
+        var img = new Image();
+        img.src = url;
+	    el.style.backgroundImage = 'none';
+		$addHandler(window, 'load', function()
+		{
+	        el.style.filter = 'progid:DXImagetransform.Microsoft.AlphaImageLoader(enabled="true", src="' + url + '", sizingMethod="' + method + '");';				
+		});
+    }	
+
+</script>
+<!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script src="https://web.archive.org/web/20080727095054js_/http://creative.myspace.com/cms/js/ad_wrapper0102.js" type="text/javascript"></script>
+<script type="text/javascript">
+sdc_wrapper("tkn_leaderboard", "/MySpaceEvents/EventsDetail,16000006", "Frame1");
+</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/" style="background-image:url(https://web.archive.org/web/20080727095054im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong><em>a place for friends</em></a></h1></div>
+<div id="searchheader" class="global"><form id="srch" name="srch" onsubmit="return (document.getElementById('search_q').value.length > 0);" action="https://web.archive.org/web/20080727095054/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t" name="type" value="Web"/><div class="srchfield"><div><div><input name="qry" id="search_q" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenu"><span class="loc2"><a id="searchTypeValue" onclick="msglobalnav.openSearchTypes();" onmouseout="msglobalnav.hideSearchTypes();">Web<small>&#9660;</small></a></span><div id="srchMenuList" onmouseover="msglobalnav.srchMenuList(true);" onmouseout="msglobalnav.srchMenuList(false);"><ul><li><a id="People" href="javascript:msglobalnav.switchSearchTypeTo('People')">People</a></li><li><a id="AllMySpace" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace')">MySpace</a></li><li><a id="Web" href="javascript:msglobalnav.switchSearchTypeTo('Web')">Web</a></li><li><a id="Music" href="javascript:msglobalnav.switchSearchTypeTo('Music')">Music</a></li><li><a id="MySpaceTV" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV')">Video</a></li></ul></div></div></div></div></div>
+<div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit"/></div></div>
+<div id="googleLogo" style="background-image:url(https://web.archive.org/web/20080727095054im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div>
+</form></div>
+</div>
+<div id="topnav"><ul id="leftNav"><li><a href="https://web.archive.org/web/20080727095054/http://www.myspace.com/">Home</a></li><li><a href="https://web.archive.org/web/20080727095054/http://browseusers.myspace.com/Browse/Browse.aspx">Browse</a></li><li><a href="https://web.archive.org/web/20080727095054/http://search.myspace.com/index.cfm?fuseaction=find">Find People</a></li><li><a href="https://web.archive.org/web/20080727095054/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20080727095054/http://music.myspace.com/">Music</a></li><li><a href="https://web.archive.org/web/20080727095054/http://vids.myspace.com/">MySpaceTV</a></li><li><a href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav0" onmouseover="msglobalnav.toggle('0',true);" onmouseout="msglobalnav.toggle('0',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><a href="https://web.archive.org/web/20080727095054/http://signup.myspace.com/index.cfm?fuseaction=join">Sign Up</a></li></ul></div>
+<div id="subnav"><ul id="subNav0" onmouseover="msglobalnav.subToggle('0',true);" onmouseout="msglobalnav.subToggle('0',false);"><li><a href="https://web.archive.org/web/20080727095054/http://apps.myspace.com/Modules/AppGallery/Pages/featuredappgallery.aspx?fuseaction=apps">Apps Gallery</a></li><li><a href="https://web.archive.org/web/20080727095054/http://classifieds.myspace.com/index.cfm?fuseaction=classifieds">Classifieds</a></li><li><a href="https://web.archive.org/web/20080727095054/http://events.myspace.com/">Events</a></li><li><a href="https://web.archive.org/web/20080727095054/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20080727095054/http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="https://web.archive.org/web/20080727095054/http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="https://web.archive.org/web/20080727095054/http://blog.myspace.com/">Top Blogs</a></li><li><a href="https://web.archive.org/web/20080727095054/http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="https://web.archive.org/web/20080727095054/http://www.myspace.com/myspacemobile">Mobile</a></li><li><a href="https://web.archive.org/web/20080727095054/http://celebrity.myspace.com/">Celebrity</a></li><li><a href="https://web.archive.org/web/20080727095054/http://comedy.myspace.com/">Comedy</a></li><li><a href="https://web.archive.org/web/20080727095054/http://games.myspace.com/?refid=myspace2">Games</a></li><li class="last"><a href="https://web.archive.org/web/20080727095054/http://ksolo.myspace.com/">Karaoke</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<!-- EOH -->
+	
+			
+		
+
+		
+      
+	
+
+		
+
+
+<table width="800" border="0" cellspacing="0" cellpadding="5" bgcolor="white">
+	<tr>
+		<td>
+			
+<style type="text/css">
+div#event_header{
+	background:#fff;
+	text-align:left;
+	}
+div#event_header *{
+	margin:0;
+	padding:0;
+	}
+div#event_header h1{
+	font-size:14px;
+	margin-bottom:1.2em;
+	}
+div#event_header div{
+	float:right;
+	}
+div#event_header div span{
+	margin:0 1em;
+	}
+</style>
+
+<div id="event_header">
+	<div>
+		<a href="index.cfm?fuseaction=events&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293"><span>Events Home</span></a>|
+		<a href="index.cfm?fuseaction=events.create&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293"><span>Create Event</span></a>|
+		<a href="index.cfm?fuseaction=mycalendar&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293"><span>My Calendar</span></a>
+	</div>
+	<h1>MySpace Events</h1>
+</div>
+
+		</td>
+	</tr>
+<table>		
+<table width="800" border="0" cellspacing="0" cellpadding="5" bgcolor="white">
+	<tr>
+		<td>
+			<table width="750" align="center" border="0" cellspacing="0" cellpadding="5" bgcolor="f5f5f5">
+				<tr>
+					<td align="left" valign="top" width="750">
+						
+
+<table width="100%" border="0" cellpadding="1" cellspacing="0" bgcolor="f5f5f5">
+	<tr> 
+		<td valign="top">
+			<table width="100%" border="0" cellpadding="1" cellspacing="0" bgcolor="6699cc">
+				<tr>
+					<td>
+						<table width="100%" border="0" cellspacing="0" cellpadding="5">
+							<tr align="center">
+								<td style="color: white; font-weight: bold; font-size: 12pt;">Fahrenheit Fridays @ MINX
+								
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="100%">
+						
+						<table width="100%" border="0" cellpadding="5" cellspacing="5" bgcolor="ffffff">
+							<!-- row 1 with 2 tds -->
+							<tr>
+								<td align="left" valign="top">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="170" valign="top"><p>
+												
+												
+												<img src="https://web.archive.org/web/20080727095054im_/http://a722.ac-images.myspacecdn.com/images01/26/m_34b21d35bb0c7199ef9a4aed882a9a39.jpg" border="0" style="BORDER-WIDTH:2px;BORDER-COLOR:CCCCCC;" align="top">
+														
+												
+											</td>
+											<td width="5" valign="top">
+												<img src="https://web.archive.org/web/20080727095054im_/http://x.myspace.com/images/1by1.gif" width="5" height="1">
+											</td>
+											<td width="275" valign="top">
+												<p><font class="verdana11"><strong>Posted By:<br>
+												</strong><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=134791542" target="_blank">LIVE | republic</a></font><br>
+												</p>
+												<p class="verdana11"><strong>Hosted By::</strong><br>
+												LIVE | republic<br>
+												
+													<a href="https://web.archive.org/web/20080727095054/mailto:lily@liverepublic.com" class="man">
+
+														e-mail
+
+													</a>
+												
+												</p>
+												
+												<p class="verdana11"><strong>When:</strong><br>
+												Friday Jul 25, 2008<br> at 9:00 PM<br>
+												<p class="verdana11"><strong>Where::<br></strong>  
+												MINX <br>300 Harvey Dr.<br>Glendale, CA 91206<br>United States
+												
+													<br><a href="https://web.archive.org/web/20080727095054/http://maps.google.com/maps?q=300+Harvey+Dr.,+Glendale,+CA+91206" target="_blank">
+													
+													View Map
+													</a>
+												
+												</p>
+											</td>
+										</tr>
+									</table>
+									<table width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="ffffff">
+										<tr>
+											<td class="verdana11">
+												<br><strong>You are on LIVE LIST.  Early Arrival and Bottle Service Are Highly Recommended.  Info : liverepublic@gmail.com br /br /FREE CHAMPAGNE FOR GROUP 6 + LADIES</strong>
+											</td>
+										</tr>
+									</table>
+								</td>
+								<td align="right" valign="top" width="300">
+									<table border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td valign="top" align="left">
+												
+<table width="250" border="0" cellpadding="1" cellspacing="0" bgcolor="eff3ff">
+	<tr>
+		
+		
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="5">
+				<tr>
+					<td align="center" valign="middle" bgcolor="EEEEEE" class="verdana11">
+						
+							 
+								
+									
+								 
+								
+						 	<br>
+							<table border="0" cellpadding="2" cellspacing="0"> 
+								<tr> 
+									<td width="200">
+										
+											
+												<div align="center">
+													
+														
+															<input type="button" name="AddButton" value="Add to My Calendar" onclick="window.location='https://web.archive.org/web/20080727095054/http://events.myspace.com/index.cfm?fuseaction=events.eventUpdate&amp;eventID=344806.19316&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293&amp;myaction=add_myevent';" style="background-color:D8E4F1; border-width:1px; width:170 px; border-left-color:AEE4FF; border-top-color:AEE4FF; border-bottom-color:003366; border-right-color:003366; color:004080; font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;">
+														
+													
+												</div>
+											
+										
+									</td>
+								</tr>
+							</table>
+						
+				  
+					</td>
+				</tr>
+			</table>
+		</td>
+		
+	</tr>
+</table>
+												
+
+<style type="text/css">
+form#changeRsvp1{
+	margin:0;
+	padding:0;
+	}
+form#changeRsvp1 *{
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	}
+table#event_rsvp{
+	border:1px solid #900;
+	border-bottom-width:10px;
+	width:250px;
+	margin:1em 0;
+	border-collapse:collapse;
+	background:#999;
+	}
+table#event_rsvp td{
+	padding:5px 1em;
+	}
+table#event_rsvp th{
+	padding:3px;
+	text-align:center;
+	color:#fff;
+	font-weight: bold; 
+	font-size: 14px;
+	background: #900;
+	}
+table#event_rsvp label{
+ color:#fff;
+ font-weight: bold;
+ cursor:pointer;
+ }
+table#event_rsvp label.modest{
+ font-weight: normal;
+ cursor: inherit;
+ }
+textarea#rsvp_comment{
+	display:block;
+	width:100%;
+	height:4em;
+	}
+input.rsvp_btn{
+	float:right;
+	width:115px; 
+	background-color:#900; 
+	border-width:1px; 
+	border-left-color:#F297A9; 
+	border-top-color:#F297A9; 
+	border-bottom-color:#680D1F; 
+	border-right-color:#680D1F; 
+	color:#FFF; 
+	font-weight:bold;
+	cursor:pointer;
+	}
+
+div#login_to_rsvp{
+	border:1px solid #69c;
+	background:#eff3ff;
+	padding:4em 1em;
+	margin:1em 0;
+	text-align:center; 
+	vertical-align:top;
+	}
+div#login_to_rsvp span{
+	color:#F00;
+	}
+div#login_to_rsvp a{
+	font-weight:bold;
+	}
+</style>
+<script type="text/javascript">
+function DropDownSelect(o,v){for(var i=0;i<o.options.length; i++){if(o.options[i].value==v){o.selectedIndex=i;break;}}}
+function doRSVPAttend(pC,pD){
+	return false;
+}
+function doRSVPClick(){
+	document.changeRsvp1.myaction.value='add_rsvp'; 
+	document.changeRsvp1.submit();
+	return false;
+}
+</script>
+
+
+	
+		
+		
+		<div id="login_to_rsvp">
+			<span>&raquo;</span> <a href="index.cfm?fuseaction=login&amp;nextPage=fuseaction%3Devents.detail%26eventID%3D344806.19316%26myrsvp%3Dchange%26Mytoken%3D9C2D3D49-7361-411E-BFC05744F2F1A85F43086293&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293" class="man">Login to RSVP to this event</a>
+		</div>
+	
+
+
+<br>
+												
+												
+													<table cellpadding="2" cellspacing="0" style="margin-top:10px;background-color:#abcbef;border:1px solid #abcbef;width:250;">
+														<tr>
+															<td style="color:#FFFFFF;font-weight:bold;">
+																SPREAD THE WORD...
+															</td>
+														</tr>
+														<tr style="background-color:#FFFFFF;">
+															<td>
+																
+																	&nbsp;&nbsp;<strong><font color="003399">&raquo;</font></strong> <a href="javascript:document.postBlog.submit();">
+																	Blog this
+																	</a><br/>
+																
+																	&nbsp;&nbsp;<strong><font color="003399">&raquo;</font></strong> <a href="javascript:document.postBulletin.submit();">
+																	Bulletin this
+																	</a>
+																
+															</td>
+														</tr>
+													</table>
+												
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<!-- row 2 with colspan 2 -->
+							<tr>
+								<td colspan="2">
+									<center><a href="https://web.archive.org/web/20080727095054/http://www.msplinks.com/MDFodHRwOi8vczI4Ni5waG90b2J1Y2tldC5jb20vYWxidW1zL2xsMTAxL2xpdmVyZXB1YmxpYzEvP2FjdGlvbj12aWV3JmN1cnJlbnQ9RnJpZGF5MmIuanBn" target="_blank"><img src="https://web.archive.org/web/20080727095054im_/http://i286.photobucket.com/albums/ll101/liverepublic1/Friday2b.jpg" border="0" alt="Photobucket"></a>
+								</td>
+							</tr>
+						</table>
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+	
+	
+
+<form name="postBulletin" action="https://web.archive.org/web/20080727095054/http://bulletins.myspace.com/index.cfm?fuseaction=bulletin.edit&amp;hash=MIGnBgorBgEEAYI3WAPXoIGYMIGVBgorBgEEAYI3WAMBoIGGMIGDAgMCAAECAmYDAgIAwAQI5BQi6boux9sEEJ7kK%2f1Izzs9biwqBq4ll%2f4EWHw1pvBBo%2bANucmDmCv7L9rlqco045RsF%2bRGB%2bHM8CTbA8B6lcG4QgcWUUYRNZQRMNaMtCkcwe6Pjdsz%2boX%2flyeCITXmSxnmMR%2fKxI9l04zpxEua5%2fF3HvQ%3d" method="post">
+
+		
+		<input type="hidden" name="subject" value="Check out this event: Fahrenheit Fridays @ MINX">
+		<input type="hidden" name="body" value="<strong>Hosted By:</strong> LIVE | republic<br><strong>When:</strong> Friday Jul 25, 2008<br> at 9:00 PM<BR><strong>Where:</strong> MINX <br>300 Harvey Dr.<br>Glendale, CA 91206<br>United States<br><b>Description:</b><br>LIVE | republic<br><br><a href='http://events.myspace.com/index.cfm?fuseaction=events.detail&amp;eventID=344806.19316'>Click Here To View Event</a>">
+		
+
+</form>
+<form name="postBlog" action="https://web.archive.org/web/20080727095054/http://blog.myspace.com/index.cfm?fuseaction=blog.create&amp;editor=false" method="post">
+
+		<input type="hidden" name="subject" value="Check out this event: Fahrenheit Fridays @ MINX">
+		<input type="hidden" name="body" value="<strong>Hosted By:</strong> LIVE | republic<br><strong>When:</strong> Friday Jul 25, 2008<br> at 9:00 PM<BR><strong>Where:</strong> MINX <br>300 Harvey Dr.<br>Glendale, CA 91206<br>United States<br><b>Description:</b><br>LIVE | republic <br><br><a href='http://events.myspace.com/index.cfm?fuseaction=events.detail&amp;eventID=344806.19316'>Click Here To View Event</a>">
+
+</form>
+
+						<br>
+						
+
+
+
+
+	
+	
+	
+	
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="1" bgcolor="6699CC">
+		  <tr bgcolor="6699CC">
+			<td align="left" valign="top">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2" bgcolor="6699CC">
+					<tr bgcolor="6699CC">
+						<td style="color: white; font-weight: bold; font-size: 10pt;"><a name="topGuests"></a>
+						
+						Event Guests
+						</td>
+					</tr>
+					<tr bgcolor="ffffff">
+						<td style="color: black; font-size: 8pt;">
+							<strong>139 Attending</strong> 
+							
+								+ 540 
+								
+								Guests
+								(679 
+								
+								Total
+								)
+							&nbsp;
+							
+							View All
+							
+							: &nbsp;<font color="FF0000" size="2"><strong>&raquo;</strong></font> <a href="index.cfm?fuseaction=events.listattendees&amp;eventid=344806.19316&amp;f=Attending&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293">
+							
+							Attending
+							</a>
+							
+								 &nbsp;<font color="FF0000" size="2"><strong>&raquo;</strong></font> <a href="index.cfm?fuseaction=events.listattendees&amp;eventid=344806.19316&amp;f=maybe&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293">
+								
+								 Maybe
+								 </a>
+								 &nbsp;<font color="FF0000" size="2"><strong>&raquo;</strong></font> <a href="index.cfm?fuseaction=events.listattendees&amp;eventid=344806.19316&amp;f=notattending&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293">
+								
+								 Can't make it
+								 </a>
+								 &nbsp;<font color="FF0000" size="2"><strong>&raquo;</strong></font> <a href="index.cfm?fuseaction=events.listattendees&amp;eventid=344806.19316&amp;f=notresponded&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293">
+								 
+								 Not Responded
+								 </a>
+							
+						</td>
+					</tr>
+					<tr bgcolor="ffffff">
+						 <td align="left" valign="top">
+							 
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="8" bgcolor="WHITE" width="100%">
+	<tr>
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=134791542" title="LIVE | republic">LIVE | rep...</a> <strong>+ 50</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=134791542" title="LIVE | republic"><img src="https://web.archive.org/web/20080727095054im_/http://a166.ac-images.myspacecdn.com/images01/16/s_73263045c8caeed93fb8d9d5b8ab83f5.gif" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=29817139" title="Lindsay">Lindsay</a> <br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=29817139" title="Lindsay"><img src="https://web.archive.org/web/20080727095054im_/http://x.myspace.com/images/no_pic.gif" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=2602243" title="The European [[S.P.C.]]">The Europe...</a> <strong>+ 2</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=2602243" title="The European [[S.P.C.]]"><img src="https://web.archive.org/web/20080727095054im_/http://a696.ac-images.myspacecdn.com/00949/59/62/949232695_s.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=105135787" title="Inkfreek">Inkfreek</a> <strong>+ 1</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=105135787" title="Inkfreek"><img src="https://web.archive.org/web/20080727095054im_/http://a90.ac-images.myspacecdn.com/images01/25/s_cd53d82760e64f8ac20cda479e835559.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=136291131" title="jen">jen</a> <strong>+ 1</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=136291131" title="jen"><img src="https://web.archive.org/web/20080727095054im_/http://a766.ac-images.myspacecdn.com/images01/4/s_965a6459604cd1062d74e8b21a325915.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=30701833" title="pot star ..........">pot star ....</a> <strong>+ 4</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=30701833" title="pot star .........."><img src="https://web.archive.org/web/20080727095054im_/http://a445.ac-images.myspacecdn.com/images01/128/s_b0c741757ec89e49a83fea59eb794b0c.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+				</tr>
+				<tr bgcolor="ffffff" nowrap align="center">
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=48700562" title="Lil Sexy">Lil Sexy</a> <strong>+ 1</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=48700562" title="Lil Sexy"><img src="https://web.archive.org/web/20080727095054im_/http://a879.ac-images.myspacecdn.com/images01/112/s_dd056f8a9527fdff03ff1af6de998fee.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=67715970" title="NEW AIM frenchvanillao25...not a 0... a (o)">NEW AIM fr...</a> <br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=67715970" title="NEW AIM frenchvanillao25...not a 0... a (o)"><img src="https://web.archive.org/web/20080727095054im_/http://a317.ac-images.myspacecdn.com/images01/55/s_ae6c5f018412f1ecdfe119e835a7d9ac.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=12131747" title="Alisha">Alisha</a> <strong>+ 1</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=12131747" title="Alisha"><img src="https://web.archive.org/web/20080727095054im_/http://a658.ac-images.myspacecdn.com/images01/68/s_0af1f6bb2401127a0ea39ad4308b3b31.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=12890277" title="FLIGHT LIFE RECORDS">FLIGHT LIF...</a> <strong>+ 4</strong><br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=12890277" title="FLIGHT LIFE RECORDS"><img src="https://web.archive.org/web/20080727095054im_/http://a836.ac-images.myspacecdn.com/images01/124/s_758816d98b08f1921355199b40b0d0fb.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=112024707" title="Sabina">Sabina</a> <br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=112024707" title="Sabina"><img src="https://web.archive.org/web/20080727095054im_/http://a965.ac-images.myspacecdn.com/images01/47/s_79fc7ec372093e23acc3c037e8bef7a4.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+		
+			
+			<td valign="bottom" align="center" nowrap>
+				
+					
+						
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=183568324" title="Douglas Barton">Douglas Ba...</a> <br>
+						<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=183568324" title="Douglas Barton"><img src="https://web.archive.org/web/20080727095054im_/http://a342.ac-images.myspacecdn.com/images01/7/s_e2e000e52fac076bbdbc7a7d91d4e865.jpg" border="0" width="50"></a>
+					
+					
+				
+			</td>	
+			
+				</tr>
+			
+		
+</table>
+	
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	
+
+
+						<br>
+						
+
+
+	<div align="center">
+	
+		<table cellspacing="0" cellpadding="4" style="background-color:ffcc99;" width="435">
+			<tr>
+				<td class="orangetext15" colspan="2"><a name="topComments"></a>
+					
+					Responses and Comments
+				</td>
+			</tr>
+			<tr bgcolor="ffffff">
+				<td class="blacktext9" colspan="2">
+					
+						<strong>
+							
+							Displaying
+							50
+							
+							of
+							346&gt;
+							
+							Comments
+						</strong><br>
+						<strong>&nbsp;<font color="FF0000">&raquo;</font></strong> <a href="index.cfm?fuseaction=events.allComments&amp;eventID=344806.19316&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293">
+							
+							View All Comments
+						</a>
+					&nbsp;
+
+					
+						<strong><font color="FF0000">&raquo;</font></strong> <a href="#addComment">
+							
+							Add a comment
+						</a>
+					
+
+				</td>
+			</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=185557190" title="Andrew Gillespie Music">Andrew Gil...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=185557190" title="Andrew Gillespie Music">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a805.ac-images.myspacecdn.com/images01/26/s_5a4ed1c5c68770b62bd35c34b41fb10c.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 25, 2008 7:31 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  3 <br>				 Guests</span><br><br>Yo put me on the list! Thanks alot! Andrew Gillespie<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=23424444" title="J-Dizzle">J-Dizzle</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=23424444" title="J-Dizzle">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a684.ac-images.myspacecdn.com/images01/123/s_67ef369ea1ec4d70d0a9635e88e5c03b.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 25, 2008 12:15 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  1 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=73852991" title="LIVE REPUBLIC@MINX FRIDAYS">LIVE REPUB...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=73852991" title="LIVE REPUBLIC@MINX FRIDAYS">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a401.ac-images.myspacecdn.com/images01/55/s_79df566dc9f4e0341fb97533c12dd718.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 24, 2008 5:00 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  15 <br>				 Guests</span><br><br>I will definitely be there with all my girls!!<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1970766" title="εvεℓyη♥gαяcíα™">εvεℓyη♥gαя...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1970766" title="εvεℓyη♥gαяcíα™">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a740.ac-images.myspacecdn.com/images01/97/s_8695e1818ddbc45925e30b85912992ab.gif" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 24, 2008 4:45 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=57948314" title="~InfAmoUs ALY~">~InfAmoUs ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=57948314" title="~InfAmoUs ALY~">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a256.ac-images.myspacecdn.com/images01/25/s_1e979896e42ba67b00d0f94a69b6c647.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 13, 2008 7:37 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=44258076" title="HONEYDIPMATTERS© ~LUVS PERFECTKISSES ♥">HONEYDIPMA...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=44258076" title="HONEYDIPMATTERS© ~LUVS PERFECTKISSES ♥">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a751.ac-images.myspacecdn.com/images01/50/s_3d0ab15d8b9fadd42eb845ed647f5536.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 10, 2008 1:11 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending</span><br><br>i&rsquo;ll try to make it<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=99403661" title="BEA LAMAR">BEA LAMAR</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=99403661" title="BEA LAMAR">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a853.ac-images.myspacecdn.com/images01/111/s_1115ab86874a4bbf25ece83345cc53b4.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 9, 2008 4:06 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  10 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=10981320" title="ketro one">ketro one</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=10981320" title="ketro one">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a311.ac-images.myspacecdn.com/00757/01/36/757596310_s.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jul 4, 2008 7:21 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  1 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=81929334" title="Winnie">Winnie</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=81929334" title="Winnie">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a962.ac-images.myspacecdn.com/00800/16/91/800991961_s.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jun 5, 2008 11:35 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=25797175" title="xDrUmMeRxGhOsTx [NiNjA-CrEw]">xDrUmMeRxG...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=25797175" title="xDrUmMeRxGhOsTx [NiNjA-CrEw]">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a499.ac-images.myspacecdn.com/images01/35/s_2712746e209f9036ffc9af8cdb9fe612.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jun 5, 2008 2:44 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<br>MYSPACE.COM/UNDERGROUNDSILENCE818<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=25797175" title="xDrUmMeRxGhOsTx [NiNjA-CrEw]">xDrUmMeRxG...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=25797175" title="xDrUmMeRxGhOsTx [NiNjA-CrEw]">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a499.ac-images.myspacecdn.com/images01/35/s_2712746e209f9036ffc9af8cdb9fe612.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jun 5, 2008 2:43 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">MYSPACE/UNDERGROUNDSILENCE818<br>MYSPACE/UNDERGROUNDSILENCE818<br>MYSPACE/UNDERGROUNDSILENCE818<br>MYSPACE/UNDERGROUNDSILENCE818<br>MYSPACE/UNDERGROUNDSILENCE818<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1083035" title="RiNickulous">RiNickulou...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1083035" title="RiNickulous">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a438.ac-images.myspacecdn.com/images01/24/s_55efe7aa5779fba20c0a6cde5c26e46d.gif" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jun 4, 2008 10:48 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">A Few tickets still available THIS THURSDAY!!!!  Big time celebes, A list DJs and a beautiful, happy, positive crowd!  SEE YOU ON THE RED CARPET!<br><br><img src="https://web.archive.org/web/20080727095054im_/http://a289.ac-images.myspacecdn.com/images01/102/l_2966beecb597681b973283475ac442b0.jpg" width="600"/><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1885608" title="•·☆★KiDBuBBLeZ★☆·•">•·☆★KiDBuB...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=1885608" title="•·☆★KiDBuBBLeZ★☆·•">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a713.ac-images.myspacecdn.com/images01/125/s_b884aa94e5259e9741a3d465f89c7e70.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Jun 3, 2008 10:12 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=214697239" title="Rhyme Smugglers">Rhyme Smug...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=214697239" title="Rhyme Smugglers">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a104.ac-images.myspacecdn.com/images01/111/s_9556f0107f5e970bad277948cb660bef.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										May 16, 2008 5:27 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">..<img src="https://web.archive.org/web/20080727095054im_/http://a539.ac-images.myspacecdn.com/images01/10/l_01824c8eae02868c4a8ee73cbc42bdba.jpg" border="0" alt="Image hosting by Photobucket">..<br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=269462680" title="Nyquil loves long walks on the beach">Nyquil lov...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=269462680" title="Nyquil loves long walks on the beach">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a764.ac-images.myspacecdn.com/images01/28/s_cdfdb96cd4714308a3ac2863fe63f0eb.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										May 7, 2008 11:57 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">NIGGA IM COMIN ;]<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=71821924" title="Lost ANGEL!">Lost ANGEL...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=71821924" title="Lost ANGEL!">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a407.ac-images.myspacecdn.com/00702/60/40/702910406_s.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										May 5, 2008 9:23 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending with   3 Guests</span><br><br>imma try....me + 3 beautiful ladies ;)<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=355770432" title="Patrick">Patrick</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=355770432" title="Patrick">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a87.ac-images.myspacecdn.com/images01/55/s_8d622cf9f38c4d086df5c73f8c3f3d6e.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										May 1, 2008 11:17 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  1 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=144273400" title="Alexandra">Alexandra</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=144273400" title="Alexandra">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a370.ac-images.myspacecdn.com/images01/63/s_e1804b42eef97e7975624c9886eadd49.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										May 1, 2008 10:12 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>Can a website I own really generate $1 Million dollars? You Bet! <br>Thousands of people will anxiously send you $20 each...<br>It is not MLM. It is direct sales website where you will get every penny from every sale paid directly to your merchant account. You&rsquo;ll get a personal website that amazingly gets just about everyone who sees it to instantly send you $20. Imagine a website where people can&rsquo;t wait to<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=141244101" title="It Is WhAt It Is, I aM wHaT i Am...So DeAl WiTh It">It Is WhAt...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=141244101" title="It Is WhAt It Is, I aM wHaT i Am...So DeAl WiTh It">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a820.ac-images.myspacecdn.com/images01/63/s_62cd175b18f3831a280ba3eea2bc8353.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 30, 2008 11:05 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  3 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=55542977" title="Freddy">Freddy</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=55542977" title="Freddy">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a630.ac-images.myspacecdn.com/images01/34/s_3c14e521d027ae4c0df54338c0489495.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 29, 2008 10:15 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  3 <br>				 Guests</span><br><br>Im ther can I get on the guest list my name is Freddy Corona.<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=172768174" title="L.I.P BABY HKANGOUT (BESTHOMIE)">L.I.P BABY...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=172768174" title="L.I.P BABY HKANGOUT (BESTHOMIE)">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a679.ac-images.myspacecdn.com/images01/9/s_b2e745f318ca665eb941da0a674d4db6.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 29, 2008 1:12 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  4 <br>				 Guests</span><br><br>y3s i would lov3 to com3 my nam3 is laniece<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=107667442" title="The CL STORE">The CL STO...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=107667442" title="The CL STORE">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a849.ac-images.myspacecdn.com/01139/84/88/1139878848_s.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 28, 2008 12:40 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><br>..<img src="https://web.archive.org/web/20080727095054im_/http://a907.ac-images.myspacecdn.com/images01/96/l_a85a60c04ce8be2cf038686b3637b04a.jpg"/>..<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=9211424" title="♥MaRcOs PrInCeSs">&hearts;Ma...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=9211424" title="♥MaRcOs PrInCeSs">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a832.ac-images.myspacecdn.com/images01/42/s_b9d9febb3c66596e874c9ae7f3db3db7.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 26, 2008 11:05 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  4 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=59674239" title="Renee">Renee</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=59674239" title="Renee">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a257.ac-images.myspacecdn.com/images01/56/s_4091c3462e8c7e79df5147b0a8fa1980.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 24, 2008 8:45 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=36809312" title="Shelly">Shelly</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=36809312" title="Shelly">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a439.ac-images.myspacecdn.com/images01/51/s_70bf1b60622ef6267f2516c1bc3d71de.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 23, 2008 9:32 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">well i didnt make it<br>because it was on my Bday<br>you sucker<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=16109111" title="kochanie, ty wiesz ja cie kocham">kochanie, ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=16109111" title="kochanie, ty wiesz ja cie kocham">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a626.ac-images.myspacecdn.com/images01/98/s_1a8076e94783aaec821b922f13621161.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 23, 2008 3:34 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=65205347" title="can't wait to see you... AGAIN">can&#39;t ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=65205347" title="can't wait to see you... AGAIN">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a221.ac-images.myspacecdn.com/images01/113/s_0124b1576c0ada060525f1f7a33dc2d4.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 22, 2008 2:20 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=65205347" title="can't wait to see you... AGAIN">can&#39;t ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=65205347" title="can't wait to see you... AGAIN">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a221.ac-images.myspacecdn.com/images01/113/s_0124b1576c0ada060525f1f7a33dc2d4.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 22, 2008 2:20 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">I can&rsquo;t make it i live in OR<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=66413969" title="♥ Ashes ♥~ur addiction">&hearts; A...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=66413969" title="♥ Ashes ♥~ur addiction">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a266.ac-images.myspacecdn.com/images01/36/s_038fd17a1c6443e0c2da02ac9cc780f1.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 22, 2008 1:36 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>sorry got work<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=78438572" title="Andrea">Andrea</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=78438572" title="Andrea">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a682.ac-images.myspacecdn.com/images01/15/s_c992bf80ac4aca67a7f8b015691e77c1.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 22, 2008 12:37 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">i dont know who you are... and i live in ga. so please before you send weird request do a lil more research<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=33519202" title="Princess">Princess</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=33519202" title="Princess">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a648.ac-images.myspacecdn.com/images01/109/s_4b4555d02fae17ac37ea58483eede4df.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 15, 2008 6:35 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=13429169" title="Ashley">Ashley</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=13429169" title="Ashley">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a920.ac-images.myspacecdn.com/00357/91/97/357007919_s.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Apr 5, 2008 1:05 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=188747832" title="ILUCIFERI">ILUCIFERI</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=188747832" title="ILUCIFERI">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a267.ac-images.myspacecdn.com/images01/32/s_8a12acec32ecc8e78e8ddc4b3a8e2eda.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 28, 2008 6:25 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>I wish you have told me earlier so i would bring a ll my friends<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=152550767" title="Joanna">Joanna</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=152550767" title="Joanna">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a684.ac-images.myspacecdn.com/images01/26/s_bdbccb4ecc4b7c94414101726070f0d3.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 27, 2008 9:12 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">i&rsquo;m in<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=190670898" title="PROMOTING CLUBS THAT ARE HOTT">PROMOTING ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=190670898" title="PROMOTING CLUBS THAT ARE HOTT">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a833.ac-images.myspacecdn.com/images01/2/s_730cd394bf861b78a4b177ae3b58a918.gif" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 25, 2008 9:11 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  2 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=410529" title="DEZIAK CLAN!">DEZIAK CLA...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=410529" title="DEZIAK CLAN!">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a859.ac-images.myspacecdn.com/images01/24/s_0b83f81932c0a93076639936ff53ac62.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 23, 2008 10:16 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending with   5 Guests</span><br><br>we may be in the area that day with our reps holla if you looking for a liquor sponsor<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=121764647" title="ruby red">ruby red</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=121764647" title="ruby red">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a330.ac-images.myspacecdn.com/images01/14/s_f2a48bd64d959242cbee8ee45e5b7f11.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 21, 2008 7:47 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>Sorry can&rsquo;t make it going to be at Waverly hills Sanatorium on the 30th so I&rsquo;ll be on the road.Maybe next time thanks for the invite, :)<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=3706917" title="CHAZ">CHAZ</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=3706917" title="CHAZ">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a969.ac-images.myspacecdn.com/images01/24/s_14aeb6c399ce3de21eceaacb978ff558.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 21, 2008 12:34 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  2 <br>				 Guests</span><br><br>I need to be on the vip list<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=340631569" title="Fly Movement Ent.">Fly Moveme...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=340631569" title="Fly Movement Ent.">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a570.ac-images.myspacecdn.com/images01/111/s_738ed3c9325c2cf72a912343df0888e1.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 21, 2008 11:11 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  2 <br>				 Guests</span><br><br>FLT MOV3-ENT<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=71848126" title="Dreams of Italy........">Dreams of ...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=71848126" title="Dreams of Italy........">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a119.ac-images.myspacecdn.com/images01/75/s_ad24c402fd26a06ebdbc2a283322b4a6.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 20, 2008 11:40 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  3 <br>				 Guests</span><br><br>i will be attending with 3 guests<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=183837127" title="Shanice~LOVE SEXY MAMA.">Shanice~LO...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=183837127" title="Shanice~LOVE SEXY MAMA.">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a225.ac-images.myspacecdn.com/images01/106/s_2027de170d0459b24a3fb150f0897848.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 18, 2008 9:01 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending</span><br><br>sorry i can not make it there friend i will try it next time.<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=41488305" title="TheBondGirl">TheBondGir...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=41488305" title="TheBondGirl">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a419.ac-images.myspacecdn.com/images01/105/s_84b08c00f8ec363831bacb6ba2f41452.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 18, 2008 5:02 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: gray;">I might be attending</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 17, 2008 12:28 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  4 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=170950325" title="Quinn">Quinn</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=170950325" title="Quinn">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a722.ac-images.myspacecdn.com/images01/43/s_184851279b832deaedab66d0756947b9.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 16, 2008 5:48 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>out of town,<br>thank you<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 16, 2008 3:44 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  2 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=188386293" title="~Ebony~">~Ebony~</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=188386293" title="~Ebony~">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a741.ac-images.myspacecdn.com/images01/65/s_5ba2324241303559359db73bacb7bfa4.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 16, 2008 11:15 AM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>live in CO<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=133407247" title="TM Approved">TM Approve...</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=133407247" title="TM Approved">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a529.ac-images.myspacecdn.com/images01/71/s_cb1ac58c7576406d06bae2454baa6998.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 15, 2008 7:05 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold; color: blue">I will be attending with  2 <br>				 Guests</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=80152394" title="Blondde">Blondde</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=80152394" title="Blondde">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a601.ac-images.myspacecdn.com/images01/31/s_fb80ce2bff0b84565a8667824de15a98.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 15, 2008 5:53 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br><p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=73515132" title="David">David</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=73515132" title="David">
+									<img src="https://web.archive.org/web/20080727095054im_/http://a296.ac-images.myspacecdn.com/images01/46/s_7f026a5d16c9c547e749af8f9d02307f.jpg" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 13, 2008 2:42 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;"><span style="font-size: 10pt; font-weight: bold;">I can't make it</span><br><br>Sorry, I do not plan on being in Cal. on Friday. :(<p></span>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+				
+				<tr>
+					<td style="background-color:FF9933;border-top-color:ffffff;border-top-style:solid;border-top-width:2px;" align="left" valign="top" width="75">
+						
+							
+								
+									<span style="color: 003399; font-weight: bold;"><a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=76279766" title="Covert1">Covert1</a></span>
+									<br>
+									<a href="https://web.archive.org/web/20080727095054/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=76279766" title="Covert1">
+									<img src="https://web.archive.org/web/20080727095054im_/http://x.myspace.com/images/no_pic.gif" border="0" width="50">
+									</a>
+							
+						
+					</td>
+					<td style="border-top-color:ffffff;border-top-style:solid;border-top-width:2px;border-left-color:ffffff;border-left-style:solid;border-left-width:2px;" valign="top">
+						<table border="0" cellpadding="2" cellspacing="0" width="100%">
+							<tr>
+								<td height="25"><span style="font-size: 8pt; font-weight: bold;">
+								
+									
+
+										Mar 13, 2008 12:23 PM
+								
+
+</span> &nbsp;&nbsp;</td>
+							</tr>
+							<tr>
+								<td valign="top"><span style="font-size: 8pt;">I might be attending.<p></span>
+									
+										<div align="right"><a href="#top" style="font-size: 7pt; font-weight:bold">
+											
+											Back to Top
+										</a></div>
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			
+			
+		 </table>
+	
+	</div>
+
+						<br>
+						
+
+<div align="center">
+
+	
+	<table width="435" border="0" cellpadding="1" cellspacing="0" style="background-color:ffcc99;">
+		<tr> 
+			<td>
+				<table width="100%" border="0" cellspacing="0" cellpadding="5">
+					<tr> 
+						<td align="left" class="orangetext15">
+							<a name="addComment"></a>
+							Add a comment
+						</td>
+					</tr>
+					<tr> 
+						
+							<form action="index.cfm?fuseaction=events.addComments&amp;eventID=344806.19316&amp;Mytoken=9C2D3D49-7361-411E-BFC05744F2F1A85F43086293" method="post" name="AddComment" id="AddComment">
+							
+
+
+
+
+
+
+		
+			
+			
+			
+	
+
+							<input type="hidden" name="hash" value="MIGLBgorBgEEAYI3WAPXoH0wewYKKwYBBAGCN1gDAaBtMGsCAwIAAQICZgMCAgDABAgqqbzNjY0kbAQQFofJB2qIbKrJHdX2xKjdAQRAd2735HyyHD/FvaGyY8M8jVfMrDw1IE6pkSY5EQ4PPoem8zml8wkXKIUT8xmYdnPFzztsy3EACTbPtjQMelv7GA==">
+								<input type="hidden" name="attendeeID" value="0">
+								<td align="left" valign="top" bgcolor="ffffff"> 
+									<textarea name="comment" rows="4" style="width:425;"></textarea>
+									<input type="submit" name="sendComment" value="Add Comment" style="background-color:ffcc99; border-width:1px; border-left-color:FFCC99; border-top-color:FFCC99; border-bottom-color:FF6600; border-right-color:FF6600; color:FF6600; font-size:10px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;">
+								</td>
+							</form>
+						
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</div>
+
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<script language="Javascript">
+	<!--
+		if (top.location != location) top.location.href = location.href;
+	//-->
+</script>
+
+		
+	
+    <style type="text/css">
+	    div#msft{background-color:#e5e5e5;width:100%;text-align:center;line-height:2em;}
+	    div#msft a{color:#039;font-family:Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:underline;font-size:8pt;}
+	    div#msft a#cprt{color:#000;font-weight:normal;font-size:90%;}div#msft a:hover{color:#39e !important;}
+    </style>
+
+    
+	    
+	    
+	        
+    		    
+	        
+    		
+		    
+    		
+		    
+    
+
+    
+        <div id="msft">
+            <!-- Footer:Standard Start -->
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br><a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank"><u>About</u></a> | <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=misc.faq" target="_blank"><u>FAQ</u></a> | <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank"><u>Terms</u></a> |  <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank"><u>Privacy Policy</u></a> | <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safetysite" target="_blank"><u>Safety Tips</u></a> | <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank"><u>Contact MySpace</u></a> |
+<script type="text/javascript">
+if(displayAbuseReportLink == true)
+{
+document.write("<a hr" + "ef='https://web.archive.org/web/20080727095054/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\"><u>Report Abuse</u><" + "/a> | ");
+}
+</script>
+ <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/modules/common/pages/sales.aspx" target="_blank"><u>Advertise</u></a> | <a class="text" href="https://web.archive.org/web/20080727095054/http://www.myspace.com/index.cfm?fuseaction=InternationalMap"><u>MySpace International</u></a> <span id="msLatino">| <a href="https://web.archive.org/web/20080727095054/http://latino.myspace.com/" )><u>MySpace Latino</u></a></span>
+<script type="text/javascript">
+    function hideLatinoForGames(){
+        var sUrl = document.URL;
+        if(sUrl.indexOf('fuseaction=games')>-1){            
+            var msLatino = document.getElementById('msLatino');
+            if(msLatino!=null)msLatino.style.display='none';
+        }
+    } 
+hideLatinoForGames();
+</script>
+<script type="text/javascript">
+var intlProfileVisibleStr = "False";
+intlProfileVisibleStr = intlProfileVisibleStr.toLowerCase();
+
+if(intlProfileVisibleStr == "true")
+{
+document.write("| <a href=\"http://www.myspace.com/myspaceusa\" class=\"text\" ><u>MySpace USA</u></a>");
+}
+</script>
+<script>	
+function popLanguageOverlay(culture, url)
+{
+        MySpace.UI.Header.languageLinkClick(culture, url, 1);
+}	
+</script>
+ 
+ 
+
+<br/><br/>&copy;2003-2008 MySpace.com. All Rights Reserved.
+
+<img src="https://web.archive.org/web/20080727095054im_/http://nb.myspace.com/isf.gif"/></div>
+<!-- Footer:Standard End -->
+
+        </div>
+    
+    
+      </div>
+    
+
+    
+        
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+         
+		<script type="text/javascript" src="https://web.archive.org/web/20080727095054js_/http://x.myspacecdn.com/modules/common/static/js/global031.js"></script>
+         
+    
+</body>
+</html>
+	
+	
+
+
+
+<!-- onRequestEnd -->
+
+	
+
+
+
+<!--
+     FILE ARCHIVED ON 09:50:54 Jul 27, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:08:23 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.795
+  exclusion.robots: 0.029
+  exclusion.robots.policy: 0.012
+  esindex: 0.015
+  cdx.remote: 6.019
+  LoadShardBlock: 49.309 (3)
+  PetaboxLoader3.datanode: 95.423 (4)
+  load_resource: 695.826
+  PetaboxLoader3.resolve: 602.478
+-->

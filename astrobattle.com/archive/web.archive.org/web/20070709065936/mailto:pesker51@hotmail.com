@@ -1,0 +1,62 @@
+<!-- ServerInfo: BAYPPLOGN2A09 2007.05.24.12.33.22 Live1 Unknown LocVer:0 -->
+<!-- PreprocessInfo: ppbuild:PASSBLD01, Thu 05:24:2007-11:25:35.99 -- Version: 4,500,6763,0 -->
+<html dir="ltr"><head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://login.live.com/login.srf?id=2","20070709024513","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1183949113");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/><base href="https://web.archive.org/web/20070709024513/http://login.live.com/pp450/"/><noscript><meta http-equiv="Refresh" content="0; URL=https://web.archive.org/web/20070709024513/http://login.live.com/jsDisabled.srf?lc=1033"/></noscript><title>Sign In</title><meta name="PageID" content="i5030"/><meta name="SiteID" content="2"/><meta name="ReqLC" content="1033"/><meta name="LocLC" content="1033"/><script type="text/javascript">window.name="msnMain";function Nav(s){ var u;switch(s){ case "reg":u="https://web.archive.org/web/20070709024513/http://accountservices.passport.net/reg.srf?id=2&bk=1183949113&cru=http://login.live.com/login.srf%3fid%3d2&lc=1033&sl=1";break;case "support":u="https://web.archive.org/web/20070709024513/http://accountservices.passport.net/CustomerSupport.srf?id=2&vv=450&lc=1033&sl=1";break;}document.location=u;}var g_bFS=false;var g_urlLoginSSL="https://web.archive.org/web/20070709024513/https://login.live.com/login.srf?id=2&bk=9913308";function OnBack(){}</script><link rel="stylesheet" type="text/css" href="/web/20070709024513cs_/http://login.live.com/pp450/CSS/WEBblue1033.css?x=4.5.6172.0"/><style type="text/css" media="screen">.css0086
+{border:1px solid #336699;}
+.css0086
+{border-width:1px;}
+.css0145
+{border:1px solid #DEEBF5;}
+.css0144,.css0147
+{background-color:#336699;}
+.css0145
+{background-color:#DEEBF5;}
+.css0146
+{background-color:#DEEBF5;}
+.css0059,.css0150,.css0070,.css0148
+{color:#336699;}
+a
+{color:#336699;}
+.css0064 a,.css0027 a,.css0063
+{color:#336699;}
+a:hover,.css0144 a:hover,.css0023 a:hover,.css0028 a:hover,.css0172
+{color:#336699;}
+.css0064 a:hover,.css0027 a:hover
+{color:#336699;}
+.css0002
+{color:#FFF;}
+.css0025,.css0025 a,.css0175,.css0175 a,.css0029,.css0029 a,.css0875
+{color:#FFF;}
+.css0025 a:hover,.css0029 a:hover,.css0175 a:hover
+{color:#FFF;}
+body,.css9999,.css9996{ margin:0;padding:0;width:100%;height:100%;}.css9997{ width:100%;vertical-align:top;background:#DEEBF5;padding:1px;margin:0;}.css9996{ background:#336699;}.css9993{ width:431px;height:425px;background:#DEEBF5;}</style><script type="text/javascript" src="/web/20070709024513js_/http://login.live.com/pp450/JS/PPPrimary.js?x=4.5.6172.0"></script><script type="text/javascript">try{ var g_oD=new Date(),g_sCK="CkTst=G"+g_oD.getTime();document.cookie=g_sCK;if(document.cookie.indexOf(g_sCK)==-1){ document.location="https://web.archive.org/web/20070709024513/http://login.live.com/cookiesDisabled.srf?lc=1033"}}catch(e){}function POL(){ IsParent();CheckEnhancedSecOption();SetFocus(document.f1,"");}function POUL(){ }</script><script type="text/javascript">var g_QS="id=2&bk=1183949113";var g_DO=new Object;g_DO["compaq.net"]="https://web.archive.org/web/20070709024513/https://msnia.login.live.com/ppsecure/post.srf";g_DO["hotmail.co.jp"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["hotmail.co.uk"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["hotmail.com"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["hotmail.de"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["hotmail.fr"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["hotmail.it"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["messengeruser.com"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["msn.com"]="https://web.archive.org/web/20070709024513/https://msnia.login.live.com/ppsecure/post.srf";g_DO["passport.com"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";g_DO["webtv.net"]="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf";</script></head><body onload="javascript:POL();" onunload="javascript:POUL();" onclick="javascript:SetF();" onscroll="javascript:SetF();"><table cellpadding="0" cellspacing="0" border="0" class="css9999"><tr><td colspan="2"><iframe src="https://web.archive.org/web/20070709024513if_/http://hm.msn.com/c/hotmail/N/1033/header.html?cbpage=login&amp;lc=1033&amp;x=4.5.6172.0" width="100%" height="112" frameborder="0" scrolling="no" align="top" marginwidth="0" marginheight="0" name="i6000"></iframe></td></tr><tr><td valign="top" class="css9993"><iframe src="https://web.archive.org/web/20070709024513if_/http://hm.msn.com/c/hotmail/N/1033/signup.html?cbpage=login&amp;lc=1033&amp;x=4.5.6172.0" width="431" height="425" frameborder="0" scrolling="no" align="top" marginwidth="0" marginheight="0" name="i6001"></iframe></td><td class="css9997"><form name="f1" style="margin:0px;" method="POST" target="_top" action="https://web.archive.org/web/20070709024513/https://login.live.com/ppsecure/post.srf?id=2&amp;bk=1183949113" onsubmit="return OnSigninSubmit(this);"><input type="hidden" id="i0326" name="PPSX" value="Pass"/><input type="hidden" name="PwdPad" id="i0340" value=""/><table cellpadding="0" cellspacing="0" class="css0086"><tr><td class="css0144"><table cellpadding="0" cellspacing="0" class="css0113"><tr><td class="css0002">Sign in to Hotmail</td><td valign="middle" align="right" class="css0029"><nobr><a href="javascript:DoHelp('NoPHKeyWord','','1033','DH_MSN,1033','','450');" id="i1055">Help</a></nobr></td></tr></table></td></tr><tr><td class="css0145"><table cellpadding="0" cellspacing="0" class="css0113"><tr><td class="css0119" colspan="2"><table cellpadding="0" cellspacing="0" id="i0519" style="display:none;" class="css0113"><tr><td class="css0122"><img src="/web/20070709024513im_/http://login.live.com/pp450/images/icon_err.gif?x=4.5.6172.0" alt="Error symbol" id="i2017"/></td><td class="css0149"><span class="css0023">Please type your e-mail address in the following format: yourname@example.com. <a href="javascript:DoHelp('PPSlhlpd','','1033','DH_MSN,1033','','450');" id="i1056">Need help signing in?</a></span></td></tr></table></td></tr><tr><td valign="top" class="css0059" align="right"><label for="i0116">E-mail address:</label></td><td valign="top" class="css0093"><input name="login" type="text" id="i0116" maxlength="113" autocomplete="off" value="" style="ime-mode:disabled" class="css0034"/></td></tr><tr style="display:none;" id="i0512"><td class="css0096" style="font-size:1px;">&nbsp;</td><td class="css0097"><table cellpadding="0" cellspacing="0" class="css0113"><tr><td class="css0122"><img src="/web/20070709024513im_/http://login.live.com/pp450/images/icon_err.gif?x=4.5.6172.0" alt="Error symbol" id="i2017"/></td><td class="css0149"><span class="css0023">This information is required.</span></td></tr></table></td></tr><tr><td valign="top" class="css0059" align="right"><label for="i0118">Password:</label></td><td valign="top" class="css0093"><input name="passwd" type="password" id="i0118" maxlength="16" autocomplete="off" value="" style="ime-mode:disabled" class="css0034"/><div class="css0064"><a href="https://web.archive.org/web/20070709024513/https://login.live.com/resetpw.srf?id=2&amp;bk=1183949113&amp;lc=1033" id="i1011">Forgot your password?</a></div></td></tr></table><div class="css0170" align="right"><nobr><input name="SI" id="i0011" type="submit" value="    Sign in    " class="css0088"/></nobr></div></td></tr><tr><td class="css0146"><table cellpadding="0" cellspacing="0" class="css0113"><tr><td valign="top"><input type="radio" name="LoginOptions" id="i0136" value="1"/></td><td valign="top" class="css0041"><label for="i0136">Save my e-mail address and password</label></td></tr><tr><td valign="top"><input type="radio" name="LoginOptions" id="i0137" value="2" checked/></td><td valign="top" class="css0041"><label for="i0137">Save my e-mail address</label></td></tr><tr><td valign="top"><input type="radio" name="LoginOptions" id="i0138" value="3"/></td><td valign="top" class="css0041"><label for="i0138">Always ask for my e-mail address and password</label></td></tr></table><div style="padding:3px 0 0 0;font-size:1px;">&nbsp;</div><p class="css0006" style="padding-left:5px;"><a href="https://web.archive.org/web/20070709024513/https://login.live.com/login.srf?id=2&amp;bk=9913308" id="i1663" onclick="javascript:SetWLLoginOption('ssl',1)">Sign in using enhanced security</a></p></td></tr><tr><td class="css0147"><table cellpadding="0" cellspacing="0" class="css0113"><tr><td rowspan="3" valign="top"><a href="https://web.archive.org/web/20070709024513/https://accountservices.passport.net/ppnetworkhome.srf?id=2&amp;vv=450&amp;lc=1033" target="_blank" id="i1071"><img src="/web/20070709024513im_/http://login.live.com/pp450/images/LiveID16.gif?x=4.5.6172.0" alt="Windows Live ID" border="0" id="i2033" class="css0189"/></a></td><td class="css0175"><a href="https://web.archive.org/web/20070709024513/https://accountservices.passport.net/ppnetworkhome.srf?id=2&amp;vv=450&amp;lc=1033" target="_blank" id="i1071">Windows Live ID</a></td></tr><tr><td class="css0875"> Works with Windows Live, MSN, and Microsoft Passport sites</td></tr><tr><td class="css0025"><nobr><a href="https://web.archive.org/web/20070709024513/https://accountservices.passport.net/?vv=450&amp;lc=1033&amp;id=10" target="_top" id="i1081">Account Services</a>&nbsp;|&nbsp;</nobr> <nobr><a href="https://web.archive.org/web/20070709024513/http://login.live.com/gls.srf?urlID=MSNPrivacyStatement&amp;lc=1033&amp;vv=450" target="_top" id="i1518">Privacy Statement</a>&nbsp;|&nbsp;</nobr> <nobr><a href="https://web.archive.org/web/20070709024513/https://accountservices.passport.net/PPTOU.srf?ru=http://login.live.com/login.srf%3Fid%3D2%26vv%3D450%26lc%3D1033&amp;id=2&amp;vv=450&amp;lc=1033" target="_top" id="i1009">Terms of Use</a></nobr></td></tr><tr><td colspan="2" class="css0025" style="padding:3px 0 0 0">&copy;2007 Microsoft</td></tr></table></td></tr></table><input type="hidden" name="PPFT" id="i0327" value="B4Q8gbZZmJjaLtVcni9DZv*p523zsZKxlNhoo*vwtDzNbQ7piLvHS16evRYry8*uAmntFERerSiHooC*eHKVzULsDfG7O05l!SJ*yg!LOdwqurEFKZX5tL2L5XC581uwPdxR!gCz62lyHEa55IzuHp0oMw9dTDat4qZqy2U$"/></form><table cellpadding="0" cellspacing="0" border="0" width="100%" style="font-size:0;"><tr><td>&nbsp;</td></tr></table></td></tr><tr><td valign="top" colspan="2" class="css9996"><iframe src="https://web.archive.org/web/20070709024513if_/http://hm.msn.com/c/hotmail/N/1033/footer.html?cbpage=login&amp;lc=1033&amp;x=4.5.6172.0" width="100%" height="110" frameborder="0" scrolling="auto" align="bottom" marginwidth="0" marginheight="0" name="i6003"></iframe></td></tr></table></body></html><!--
+     FILE ARCHIVED ON 02:45:13 Jul 09, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:35:38 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.636
+  exclusion.robots: 0.056
+  exclusion.robots.policy: 0.045
+  esindex: 0.015
+  cdx.remote: 90.247
+  LoadShardBlock: 178.442 (3)
+  PetaboxLoader3.datanode: 92.594 (4)
+  PetaboxLoader3.resolve: 190.335 (2)
+  load_resource: 138.877
+-->

@@ -1,0 +1,1457 @@
+ <!-- --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			
+
+
+		
+
+
+	
+	
+		
+		<!-- ELS2MWEBBLU0238 -->
+		<!-- FilmScreenings -->
+		<html lang="en" xml:lang="en">
+		<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://collect.myspace.com/index.cfm?fuseaction=film.screenings","20071130080850","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1196410130");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+			<title>MySpace</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+			<meta http-equiv="Content-Language" content="en"/>
+			<meta http-equiv="expires" content="0">
+			<meta http-equiv="Pragma" content="no-cache">
+			<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking">
+			
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071130080850cs_/http://x.myspace.com/js/header002.css">
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071130080850cs_/http://x.myspace.com/js/myspace.css">
+			<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071130080850cs_/http://x.myspace.com/js/google-003.css">
+			
+			<script type="text/javascript" src="https://web.archive.org/web/20071130080850js_/http://x.myspace.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+			<script type="text/javascript" src="https://web.archive.org/web/20071130080850js_/http://x.myspace.com/js/myspaceJS037.js"></script>
+			
+			
+			<script>
+				if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+				Type.registerNamespace("MySpace");
+				
+				MySpace.ClientContext = {"UserId":0,"DisplayFriendId":0,"IsLoggedIn":false};
+				
+				
+				Type.registerNamespace("MySpaceRes");
+				
+				
+				MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};				
+			</script>
+			
+			
+			
+
+
+
+
+
+
+
+			<!-- CMS:29be3023-326a-4472-b34d-a9cb8ad7be06:20070827.2 -->
+<!-- CMS Placement ID = "" -->
+<style type="text/css">
+#browseMain td {text-align:left;}
+</style>
+<!-- End CMS Content -->
+
+		</head>
+
+		<body bgcolor="e5e5e5" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" text="000000" alink="003399" vlink="003399" link="003399">
+		<script type="text/javascript">if(top != self){top.location.replace(self.location.href);}</script>
+		<div align="center">
+			<!-- Header:Standard -->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+</script><div id="header"><div id="homelink"><a href="https://web.archive.org/web/20071130080850/http://www.myspace.com/">MySpace.com</a></div><div id="toprightlinks"><span><a class="languageLink" href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=1dd14fb6-0f2a-4ab4-a231-b9482079c51d&amp;_u=http://www.msplinks.com/MDFodHRwOi8vd3d3Lm15c3BhY2UuY29tL01vZHVsZXMvQ29udGVudE1hbmFnZW1lbnQvUGFnZXMvcGFnZS5hc3B4P3BsYWNlbWVudD1wcml2YWN5X3NldHRpbmdz" onmouseover="window.status='https://web.archive.org/web/20071130080850/http://www.myspace.com/Modules/ContentManagement/Pages/page.aspx?placement=privacy_settings';return true;" onmouseout="window.status='';">Privacy</a> | <a class="languageLink" href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=1dd14fb6-0f2a-4ab4-a231-b9482079c51d&amp;_u=http://www.msplinks.com/MDFodHRwOi8vd3d3Lm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1pc2MuZmFx" onmouseover="window.status='https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.faq';return true;" onmouseout="window.status='';">Help</a> |</span>&nbsp;<a id="aSignUpOrOut" href="https://web.archive.org/web/20071130080850/http://signup.myspace.com/index.cfm?fuseaction=join">SignUp</a></div><div class="clear"></div><div style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script src="https://web.archive.org/web/20071130080850js_/http://creative.myspace.com/cms/js/ad_wrapper0056.js" type="text/javascript"></script>
+<script type="text/javascript">
+Advertiser.SDC.DropPixel();
+sdc_wrapper("tkn_leaderboard", "/film,26000002", "Frame1");
+</script>
+</div><div class="clear"></div><div id="googlebar"><style>#googlebar {margin-bottom:6px;margin-top:14px;padding-top:0px;}
+#imgGoogle {	BACKGROUND-IMAGE: url(https://web.archive.org/web/20071130080850im_/http://cms.myspacecdn.com/cms/Headers_and_Footers/googlelogo.png); BACKGROUND-REPEAT: no-repeat; _background-image:none;}
+
+#imgGoogle {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://cms.myspacecdn.com/cms/Headers_and_Footers/googlelogo.png', sizingMethod='image');
+	WIDTH: 92px;	HEIGHT: 23px;}
+
+div#header_search select#t
+{
+vertical-align:bottom;
+}
+
+</style>
+
+<form id="srch" name="srch" onsubmit="return ($get('q').value.toString().trim().length > 0);" action="https://web.archive.org/web/20071130080850/http://search.myspace.com/index.cfm?advancedFind.hub" method="get"><input class="txt" id="q" style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; WIDTH: 376px; PADDING-TOP: 1px" name="q"> <select id="t" style="WIDTH: 80px" name="t">
+<option value="tpeople" selected>People</option>
+<option value="tms">MySpace</option>
+<option value="tweb">Web</option>
+<option value="tmusic">Music</option>
+<option value="tvid">Video</option></select> <input id="submitBtn" style="FONT-SIZE: 12px" type="submit" value="Search"> <img class="googleLogo" id="imgGoogle" style="MARGIN: -4px 2px 0px; VERTICAL-ALIGN: middle" alt="Powered" by google src="https://web.archive.org/web/20071130080850im_/http://x.myspace.com/images/spacer.gif"> <input type="hidden" value="advancedFind.hub" name="fuseaction"> </form></div><div class="clear"></div></div><div id="topnav"><!-- English nav -->
+<a class="navbar" id="headerhomelink" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/">Home</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://browseusers.myspace.com/Browse/Browse.aspx?z=1">Browse</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://search.myspace.com/index.cfm?fuseaction=find">Search</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://invites.myspace.com/index.cfm?fuseaction=invite">Invite</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://film.myspace.com/">Film</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox">Mail</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://blog.myspace.com/index.cfm?fuseaction=blog.controlcenter" id="headerbloglink">Blogs</a>&nbsp;| <a class="navbar" href="https://web.archive.org/web/20071130080850/http://favorites.myspace.com/index.cfm?fuseaction=user.favorites">Favorites</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://forum.myspace.com/">Forum</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://groups.myspace.com/">Groups</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://events.myspace.com/">Events</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://vids.myspace.com/">MySpace TV</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://music.myspace.com/">Music</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://comedy.myspace.com/">Comedy</a> | <a class="navbar" href="https://web.archive.org/web/20071130080850/http://classifieds.myspace.com/">Classifieds</a>
+<script>if (MySpaceClientContext.IsLoggedIn==true)
+{ 
+var hhlink = document.getElementById('headerhomelink');
+hhlink.href="https://web.archive.org/web/20071130080850/http://home.myspace.com/index.cfm?fuseaction=user";
+} </script>
+ 
+<style>
+#topnav{background-color:#6698cb;}
+#adspacer{height:35px;width:1px;}
+</style>
+</div><div class="clear"></div>	
+			
+		
+
+		
+		
+
+
+
+
+
+
+
+		<!-- CMS:af99a985-35ad-48f2-a5cc-a4e932380697:20071102.1 -->
+<!-- CMS Placement ID = "" -->
+<style type="text/css">
+	#header{height:auto;}
+	#headerlinks {float:left; padding-left:30px;}
+	#homelink{float:left; padding-bottom:3px;}
+  	#googlebar { text-align:center; }
+	
+	.googleLogo {margin:0px;padding:2px;}
+  	#googlebar { text-align:center; padding-top:2px;}
+	
+	#profilelinks { display:inline; padding-top:15px; font-size:11px; display:inline; }
+    #profileaction{font-size:11px; width:95px; }
+    #toprightlinks {padding:0px;0px 0px 3px 0px;float:right;color:#fff;} 
+    #logo {margin:0px;padding:0px;float:left;}
+	
+	#srch {display:inline;}
+    #q { height:19px; display:inline;}
+    #q, #t, #profileselection {font-size:11px; font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+	body div#header
+	{
+		height:auto; 
+		background-color:#003399;
+		width:790px;
+		_width:800px;
+		padding:5px;
+	}
+	
+	body div#topnav, #topnav
+	{
+		background-color:#6698CB;
+		width:790px;
+		_width:800px;
+		padding: 5px;
+        }
+
+</style>
+
+<script>
+if (MySpace.ClientContext.IsLoggedIn==true)
+{ 
+var hhlink = document.getElementById('headerhomelink');
+hhlink.href="https://web.archive.org/web/20071130080850/http://home.myspace.com/index.cfm?fuseaction=user";
+}
+</script>
+
+<!-- End CMS Content -->
+
+	
+
+
+
+		
+		
+<style type="text/css">
+div#film_topnav{margin:0 auto;height:28px;width:790px;border:none;border-bottom:1px solid #000;background-color:#903;color:#fff;text-align:right;white-space:nowrap;padding:0 10px 0 0;line-height:26px;}
+* html div#film_topnav{width:800px;}
+div#film_topnav *{color:#fff;font-size:9px;font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:normal;vertical-align:middle;}
+div#film_topnav img{border:none;float:left;}
+div#film_topnav a{padding:0 .3em;}
+</style>
+<center><div id="film_topnav">
+
+	<a href="https://web.archive.org/web/20071130080850/http://collect.myspace.com/index.cfm?fuseaction=film&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130"><img src="https://web.archive.org/web/20071130080850im_/http://x.myspace.com/images/film_logo.gif" width="125" height="26"/></a>
+	<a href="https://web.archive.org/web/20071130080850/http://searchresults.myspace.com/index.cfm?fuseaction=film.search&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Filmmaker Search</a> |
+	<a href="https://web.archive.org/web/20071130080850/http://collect.myspace.com/index.cfm?fuseaction=film.topMakers&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Top Filmmakers</a> |
+	<a href="https://web.archive.org/web/20071130080850/http://collect.myspace.com/index.cfm?fuseaction=film.screenings&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Screenings</a> |
+	<a href="https://web.archive.org/web/20071130080850/http://forum.myspace.com/index.cfm?fuseaction=messageboard.viewCategory&amp;CategoryID=98&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Filmmaker Forums</a> |
+	
+		<a href="https://web.archive.org/web/20071130080850/http://classifieds.myspace.com/index.cfm?fuseaction=classifieds.listAds&amp;catId=18&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Film Classifieds</a> |
+	
+	<a href="https://web.archive.org/web/20071130080850/http://signup.myspace.com/index.cfm?fuseaction=filmmakerJoin&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130">Filmmaker Signup</a>
+
+</div></center>
+		
+
+
+<!-- 30 -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function DropDownSelect(obj, val) {
+	var i;
+	var len = obj.options.length;
+	for (i=0; i<len; i++) {
+		if (obj.options[i].value == val) {
+			obj.selectedIndex = i;
+			break;
+		}
+	}
+}
+-->
+</script>
+
+<table width="800" height="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="White" align="center">
+	<form action="index.cfm" name="PageForm" id="PageForm">
+	<input type="hidden" name="Mytoken" value="D85ECBD7-2937-4CC1-9C0F89FEA572E20E37233130">
+	<input type="hidden" name="fuseaction" value="film.screenings">
+	<input type="Hidden" name="distance" value="50">
+	<input type="Hidden" name="postal" value="">
+	<input type="Hidden" name="genreid" value="">
+	<input type="Hidden" name="country" value="US">
+	<input type="hidden" name="page" value="">
+	</form>
+	<tr>
+		
+		<td width="120" valign="top">
+
+	
+
+
+
+
+	
+	
+
+
+	
+	
+<div id="tkn_skyscraper"></div><script type="text/javascript">
+sdc_wrapper("tkn_skyscraper", "/film,26000002", "x15");
+</script>
+
+</td>
+		
+		<td valign="top">
+			<p class="blacktext10">Screenings in Your Area</p>
+			<table bordercolor="6699CC" border="2" cellpadding="5" width="100%" style="border-collapse: collapse;">
+				<tr>
+					<td>
+						<table border="0" cellpadding="5" width="100%">
+							<form action="index.cfm?fuseaction=film.screenings&amp;Mytoken=76250805-78B4-4E77-900B3BEBE5D5044437233130" method="post" name="theForm" id="theForm">
+							<tr valign="middle">
+								<td nowrap="nowrap">
+									<select name="distance" class="blacktext8nb">
+										<option value="">- Any -</option>
+										<option value="5">5</option>
+										<option value="10">10</option>
+										<option value="20">20</option>
+										<option value="50">50</option>
+										<option value="100">100</option>
+									</select>
+									&nbsp;miles from&nbsp;
+									<input type="text" name="postalCode" size="10" value="" class="blacktext8nb">
+									&nbsp;in&nbsp;
+									<select name="country" id="country" style="width:40%" class="blacktext8nb">
+										<option value="">Select Country</option>
+										
+											<option value="AF">Afghanistan</option>
+										
+											<option value="AL">Albania</option>
+										
+											<option value="DZ">Algeria</option>
+										
+											<option value="AS">American Samoa</option>
+										
+											<option value="AD">Andorra</option>
+										
+											<option value="AO">Angola</option>
+										
+											<option value="AI">Anguilla</option>
+										
+											<option value="AQ">Antarctica</option>
+										
+											<option value="AG">Antigua and Barbuda</option>
+										
+											<option value="AR">Argentina</option>
+										
+											<option value="AM">Armenia</option>
+										
+											<option value="AW">Aruba</option>
+										
+											<option value="AU">Australia</option>
+										
+											<option value="AT">Austria</option>
+										
+											<option value="AZ">Azerbaijan</option>
+										
+											<option value="BS">Bahamas</option>
+										
+											<option value="BH">Bahrain</option>
+										
+											<option value="BD">Bangladesh</option>
+										
+											<option value="BB">Barbados</option>
+										
+											<option value="BY">Belarus</option>
+										
+											<option value="BE">Belgium</option>
+										
+											<option value="BZ">Belize</option>
+										
+											<option value="BJ">Benin</option>
+										
+											<option value="BM">Bermuda</option>
+										
+											<option value="BT">Bhutan</option>
+										
+											<option value="BO">Bolivia</option>
+										
+											<option value="BA">Bosnia and Herzegowina</option>
+										
+											<option value="BW">Botswana</option>
+										
+											<option value="BV">Bouvet Island</option>
+										
+											<option value="BR">Brazil</option>
+										
+											<option value="IO">British Indian Ocean Territory</option>
+										
+											<option value="BN">Brunei Darussalam</option>
+										
+											<option value="BG">Bulgaria</option>
+										
+											<option value="BF">Burkina Faso</option>
+										
+											<option value="BI">Burundi</option>
+										
+											<option value="KH">Cambodia</option>
+										
+											<option value="CM">Cameroon</option>
+										
+											<option value="CA">Canada</option>
+										
+											<option value="CV">Cape Verde</option>
+										
+											<option value="KY">Cayman Islands</option>
+										
+											<option value="CF">Central African Republic</option>
+										
+											<option value="TD">Chad</option>
+										
+											<option value="CL">Chile</option>
+										
+											<option value="CN">China</option>
+										
+											<option value="CX">Christmas Island</option>
+										
+											<option value="CC">Cocoa (Keeling) Islands</option>
+										
+											<option value="CO">Colombia</option>
+										
+											<option value="KM">Comoros</option>
+										
+											<option value="CG">Congo</option>
+										
+											<option value="CK">Cook Islands</option>
+										
+											<option value="CR">Costa Rica</option>
+										
+											<option value="CI">Cote Divoire</option>
+										
+											<option value="CT">Croatia (Hrvatska)</option>
+										
+											<option value="CU">Cuba</option>
+										
+											<option value="CY">Cyprus</option>
+										
+											<option value="CZ">Czech Republic</option>
+										
+											<option value="DK">Denmark</option>
+										
+											<option value="DJ">Djibouti</option>
+										
+											<option value="DS">DoDDs Schools</option>
+										
+											<option value="DM">Dominica</option>
+										
+											<option value="DO">Dominican Republic</option>
+										
+											<option value="TP">East Timor</option>
+										
+											<option value="EC">Ecuador</option>
+										
+											<option value="EG">Egypt</option>
+										
+											<option value="SV">El Salvador</option>
+										
+											<option value="GQ">Equatorial Guinea</option>
+										
+											<option value="ER">Eritrea</option>
+										
+											<option value="EE">Estonia</option>
+										
+											<option value="ET">Ethiopia</option>
+										
+											<option value="FK">Falkland Islands (Malvinas)</option>
+										
+											<option value="FO">Faroe Islands</option>
+										
+											<option value="FJ">Fiji</option>
+										
+											<option value="FI">Finland</option>
+										
+											<option value="FR">France</option>
+										
+											<option value="GA">Gabon</option>
+										
+											<option value="GM">Gambia</option>
+										
+											<option value="GE">Georgia</option>
+										
+											<option value="DE">Germany</option>
+										
+											<option value="GH">Ghana</option>
+										
+											<option value="GI">Gibraltar</option>
+										
+											<option value="GR">Greece</option>
+										
+											<option value="GL">Greenland</option>
+										
+											<option value="GD">Grenada</option>
+										
+											<option value="GU">Guam</option>
+										
+											<option value="GT">Guatemala</option>
+										
+											<option value="GN">Guinea</option>
+										
+											<option value="GW">Guinea-Bissau</option>
+										
+											<option value="GY">Guyana</option>
+										
+											<option value="HT">Haiti</option>
+										
+											<option value="HM">Heard and Mc Donald Islands</option>
+										
+											<option value="HN">Honduras</option>
+										
+											<option value="HK">Hong Kong</option>
+										
+											<option value="HU">Hungary</option>
+										
+											<option value="IS">Iceland</option>
+										
+											<option value="IN">India</option>
+										
+											<option value="ID">Indonesia</option>
+										
+											<option value="IR">Iran (Islamic Republic of)</option>
+										
+											<option value="IQ">Iraq</option>
+										
+											<option value="IE">Ireland</option>
+										
+											<option value="IL">Israel</option>
+										
+											<option value="IT">Italy</option>
+										
+											<option value="JM">Jamaica</option>
+										
+											<option value="JP">Japan</option>
+										
+											<option value="JO">Jordan</option>
+										
+											<option value="KZ">Kazakhstan</option>
+										
+											<option value="KE">Kenya</option>
+										
+											<option value="KI">Kiribati</option>
+										
+											<option value="KP">Korea,  Democratic Peoples Republic of</option>
+										
+											<option value="KR">Korea,  Republic of</option>
+										
+											<option value="KW">Kuwait</option>
+										
+											<option value="KG">Kyrgyzstan</option>
+										
+											<option value="LA">Lao Peoples Democratic Republic</option>
+										
+											<option value="LV">Latvia</option>
+										
+											<option value="LB">Lebanon</option>
+										
+											<option value="LS">Lesotho</option>
+										
+											<option value="LR">Liberia</option>
+										
+											<option value="LY">Libyan Arab Jamahiriya</option>
+										
+											<option value="LI">Liechtenstein</option>
+										
+											<option value="LT">Lithuania</option>
+										
+											<option value="LU">Luxembourg</option>
+										
+											<option value="MO">Macau</option>
+										
+											<option value="MK">Macedonia, The Former Yugoslav Republic of</option>
+										
+											<option value="MG">Madagascar</option>
+										
+											<option value="MW">Malawi</option>
+										
+											<option value="MY">Malaysia</option>
+										
+											<option value="MV">Maldives</option>
+										
+											<option value="ML">Mali</option>
+										
+											<option value="MT">Malta</option>
+										
+											<option value="MH">Marshall Islands</option>
+										
+											<option value="MR">Mauritania</option>
+										
+											<option value="MU">Mauritius</option>
+										
+											<option value="MX">Mexico</option>
+										
+											<option value="FM">Micronesia, Federated States of</option>
+										
+											<option value="MD">Moldova,  Republic of</option>
+										
+											<option value="MC">Monaco</option>
+										
+											<option value="MN">Mongolia</option>
+										
+											<option value="MS">Montserrat</option>
+										
+											<option value="MA">Morocco</option>
+										
+											<option value="MZ">Mozambique</option>
+										
+											<option value="MM">Myanmar</option>
+										
+											<option value="NA">Namibia</option>
+										
+											<option value="NR">Nauru</option>
+										
+											<option value="NP">Nepal</option>
+										
+											<option value="NL">Netherlands</option>
+										
+											<option value="AN">Netherlands Antilles</option>
+										
+											<option value="NZ">New Zealand</option>
+										
+											<option value="NI">Nicaragua</option>
+										
+											<option value="NE">Niger</option>
+										
+											<option value="NG">Nigeria</option>
+										
+											<option value="NU">Niue</option>
+										
+											<option value="NF">Norfolk Island</option>
+										
+											<option value="MP">Northern Mariana Islands</option>
+										
+											<option value="NO">Norway</option>
+										
+											<option value="OM">Oman</option>
+										
+											<option value="PK">Pakistan</option>
+										
+											<option value="PW">Palau</option>
+										
+											<option value="PA">Panama</option>
+										
+											<option value="PG">Papua New Guinea</option>
+										
+											<option value="PY">Paraguay</option>
+										
+											<option value="PE">Peru</option>
+										
+											<option value="PH">Philippines</option>
+										
+											<option value="PN">Pitcairn</option>
+										
+											<option value="PL">Poland</option>
+										
+											<option value="PT">Portugal</option>
+										
+											<option value="PR">Puerto Rico</option>
+										
+											<option value="QA">Qatar</option>
+										
+											<option value="RO">Romania</option>
+										
+											<option value="RU">Russian Federation</option>
+										
+											<option value="RW">Rwanda</option>
+										
+											<option value="KN">Saint Kitts and Nevis</option>
+										
+											<option value="LC">Saint Lucia</option>
+										
+											<option value="VC">Saint Vincent and the Grenadines</option>
+										
+											<option value="WS">Samoa</option>
+										
+											<option value="SM">San Marino</option>
+										
+											<option value="ST">Sao Tome and Principe</option>
+										
+											<option value="SA">Saudi Arabia</option>
+										
+											<option value="SN">Senegal</option>
+										
+											<option value="SC">Seychelles</option>
+										
+											<option value="SL">Sierra Leone</option>
+										
+											<option value="SG">Singapore</option>
+										
+											<option value="SK">Slovakia (Slovak Republic)</option>
+										
+											<option value="SI">Slovenia</option>
+										
+											<option value="Sb">Solomon Islands</option>
+										
+											<option value="SO">Somalia</option>
+										
+											<option value="ZA">South Africa</option>
+										
+											<option value="GS">South Georgia and the South Sandwich Islands</option>
+										
+											<option value="ES">Spain</option>
+										
+											<option value="LK">Sri Lanka</option>
+										
+											<option value="SH">St. Helena</option>
+										
+											<option value="SD">Sudan</option>
+										
+											<option value="SR">Suriname</option>
+										
+											<option value="SJ">Svalbard and Jan Mayen Islands</option>
+										
+											<option value="SZ">Swaziland</option>
+										
+											<option value="SE">Sweden</option>
+										
+											<option value="CH">Switzerland</option>
+										
+											<option value="SY">Syrian ArabRepublic</option>
+										
+											<option value="TW">Taiwan</option>
+										
+											<option value="TJ">Tajikistan</option>
+										
+											<option value="TZ">Tanzania,  United Republic of</option>
+										
+											<option value="TH">Thailand</option>
+										
+											<option value="TG">Togo</option>
+										
+											<option value="TK">Tokelau</option>
+										
+											<option value="TO">Tonga</option>
+										
+											<option value="TT">Trinidad and Tobago</option>
+										
+											<option value="TN">Tunisia</option>
+										
+											<option value="TR">Turkey</option>
+										
+											<option value="TM">Turkmenistan</option>
+										
+											<option value="TC">Turks and Caicos Islands</option>
+										
+											<option value="TV">Tuvalu</option>
+										
+											<option value="UG">Uganda</option>
+										
+											<option value="UA">Ukraine</option>
+										
+											<option value="AE">United ArabEmirates</option>
+										
+											<option value="UK">United Kingdom</option>
+										
+											<option value="US">United States</option>
+										
+											<option value="UM">United States Minor Outlying Islands</option>
+										
+											<option value="UY">Uruguay</option>
+										
+											<option value="UZ">Uzbekistan</option>
+										
+											<option value="VU">Vanuatu</option>
+										
+											<option value="VA">Vatican City State(Holy See)</option>
+										
+											<option value="VE">Venezuela</option>
+										
+											<option value="VN">Viet Nam</option>
+										
+											<option value="VG">Virgin Islands (British)</option>
+										
+											<option value="VI">Virgin Islands (U.S.)</option>
+										
+											<option value="EH">Western Sahara</option>
+										
+											<option value="YE">Yeman</option>
+										
+											<option value="YU">Yugoslavia</option>
+										
+											<option value="ZR">Zaire</option>
+										
+											<option value="ZM">Zambia</option>
+										
+											<option value="ZW">Zimbabwe</option>
+										
+									</select>
+
+									<script>
+										DropDownSelect(document.theForm.country,'US');
+									</script>
+									
+									<input type="hidden" name="genreID" value="">
+								</td>
+								<td align="right">
+									<input type="Submit" name="SortButton" value="Sort" class="button">
+								</td>
+							</tr>
+							</form>
+						</table>
+						<br/>
+						<table bordercolor="6699CC" border="1" cellpadding="5" width="100%" style="border-collapse: collapse;">
+							<tr valign="middle" bgcolor="EFF3FF">
+								<td><strong>Date</strong></td>
+								<td><strong>Time</strong></td>
+								<td><strong>Film Maker</strong></td>
+								<td><strong>Venue</strong></td>
+								<td><strong>Location</strong></td>
+								<td><strong>Cost</strong></td>
+							</tr>
+							
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>12:00 AM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=229418091">Oswald's Ghost</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=36084&amp;FriendID=229418091">Cinema Village </a></td>
+											<td>New York , NY</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>12:30 AM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=62898701">OUT AND ABOUT TV</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35011&amp;FriendID=62898701">Chanukah in Washington Square Park</a></td>
+											<td>New York, NY</td>
+											<td>Free</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>05:00 AM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=244422713">JOÃO LEONARDO / VIDEOWORKS</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39239&amp;FriendID=244422713">White Box</a></td>
+											<td>New York, New York|33</td>
+											<td>NA</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 AM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=264468503">Tony N' Tina’s Wedding</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38120&amp;FriendID=264468503">IFC Film Center</a></td>
+											<td>NY, New York|33</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>12:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=127847746">Black Diamonds Movie</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=33756&amp;FriendID=127847746">American Anthropological Association Film Festival</a></td>
+											<td>Washington DC, DC</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>12:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=228007059">Ras Tre Subira</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37028&amp;FriendID=228007059">Riverside Cinema</a></td>
+											<td>New York, New York|33</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>01:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=210904252">Uptown Theatre</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37022&amp;FriendID=210904252">Blade Runner: The Final Cut</a></td>
+											<td>Minneapolis, Minnesota|24</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>01:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=174850126">Blue Bunny</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38827&amp;FriendID=174850126">Santa Fe Film Festival</a></td>
+											<td>Santa Fe, New Mexico|32</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>01:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=68774638">Strictly Background</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38927&amp;FriendID=68774638">Santa Fe Film Festival - Center for Contemporary Arts</a></td>
+											<td>Santa Fe, New Mexico|32</td>
+											<td>$10</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>04:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=104380020">Exquisite Corpse</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37257&amp;FriendID=104380020">Seton Hill University</a></td>
+											<td>Greensburg, Pennsylvania|39</td>
+											<td>free</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>04:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=245071287">DFG</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35572&amp;FriendID=245071287">SMASh Submission Deadline</a></td>
+											<td>Chico, California|5</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>05:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=143244228">SCREEN WARS</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39623&amp;FriendID=143244228">IFP/PHX</a></td>
+											<td>Phoenix, Arizona|3</td>
+											<td>Free for Members, $5 for others</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>06:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=96742058">East Lansing Film Festival</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=36324&amp;FriendID=96742058">48/5 Kickoff - Scene Metrospace</a></td>
+											<td>East Lansing, MI</td>
+											<td>Your team's entry fee</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>06:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=127664720">Andrea DM</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39546&amp;FriendID=127664720">Archipelago Film Festival - Columbia University, Wood Auditorium (2nd Floor of Avery Hall)</a></td>
+											<td>New York, New York|33</td>
+											<td>free</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=89411105">HFP (Were booking shows and need bands.contact us)</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=34070&amp;FriendID=89411105">Rumble at the outpost VII</a></td>
+											<td>kent, OH</td>
+											<td>5.00</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=97906530">Kurt Cobain  About A Son</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35449&amp;FriendID=97906530"><a href="https://web.archive.org/web/20071130080850/http://www.landmarktheatres.com/">Landmark Lumiere Theatre</a> (Plays Thru 12/6)</a></td>
+											<td>San Francisco, CA</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=97906530">Kurt Cobain  About A Son</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35450&amp;FriendID=97906530"><a href="https://web.archive.org/web/20071130080850/http://www.landmarktheatres.com/">Landmark Shattuck Theatre</a> (Plays Thru 12/6)</a></td>
+											<td>Berkeley, CA</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=97906530">Kurt Cobain  About A Son</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35575&amp;FriendID=97906530"><a href="https://web.archive.org/web/20071130080850/http://www.landmarktheatres.com/">Dobie Theatre</a> (Plays Thru 12/6)</a></td>
+											<td>Austin, TX</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=279737232">Guy Manly Movies</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39056&amp;FriendID=279737232">WSUB Suffolk Television "Mini Showcase"</a></td>
+											<td>Boston, Massachusetts|22</td>
+											<td>0.00</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=151569006">The Sensation of Sight</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38009&amp;FriendID=151569006">Red River Theatres</a></td>
+											<td>Concord, New Hampshire|30</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=168341396">The Union: The Business Behind Getting High</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38838&amp;FriendID=168341396">MILLENNIUM THEATER</a></td>
+											<td>New York, New York|33</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=129738891">Grassroots Films</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=38156&amp;FriendID=129738891">Pope John Paul II Cultural Centre</a></td>
+											<td>, Washington DC|9</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=272805932">IL MILLIONE</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39262&amp;FriendID=272805932">Shaker Cinema</a></td>
+											<td>Cleveland, Ohio|36</td>
+											<td>$ 8.25</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=97906530">Kurt Cobain  About A Son</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37199&amp;FriendID=97906530"><a href="https://web.archive.org/web/20071130080850/http://www.loftcinema.com/">The Loft Cinema</a> (Plays Thru 12/6)</a></td>
+											<td>Tucson, Arizona|3</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=264593188">Sex and Breakfast</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37336&amp;FriendID=264593188">Laemmle's Sunset 5</a></td>
+											<td>Los Angeles, California|5</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=268024072">DIVINE INTERVENTION</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=37921&amp;FriendID=268024072">Laemmle Grande 4-Plex Theatres - Downtown</a></td>
+											<td>Los Angeles, California|5</td>
+											<td></td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:00 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=129643950">AC/AC</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=39143&amp;FriendID=129643950">ESCORT! live » all-night disco party » w/ visuals by AC!!!</a></td>
+											<td>SF, California|5</td>
+											<td>$10 (advance)</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=167938481">Pothole Pictures</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=34401&amp;FriendID=167938481">FAHRENHEIT 451 - a furturistic vision that is all too near</a></td>
+											<td>Shelburne, MA</td>
+											<td>$6 at the door. $4 under 13</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=136518934">41, a.k.a. the Film about Nick O'Neill</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=35267&amp;FriendID=136518934">Swampscott Church of Spiritualism</a></td>
+											<td>Swampscott, MA</td>
+											<td>$10.00</td>
+										</tr>
+									
+								
+									
+										
+										<tr>
+											
+												<td>11/30/07</td>
+												<td>07:30 PM</td>
+											
+											<td><a href="https://web.archive.org/web/20071130080850/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendID=81967936">Meathead Films</a></td>
+											<td><a href="index.cfm?fuseaction=filmmaker.screeningDetails&amp;ScreeningID=36414&amp;FriendID=81967936">Glastonbury High School</a></td>
+											<td>Glastonbury, CT</td>
+											<td>FREE!</td>
+										</tr>
+									
+								
+								<tr>
+									<td colspan="6" align="center" bgcolor="white">
+<script language="JavaScript">
+<!--
+function NextPage( page )
+{
+	document.PageForm.page.value = page;
+	document.PageForm.submit();
+}
+//-->
+</script>
+
+
+</td>
+								</tr>
+							
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	
+	<tr>
+		<td colspan="6" align="center">
+			
+				
+
+
+
+
+
+
+
+				<script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		document.write('<style type="text/css"> .googleafc a { text-align: left; } #gafc { overflow: hidden; margin: 0 5px 0; } </style>');
+		str += '    <DIV class=googleafc> <DIV class=horz> <DIV class=googlehdr>Sponsored Links</DIV> <DIV class=adcount4 id=gafc> ';
+			for (l = 0; l < 4; l++)
+			{
+			if (google_ads[i] == null) break;
+			str += '<A onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" onmouseout="window.status=\'\';" href="' + google_ads[i].url + '" target=_blank><STRONG>' + google_ads[i].line1 + '</STRONG>  <P>' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '</P><SPAN>' + google_ads[i].visible_url + '</SPAN></A>';
+			i++;
+			}
+			str += ' </DIV></DIV></DIV>';
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_ad_client = "fim_myspace_film_js";
+var google_encoding = "utf8";
+var google_ad_channel = "fim_myspace_film_screenings,fim_myspace_united-states";
+var google_cust_ch = "";
+var google_max_num_ads = 4;
+var google_ad_type = "text";
+var google_language = "en";
+var google_adtest = "off";
+var google_ed = "";
+var google_ad_output = "js";
+var google_safe = "high";
+</script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20071130080850js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+			
+		</td>
+	</tr>
+</table>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+DropDownSelect(document.forms.theForm.distance, '50');
+DropDownSelect(document.forms.theForm.country, 'US');
+//-->
+</script>
+
+
+
+		
+	
+    <style type="text/css">
+	    div#msft{background-color:#e5e5e5;width:100%;text-align:center;line-height:2em;}
+	    div#msft a{color:#039;font-family:Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:underline;font-size:8pt;}
+	    div#msft a#cprt{color:#000;font-weight:normal;font-size:90%;}div#msft a:hover{color:#39e !important;}
+    </style>
+
+    
+	    
+	    
+	        
+    		    
+	        
+    		
+		    
+    		
+		    
+    
+
+    
+        <div id="msft">
+            <!-- Footer:Standard Start -->
+<script>
+
+function ChangeLinkTextAndUrl (linkId, linkText, linkUrl, debugAlerts)
+{
+	var targetLink=document.getElementById(linkId);
+	if (targetLink != "undefined" && targetLink != null )
+	{
+		targetLink.href=linkUrl;
+		targetLink.innerHTML=linkText;
+	}
+	if (debugAlerts == true) alert(linkId + " URL: " + linkId + "\n" + linkId + " Link: " + targetLink.href+ "\n" + linkId + " Text: " + targetLink.innerHTML);
+}
+
+if (MySpace.ClientContext.IsLoggedIn==true)
+{
+	//set SignUpOrOut link to SignOut if users is logged in
+	ChangeLinkTextAndUrl("aSignUpOrOut", "SignOut", "https://web.archive.org/web/20071130080850/http://collect.myspace.com/index.cfm?fuseaction=signout", false);
+}
+else
+{
+	//change blog link to go to main blog page if user is not logged in
+	ChangeLinkTextAndUrl("headerbloglink", "Blogs", "https://web.archive.org/web/20071130080850/http://blog.myspace.com/", false);
+}
+</script>
+
+<style type="text/css">
+         #tkn_leaderboard{visibility:visible !important; display:inline !important;}
+        body TABLE TD DIV#header_gae {     VISIBILITY: visible !important;}
+        
+        body DIV DIV select#profileaction{VISIBILITY: visible !important; display:inline !important; position:static; WIDTH: 125px !important;}
+        body DIV DIV DIV#profilelinks{ VISIBILITY: visible !important; display:inline !important; position:static; padding-right:15px; }
+        
+        body DIV TABLE TD DIV#googlebar 
+        {
+            VISIBILITY: visible !important;            
+            display:block !important;
+            position:relative;
+            z-index:1000;
+        }
+       
+         body DIV DIV form #q,
+         body DIV DIV form #t,
+         body DIV DIV form #submitBtn,
+         body DIV DIV form #imgGoogle         
+        {
+            VISIBILITY: visible !important; 
+            display:inline !important; 
+            position:static;
+        }
+
+	</style>
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br><a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank"><u>About</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.faq" target="_blank"><u>FAQ</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank"><u>Terms</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank"><u>Privacy</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safety_pagehome" target="_blank"><u>Safety Tips</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank"><u>Contact MySpace</u></a> |
+<script type="text/javascript">
+if(displayAbuseReportLink == true)
+{
+document.write("<a hr" + "ef='https://web.archive.org/web/20071130080850/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\"><u>Report Abuse</u><" + "/a> | ");
+}
+</script>
+ <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/modules/common/pages/sales.aspx" target="_blank"><u>Advertise</u></a> | <a class="text" href="https://web.archive.org/web/20071130080850/http://www.myspace.com/index.cfm?fuseaction=InternationalMap"><u>MySpace International</u></a> | <a onclick="javascript:MySpace.UI.Header.languageLinkClick('es-US','latino.myspace.com',1)" href="#"><u>MySpace Latino</u></a>
+<script type="text/javascript">
+var intlProfileVisibleStr = "False";
+intlProfileVisibleStr = intlProfileVisibleStr.toLowerCase();
+
+if(intlProfileVisibleStr == "true")
+{
+document.write("| <a href=\"http://www.myspace.com/myspaceusa\" class=\"text\" ><u>MySpace USA</u></a>");
+}
+</script>
+ 
+
+<br/><br/>&copy;2003-2007 MySpace.com. All Rights Reserved.
+
+<img src="https://web.archive.org/web/20071130080850im_/http://nb.myspace.com/isf.gif"/></div>
+<script src="https://web.archive.org/web/20071130080850js_/http://x.myspace.com/js/urchin001.js" type="text/javascript"></script>
+								<script type="text/javascript">
+								_uacct="UA-812293-1";
+								_udn="myspace.com";
+								urchinTracker("/en-US/FilmScreenings");</script><!-- Footer:Standard End -->
+
+        </div>
+    
+
+</body>
+</html>
+
+	
+		
+	
+
+
+
+<!-- onRequestEnd -->
+
+	
+
+
+
+<!--
+     FILE ARCHIVED ON 08:08:50 Nov 30, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:49:20 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.722
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.012
+  esindex: 0.013
+  cdx.remote: 39.664
+  LoadShardBlock: 176.416 (6)
+  PetaboxLoader3.datanode: 267.718 (7)
+  load_resource: 255.005
+  PetaboxLoader3.resolve: 90.134
+-->

@@ -1,0 +1,376 @@
+/* --------------------------------*|
+   Master buckets
+|* --------------------------------*/
+div#groupsmain{
+	background-color:#fff;
+	text-align:left;
+	width:770px;
+	padding:5px 15px 20px;
+	}
+* html div#groupsmain{
+	width:800px;
+	}
+
+/* skinny-left, wide-right */
+div#groupsnarrowleft{
+	width:165px;
+	float:left;
+	}
+div#groupswideright{
+	margin-left:170px;
+	width:590px;
+	}
+* html div#groupswideright{
+	margin-left:170px;
+	}
+
+/* wide-left, skinny-right */
+div#groupswideleft{
+	margin-right:200px;
+	width:560px;
+	}
+div#groupsnarrowright{
+	width:200px;
+	float:right;
+	}
+
+/* when using x14 ad, adjust */
+div.x14 div#groupswideleft{
+	margin-right:300px;
+	width:420px;
+	}
+div.x14 div#groupsnarrowright{
+	width:300px;
+	}
+
+/* bottom */
+div#groupsbtm{
+	clear:both;
+	margin-top:1em;
+	}
+
+
+/* --------------------------------*|
+   Special Box 
+|* --------------------------------*/
+div.specialbox{
+	width:100%;
+	margin-bottom:2em;
+	border:1px solid #639ace;
+	text-align:left;
+	}
+div.specialbox h3{
+	margin:0;
+	padding:2px 1em;
+	background-color:#639ace;
+	color:#fff;
+	font-weight:bold;
+	font-size:14px;
+	}
+
+
+/* --------------------------------*|
+   side menu
+|* --------------------------------*/
+div.groupssidelinks{
+	width:154px;
+	padding:3px;
+	margin:38px 0 2em;
+	background-color:#B1D0F0;
+	}
+* html div.groupssidelinks{
+	width:160px;
+	}
+div.groupssidelinks ul{
+	width:100%;
+	margin:0;
+	padding:0;
+	}
+div.groupssidelinks li{
+	margin:0;
+	padding:.5em 0;
+	list-style:none;
+	background-color:#D5E8FB;
+	border-top:3px solid #fff;
+	border-left:3px solid #fff;
+	border-right:3px solid #fff;
+	text-align:center;
+	}
+div.groupssidelinks li.last{
+	border:3px solid #fff;
+	}
+
+/* --------------------------------*|
+   tweak normal HTML within section
+|* --------------------------------*/
+div#groupsmain form{
+	padding:0;
+	margin:0;
+	}
+div#groupsmain img{
+	border:none;
+	}
+div#groupsmain h1{
+	margin:0;
+	padding:10px 0;
+	font-size:14px;
+	}
+div#groupsmain h2{
+	margin:0;
+	padding:0 0 10px;
+	font-size:14px;
+	font-weight:bold;
+	}
+div#groupsmain h3{
+	margin:0;
+	padding:2px 1em;
+	background-color:#639ace;
+	color:#fff;
+	font-weight:bold;
+	font-size:14px;
+	}
+
+
+/* --------------------------------*|
+   Groups List (results table)
+|* --------------------------------*/
+table#groupslist{
+	background-color:#0f0;
+	border:none;
+	background-color:#fff;
+	width:100%;
+	}
+table#groupslist td{
+	padding:5px;
+	}
+table#groupslist td.info{
+	width:315px;/*90%;*/
+	overflow:hidden;/* firefox */
+	word-wrap:break-word; /* IE fix */
+	text-overflow:ellipsis;
+	}
+table#groupslist td.photo{
+	width:50px;
+	}
+tr.odd,
+tr.odd td{
+	background-color:#fff;
+	}
+tr.even,
+tr.even td{
+	background-color:#edf4fa;
+	}
+
+/* --------------------------------*|
+   List Bulletins
+|* --------------------------------*/
+table#bulletins{
+	width:100%;/*585px;*/
+	border-collapse:collapse;
+	}
+table#bulletins th,
+table#bulletins td{
+	vertical-align:top;
+	border:1px solid #639ACE;
+	padding:5px;
+	overflow:hidden;/* firefox */
+	word-wrap:break-word; /* IE fix */
+	text-overflow:ellipsis;
+	}
+table#bulletins img{
+	float:left;
+	margin:0 5px 5px 0;
+	}
+table#bulletins thead th{
+	font-size:11px;
+	background-color:#EFF3FF;
+	font-weight:bold;
+	}
+th#bulletinfrom{
+	width:150px;
+	}
+th#bulletinsubject{
+	width:250px;
+	}
+
+/* --------------------------------*|
+   leftovers
+|* --------------------------------*/
+td.isnew{
+	color:#f00;
+	}
+span.rightlink{
+	float:right;
+	padding:5px;
+	color:#fff;
+	}
+span.rightlink a{
+	color:#fff;
+	font-size:90%;
+	}
+
+
+/* --------------------------------*|
+   handy
+|* --------------------------------*/
+span#chooselangbox{
+	float:right;
+	margin:6px 6px;
+	padding:0;
+	}
+
+p.uberclear{
+	clear:both;
+	text-indent:-4000px;
+	margin:0;
+	padding:0;
+	font-size:1x;
+	line-height:1;
+	}
+
+span.pointer{
+	font-weight:bold;
+	color:#C00;
+	}
+
+div.errorboxlite{
+	padding:1em;
+	border:1px solid #c00;
+	color:#c00;
+	font-size:12px;
+	padding-bottom:.5em;
+	}
+
+/* --------------------------------*|
+   Edit/Create forms
+|* --------------------------------*/
+label.radiolabel{
+	margin:0 2.3em 0 .6em;
+	cursor:pointer;
+	}
+p.ittybitty{
+	text-align:center;
+	padding:0;
+	margin:0;
+	font-size:80%;
+	}
+div#errorbox{
+	border:2px solid #69c;
+	margin:3em 5em;
+	padding:1.6em;
+	text-align:center;
+	font-weight:bold;
+	}
+
+/* --------------------------------*|
+   View Image Stuff
+|* --------------------------------*/
+div#thepic{
+	padding:10px 0 20px;
+	}
+div#thepic img{
+	display:block;
+	margin-bottom:10px;
+	}
+div#thecaption{
+	padding:0 0 15px;
+	}
+.disablednav{
+	color:#999;
+	}
+
+/* --------------------------------*|
+   View Members
+|* --------------------------------*/
+div#members{
+	border:2px solid #69C;
+	background-color:#fff;
+	width:770px;
+	}
+div#members td{
+	padding:5px;
+	vertical-align:top;
+	text-align:center;
+	}
+div#members h3{
+	color:#fff;
+	font-weight:bold;
+	background-color:#69C;
+	margin:0;
+	padding:7px;
+	font-size:14px;
+	text-align:left;
+	}
+div#members img{
+	border:none;
+	}
+
+/* --------------------------------*|
+   boxed
+|* --------------------------------*/
+div.boxed{
+	padding: 1.4em;
+	border:2px solid #8093A1;
+	}
+
+/* --------------------------------*|
+   infoCheck -- Joined/Removed
+|* --------------------------------*/
+table.infoCheck{
+	 width:260px;
+	 border:2px solid #D0ECFD;
+	 background-color:#6698CB;
+	}
+table.infoCheck td{
+	padding:7px;
+	background-color:#D0ECFD;
+	}
+table.infoCheck th{
+	color:#fff;
+	font-weight:bold;
+	text-align:left;
+	font-size:12px;
+	padding:7px 7px 7px 28px;
+	background: #6698CB url(https://web.archive.org/web/20071003195645im_/http://x.myspace.com/images/check.gif) 5px 2px no-repeat;
+	}
+
+/* --------------------------------*|
+   Category Lists, broken into two columns
+|* --------------------------------*/
+ul#categorycolumn1,
+ul#categorycolumn2{
+	width:268px;
+	padding:.5em 0;
+	list-style-type:none;
+	}
+ul#categorycolumn1 li,
+ul#categorycolumn2 li{
+	padding:0 0 .2em 0;
+	}
+ul#categorycolumn1{
+	margin:0 0 0 5px;
+	float:left;
+	}
+ul#categorycolumn2{
+	margin:0 0 0 285px;
+	}
+
+/*
+     FILE ARCHIVED ON 19:56:45 Oct 03, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:03:52 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.347
+  exclusion.robots: 0.108
+  exclusion.robots.policy: 0.017
+  esindex: 0.058
+  cdx.remote: 7.593
+  LoadShardBlock: 108.525 (3)
+  PetaboxLoader3.datanode: 115.901 (4)
+  load_resource: 28.88
+*/

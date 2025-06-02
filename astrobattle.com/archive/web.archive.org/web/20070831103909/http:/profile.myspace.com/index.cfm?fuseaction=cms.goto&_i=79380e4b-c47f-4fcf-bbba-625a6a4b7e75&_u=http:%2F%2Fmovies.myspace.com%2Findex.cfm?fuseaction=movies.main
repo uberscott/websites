@@ -1,0 +1,555 @@
+
+<!--ProfileV2-->
+<html>
+<!-- ELS2MWEBNET0914 -->
+<!-- MoviesMain -->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://movies.myspace.com/index.cfm?fuseaction=movies.main","20071024175108","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1193248268");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	MySpace Movies
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"/><meta http-equiv="expires" content="0"/><meta http-equiv="Pragma" content="no-cache"/>
+<script type="text/javascript" src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/modules/common/static/js/myspacejs040.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/js/myspaceLayout.js"></script>
+<script type="text/javascript">
+
+	
+			function initJSControl(){
+				try{if(loadOverlay!=="undefined")loadOverlay();}
+				catch (ex){}
+		    
+				if(typeof msPublicToolTip == "undefined" || typeof msToolTip == "undefined" || msToolTip.created) 
+					return;
+				msPublicToolTip.initMsHoverTip();            
+			}                    
+		
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071024175108cs_/http://x.myspace.com/modules/common/static/css/header002.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071024175108cs_/http://x.myspace.com/modules/common/static/css/global003.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071024175108cs_/http://x.myspace.com/modules/common/static/css/master.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071024175108cs_/http://x.myspace.com/modules/common/static/css/google-003.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071024175108cs_/http://x.myspace.com/modules/movies/static/css/movies.css"/>
+
+<style type="text/css">
+
+
+		#nav{width:300px; }
+	</style>
+<script type="text/javascript">
+	if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+Type.registerNamespace("MySpace");
+Type.registerNamespace("MySpaceRes");
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false};
+
+</script></head>
+<body id="body" bgcolor="#E5E5E5" text="#000000" alink="#003399" vlink="#003399" link="#003399" class="" onload="initJSControl();">
+	<div id="wrap">			
+		
+<!-- MOVIES -->
+	
+	<!-- Header:Standard -->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+</script><div id="header"><div id="homelink"><a href="https://web.archive.org/web/20071024175108/http://www.myspace.com/">MySpace.com</a></div><div id="toprightlinks"><span><a class="languageLink" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=1dd14fb6-0f2a-4ab4-a231-b9482079c51d&amp;_u=http%3a%2f%2fwww.myspace.com%2fModules%2fContentManagement%2fPages%2fpage.aspx%3fplacement%3dprivacy_settings" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/Modules/ContentManagement/Pages/page.aspx?placement=privacy_settings';return true;" onmouseout="window.status='';">Privacy</a> | <a class="languageLink" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=1dd14fb6-0f2a-4ab4-a231-b9482079c51d&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.faq" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.faq';return true;" onmouseout="window.status='';">Help</a> |</span>&nbsp;<a href="https://web.archive.org/web/20071024175108/http://signup.myspace.com/index.cfm?fuseaction=join">SignUp</a></div><div class="clear"></div><div style="height:90px;" align="center"><script src="https://web.archive.org/web/20071024175108js_/http://creative.myspace.com/cms/js/ad_wrapper0046.js" type="text/javascript"></script>
+<div id="tkn_leaderboard"></div>
+<script type="text/javascript">
+try{
+ Advertiser.SDC.DropPixel();
+}
+catch(e) {}
+sdc_wrapper("tkn_leaderboard", "/Movies/MoviesMain,28000000", "Frame1");
+</script>
+</div><div class="clear"></div><div id="googlebar">
+<style>#googlebar {margin-bottom:6px;margin-top:14px;padding-top:0px;}
+#imgGoogle {	BACKGROUND-IMAGE: url(https://web.archive.org/web/20071024175108im_/http://cms.myspacecdn.com/cms/Headers_and_Footers/googlelogo.png); BACKGROUND-REPEAT: no-repeat; _background-image:none;}
+
+#imgGoogle {
+	FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://cms.myspacecdn.com/cms/Headers_and_Footers/googlelogo.png', sizingMethod='image');
+	WIDTH: 92px;	HEIGHT: 23px;}
+
+div#header_search select#t
+{
+vertical-align:bottom;
+}
+
+</style>
+
+<form id="srch" name="srch" onsubmit="return ($get('q').value.toString().trim().length > 0);" action="https://web.archive.org/web/20071024175108/http://search.myspace.com/index.cfm?advancedFind.hub" method="get"><input class="txt" id="q" style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; WIDTH: 376px; PADDING-TOP: 1px" name="q"> <select id="t" style="WIDTH: 80px" name="t"> <option value="tms" selected>MySpace</option> <option value="tweb">Web</option> <option value="tpeople">People</option> <option value="tmusic">Music</option> <option value="tvid">Video</option></select> <input id="submitBtn" style="FONT-SIZE: 12px" type="submit" value="Search"> <img class="googleLogo" id="imgGoogle" style="MARGIN: -4px 2px 0px; VERTICAL-ALIGN: middle" alt="Powered" by google src="https://web.archive.org/web/20071024175108im_/http://x.myspace.com/images/spacer.gif"> <input type="hidden" value="advancedFind.hub" name="fuseaction"> </form></div><div class="clear"></div></div><div id="topnav"><!-- English nav -->
+<a class="navbar" id="headerhomelink" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fwww.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/';return true;" onmouseout="window.status='';">Home</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fbrowseusers.myspace.com%2fBrowse%2fBrowse.aspx%3fz%3d1" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://browseusers.myspace.com/Browse/Browse.aspx?z=1';return true;" onmouseout="window.status='';">Browse</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fsearch.myspace.com%2findex.cfm%3ffuseaction%3dfind" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://search.myspace.com/index.cfm?fuseaction=find';return true;" onmouseout="window.status='';">Search</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2finvites.myspace.com%2findex.cfm%3ffuseaction%3dinvite" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://invites.myspace.com/index.cfm?fuseaction=invite';return true;" onmouseout="window.status='';">Invite</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2ffilm.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://film.myspace.com/';return true;" onmouseout="window.status='';">Film</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fmessaging.myspace.com%2findex.cfm%3ffuseaction%3dmail.inbox" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox';return true;" onmouseout="window.status='';">Mail</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fblog.myspace.com%2findex.cfm%3ffuseaction%3dblog.controlcenter" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://blog.myspace.com/index.cfm?fuseaction=blog.controlcenter';return true;" onmouseout="window.status='';">Blogs</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2ffavorites.myspace.com%2findex.cfm%3ffuseaction%3duser.favorites" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://favorites.myspace.com/index.cfm?fuseaction=user.favorites';return true;" onmouseout="window.status='';">Favorites</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fforum.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://forum.myspace.com/';return true;" onmouseout="window.status='';">Forum</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fgroups.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://groups.myspace.com/';return true;" onmouseout="window.status='';">Groups</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fevents.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://events.myspace.com/';return true;" onmouseout="window.status='';">Events</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fvids.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://vids.myspace.com/';return true;" onmouseout="window.status='';">Videos</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fmusic.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://music.myspace.com/';return true;" onmouseout="window.status='';">Music</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fcomedy.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://comedy.myspace.com/';return true;" onmouseout="window.status='';">Comedy</a> | <a class="navbar" href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fclassifieds.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://classifieds.myspace.com/';return true;" onmouseout="window.status='';">Classifieds</a>
+<script>if (MySpaceClientContext.IsLoggedIn==true)
+{ 
+var hhlink = document.getElementById('headerhomelink');
+hhlink.href="https://web.archive.org/web/20071024175108/http://home.myspace.com/index.cfm?fuseaction=user";
+} </script>
+ 
+<style>
+#topnav{background-color:#6698cb;}
+#adspacer{height:35px;width:1px;}
+</style>
+</div><div class="clear"></div>
+	
+
+<div id="movie_headerNav">
+<table width="100%" cellpadding="2">
+<tr>
+<td align="left" valign="top">
+	 <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.main"><img src="https://web.archive.org/web/20071024175108im_/http://x.myspace.com/images/movies_logo.gif" width="145" height="26" alt="MoviesLogo"/></a>
+</td>
+<td align="right">
+  <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.main">Movies Home</a>&nbsp;|&nbsp;
+    <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.showtimes">Showtimes &amp; Tickets</a>&nbsp;|&nbsp;
+    <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.nowPlaying">Now Playing</a>&nbsp;|&nbsp;
+    <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.comingSoon">Coming Soon</a>&nbsp;|&nbsp;	
+
+</td>
+</tr>
+</table>
+  </div>
+
+		 
+	
+	
+	<table width="100%" cellpadding="6">
+		<tr>
+			<td valign="top">
+				<div id="nav">
+					
+<div class="h300 w300">
+<div id="tkn_medrec"></div>
+<script type="text/javascript">
+sdc_wrapper("tkn_medrec", "/Movies/MoviesMain,28000000", "x14");
+</script>
+
+
+<img src="https://web.archive.org/web/20071024175108im_/http://x.myspace.com/images/clear.gif" height="29" width="1">
+</div> 
+					<br class="clear"/>
+					
+
+<div id="movie_boxOffice" class="section">
+    <h5 class="heading">Top Box Office</h5>
+    <ol>
+        
+                <li><a type="text/javascript" id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl00_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=53946">30 Days of Night</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl01_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=58335">Tyler Perry's Why Did I Get Married?</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl02_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=57402">The Game Plan</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl03_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56175">Michael Clayton</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl04_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56295">The Comebacks</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl05_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=57859">Gone Baby Gone</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl06_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=53341">We Own the Night</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl07_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=55487">Tim Burton's The Nightmare Before Christmas in Disney Digital 3D</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl08_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=57393">Rendition</a></li>
+            
+                <li><a id="ctl00_ctl00_Main_Main_BoxOffice1_BoxOfficeRepeater_ctl09_MovieLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=55226">The Heartbreak Kid</a></li>
+            
+    </ol>
+</div>
+					
+					<div id="ctl00_ctl00_Main_Main_movie_gads">
+						<div id="ctl00_ctl00_Main_Main_CMS_Movie_Gads" name="ctl00_ctl00_Main_Main_CMS_Movie_Gads">
+	<script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		document.write('<STYLE> .googleafc { width: 300px; border: 1px solid #6698cb; } #adhdr { height: 25px; color: #fff; font-size: 13px; font-weight: bold; background: #6698cb; text-align: left; margin: 0; padding: 5px 0 0 5px; _padding: 3px 0 0 5px; } #gafc a { overflow: hidden; } </STYLE>');
+		str += ' <DIV class=googleafc> <DIV class=vert> <DIV class=googlehdr id=adhdr>Sponsored Links</DIV> <DIV class=adcount4 id=gafc> ';
+			for (l = 0; l < 4; l++)
+			{
+			if (google_ads[i] == null) break;
+			str += '<A onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" onmouseout="window.status=\'\';" href="' + google_ads[i].url + '" target=_blank><STRONG>' + google_ads[i].line1 + '</STRONG>  <P>' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '</P><SPAN>' + google_ads[i].visible_url + '</SPAN></A>';
+			i++;
+			}
+			str += ' </DIV></DIV></DIV>';
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_ad_client = "fim_myspace_movies_js";
+var google_encoding = "utf8";
+var google_ad_channel = "fim_myspace_movies_homepage,fim_myspace_united-states";
+var google_cust_ch = "";
+var google_max_num_ads = 4;
+var google_ad_type = "text";
+var google_language = "en";
+var google_adtest = "off";
+var google_ed = "";
+var google_ad_output = "js";
+var google_safe = "high";
+</script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20071024175108js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+					</div>
+					<br class="clear"/>
+					<div id="movie_News" class="section">
+						 <h5 class="heading">Movie News</h5>
+						<ul>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/i_am_legend/news/1682979/" target="_blank" class="SubHead">Trailer Bulletin: Exclusive and Official I Am Legend Trailer!</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/batman_begins_2_the_dark_knight/news/1683023/" target="_blank" class="SubHead">First Five Minutes of The Dark Knight In Front of I Am Legend?</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/1186967-the_mummy_tomb_of_the_dragon_emperor/news/1683022/" target="_blank" class="SubHead">Jet Li Fight Scene Mummy 3 Image Revealed!</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/the_heartbreak_kid/news/1680532/" target="_blank" class="SubHead">Farrellys Fight for Three Stooges</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/30_days_of_night/news/1682927/" target="_blank" class="SubHead">Raimi Reveals Unusual Ghost House Slate: Grudge 3, Rise 2, More</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/stopping_power/news/1682929/" target="_blank" class="SubHead">Melissa George Reveals Details on Jan de Bont's Stopping Power</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/hostel_2/news/1682977/" target="_blank" class="SubHead">RT on DVD: Hostel II Oozes Onto Shelves, and Criterion Serves Up Breathless!</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/ratatouille/news/1682430/" target="_blank" class="SubHead">Exclusive: John Lasseter on Pixar Past, Present and Future</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/childs_play/news/1682764/" target="_blank" class="SubHead">Here Comes a Child's Play Remake</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/gone_baby_gone/news/1682769/" target="_blank" class="SubHead">Scorsese, DiCaprio Reuniting for Shutter Island</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/grudge_2/news/1682765/" target="_blank" class="SubHead">The Grudge 3 Gets a Director</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/white_jazz/news/1682763/" target="_blank" class="SubHead">Clooney Bails on Carnahan's White Jazz</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/alfred_hitchcock_presents_season_one/news/1682761/" target="_blank" class="SubHead">Anthony Hopkins Channeling Hitchcock for Psycho Movie</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/american_gangster/news/1682554/" target="_blank" class="SubHead">Tomatometer Watch: American Gangster Debuts at 100 Percent</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/harry_potter_and_the_sorcerers_stone/news/1682491/" target="_blank" class="SubHead">J.K. Rowling Outs Albus Dumbledore</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/repo_the_genetic_opera/news/1682501/" target="_blank" class="SubHead">Alexa Vega Vlogs from the Repo! Set</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/jesus_loves_me_lets_sing_about_doing_your_best_in_school/news/1682499/" target="_blank" class="SubHead">Paramount, MTV Doing Bong Hits 4 Jesus</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/lovely_bones/news/1682490/" target="_blank" class="SubHead">Wahlberg Replaces Gosling in Jackson's Lovely Bones</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/superman_returns/news/1682489/" target="_blank" class="SubHead">Warner Bros. Seeking Super Scribes</a>
+  </li>
+  <li>
+    <a href="https://web.archive.org/web/20071024175108/http://www.rottentomatoes.com/m/30_days_of_night/news/1682408/" target="_blank" class="SubHead">Box Office Guru Wrapup: Vampire Flick Scares Up #1 Debut</a>
+  </li>
+</ul>
+					</div>
+				</div>
+			</td>
+			<td valign="top">
+				<div id="content">
+					<form name="aspnetForm" method="post" action="/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.main" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1MjM3MjA3Nw9kFgJmD2QWAmYPZBYEZg8WAh4EVGV4dGVkAgMPZBYCAgEPZBYGAgIPZBYCAgEPFgIeC18hSXRlbUNvdW50AgoWFGYPZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAVKaHR0cDovL21vdmllcy5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1tb3ZpZXMuZGV0YWlsJm1vdmllaWQ9NTM5NDZkFgJmDxUBEDMwIERheXMgb2YgTmlnaHRkAgEPZBYCAgEPDxYCHwIFSmh0dHA6Ly9tb3ZpZXMubXlzcGFjZS5jb20vaW5kZXguY2ZtP2Z1c2VhY3Rpb249bW92aWVzLmRldGFpbCZtb3ZpZWlkPTU4MzM1ZBYCZg8VASRUeWxlciBQZXJyeSdzIFdoeSBEaWQgSSBHZXQgTWFycmllZD9kAgIPZBYCAgEPDxYCHwIFSmh0dHA6Ly9tb3ZpZXMubXlzcGFjZS5jb20vaW5kZXguY2ZtP2Z1c2VhY3Rpb249bW92aWVzLmRldGFpbCZtb3ZpZWlkPTU3NDAyZBYCZg8VAQ1UaGUgR2FtZSBQbGFuZAIDD2QWAgIBDw8WAh8CBUpodHRwOi8vbW92aWVzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1vdmllcy5kZXRhaWwmbW92aWVpZD01NjE3NWQWAmYPFQEPTWljaGFlbCBDbGF5dG9uZAIED2QWAgIBDw8WAh8CBUpodHRwOi8vbW92aWVzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1vdmllcy5kZXRhaWwmbW92aWVpZD01NjI5NWQWAmYPFQENVGhlIENvbWViYWNrc2QCBQ9kFgICAQ8PFgIfAgVKaHR0cDovL21vdmllcy5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1tb3ZpZXMuZGV0YWlsJm1vdmllaWQ9NTc4NTlkFgJmDxUBDkdvbmUgQmFieSBHb25lZAIGD2QWAgIBDw8WAh8CBUpodHRwOi8vbW92aWVzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1vdmllcy5kZXRhaWwmbW92aWVpZD01MzM0MWQWAmYPFQEQV2UgT3duIHRoZSBOaWdodGQCBw9kFgICAQ8PFgIfAgVKaHR0cDovL21vdmllcy5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1tb3ZpZXMuZGV0YWlsJm1vdmllaWQ9NTU0ODdkFgJmDxUBQFRpbSBCdXJ0b24ncyBUaGUgTmlnaHRtYXJlIEJlZm9yZSBDaHJpc3RtYXMgaW4gRGlzbmV5IERpZ2l0YWwgM0RkAggPZBYCAgEPDxYCHwIFSmh0dHA6Ly9tb3ZpZXMubXlzcGFjZS5jb20vaW5kZXguY2ZtP2Z1c2VhY3Rpb249bW92aWVzLmRldGFpbCZtb3ZpZWlkPTU3MzkzZBYCZg8VAQlSZW5kaXRpb25kAgkPZBYCAgEPDxYCHwIFSmh0dHA6Ly9tb3ZpZXMubXlzcGFjZS5jb20vaW5kZXguY2ZtP2Z1c2VhY3Rpb249bW92aWVzLmRldGFpbCZtb3ZpZWlkPTU1MjI2ZBYCZg8VARJUaGUgSGVhcnRicmVhayBLaWRkAgUPZBYCZhBkZBYEAgUPZBYCAgEPEA8WBh4NRGF0YVRleHRGaWVsZAUKTW92aWVUaXRsZR4ORGF0YVZhbHVlRmllbGQFB01vdmllSUQeC18hRGF0YUJvdW5kZ2QQFRUQRGFuIGluIFJlYWwgTGlmZRAzMCBEYXlzIG9mIE5pZ2h0DUludG8gdGhlIFdpbGQOR29uZSBCYWJ5IEdvbmUaVGhpbmdzIFdlIExvc3QgaW4gdGhlIEZpcmUUVGhlIFRlbiBDb21tYW5kbWVudHMzVGhlIE5pZ2h0bWFyZSBCZWZvcmUgQ2hyaXN0bWFzIGluIERpc25leSBEaWdpdGFsIDNEDVRoZSBDb21lYmFja3MkU2FyYWggTGFuZG9uIGFuZCB0aGUgUGFyYW5vcm1hbCBIb3VyCVJlbmRpdGlvbg9NaWNoYWVsIENsYXl0b24QVGhlIEZpbmFsIFNlYXNvbhBXZSBPd24gdGhlIE5pZ2h0JFR5bGVyIFBlcnJ5J3MgV2h5IERpZCBJIEdldCBNYXJyaWVkPxlFbGl6YWJldGg6IFRoZSBHb2xkZW4gQWdlE0Fjcm9zcyB0aGUgVW5pdmVyc2UORmVlbCB0aGUgTm9pc2UeVGhlIFNlZWtlcjogVGhlIERhcmsgSXMgUmlzaW5nGVRoZSBKYW5lIEF1c3RlbiBCb29rIENsdWISVGhlIEhlYXJ0YnJlYWsgS2lkC01vcmUgTW92aWVzFRUFNTk2MzgFNTM5NDYFNTY1NzkFNTc4NTkFNTczNjIFNTgzOTcFNTU0ODcFNTYyOTUFNTgzMzQFNTczOTMFNTYxNzUFNTg1NjgFNTMzNDEFNTgzMzUFMTk3MDgFNTMwNDMFNTk5MTIFNTYyOTMFNTc4NzIFNTUyMjYBMBQrAxVnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHDw8WAh8ABSFFeGFtcGxlOiBMb3MgQW5nZWxlcywgQ0Egb3IgOTAwMjVkZAIGDxYCHwECAxYGZg9kFgICAQ9kFgRmDw8WAh8CBUpodHRwOi8vbW92aWVzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1vdmllcy5kZXRhaWwmbW92aWVpZD01OTYzOGQWAmYPDxYCHghJbWFnZVVybAUxaHR0cDovL2NpbmVtYXZpZHMubXlzcGFjZS5jb20vcGhvdG9zLzA1OTYzODAxLmpwZ2RkAgEPFQIQRGFuIGluIFJlYWwgTGlmZYQCPFA+V2lkb3dlZCBmYXRoZXIgYW5kIGZhbWlseS1hZHZpY2UgY29sdW1uaXN0IERhbiBCdXJucywgd2hvIGlzIHJlZWxpbmcgZnJvbSB0aGUgaGVhcnRhY2hlIG9mIGxvc3MsIHRha2VzIHJlZnVnZSBieSB0cnlpbmcgdG8gbWFpbnRhaW4gb3JkZXIgd2l0aCBoaXMgIHRocmVlIHJlYmVsbGlvdXMgeW91bmcgZ2lybHMsIHdoaWxlIGRvZGdpbmcgYW55dGhpbmcgdW5leHBlY3RlZCBvciBvdXRzaWRlIHRoZSBib3guIEJ1dCB3aGVuIERhbiBoZWFkcy4uLjwvcD5kAgEPZBYCAgEPZBYEZg8PFgIfAgVKaHR0cDovL21vdmllcy5teXNwYWNlLmNvbS9pbmRleC5jZm0/ZnVzZWFjdGlvbj1tb3ZpZXMuZGV0YWlsJm1vdmllaWQ9NTk5NjJkFgJmDw8WAh8GBTFodHRwOi8vY2luZW1hdmlkcy5teXNwYWNlLmNvbS9waG90b3MvMDU5OTYyMDEuanBnZGQCAQ8VAhZUaGUgRGFyamVlbGluZyBMaW1pdGVk8gE8UD4iVGhlIERhcmplZWxpbmcgTGltaXRlZCIgaXMgYW4gZW1vdGlvbmFsIGNvbWVkeSBhYm91dCB0aHJlZSBicm90aGVycyByZS1mb3JnaW5nIGZhbWlseSBib25kcy5UaGUgZWxkZXN0LCBob3BlcyB0byByZWNvbm5lY3Qgd2l0aCBoaXMgdHdvIHlvdW5nZXIgc2libGluZ3MgYnkgdGFraW5nIHRoZW0gb24gYSB0cmFpbiB0cmlwIGFjcm9zcyB0aGUgdmlicmFudCBhbmQgc2Vuc3VhbCBsYW5kc2NhcGUgb2YgSW5kaWEuPC9QPmQCAg9kFgICAQ9kFgRmDw8WAh8CBUpodHRwOi8vbW92aWVzLm15c3BhY2UuY29tL2luZGV4LmNmbT9mdXNlYWN0aW9uPW1vdmllcy5kZXRhaWwmbW92aWVpZD01NjYxNmQWAmYPDxYCHwYFMWh0dHA6Ly9jaW5lbWF2aWRzLm15c3BhY2UuY29tL3Bob3Rvcy8wNTY2MTYwMS5qcGdkZAIBDxUCBlNhdyBJVogCPFA+Smlnc2F3IGFuZCBoaXMgYXBwcmVudGljZSBBbWFuZGEgYXJlIGRlYWQuIFVwb24gdGhlIG5ld3Mgb2YgRGV0ZWN0aXZlIEtlcnJ5J3MgbXVyZGVyLCB0d28gc2Vhc29uZWQgRkJJIHByb2ZpbGVycywgQWdlbnQgU3RyYWhtIGFuZCBBZ2VudCBQZXJleiwgYXJyaXZlIGF0IHRoZSBkZXBsZXRlZCBwb2xpY2UgcHJlY2luY3QgYW5kIGhlbHAgdmV0ZXJhbiBEZXRlY3RpdmUgSG9mZm1hbiBzaWZ0IHRocm91Z2ggSmlnc2F3J3MgbGF0ZXN0IGdyaXp6bHkuLi48L3A+ZGQ="/>
+</div>
+
+    <div id="movie_searchBox" class="section">
+        <h5 class="heading">
+            Find Movie Showtimes and Tickets</h5>
+        <table>
+            <tr>
+                <td class="w49">
+                    <strong>Movie Title</strong></td>
+                <td class="w49">
+                    <strong>Location</strong></td>
+            </tr>
+            <tr>
+                <td>
+                    <div id="ctl00_ctl00_Main_Main_SearchForm_panel1">
+	
+                        <input name="ctl00$ctl00$Main$Main$SearchForm$SearchText" type="text" id="ctl00_ctl00_Main_Main_SearchForm_SearchText" style="width:140px;"/>
+                        <input type="submit" name="ctl00$ctl00$Main$Main$SearchForm$GoButton1" value="Go" id="ctl00_ctl00_Main_Main_SearchForm_GoButton1"/>&nbsp;&nbsp;
+                    
+</div>
+                </td>
+                <td>
+                    <div id="ctl00_ctl00_Main_Main_SearchForm_panel2">
+	
+                        <input name="ctl00$ctl00$Main$Main$SearchForm$LocationText" type="text" id="ctl00_ctl00_Main_Main_SearchForm_LocationText" style="width:140px;"/>
+                        <input type="submit" name="ctl00$ctl00$Main$Main$SearchForm$GoButton2" value="Go" id="ctl00_ctl00_Main_Main_SearchForm_GoButton2"/>
+                    
+</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div id="ctl00_ctl00_Main_Main_SearchForm_panel3">
+	
+                        <select name="ctl00$ctl00$Main$Main$SearchForm$TitleDropDown" id="ctl00_ctl00_Main_Main_SearchForm_TitleDropDown" style="width:140px;">
+		<option value="59638">Dan in Real Life</option>
+		<option value="53946">30 Days of Night</option>
+		<option value="56579">Into the Wild</option>
+		<option value="57859">Gone Baby Gone</option>
+		<option value="57362">Things We Lost in the Fire</option>
+		<option value="58397">The Ten Commandments</option>
+		<option value="55487">The Nightmare Before Christmas in Disney Digital 3D</option>
+		<option value="56295">The Comebacks</option>
+		<option value="58334">Sarah Landon and the Paranormal Hour</option>
+		<option value="57393">Rendition</option>
+		<option value="56175">Michael Clayton</option>
+		<option value="58568">The Final Season</option>
+		<option value="53341">We Own the Night</option>
+		<option value="58335">Tyler Perry's Why Did I Get Married?</option>
+		<option value="19708">Elizabeth: The Golden Age</option>
+		<option value="53043">Across the Universe</option>
+		<option value="59912">Feel the Noise</option>
+		<option value="56293">The Seeker: The Dark Is Rising</option>
+		<option value="57872">The Jane Austen Book Club</option>
+		<option value="55226">The Heartbreak Kid</option>
+		<option value="0">More Movies</option>
+
+	</select><input type="submit" name="ctl00$ctl00$Main$Main$SearchForm$GoButton3" value="Go" id="ctl00_ctl00_Main_Main_SearchForm_GoButton3"/>
+                    
+</div>
+                </td>
+                <td valign="top">
+                    <span id="ctl00_ctl00_Main_Main_SearchForm_locationLabel">Example: Los Angeles, CA or 90025</span>
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+
+					<!-- featured movies -->
+
+						<div style="position: relative; width:230px; height:220px; float:left;">
+							<div id="tkn_west"></div>
+<script type="text/javascript">
+ad_wrapper("tkn_west", "www.myspace.com/Movies/MoviesMain,28000000", "fmovl");
+</script>
+
+						</div>
+						<div style="position: relative; width:230px; height:220px; float:right;">
+							<div id="tkn_east"></div>
+<script type="text/javascript">
+ad_wrapper("tkn_east", "www.myspace.com/Movies/MoviesMain,28000000", "fmovr");
+</script>
+
+						</div>		
+						<div class="clear" style="height:14px;"></div>
+
+					<div id="movies_newMovies" class="section">      
+					 <h5 class="heading">New Movies</h5>
+					 
+							
+<table cellpadding="4" class="movie_summary">
+ <tr>
+		<td valign="top">
+			<a id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl00_MovieSummary_movieHyperLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59638"><img id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl00_MovieSummary_movieImage" src="https://web.archive.org/web/20071024175108im_/http://cinemavids.myspace.com/photos/05963801.jpg" border="0"/></a>			
+			
+		</td>
+     <td valign="top">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59638" class="movie_titleLink">Dan in Real Life</a>
+         <p>Widowed father and family-advice columnist Dan Burns, who is reeling from the heartache of loss, takes refuge by trying to maintain order with his  three rebellious young girls, while dodging anything unexpected or outside the box. But when Dan heads...</p><br/>
+         <div class="moviespacer">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59638">About</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59638§ion=showtimes">ShowTimes</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59638§ion=trailers">Trailers &amp; Clips</a> 
+         </div>
+     </td>                                    
+ </tr>
+</table>           
+						
+							
+<table cellpadding="4" class="movie_summary">
+ <tr>
+		<td valign="top">
+			<a id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl01_MovieSummary_movieHyperLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59962"><img id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl01_MovieSummary_movieImage" src="https://web.archive.org/web/20071024175108im_/http://cinemavids.myspace.com/photos/05996201.jpg" border="0"/></a>			
+			
+		</td>
+     <td valign="top">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59962" class="movie_titleLink">The Darjeeling Limited</a>
+         <p>"The Darjeeling Limited" is an emotional comedy about three brothers re-forging family bonds.The eldest, hopes to reconnect with his two younger siblings by taking them on a train trip across the vibrant and sensual landscape of India.</p><br/>
+         <div class="moviespacer">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59962">About</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59962§ion=showtimes">ShowTimes</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=59962§ion=trailers">Trailers &amp; Clips</a> 
+         </div>
+     </td>                                    
+ </tr>
+</table>           
+						
+							
+<table cellpadding="4" class="movie_summary">
+ <tr>
+		<td valign="top">
+			<a id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl02_MovieSummary_movieHyperLink" href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56616"><img id="ctl00_ctl00_Main_Main_OpeningThisWeek_ctl02_MovieSummary_movieImage" src="https://web.archive.org/web/20071024175108im_/http://cinemavids.myspace.com/photos/05661601.jpg" border="0"/></a>			
+			
+		</td>
+     <td valign="top">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56616" class="movie_titleLink">Saw IV</a>
+         <p>Jigsaw and his apprentice Amanda are dead. Upon the news of Detective Kerry's murder, two seasoned FBI profilers, Agent Strahm and Agent Perez, arrive at the depleted police precinct and help veteran Detective Hoffman sift through Jigsaw's latest grizzly...</p><br/>
+         <div class="moviespacer">
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56616">About</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56616§ion=showtimes">ShowTimes</a> | 
+         <a href="https://web.archive.org/web/20071024175108/http://movies.myspace.com/index.cfm?fuseaction=movies.detail&amp;movieid=56616§ion=trailers">Trailers &amp; Clips</a> 
+         </div>
+     </td>                                    
+ </tr>
+</table>           
+						
+					</div>
+					<div id="tkn_adspecial1"></div>
+<script type="text/javascript">
+sdc_wrapper("tkn_adspecial1", "/Movies/MoviesMain,28000000", "x77");
+</script>
+
+				</div> 
+			</td>
+		</tr>
+	</table>
+
+
+		
+	<!-- Footer:Standard Start -->
+<style type="text/css">
+         #tkn_leaderboard{visibility:visible !important; display:inline !important;}
+        body TABLE TD DIV#header_gae {     VISIBILITY: visible !important;}
+        
+        body DIV DIV select#profileaction{VISIBILITY: visible !important; display:inline !important; position:static; WIDTH: 125px;}
+        body DIV DIV DIV#profilelinks{ VISIBILITY: visible !important; display:inline !important; position:static; padding-right:25px; }
+        
+        body DIV TABLE TD DIV#googlebar 
+        {
+            VISIBILITY: visible !important;            
+            display:block !important;
+        }
+       
+         body DIV DIV form #q,
+         body DIV DIV form #t,
+         body DIV DIV form #submitBtn,
+         body DIV DIV form #imgGoogle         
+        {
+            VISIBILITY: visible !important; 
+            display:inline !important; 
+            position:static;
+        }
+
+	</style>
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br/>
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.aboutus" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus';return true;" onmouseout="window.status='';"><u>About</u></a> | 
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.faq" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.faq';return true;" onmouseout="window.status='';"><u>FAQ</u></a> | 
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.terms" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.terms';return true;" onmouseout="window.status='';"><u>Terms</u></a> | 
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.privacy" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.privacy';return true;" onmouseout="window.status='';"><u>Privacy</u></a> | 
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dhelp.safetytips" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=help.safetytips';return true;" onmouseout="window.status='';"><u>Safety Tips</u></a> | 
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dmisc.contact" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=misc.contact';return true;" onmouseout="window.status='';"><u>Contact MySpace</u></a> | 
+
+<script type="text/javascript">
+if(displayAbuseReportLink == true)
+{
+document.write("<a hr" + "ef='https://web.archive.org/web/20071024175108/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\"><u>Report Abuse</u><" + "/a> | ");
+}
+</script>
+
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2fmodules%2fcommon%2fpages%2fsales.aspx" target="_blank" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/modules/common/pages/sales.aspx';return true;" onmouseout="window.status='';"><u>Advertise</u></a> |
+<a href="https://web.archive.org/web/20071024175108/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=e391584a-fb5b-472e-8811-62c8af7d8e79&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dInternationalMap" class="text" onmouseover="window.status='https://web.archive.org/web/20071024175108/http://www.myspace.com/index.cfm?fuseaction=InternationalMap';return true;" onmouseout="window.status='';"><u>MySpace International</u></a>
+
+<script type="text/javascript">
+var intlProfileVisibleStr = "False";
+intlProfileVisibleStr = intlProfileVisibleStr.toLowerCase();
+
+if(intlProfileVisibleStr == "true")
+{
+document.write("| <a href=\"http://www.myspace.com/myspaceusa\" class=\"text\" ><u>MySpace USA</u></a>");
+}
+</script>
+
+<br/><br/>&copy;2003-2007 MySpace.com. All Rights Reserved.
+
+<img src="https://web.archive.org/web/20071024175108im_/http://nb.myspace.com/isf.gif"/></div>
+<script src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/js/urchin001.js" type="text/javascript"></script>
+								<script type="text/javascript">
+								_uacct="UA-812293-1";
+								_udn="myspace.com";
+								urchinTracker("/en-US/MoviesMain");</script><!-- Footer:Standard End -->
+
+
+	</div>
+
+<script type="text/javascript" src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/modules/common/static/js/global005.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20071024175108js_/http://x.myspace.com/modules/common/static/js/wddx.js"></script>
+
+</body>
+
+
+<iframe src="/web/20071024175108if_/http://movies.myspace.com/index.cfm?fuseaction=movies.main" name="onl148612507xyz915216951" id="onl148612507xyz915216951" style="border:0;width:0;height:0;"></iframe>
+<script type="text/javascript">
+	onlineNowInfoURL="https://web.archive.org/web/20071024175108/http://onlinenow.myspace.com/OnlineNow/UsersOnline.html";
+	javaScriptURL="https://web.archive.org/web/20071024175108/http://x.myspace.com";
+	ImageStore=new Array();
+	ImageStore[0]=new Object();
+	ImageStore[0].url="https://web.archive.org/web/20071024175108/http://i.myspace.com";
+	ImageStore[0].baseID=0;
+	clearImage=new Image();
+	clearImage.src="https://web.archive.org/web/20071024175108/http://i.myspace.com/site/images/clear.gif";
+	onlineNowImage=new Image();
+	onlineNowImage.src="https://web.archive.org/web/20071024175108/http://x.myspace.com/images/onlinenow.gif";		
+</script>
+<script type="text/javascript" defer="defer">
+	window.setTimeout("onlineNowNodeParser=new OnlineNowNodeParser(\"onl148612507xyz915216951\");onlineNowNodeParser.run();", 100);
+</script>
+
+
+</html>
+<!-- onRequestEnd -->
+<!--
+     FILE ARCHIVED ON 17:51:08 Oct 24, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:36:36 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 21.286
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.014
+  esindex: 0.011
+  cdx.remote: 41.841
+  LoadShardBlock: 98.665 (3)
+  PetaboxLoader3.datanode: 186.215 (4)
+  load_resource: 293.865
+  PetaboxLoader3.resolve: 184.758
+-->

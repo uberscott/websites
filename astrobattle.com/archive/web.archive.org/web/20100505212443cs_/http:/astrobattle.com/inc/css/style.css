@@ -1,0 +1,251 @@
+a:link { 
+	color:#99FFFF; 
+	text-decoration: underline;
+}	
+a:visited { 
+	color:#0D83B8; 
+	text-decoration: underline;
+}
+a:hover {
+	color:#FFFFFF; 
+	text-decoration: underline;
+}
+.copyright {
+	text-align:center;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 8pt;
+	color:#666666;
+}
+.bigwords{
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-weight: 900;
+		font-size: 18pt;
+		color: #99FFFF
+
+}
+.understate{
+	text-align:left;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 8pt;
+	color:#666666;
+
+}
+.fine-print{
+	text-align:left;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 6pt;
+	color:#666666;
+
+}
+.highlight {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 9pt;	
+		color : #7CBBD8;	
+}
+
+
+
+
+BODY,TD {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	font-size: 9pt;	
+	color : #006390;
+}
+P {	
+	font-size: 9pt;	
+	color : #006390; 
+}
+UL{
+		list-style-position: outside;
+		list-style-image: url('/web/20110707181317im_/http://astrobattle.com/img/bullet.gif');
+		font-size: 9pt;
+		color : #006390;
+}
+.crumb {
+		font-size:8pt;
+		color : #7CBBD8;
+}
+A.crumb {
+		font-size:8pt;
+		color : #7CBBD8;	
+}
+TD.banner_download {
+	background-image: url('/web/20110707181317im_/http://astrobattle.com/img/banner2_download_icon.gif');
+	border-right-color: #083F59;
+	border-right-style: solid;
+	border-right-width: 1px;
+	color:#99FFFF;
+	font-size: 8pt;
+	text-align : right;
+	padding-right: 20px;	
+}
+
+TD.moreinfo {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	color:#99FFFF;
+	font-size: 8pt;
+	text-align : right;
+	line-height: 20px;
+	padding-right: 20px;
+}
+
+TD.banner_membership {
+	background-image: url('/web/20110707181317im_/http://astrobattle.com/img/banner2_membership_icon.gif');
+	padding-left: 50px;
+	font-size: 8pt;
+}
+.navbox {
+	border-bottom-color: #083F59;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+	border-top-color: #083F59;
+	border-top-style: solid;
+	border-top-width: 1px;
+	
+	border-left-color: #006390;
+	border-left-style: solid;
+	border-left-width: 1px;
+	
+	border-right-color: #083F59;
+	border-right-style: solid;
+	border-right-width: 1px;
+	
+	background-image: url('/web/20110707181317im_/http://astrobattle.com/img/bb_stripes.gif');
+	
+}
+.simplebox {
+	border-bottom-color: #083F59;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+	border-top-color: #083F59;
+	border-top-style: solid;
+	border-top-width: 1px;
+	
+	border-left-color: #006390;
+	border-left-style: solid;
+	border-left-width: 1px;
+	
+	border-right-color: #083F59;
+	border-right-style: solid;
+	border-right-width: 1px;
+	
+	
+}
+.seperator {
+	background-color: #001829;
+}
+	
+TD.cat {
+	padding-left: 20px;	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: 900;
+	font-size: 10pt;
+	color : #99FFFF;
+}
+TD.cat_home {
+	background-image: url('/web/20110707181317im_/http://astrobattle.com/img/nav_icon.gif');
+	padding-left: 20px;	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: 900;
+	font-size: 10pt;
+	color : #99FFFF;
+}
+A.cat {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: 900;
+	font-size: 10pt;
+	color : #99FFFF;
+}
+TD.subcat {
+	padding-left: 30px;	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #0D83B8;
+	line-height : 20px;
+}
+TD.subcat_selected {
+	background-image: url('/web/20110707181317im_/http://astrobattle.com/img/subcat_selected.gif');
+	border-bottom-color: #083F59;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+	border-top-color: #083F59;
+	border-top-style: solid;
+	border-top-width: 1px;
+
+	padding-left: 30px;	
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #0D83B8;
+	line-height : 20px;
+}
+.mainbody {
+	padding-left: 35px;	
+	padding-right: 35px;	
+	border-bottom-color: #083F59;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+	border-left-color: #083F59;
+	border-left-style: solid;
+	border-left-width: 1px;
+	
+	border-right-color: #006390;
+	border-right-style: solid;
+	border-right-width: 1px;
+}
+.bottom {
+	border-bottom-color: #006390;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	
+	border-right-color: #006390;
+	border-right-style: solid;
+	border-right-width: 1px;
+	background-color: #001829;
+}
+.header {
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-weight: 600;
+		font-size: 10pt;
+		color: #FFFFFF
+}
+.headerDate {
+	border-top-color: #083F59;
+	border-top-style: solid;
+	border-top-width: 1px;
+	
+	text-align : right;
+	font-size: 8pt;
+	line-height: 20px;
+	width: 100%;
+}
+.subHeader {
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-weight: 900;
+		font-size: 10pt;
+		color: #99FFFF
+
+
+/*
+     FILE ARCHIVED ON 18:13:17 Jul 07, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:19:38 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.695
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.013
+  esindex: 0.013
+  cdx.remote: 139.396
+  LoadShardBlock: 139.456 (3)
+  PetaboxLoader3.datanode: 105.751 (4)
+  PetaboxLoader3.resolve: 112.761 (2)
+  load_resource: 119.932
+*/

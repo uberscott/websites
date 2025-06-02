@@ -1,0 +1,97 @@
+
+
+
+
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://astrobattle.com:80/servlet/CheckoutExpansion?username=","20070706053311","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1183699991");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>Astro Battle - GET THE EXPANION PACK</title>
+  <link rel="stylesheet" href="/web/20070706053311cs_/http://astrobattle.com/inc/css/style.css"/>
+</head>
+<body bgcolor="#000000">
+<center><img src="/web/20070706053311im_/http://astrobattle.com/imgs/ab2-title.png"></center>
+<center><img src="/web/20070706053311im_/http://astrobattle.com/imgs/add-expansion-pack.png"></center>
+<br>
+<center>
+You are moments away from enjoying the ASTRO BATTLE EXPANSION PACKS!<p>
+
+
+  <form action="/web/20070706053311/http://astrobattle.com/servlet/CheckoutExpansion" method="post" name="f">
+  <table width="400" border="0" cellpadding="5" cellspacing="0">
+  <tr><td class="navbox">
+  <table width="400" border="0" cellpadding="2">
+   <tr><td colspan="3">Enter your username and click NEXT to get started!<p></td></tr>
+
+   <tr><td width="128" align="right"><img src="/web/20070706053311im_/http://astrobattle.com/imgs/username.png" width="128" height="25"></td><td><input name="username" type="text" value=""></td><td width="64" align="left"><a href="javascript:f.submit()"><img src="/web/20070706053311im_/http://astrobattle.com/imgs/next.png" border="0" onmouseover="this.src='/imgs/next_over.png'" onmousedown="this.src='/imgs/next_down.png'" onmouseout="this.src='/imgs/next.png'"></a></td>
+   </tr>
+   
+
+  </table>
+  </tr></td></table>
+
+  </center>
+  </form>
+
+<p>
+<p>
+<p>
+<!--
+<center>
+<table>
+<tr>
+<td align=left><img src=/imgs/basic-expan-pack-sell.png></center></td></td>
+<td valign=top><img src=/imgs/1995.png></td>
+</tr>
+<tr>
+<td align=left>
+<img src=/imgs/firepower-pack-sell.png>
+<td valign=top><img src=/imgs/995.png></td>
+</td>
+</tr>
+</table>
+</center>
+-->
+
+
+<!--
+<p>
+<center><img src=/imgs/basic-expan-pack-sell.png></center>
+<p>
+<center><img src=/imgs/firepower-pack-sell.png></center>
+-->
+
+</body>
+</html>
+
+
+<!--
+     FILE ARCHIVED ON 05:33:11 Jul 06, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:33:11 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.758
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.013
+  esindex: 0.013
+  cdx.remote: 74.381
+  LoadShardBlock: 663.847 (3)
+  PetaboxLoader3.resolve: 613.657 (2)
+  PetaboxLoader3.datanode: 92.161 (4)
+  load_resource: 195.034
+-->

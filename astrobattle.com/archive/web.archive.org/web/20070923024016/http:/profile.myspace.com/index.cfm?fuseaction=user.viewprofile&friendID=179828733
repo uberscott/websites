@@ -1,0 +1,493 @@
+
+<!-- ProfileV1 NH-->
+<html>
+<!-- ELS2MWEBNET1163 -->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://profile.myspace.com:80/index.cfm?fuseaction=user.viewprofile&amp;friendid=179828733","20071011001535","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1192061735");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	MySpace.com - www.myspace.com/179828733
+</title><meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"/><meta name="robots" content="noindex"/><meta name="Slurp" content="noindex"/><meta name="msnbot" content="noindex"/><meta name="googlebot" content="noindex"/><meta http-equiv="expires" content="0"/><meta http-equiv="Pragma" content="no-cache"/>
+	<script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/js/videos/swfobject.js"></script>
+    
+<script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/modules/common/static/js/myspacejs040.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/modules/common/static/css/global003.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/modules/common/static/css/master.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/modules/common/static/css/myspace.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/modules/common/static/css/google-003.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/modules/common/static/css/header002.css"/>
+<script type="text/javascript">
+	if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+Type.registerNamespace("MySpace");
+Type.registerNamespace("MySpaceRes");
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":179828733,"IsLoggedIn":false};
+
+</script></head>
+<body alink="4e607b" link="4e607b" vlink="4e607b" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" style="visibility:visible; display:block" class="bodyContent">
+	 
+<!-- Header:Profiles -->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":179828733,"IsLoggedIn":false};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+</script><div align="center"><table width="800" cellspacing="0" cellpadding="0" border="0" bgcolor="#003399" align="center"><tr><td><!-- Google: 757 -->
+<div style="height:90px;" align="center"><div id="tkn_leaderboard"></div></div><script src="https://web.archive.org/web/20071011001535js_/http://creative.myspace.com/cms/js/ad_wrapper0046.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+ Advertiser.SDC.DropPixel();
+}
+catch(e) {}
+try{
+ Advertiser.SDC.DisplayedFriendEUD = "::0:0:YWQzMzk5ODQxYjA2MTk5Nh-6Qs3lvLJjtDP0PmR9wBMfVLgmORvMFjGr-YD1KPICwr4lFxwRm15zmorJlHuuqEVmwJf03UeDqBatzjWy6vdHehnc4rQWw0VcXJfgvOEa";
+}
+catch(e) {}
+sdc_wrapper("tkn_leaderboard", "/UserView/UserViewProfile,11013005", "Frame1");
+ad_wrapper("tkn_leaderboardband", "www.myspace.com/bandprofile,11021002", "Frame1");
+ad_wrapper("tkn_leaderboardfilm", "www.myspace.com/viewprofile,11022011", "Frame1");
+ad_wrapper("tkn_leaderboardcomedy", "www.myspace.com/Comedian/ComedianProfile,29000001", "Frame1");
+</script>
+<div class="clear"></div><div id="googlebar"><style>
+#header_gae
+    {   text-align:center;
+        margin-left:auto;
+        margin-right:auto;
+    }
+</style>
+
+<div id="profilelinks"><select id="profileaction" style="WIDTH: 109px" onchange="shortCut(this);" name="profileaction"> <option value="-1" selected>Shortcuts:</option> <option value="SendMessage">Send Message</option> <option value="ForwardToFriend">Forward to Friend</option> <option value="AddToFriends">Add to Friends</option> <option value="AddToFavorites">Add to Favorites</option> <option value="BlockUser">Block User</option> <option value="AddToGroup">Add to Group</option> <option value="RankUser">Rank User</option> <option value="InstantMessage">Instant Message</option></select>
+<script language="javascript">
+var profile_AddToFriends = '';
+        
+        function shortCut(ddl)
+	    {   if(ddl == null){return;}
+	        if(!ddl.selectedIndex && !(ddl.selectedIndex > 0))
+	        {   return; }
+	        var selectedVal = ddl.options[ddl.selectedIndex].value.toLowerCase();
+            var sTargetUrl  = '';                      
+            var sFriendID   = MySpace.ClientContext.DisplayFriendId;
+            var myToken     = MySpace.ClientContext.MyToken;
+            var USERID_TOM  = 6221;
+		    
+            switch(selectedVal)
+            {   case 'sendmessage':
+                    if(sFriendID == USERID_TOM)
+                        sTargetUrl = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=profile.mailTom&MyToken=' + myToken;
+                    else
+                        sTargetUrl = 'https://web.archive.org/web/20071011001535/http://messaging.myspace.com/index.cfm?fuseaction=mail.message&friendID=' + sFriendID + '&MyToken=' + myToken;
+                    break;                
+                case 'forwardtofriend':
+                    sTargetUrl = 'https://web.archive.org/web/20071011001535/http://messaging.myspace.com/index.cfm?fuseaction=mail.forward&f=forwardprofile&friendID=' + sFriendID;
+
+                    break;
+                
+                case 'addtofriends':
+                    if(profile_AddToFriends.length>0)
+                        sTargetUrl = profile_AddToFriends;
+                    else
+                        sTargetUrl = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendID=' + sFriendID + '&MyToken=' + myToken;
+                    break;
+                
+                case 'addtofavorites':
+                    sTargetUrl = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=user.addToFavorite&public=0&friendID=' + sFriendID;
+
+                    break;
+                
+                case 'blockuser':
+                    if (confirm("Are you sure you want to block this user?\n- to block this user, hit OK\n- otherwise, hit Cancel"))
+                        sTargetUrl = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=block.blockUser&userID=' + sFriendID;
+                    else
+                        return;
+                    break;
+                
+                case 'addtogroup':
+                    sTargetUrl = 'https://web.archive.org/web/20071011001535/http://groups.myspace.com/index.cfm?fuseaction=groups.addtogroup&friendID=' + sFriendID;
+                    break;
+                
+                case 'rankuser':
+                    sTargetUrl = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=RateImage.UserRating&UserID=' + sFriendID;
+                    break;
+                
+                case 'instantmessage':
+                    shortCut_InstantMsg();
+                    return;
+                    break;
+                
+                default:
+            } 
+	        //alert(selectedVal + '\n' + sTargetUrl);
+		location.href = sTargetUrl;
+        }
+</script>
+ </div>
+<script language="javascript">profile_AddToFriends = 'https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendID=179828733&MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651';
+function shortCut_InstantMsg(){}
+</script><style>#googlebar {margin-bottom:6px;margin-top:14px;padding-top:0px;}</style>
+<form id="srch" name="srch" onsubmit="return ($get('q').value.toString().trim().length > 0);" action="https://web.archive.org/web/20071011001535/http://search.myspace.com/index.cfm?advancedFind.hub" method="get">
+  <input class="txt" style="WIDTH: 376px;padding:1px 0px 1px 0px;" name="q" id="q"/>
+  <select id="t" name="t" style="width:80px;">
+    <option value="tms" selected="selected">MySpace</option>
+    <option value="tweb">Web</option>
+    <option value="tpeople">People</option>
+    <option value="tmusic">Music</option>
+    <option value="tvid">Video</option>
+  </select>
+  <input id="submitBtn" style="FONT-SIZE: 12px" type="submit" value="Search"/>
+  <img class="googleLogo" id="imgGoogle" style="vertical-align: middle; margin: -4px 2px 0px 2px" alt="Powered by Google" src="https://web.archive.org/web/20071011001535im_/http://cms.myspacecdn.com/cms/Headers_and_Footers/googlelogo.png"/>
+  <input type="hidden" value="advancedFind.hub" name="fuseaction"/>
+</form></div><div class="clear"></div></td></tr></table></div><div align="center"><table border="0" cellspacing="0" cellpadding="0" width="800" class="navigationBar"><tr><td width="800" height="26" bgcolor="6698CB"><table width="800" height="26" border="0" cellspacing="0" cellpadding="0"><tr valign="middle"><td align="center"><!-- English nav -->
+<a class="navbar" id="headerhomelink" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fwww.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://www.myspace.com/';return true;" onmouseout="window.status='';">Home</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fbrowseusers.myspace.com%2fBrowse%2fBrowse.aspx%3fz%3d1" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://browseusers.myspace.com/Browse/Browse.aspx?z=1';return true;" onmouseout="window.status='';">Browse</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fsearch.myspace.com%2findex.cfm%3ffuseaction%3dfind" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://search.myspace.com/index.cfm?fuseaction=find';return true;" onmouseout="window.status='';">Search</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2finvite.myspace.com%2findex.cfm%3ffuseaction%3dinvite" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://invite.myspace.com/index.cfm?fuseaction=invite';return true;" onmouseout="window.status='';">Invite</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2ffilm.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://film.myspace.com/';return true;" onmouseout="window.status='';">Film</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fmessaging.myspace.com%2findex.cfm%3ffuseaction%3dmail.inbox" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox';return true;" onmouseout="window.status='';">Mail</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fblog.myspace.com%2findex.cfm%3ffuseaction%3dblog.controlcenter" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://blog.myspace.com/index.cfm?fuseaction=blog.controlcenter';return true;" onmouseout="window.status='';">Blogs</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2ffavorites.myspace.com%2findex.cfm%3ffuseaction%3duser.favorites" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://favorites.myspace.com/index.cfm?fuseaction=user.favorites';return true;" onmouseout="window.status='';">Favorites</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fforum.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://forum.myspace.com/';return true;" onmouseout="window.status='';">Forum</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fgroups.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://groups.myspace.com/';return true;" onmouseout="window.status='';">Groups</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fevents.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://events.myspace.com/';return true;" onmouseout="window.status='';">Events</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fvids.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://vids.myspace.com/';return true;" onmouseout="window.status='';">Videos</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fmusic.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://music.myspace.com/';return true;" onmouseout="window.status='';">Music</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fcomedy.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://comedy.myspace.com/';return true;" onmouseout="window.status='';">Comedy</a> | <a class="navbar" href="https://web.archive.org/web/20071011001535/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=176efaa7-1908-488e-aa3e-2565dcf843d6&amp;_u=http%3a%2f%2fclassifieds.myspace.com%2f" onmouseover="window.status='https://web.archive.org/web/20071011001535/http://classifieds.myspace.com/';return true;" onmouseout="window.status='';">Classifieds</a>
+<script>if (MySpaceClientContext.IsLoggedIn==true)
+{ 
+var hhlink = document.getElementById('headerhomelink');
+hhlink.href="https://web.archive.org/web/20071011001535/http://home.myspace.com/index.cfm?fuseaction=user";
+} </script>
+ 
+<style>
+#topnav{background-color:#6698cb;}
+#adspacer{height:35px;width:1px;}
+</style>
+</td></tr></table></td></tr></table></div><div class="clear"></div>
+	
+	<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20071011001535cs_/http://x.myspace.com/js/CSS/profile.css" id="defaultProfileStyles"/>
+	
+	<script type="text/javascript">
+	function viewerIsLoggedIn() { return False; }
+	function getDisplayFriendID() { return 179828733; }
+	function currentUserIsFriend() { return False; }
+</script>
+
+
+
+<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tr>
+			<td width="20" bgcolor="FFFFFF"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="2" border="0"></td>
+			<td width="780" align="center" bgcolor="FFFFFF">
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tr>
+						<td width="275" height="33" align="center" valign="top" bgcolor="FFFFFF"><br/>
+						
+
+    <table height="100" cellspacing="0" cellpadding="0" width="300" border="0" class="profileInfo">
+	    <tr>
+		    <td class="text" valign="bottom" align="left" width="300" bgcolor="#ffffff" colspan="3" style="WORD-WRAP:break-word"><span class="nametext">killer layouts</span><br/>
+			    
+		    </td>
+	    </tr>
+	    <tr>
+		    <td>
+			    <table id="Table2" cellspacing="0" cellpadding="0" width="300" align="center">
+				    <tr>
+					    <td class="text" width="75" bgcolor="#ffffff" height="75">
+						    <a type="text/javascript" id="ctl00_Main_ctl00_UserBasicInformation1_hlDefaultImage" href="https://web.archive.org/web/20071011001535/http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewAlbums&amp;friendID=179828733"><img border="0" alt="" src="https://web.archive.org/web/20071011001535im_/http://a253.ac-images.myspacecdn.com/images01/59/m_094773d5764bb8d1e19821a46413db8c.jpg"/>
+						    </a>
+					    <td>
+					    <td width="15" height="75" bgcolor="#ffffff" class="text"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0" alt=""></td>
+		    </td>
+		    <td class="text" width="193" bgcolor="#ffffff" height="75" align="left">"add for amazing layouts, icons, comment boxes and much more!"<br>
+			    <br>
+			    Male
+			    <br>
+			    18 years old
+			    <br>
+			    California
+			    <br>
+			    United States
+			    <br>
+			    <br>
+			    
+			    
+
+<br/>
+			    
+			    <br>
+			    Last Login:
+				10/10/2007
+			    <br>
+		    </td>
+	    </tr>
+		<tr>
+			<td colspan="3" style="padding-left:3px;">
+				 <b>Mood:</b>
+						thirsty
+						<img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/blog/moods/iBrads/thirsty.gif" id="ctl00_Main_ctl00_UserBasicInformation1_moodImage" alt="Mood Image"/>
+			</td>
+		</tr>
+	    <tr valign="middle">
+		    <td colspan="3" style="padding-left:3px;">
+				
+				
+				 			
+		    </td>
+	    </tr>
+    </table>
+    </td> </tr> </table>
+    <br>
+
+
+						
+<table class="contactTable" border="1" cellspacing="0" cellpadding="0" width="300" bordercolor="#6699cc">
+	<tr>
+		<td width="300" height="15" bgcolor="#6699cc" class="text tdborder" align="left" style="WORD-WRAP:break-word">&nbsp;&nbsp;&nbsp;<span class="whitetext12">Contacting
+				killer layouts
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="tdborder">
+			<table border="0" cellspacing="0" cellpadding="0" width="300" bordercolor="#000000">
+				<tr>
+					<td><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="1" height="5" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="120" height="5" nowrap bgcolor="#ffffff" align="center" class="text">
+						<a href="https://web.archive.org/web/20071011001535/http://messaging.myspace.com/index.cfm?fuseaction=mail.message&amp;friendID=179828733&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" id="ctl00_Main_ctl00_UserContactLinks1_MailLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/mail_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0"></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20071011001535/http://messaging.myspace.com/index.cfm?fuseaction=mail.forward&amp;friendID=179828733&amp;f=forwardprofile" id="ctl00_Main_ctl00_UserContactLinks1_ForwardLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/forward_1.gif" border="0" align="middle"/></a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&amp;friendID=179828733&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" id="ctl00_Main_ctl00_UserContactLinks1_AddFriendLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/friend_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="1" border="0"/></td>
+					<td width="150" nowrap height="2" bgcolor="#ffffff" align="center" class="text" valign="middle"><a href="https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=user.addToFavorite&amp;friendID=179828733&amp;public=0" id="ctl00_Main_ctl00_UserContactLinks1_AddFavoriteLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/favorite_1.gif" border="0" align="middle"/></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="javascript: void(0);" id="ctl00_Main_ctl00_UserContactLinks1_MessageFriendLink">
+							<img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/im_1.gif" border="0" align="middle"/>
+						</a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0"></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top"><a href="https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=block.blockUser&amp;userID=179828733" id="ctl00_Main_ctl00_UserContactLinks1_BlockFriendLink" onclick="return confirm('Are you sure you want to block this user?\n- to block this user, hit OK\n- otherwise, hit Cancel');"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/block_1.gif" border="0" align="middle"/></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>				
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20071011001535/http://groups.myspace.com/index.cfm?fuseaction=groups.addtogroup&amp;friendID=179828733" id="ctl00_Main_ctl00_UserContactLinks1_AddToGroupLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/group_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" bgcolor="#ffffff">
+					    <img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="15" height="1" border="0"/>
+					</td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+					    <a href="https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=RateImage.UserRating&amp;UserID=179828733" id="ctl00_Main_ctl00_UserContactLinks1_RateFriendLink"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/profile/rank_1.gif" border="0" align="middle"/></a>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/clear.gif" width="1" height="5" border="0"/></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+
+						
+
+<table class="userProfileURL" border="0" align="center" cellspacing="0" cellpadding="1" width="300">
+		<tr>
+			<td height="10" valign="top"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/1by1.gif" width="1" height="10"></td>
+		</tr>
+<tr valign="top"> 
+			<td bgcolor="#6699cc" align="center">
+				<table bgcolor="#ffffff" width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr class="userProfileURL">
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+								<tr> 
+									<td width="70%"><div align="left"><strong>&nbsp;MySpace URL:&nbsp;</strong></div></td>
+									<td width="30%"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr class="userProfileURL"> 
+						<td><div align="left">&nbsp;&nbsp;http://www.myspace.com/__killerlayouts&nbsp;&nbsp;</div></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr> 
+			<td height="10" valign="top"><img src="https://web.archive.org/web/20071011001535im_/http://x.myspace.com/images/1by1.gif" width="1" height="10"></td>
+		</tr>
+	</table>
+<br/>
+						
+						
+						
+						
+						
+						
+						
+					</td>
+					<td valign="top" align="center" width="15" bgcolor="#ffffff"><img id="ctl00_Main_ctl00_Img2" height="1" width="20" border="0"/></td>
+					<td class="text" valign="top" align="center" width="435" bgcolor="#ffffff">
+					    <br/>
+					    
+
+
+
+	<table id="Table1" bordercolor="#000000" height="75" cellspacing="0" cellpadding="0" width="435" border="1" class="extendedNetwork">
+		<tr>
+			<td class="tdborder" valign="middle" align="center" width="435" style="word-wrap: break-word">
+				<span class="blacktext12">
+					<span id="ctl00_Main_ctl00_UserNetwork1_ctrlMessage">This profile is set to private. This user must add you as a friend to see his/her profile.</span>
+					<br>
+				</span>
+			</td>
+		</tr>
+	</table>
+<br/><br/><div id="tkn_medrec"></div>
+<br/>
+						
+						
+						
+						
+						
+						
+						
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+
+	
+    
+    <script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/js/phs-006.js"></script>
+     <script type="text/javascript">
+        phscheck("Urgent Security Alert","<p><strong>Warning:</strong> You are submitting information to an outside site. This could be an attempt to steal your username and password.</p> <p>This is <strong>not</strong> a MySpace login page, please do not enter your MySpace login information (email address or password).</p> <p>Do you wish to continue your form submission?</p>","NO, CANCEL my button click","YES, I'll Continue Anyway","&raquo; Learn more about &quot;phishing&quot; &amp; your security");
+        window.setTimeout(changeTitle, 20);
+		function changeTitle()
+		{
+			document.title = "MySpace.com - www.myspace.com/179828733";
+		}
+     </script>
+    
+
+<style>
+a .text 
+ {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+</style>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr bgcolor="#e5e5e5" valign="top">
+		<td>
+			<div align="center">
+                <div align="center"><br/>
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>About</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=misc.faq&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>FAQ</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=misc.terms&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>Terms</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=misc.privacy&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>Privacy</u></a>&nbsp;|&nbsp;
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=help.safetytips&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651 %>" target="_blank"><u>Safety Tips</u></a>&nbsp;|&nbsp; 
+                    
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=misc.contact&amp;MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>Contact MySpace</u></a>&nbsp;|&nbsp; 
+                    
+                         <a class="text" href="https://web.archive.org/web/20071011001535/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&amp;ProfileContentID=179828733" target="_blank"><u>Report Abuse</u></a>&nbsp;|&nbsp;   
+                    
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/modules/common/pages/sales.aspx?MyToken=3d33252a-9304-4440-9e0d-a58d40dd3651" target="_blank"><u>Advertise</u></a>&nbsp;|&nbsp; 
+                         
+                    <a class="text" href="https://web.archive.org/web/20071011001535/http://www.myspace.com/index.cfm?fuseaction=InternationalMap"><u>MySpace International</u></a>
+                      
+                 </div>
+                <br/>
+                <br/>
+                <font face="Arial, Helvetica, sans-serif" size="0">
+	                &copy;2003-2007 MySpace.com. All Rights Reserved.
+                </font>                
+                <script type="text/javascript">
+sdc_wrapper("tkn_medrec", "/UserView/UserViewProfile,11013005", "x14");
+</script>
+
+													
+						<img src="https://web.archive.org/web/20071011001535im_/http://nb.myspace.com/isf.gif"/>	
+					
+
+			</div>
+		</td>
+	</tr>
+</table>
+
+<script src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/js/urchin001.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct="UA-812293-1";
+_udn="myspace.com";
+urchinTracker("/en-US/UserViewProfile");
+</script>
+
+	<style type="text/css">
+		body, html {visibility:visible !important; display:block !important}
+	</style>
+	
+<script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/modules/common/static/js/global005.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20071011001535js_/http://x.myspace.com/modules/common/static/js/wddx.js"></script>
+
+	
+<iframe src="/web/20071011001535if_/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=179828733" name="onl254419297xyz634650509" id="onl254419297xyz634650509" style="border:0;width:0;height:0;"></iframe>
+<script type="text/javascript">
+	onlineNowInfoURL="https://web.archive.org/web/20071011001535/http://onlinenow.myspace.com/OnlineNow/UsersOnline.html";
+	javaScriptURL="https://web.archive.org/web/20071011001535/http://x.myspace.com";
+	ImageStore=new Array();
+	ImageStore[0]=new Object();
+	ImageStore[0].url="https://web.archive.org/web/20071011001535/http://i.myspace.com";
+	ImageStore[0].baseID=0;
+	clearImage=new Image();
+	clearImage.src="https://web.archive.org/web/20071011001535/http://i.myspace.com/site/images/clear.gif";
+	onlineNowImage=new Image();
+	onlineNowImage.src="https://web.archive.org/web/20071011001535/http://x.myspace.com/images/onlinenow.gif";		
+</script>
+<script type="text/javascript" defer="defer">
+	window.setTimeout("onlineNowNodeParser=new OnlineNowNodeParser(\"onl254419297xyz634650509\");onlineNowNodeParser.run();", 100);
+</script>
+
+	</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 00:15:35 Oct 11, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:57:21 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.683
+  exclusion.robots: 0.036
+  exclusion.robots.policy: 0.021
+  esindex: 0.017
+  cdx.remote: 602.06
+  LoadShardBlock: 1180.437 (3)
+  PetaboxLoader3.datanode: 692.415 (4)
+  PetaboxLoader3.resolve: 622.72 (3)
+  load_resource: 256.263
+-->

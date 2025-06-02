@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=546797&amp;sid=137e30c3e10fd940e8dda711ad8aaaf1","20070607051102","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1181193062");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="resource-type" content="document"/>
+<meta name="language" content="en-gb"/>
+<meta name="distribution" content="global"/>
+<meta name="copyright" content="2000, 2002, 2003, 2007 phpBB Group"/>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<meta http-equiv="content-style-type" content="text/css"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<title>phpBB &bull; View topic - A parting</title>
+
+
+<script type="text/javascript">
+// <![CDATA[
+	var jump_page = 'Enter the page number you wish to go to.:';
+	var on_page = '1';
+	var per_page = '';
+	var base_url = '';
+	var style_cookie = 'phpBBstyle';
+	var onload_functions = new Array();
+	var onunload_functions = new Array();
+
+	
+	/**
+	* Find a member
+	*/
+	function find_username()
+	{
+				return false;
+	}
+
+	/**
+	* New function for handling multiple calls to window.onload and window.unload by pentapenguin
+	*/
+	window.onload = function()
+	{
+		for (i = 0; i <= onload_functions.length; i++)
+		{
+			eval(onload_functions[i]);
+		}
+	}
+
+	window.onunload = function()
+	{
+		for (i = 0; i <= onunload_functions.length; i++)
+		{
+			eval(onunload_functions[i]);
+		}
+	}
+
+// ]]>
+</script>
+
+<script type="text/javascript" src="/web/20070607051102js_/http://www.phpbb.com/theme/forum_fn.js"></script>
+
+
+<link href="/web/20070607051102cs_/http://www.phpbb.com/community/style.php?sid=137e30c3e10fd940e8dda711ad8aaaf1&amp;id=1&amp;lang=en" rel="stylesheet" type="text/css" media="screen, projection"/>
+<link href="/web/20070607051102cs_/http://www.phpbb.com/theme/index.css" rel="stylesheet" type="text/css" media="screen, projection"/>
+<link rel="shortcut icon" href="/web/20070607051102im_/http://www.phpbb.com/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="/web/20070607051102/http://www.phpbb.com/feeds/atom/"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/web/20070607051102/http://www.phpbb.com/feeds/rss/"/>
+</head>
+
+<body id="phpBB" class="community section-viewtopic ltr">
+<div id="wrap">
+	<a id="top" name="top" accesskey="t"></a>
+	<div id="page-header">
+		<span class="side-left"></span>
+		<div class="header">
+			<h1><a href="/web/20070607051102/http://www.phpbb.com/">phpBB &bull; Creating Communities Worldwide</a></h1>
+		</div>
+		<span class="side-right"></span>
+	</div>
+
+	<div id="navbar">
+		<ul>
+			<li class="but-about"><span><a href="/web/20070607051102/http://www.phpbb.com/about/"><strong>About</strong></a></span></li>
+			<li class="but-downloads"><span><a href="/web/20070607051102/http://www.phpbb.com/downloads/"><strong>Downloads</strong></a></span></li>
+			<li class="but-customise"><span><a href="/web/20070607051102/http://www.phpbb.com/customise/"><strong>Customise</strong></a></span></li>
+			<li class="but-support"><span><a href="/web/20070607051102/http://www.phpbb.com/support/"><strong>Support</strong></a></span></li>
+			<li class="but-development"><span><a href="/web/20070607051102/http://www.phpbb.com/development/"><strong>Development</strong></a></span></li>
+			<li class="but-community"><span><a href="/web/20070607051102/http://www.phpbb.com/community/"><strong>Community</strong></a></span></li>
+			<li id="search-box">
+				<fieldset>
+					<!-- Google CSE Search Box Begins -->
+					<form method="get" action="/web/20070607051102/http://www.phpbb.com/search/">
+					  <p><input name="q" id="q" type="text" size="40" value=""/></p>
+					 </form>
+				</fieldset>
+			</li>
+		</ul>
+	</div>
+
+
+	<div id="page-body">
+
+		<div class="navbar">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		<ul class="linklist navlinks">
+			<li><a class="icon-home" href="./index.php" accesskey="h">Board index</a>  <strong>&#8249;</strong> <a href="./viewforum.php?f=47">General</a> <strong>&#8249;</strong> <a href="./viewforum.php?f=14">Announcements</a></li>
+
+
+			<li class="rightside"><a href="./viewtopic.php?f=14&amp;t=546797&amp;start=0&amp;st=0&amp;sk=t&amp;sd=a&amp;view=print" title="Print view" accesskey="p" class="print">Print view</a></li>		</ul>
+
+		<ul class="linklist">
+						<li class="rightside">
+				<a href="./faq.php" title="Frequently Asked Questions" class="icon-faq">FAQ</a>&nbsp;
+				<a href="./search.php" title="View the advanced search options" class="icon-search">Search</a>&nbsp; <a href="./ucp.php?mode=register" class="icon-register">Register</a>&nbsp; 					<a href="./ucp.php?mode=login" title="Login" accesskey="l" class="icon-logout">Login</a>
+							</li>
+		</ul>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	 <h2><a href="./viewtopic.php?f=14&amp;t=546797&amp;start=0&amp;st=0&amp;sk=t&amp;sd=a">A parting</a></h2>
+<!-- NOTE: remove the style="display: none" when you want to have the forum description on the topic body --><span style="display: none"><span style="font-weight: bold">Read me first before posting anywhere!</span><br/>Subscribe to the feed, available in <a href="https://web.archive.org/web/20070607051102/http://www.phpbb.com/feeds/atom/" class="postlink"><img src="https://web.archive.org/web/20070607051102im_/http://www.phpbb.com/theme/images/feed-icon-14x14.png" alt="Image"/> Atom</a> or <a href="https://web.archive.org/web/20070607051102/http://www.phpbb.com/feeds/rss/" class="postlink"><img src="https://web.archive.org/web/20070607051102im_/http://www.phpbb.com/theme/images/feed-icon-14x14.png" alt="Image"/> RSS</a> format.<br/></span>	<div class="rules">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+					<strong>Forum rules</strong><br/>
+			<span style="font-weight: bold">READ: <a href="https://web.archive.org/web/20070607051102/http://www.phpbb.com/rules/" class="postlink">phpBB.com Board-Wide Rules and Regulations</a></span>		
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+<div class="topic-actions">
+
+	<div class="buttons">
+	<div class="reply-icon"><a href="./posting.php?mode=reply&amp;f=14&amp;t=546797"><span>Post a reply</span></a></div>	</div>
+
+			<div class="search-box">
+			<form method="get" id="topic-search" action="./search.php?t=546797">
+			<fieldset>
+				<input class="inputbox search tiny" type="text" name="keywords" id="search_keywords" size="20" value="Search this topic…" onclick="if(this.value=='Search this topic…')this.value='';" onblur="if(this.value=='')this.value='Search this topic…';"/>
+				<input class="button2" type="submit" value="Search"/>
+				<input type="hidden" value="546797" name="t"/>
+				<input type="hidden" value="msgonly" name="sf"/>
+			</fieldset>
+			</form>
+		</div>
+			<div class="pagination">
+			1 post			 &bull; Page <strong>1</strong> of <strong>1</strong>		</div>
+	
+</div>
+<div class="clear"></div>
+
+	<div id="p2995133" class="post bg2">
+		<div class="inner"><span class="corners-top"><span></span></span>
+
+		<div class="postbody">
+			
+			<h3 class="first"><a href="#p2995133">A parting</a></h3>
+			<p class="author"><a href="./viewtopic.php?p=2995133#p2995133"><img src="/web/20070607051102im_/http://www.phpbb.com/community/styles/prosilver/imageset/icon_post_target.gif" width="11" height="9" alt="Post" title="Post"/></a>by <strong><a href="./memberlist.php?mode=viewprofile&amp;u=11" style="color: #0099CC;" class="username-coloured">dhn</a></strong> on Sun May 27, 2007 12:14 pm </p>
+
+			
+			<div class="content">After 5 years and 7 months Jonathan &quot;SHS`&quot; Roger Stanley is leaving the phpBB project and stepping down from his current Project Manager position, leaving me alone as the longest serving member on the team. After <a href="https://web.archive.org/web/20070607051102/http://lambcutlet.org/gallery/World_2005" class="postlink">traveling around the world in 2005</a> and dedicating full time to phpBB afterwards, he finally decided that it is time to take care for himself again and bid us farewell.<br/><br/>He informed the team leaders 6 months ago of his intention to leave after RC1 was released and though we all tried to convince him to stay, we understand and respect his decision. We thank Jon for all the hard work he has done for the project. Without him we wouldn't be as far as we are today. <br/><br/>Just to give some examples of his dedication: <br/>During the 2 weeks we switched over to the new website he worked 14 hours / day, managing the server, converting database after database,to finally give the community phpbb.com back. But even during the calmer periods he spent up to 50 hours / week on the project managing advertisements, server maintenance, helped the developers and translators on the language files, and set up some plans that you will learn about soon. We don't even need to mention his many years as Moderator and Team Leader.<br/><br/>We wish Jon all the best and hope he finds his way back to phpBB at some time in the future! Make sure to visit his <a href="https://web.archive.org/web/20070607051102/http://lambcutlet.org/" class="postlink">personal website</a> (lambcutlet.org) every now and then.<br/><br/><br/>PS: Look out for an announcement with the title &quot;A return&quot; during the next few days <!-- s;) --><img src="/web/20070607051102im_/http://www.phpbb.com/community/images/smilies/icon_e_wink.gif" alt=";)" title="Wink"/><!-- s;) --></div>
+
+			
+		</div>
+
+					<dl class="postprofile" id="profile2995133">
+			<dt>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=11"><img src="https://web.archive.org/web/20070607051102im_/http://images.ddblog.org/inc_av.png" width="90" height="90" alt="User avatar"/></a><br/>
+				<a href="./memberlist.php?mode=viewprofile&amp;u=11" style="color: #0099CC;" class="username-coloured">dhn</a>			</dt>
+
+			<dd>Website Team Leader<br/><img src="/web/20070607051102im_/http://www.phpbb.com/community/images/ranks/web-lead.png" alt="Website Team Leader" title="Website Team Leader"/></dd>
+		<dd>&nbsp;</dd>
+
+		<dd><strong>Posts:</strong> 5444</dd><dd><strong>Joined:</strong> Wed Jul 04, 2001 8:10 am</dd><dd><strong>Location:</strong> Internet</dd>			<dd>
+				<ul class="profile-icons">
+					<li class="email-icon"><a href="./memberlist.php?mode=email&amp;u=11" title="E-mail"><span>E-mail</span></a></li><li class="web-icon"><a href="https://web.archive.org/web/20070607051102/http://www.ddblog.org/" title="WWW: http://www.ddblog.org"><span>Website</span></a></li>				</ul>
+			</dd>
+		
+		</dl>
+	
+		<div class="back2top"><a href="#wrap" class="top" title="Top">Top</a></div>
+
+		<span class="corners-bottom"><span></span></span></div>
+	</div>
+
+	<hr class="divider"/>
+
+<div class="topic-actions">
+	<div class="buttons">
+	<div class="reply-icon"><a href="./posting.php?mode=reply&amp;f=14&amp;t=546797"><span>Post a reply</span></a></div>	</div>
+
+			<div class="pagination">
+			1 post			 &bull; Page <strong>1</strong> of <strong>1</strong>		</div>
+	</div>
+
+	<form method="post" id="jumpbox" action="./viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
+
+			<p><a href="./viewforum.php?f=14" class="left-box left" accesskey="r">Return to Announcements</a></p>
+			<fieldset class="jumpbox">
+				<label for="f" accesskey="j">Jump to: </label>
+			<select name="f" id="f" onchange="if(this.options[this.selectedIndex].value != -1){ document.forms['jumpbox'].submit() }">
+							<option value="-1">Select a forum</option>
+			<option value="-1">------------------</option>				<option value="47">General</option>
+							<option value="14" selected="selected">&nbsp; &nbsp;Announcements</option>
+							<option value="48">phpBB 2.0.x</option>
+							<option value="18">&nbsp; &nbsp;2.0.x Discussion</option>
+							<option value="10">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Convertors</option>
+							<option value="50">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Translations</option>
+							<option value="1">&nbsp; &nbsp;2.0.x Support Forums</option>
+							<option value="75">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Installation</option>
+							<option value="76">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Conversions/Updates</option>
+							<option value="78">&nbsp; &nbsp;2.0.x Modifications Forums</option>
+							<option value="15">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] MOD Database Releases</option>
+							<option value="17">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] MOD Requests</option>
+							<option value="16">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] MODs in Development</option>
+							<option value="35">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] MOD Writers Discussion</option>
+							<option value="77">&nbsp; &nbsp;2.0.x Styles Forums</option>
+							<option value="22">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Styles Database Releases</option>
+							<option value="23">&nbsp; &nbsp;&nbsp; &nbsp;[2.0.x] Styles Development &amp; Discussion</option>
+							<option value="49">phpBB 3.0.x</option>
+							<option value="64">&nbsp; &nbsp;3.0.x Discussion</option>
+							<option value="65">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] Convertors</option>
+							<option value="66">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] Translations</option>
+							<option value="46">&nbsp; &nbsp;3.0.x Support Forums</option>
+							<option value="67">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] Installation</option>
+							<option value="68">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] Conversions/Upgrades</option>
+							<option value="81">&nbsp; &nbsp;3.0.x Modifications Forums</option>
+							<option value="72">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] MOD Requests</option>
+							<option value="70">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] MODs in Development</option>
+							<option value="71">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] MOD Writers Discussion</option>
+							<option value="80">&nbsp; &nbsp;3.0.x Styles Forums</option>
+							<option value="74">&nbsp; &nbsp;&nbsp; &nbsp;[3.0.x] Styles Development &amp; Discussion</option>
+							<option value="52">Non-phpBB specific</option>
+							<option value="6">&nbsp; &nbsp;General Discussion</option>
+							<option value="26">&nbsp; &nbsp;Test Me</option>
+						</select>
+			<input type="submit" value="Go" class="button2"/>
+		</fieldset>
+	</form>
+
+	<h3><a href="./viewonline.php">Who is online</a></h3>
+	<p>Users browsing this forum: No registered users and 13 guests</p>
+</div>
+	<div id="page-footer">
+						<div class="navbar">
+			<div class="inner"><span class="corners-top"><span></span></span>
+			<ul class="linklist">
+				<li>
+					<a class="icon-home" href="./index.php">Board index</a> &nbsp;
+									</li>
+				<li class="rightside"><a href="./memberlist.php?mode=leaders">The team</a> &bull; All times are UTC </li>
+			</ul>
+			<span class="corners-bottom"><span></span></span></div>
+		</div>
+				<div id="advert-leaderboard">
+				<a href="https://web.archive.org/web/20070607051102/http://www.phpbb.com/ads/adclick.php?bannerid=85&amp;zoneid=11&amp;source=&amp;dest=http%3A%2F%2Fwww.phpbb.com%2Fabout%2Fadvertise%2F" onclick="javascript:this.target=&quot;_blank&quot;;" rel="external"><img src="https://web.archive.org/web/20070607051102im_/http://www.phpbb.com/ads/adimage.php?filename=leaderboard-phpbb3_2.gif&amp;contenttype=gif" width="728" height="90" alt="" title=""/></a><div id="beacon_85" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="https://web.archive.org/web/20070607051102im_/http://www.phpbb.com/ads/adlog.php?bannerid=85&amp;clientid=115&amp;zoneid=11&amp;source=&amp;block=0&amp;capping=0&amp;cb=1c5110b13a2d868ee847c6c1fa5f03aa" width="0" height="0" alt="" style="width: 0px; height: 0px;"/></div>				</div>
+		<p>
+			<a href="https://web.archive.org/web/20070607051102/http://www.softplatz.com/">Free Software Downloads</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.onlinecasinobluebook.com/">Online Casino</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.saatchi-gallery.co.uk/">The Saatchi Gallery</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.accuwebhosting.com/">Web Hosting</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.webhosting.uk.com/">Web Hosting UK</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.gelbex.de/">German Yellow Pages</a> &bull;
+			<a href="https://web.archive.org/web/20070607051102/http://www.gulex.dk/">Danish Yellow Pages</a>
+
+
+		</p>
+		<p id="sf-tracker">
+			<a href="https://web.archive.org/web/20070607051102/http://sourceforge.net/"><img src="https://web.archive.org/web/20070607051102im_/http://sflogo.sourceforge.net/sflogo.php?group_id=7885&amp;type=5" alt="SourceForge Logo"/></a>
+		</p>
+		<script src="https://web.archive.org/web/20070607051102js_/http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		// <![CDATA[
+		_uacct = "UA-93879-2";
+		urchinTracker();
+		// ]]>
+		</script>
+		<span class="fcorners-bottom"><span></span></span>
+	</div>
+</div>
+<div id="copyright">
+	&copy; 2000, 2002, 2003, 2007 <a href="/web/20070607051102/http://www.phpbb.com/about/">phpBB Group</a>
+	&bull; Designed by <a href="/web/20070607051102/http://www.phpbb.com/">phpBB</a> &amp; <a href="https://web.archive.org/web/20070607051102/http://www.subblue.com/">subBlue</a>
+	&bull; Header illustrations by <a href="https://web.archive.org/web/20070607051102/http://www.vladstudio.com/">Vlad Gerasimov</a>	&bull; Hosting donated by <a href="https://web.archive.org/web/20070607051102/http://www.osuosl.org/">OSUOSL</a>
+	<br/>Time : 0.090s | 13 Queries | GZIP : Off | Valid <a href="https://web.archive.org/web/20070607051102/http://validator.w3.org/check/referer"><abbr title="eXtensible HyperText Markup Language">XHTML</abbr> 1.0 <strong>Strict</strong></a></div>
+</body>
+</html><!--
+     FILE ARCHIVED ON 05:11:02 Jun 07, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:42 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.603
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.007
+  esindex: 0.01
+  cdx.remote: 89.175
+  LoadShardBlock: 90.79 (3)
+  PetaboxLoader3.datanode: 100.371 (4)
+  load_resource: 171.525
+  PetaboxLoader3.resolve: 81.751
+-->

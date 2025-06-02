@@ -1,0 +1,4 @@
+baseURL = 'https://astrobattle.com/'
+languageCode = 'en-us'
+title = 'Astro Battle'
+theme = 'astrobattle'

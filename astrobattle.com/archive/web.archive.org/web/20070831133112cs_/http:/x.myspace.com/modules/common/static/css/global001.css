@@ -1,0 +1,42 @@
+/*	Global.css
+*	This file only contain CSS rules that apply to controls 
+*	that are shared across multiple verticals.
+*	-William Kapke 7-16-2007
+*/
+
+/*VERY GENERIC RULES- NO PAGE SPECIFIC RULES*/
+.hide{display:none}
+
+/*Overlay*/
+#window_overlay{background-color:#333}
+
+/*Popup*/
+.popup_wrapper{position:absolute;top:30%;}
+body > div.popup_wrapper {position:fixed}
+.popup_box{background:#EFF5FF url(/web/20070831140419im_/http://x.myspace.com/modules/common/static/img/popup_bg.gif) repeat-x top;width:300px;margin-left:auto;margin-right:auto;padding:4px;border:solid 1px #B9D1F0;}
+.popup_content{min-height:8em;border:solid 1px #B9D1F0;background-color:#fff;padding:4px;margin:4px;}
+* html .popup_content{height:100px}
+.popup_buttons{margin-top:10px;text-align:center;}
+.popup_buttons button{padding:0px 10px 0px 10px}
+.popup_title{background:url(/web/20070831140419im_/http://x.myspace.com/modules/common/static/img/attention.gif) no-repeat left top;padding: 2px 2px 2px 32px;height:26px;text-align:left;font-size:22px;color:#3333CC;line-height:20px;}
+
+/*
+     FILE ARCHIVED ON 14:04:19 Aug 31, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:36:04 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 5.377
+  exclusion.robots: 0.031
+  exclusion.robots.policy: 0.013
+  esindex: 0.013
+  cdx.remote: 163.669
+  LoadShardBlock: 2822.962 (3)
+  PetaboxLoader3.datanode: 2809.781 (4)
+  PetaboxLoader3.resolve: 153.272 (2)
+  load_resource: 192.575
+*/

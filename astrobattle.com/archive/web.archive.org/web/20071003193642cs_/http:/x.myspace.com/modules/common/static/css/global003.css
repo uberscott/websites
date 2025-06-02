@@ -1,0 +1,54 @@
+/*	Global.css
+*	This file only contain CSS rules that apply to controls 
+*	that are shared across multiple verticals.
+*/
+
+/*Very generic rules*/
+.hide{display:none;}
+
+/*Overlay*/
+#window_overlay{background-color:#333;}
+
+/*Popup*/
+.popup_wrapper{position:absolute;top:30%;}
+body > div.popup_wrapper {position:fixed;}
+.popup_box{
+	background:#EFF5FF url(/web/20071003193526im_/http://x.myspace.com/modules/common/static/img/popup_bg.gif) repeat-x scroll center top;
+	width:300px;margin-left:auto;margin-right:auto;padding:4px;border:solid 1px #B9D1F0;position:relative;
+}
+a.popup_x{
+	background: url(/web/20071003193526im_/http://x.myspace.com/modules/common/static/img/red-x.png) 0px 0px no-repeat;
+	position:absolute;right:10px;top:10px;width:14px;height:14px;display:block;cursor:pointer;}
+a.popup_x:hover{background-position:0px -14px}
+.popup_content{min-height:8em;border:solid 1px #B9D1F0;background-color:#fff;padding:4px;margin:4px;text-align:left;}
+* html .popup_content {height:100px;}
+.popup_buttons{margin-top: 10px;text-align:center;}
+.popup_buttons button{padding:0px 10px 0px 10px;}
+.popup_title{background:url(/web/20071003193526im_/http://x.myspace.com/modules/common/static/img/msbluemen_26x26.png) no-repeat scroll left top;padding: 2px 2px 2px 32px;
+	height:24px;text-align:left;font-size: 22px;color: #3333CC;line-height: 20px;
+}
+
+/* Header */
+#languageLinks a{cursor:pointer;}
+
+
+/*
+     FILE ARCHIVED ON 19:35:26 Oct 03, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:47:58 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.518
+  exclusion.robots: 0.02
+  exclusion.robots.policy: 0.01
+  esindex: 0.012
+  cdx.remote: 36.72
+  LoadShardBlock: 140.146 (3)
+  PetaboxLoader3.datanode: 264.176 (4)
+  load_resource: 244.748
+  PetaboxLoader3.resolve: 91.774
+*/

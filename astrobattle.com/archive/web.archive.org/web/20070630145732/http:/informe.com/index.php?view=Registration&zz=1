@@ -1,0 +1,414 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.informe.com:80/GetFreeForum.html","20070629034026","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1183088426");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<title>INFORME.COM&nbsp;-&nbsp;Free Forum Installation</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="We offer free phpbb forum hosting with the latest phpbb software, instant activation, ads free, and unlimited posts and bandwidth"><meta name="keywords" content="free forum, free phpbb, foro gratis, freies foro, free forum hosting, free forum without ads, free phpbb forum, forum hosting, hosting forum, phpbb, free, forum free, free forum, phppbbfree"><link rel="stylesheet" href="https://web.archive.org/web/20070629034026cs_/http://www.informe.com/css/style.css" type="text/css"></head><body><div id="container"><div id="header"><div id="logoArea"></div></div><div id="tabs"><table class="tabs" cellpadding="0" cellspacing="0"><tr><td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="23"></td><td class="menu"><div class="locator"><div class="tab-row"><ul><li><a href="https://web.archive.org/web/20070629034026/http://www.informe.com/index.html"><span>Home</span></a></li><li><a href="https://web.archive.org/web/20070629034026/http://www.informe.com/AboutUs.html"><span>About Us</span></a></li><li><a href="https://web.archive.org/web/20070629034026/http://www.informe.com/ContactUs.html"><span>Contact Us</span></a></li><li class="selected"><a href="https://web.archive.org/web/20070629034026/http://www.informe.com/GetFreeForum.html"><span>Get Free Portal</span></a></li><li><a href="/web/20070629034026/http://www.informe.com/tag"><span>Tags</span></a></li><li><a href="https://web.archive.org/web/20070629034026/http://www.informe.com/Directory.html"><span>Directory</span></a></li><li><a href="https://web.archive.org/web/20070629034026/http://support.informe.com/" target="_blank"><span>Support Forum</span></a></li></ul></div></div></td><td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="23"></td></tr></table></div><div id="main"><div id="content"><div id="form-container">
+    <div class="form-header">Community portal Installation - get your free Forum+Wiki+Blog+Pligg</div>
+    <div class="form-sub-header">Thank you for choosing informe.com.</div>
+    <div class="form-sub-desc">In order to complete this installation please fill out the details requested below.</div>
+        <form action="process.php" method="post" id="registrationForm" enctype="multipart/form-data">
+        <input type="hidden" name="action" value="Registration">
+        <table class="form-title" cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+        <td class="content">
+            <div>Basic Configuration</div>
+        </td>
+        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+    </tr>
+</table>        <table class="inp">
+            <tr>
+                <td class="field-name" valign="top">
+                    <span class="rq">*</span>Subdomain:
+                    <br/><span class="field-comment">Please enter an subdomain name<br/>(3-15 symbols).</span>
+                </td>
+                <td class="field-value" valign="top">
+                    <input class="input" type="text" name="subdomain" value="">&nbsp;<strong>.informe.com</strong>
+                    <br><span class="field-comment">The subdomain name must contain only letters and digits. No spaces, dashes, underscores, or special characters.</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name" valign="top">
+                    Second level domain:
+                    <br/><span class="field-comment">This is an optional field. You may not fill it.</span>
+                </td>
+                <td class="field-value" valign="top">
+                    <input class="input" type="text" name="seclvldomain" value="">&nbsp;
+                    <br><span class="field-comment">The second level domain name may only letters and digits and only one dot-symobol. For example: <strong>example.com</strong></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Community portal Title:<br/>
+                    <span class="field-comment">This is the title of your community portal</span>
+                </td>
+                <td class="field-value">
+                    <input class="input" type="text" name="title" value="">
+                    <br/><span class="field-comment">&nbsp;</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Site role:<br>
+                </td>
+                <td class="field-value">
+                    <select name="mainComponent">
+<option label="Wiki" value="MediaWiki">Wiki</option>
+<option label="Wordpress blog" value="Wordpress">Wordpress blog</option>
+<option label="Pligg" value="Pligg">Pligg</option>
+<option label="phpBB Forum" value="Forum" selected="selected">phpBB Forum</option>
+<option label="Portal" value="Portal">Portal</option>
+<option label="Blogging site" value="UserBlogs">Blogging site</option>
+</select>
+
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Community portal Theme:<br>
+                </td>
+                <td class="field-value">
+                    <select name="themeId" id="themeSelector" onchange="setSrc();" onkeyup="setSrc();">
+<option label="Acid" value="10">Acid</option>
+<option label="Artemis Lite" value="2">Artemis Lite</option>
+<option label="Artemis Lite (Blue)" value="3">Artemis Lite (Blue)</option>
+<option label="Artemis Lite (Green)" value="4">Artemis Lite (Green)</option>
+<option label="BBTech" value="21">BBTech</option>
+<option label="Blob" value="24">Blob</option>
+<option label="Classic" value="29">Classic</option>
+<option label="DAJ_Glass" value="23">DAJ_Glass</option>
+<option label="Diddle" value="11">Diddle</option>
+<option label="Getaway" value="17">Getaway</option>
+<option label="GetawayPurple" value="28">GetawayPurple</option>
+<option label="GorbGreenII" value="9">GorbGreenII</option>
+<option label="GreenTech" value="8">GreenTech</option>
+<option label="INFORME Style" value="33" selected="selected">INFORME Style</option>
+<option label="Jet" value="30">Jet</option>
+<option label="Minimalistic" value="25">Minimalistic</option>
+<option label="Neon" value="13">Neon</option>
+<option label="PurplePearl_C" value="18">PurplePearl_C</option>
+<option label="RedSilver" value="26">RedSilver</option>
+<option label="Saphic" value="22">Saphic</option>
+<option label="abandon" value="6">abandon</option>
+<option label="aluminoid" value="14">aluminoid</option>
+<option label="chairs" value="27">chairs</option>
+<option label="jasidogdotcom" value="31">jasidogdotcom</option>
+<option label="kdm2" value="15">kdm2</option>
+<option label="lunazstyle" value="19">lunazstyle</option>
+<option label="mediocre" value="7">mediocre</option>
+<option label="metalBB" value="5">metalBB</option>
+<option label="purplePulseV2" value="20">purplePulseV2</option>
+<option label="subGreen" value="16">subGreen</option>
+<option label="subLite" value="12">subLite</option>
+<option label="subSilver" value="1">subSilver</option>
+<option label="xand" value="32">xand</option>
+</select>
+
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">Theme Preview:</td>
+                <td class="field-value">
+                    <img id="previewImage" src="/web/20070629034026im_/http://www.informe.com/GetFreeForum.html" align="left" width="299" height="195" alt="Theme Preview Image">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Community portal Category:<br>
+                    <span class="field-comment">Select a category for your community portal</span>
+                </td>
+                <td class="field-value">
+                    <select name="forumCategoryId">
+<option label="Animine" value="1">Animine</option>
+<option label="Art &amp; Literature" value="2">Art &amp; Literature</option>
+<option label="Automobiles" value="3">Automobiles</option>
+<option label="Computers &amp; Internet" value="4">Computers &amp; Internet</option>
+<option label="Education" value="5">Education</option>
+<option label="Family &amp; Parents" value="6">Family &amp; Parents</option>
+<option label="Food" value="7">Food</option>
+<option label="Forum Services" value="8">Forum Services</option>
+<option label="Gambling" value="9">Gambling</option>
+<option label="Gaming: Clans" value="10">Gaming: Clans</option>
+<option label="Gaming: Console" value="11">Gaming: Console</option>
+<option label="Gaming: General" value="12">Gaming: General</option>
+<option label="Gaming: RPG" value="13">Gaming: RPG</option>
+<option label="Gaming: Specific Game" value="14">Gaming: Specific Game</option>
+<option label="Graphics &amp; Design" value="15">Graphics &amp; Design</option>
+<option label="Health &amp; Medical" value="16">Health &amp; Medical</option>
+<option label="Hobbies" value="17">Hobbies</option>
+<option label="Macintosh" value="18">Macintosh</option>
+<option label="Music" value="19">Music</option>
+<option label="News &amp; Politics" value="20">News &amp; Politics</option>
+<option label="Online Communities" value="21">Online Communities</option>
+<option label="Outdoors &amp; Nature" value="22">Outdoors &amp; Nature</option>
+<option label="Pets" value="23">Pets</option>
+<option label="Programming" value="24">Programming</option>
+<option label="Religious" value="25">Religious</option>
+<option label="Sports" value="26">Sports</option>
+<option label="Teens" value="27">Teens</option>
+<option label="TV &amp; Movies" value="28">TV &amp; Movies</option>
+<option label="Windows" value="29">Windows</option>
+</select>
+
+                    <br/><span class="field-comment">&nbsp;</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Community portal Default Language:<br>
+                    <span class="field-comment">Select a language for your community portal</span>
+                </td>
+                <td class="field-value">
+                    <select name="forumLanguageId">
+<option label="Chinese" value="8">Chinese</option>
+<option label="English" value="1" selected="selected">English</option>
+<option label="French" value="2">French</option>
+<option label="German" value="4">German</option>
+<option label="Italian" value="9">Italian</option>
+<option label="Japaneze" value="7">Japaneze</option>
+<option label="Portuguesse" value="6">Portuguesse</option>
+<option label="Russian" value="3">Russian</option>
+<option label="Spanish" value="5">Spanish</option>
+</select>
+
+                    <br/><span class="field-comment">&nbsp;</span>
+                </td>
+            </tr>
+        </table>
+        <table class="form-title" cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+        <td class="content">
+            <div>Admin Configuration</div>
+        </td>
+        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+    </tr>
+</table>        <table class="inp">
+            <tr>
+                <td class="field-name" width="35%"><span class="rq">*</span>Username:</td>
+                <td class="field-value"><input class="input" type="text" name="adminUsername" value=""></td>
+            </tr>
+            <tr>
+                <td class="field-name"><span class="rq">*</span>Email:</td>
+                <td class="field-value">
+                    <input class="input" type="text" name="adminEmail" value="">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name"><span class="rq">*</span>Password:</td>
+                <td class="field-value">
+                    <input class="input" type="password" name="adminPassword">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name"><span class="rq">*</span>Confirm Password:</td>
+                <td class="field-value">
+                    <input class="input" type="password" name="adminPassword_confirm">
+                </td>
+            </tr>
+        </table>
+        <table class="form-title" cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+        <td class="content">
+            <div>Community portal Details</div>
+        </td>
+        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+    </tr>
+</table>        <table class="inp">
+            <tr>
+                <td class="field-name">
+                    <span class="rq">*</span>Community portal Keywords:<br>
+                    <span class="field-comment">Insert comma between keywords</span>
+                </td>
+                <td class="field-value">
+                    <input class="input" type="text" name="keywords" value=""><br/><span class="field-comment">&nbsp;</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name"><span class="rq">*</span>Community portal Description:</td>
+                <td class="field-value">
+                    <input class="input" type="text" name="description" value="">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">Community portal Abstract:</td>
+                <td class="field-value">
+                    <input class="input" type="text" name="abstract" value="">
+                </td>
+            </tr>
+        </table>
+        <table class="form-title" cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+        <td class="content">
+            <div>Community portal Personalisation</div>
+        </td>
+        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+    </tr>
+</table>        <table class="inp">
+            <tr>
+                <td style="text-align:center;" colspan="2">
+                    You can upload/modify logo later from your admin panel
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">Your Site Name:</td>
+                <td class="field-value">
+                    <input class="input" type="text" name="logoTitle" value="">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    Your Site URL:<br>
+                    <span class="field-comment">example: http://informe.com</span>
+                </td>
+                <td class="field-value">
+                    <input class="input" type="text" name="logoUrl" value=""><br/><span class="field-comment">by default it will be link to your community portal</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">
+                    Your Site Logo Image:<br>
+                    <span class="field-comment">JPEG or GIF only</span>
+                </td>
+                <td class="field-value">
+                    <input class="input" type="file" name="logo" value="">
+                </td>
+            </tr>
+        </table>
+        <table class="form-title" cellpadding="0" cellspacing="0">
+    <tr>
+        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+        <td class="content">
+            <div>Bot's Protection</div>
+        </td>
+        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="21"></td>
+    </tr>
+</table>        <table class="inp">
+            <tr>
+                <td class="field-name">Verification Image:</td>
+                <td class="field-value">
+                    <img class="captcha" src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/captcha.php?1183088032" border="0">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name"><span class="rq">*</span>Verification Code:</td>
+                <td class="field-value">
+                    <input class="input" type="text" name="verificationCode" value="">
+                </td>
+            </tr>
+            <tr>
+                <td class="field-name">&nbsp;</td>
+                <td class="field-value">
+                                            <input type="checkbox" class="check" name="tosStatus" value="1">
+                                        &nbsp;I understand and agree with your <a href="https://web.archive.org/web/20070629034026/http://www.informe.com/TermsOfService.html" target="_blank">Terms Of Service</a>.
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td class="field-value">
+                   <input type="image" src="https://web.archive.org/web/20070629034026im_/http://www.informe.com//pix/but-make-portal.jpg">
+                   <p><span class="rq">*</span><span class="rq-text">required fields</span></p>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script type="text/javascript">
+        function clearIt() { document.getElementById('registrationForm').reset(); }
+    </script>
+    <script type="text/javascript">
+    function getPaths()
+    {
+        var images = new Array(32);
+                    images['subSilver'] = 'subSilver';
+                    images['Artemis Lite'] = 'ArtemisLite';
+                    images['Artemis Lite (Blue)'] = 'ArtemisLiteBlue';
+                    images['Artemis Lite (Green)'] = 'ArtemisLiteGreen';
+                    images['metalBB'] = 'metalBB';
+                    images['abandon'] = 'abandon';
+                    images['mediocre'] = 'mediocre';
+                    images['GreenTech'] = 'GreenTech';
+                    images['GorbGreenII'] = 'GorbGreenII';
+                    images['Acid'] = 'Acid';
+                    images['Diddle'] = 'Diddle';
+                    images['subLite'] = 'subLite';
+                    images['Neon'] = 'Neon';
+                    images['aluminoid'] = 'aluminoid';
+                    images['kdm2'] = 'kdm2';
+                    images['subGreen'] = 'subGreen';
+                    images['Getaway'] = 'Getaway';
+                    images['PurplePearl_C'] = 'PurplePearl_C';
+                    images['lunazstyle'] = 'lunazstyle';
+                    images['purplePulseV2'] = 'purplePulseV2';
+                    images['BBTech'] = 'BBTech';
+                    images['Saphic'] = 'Saphic';
+                    images['DAJ_Glass'] = 'DAJ_Glass';
+                    images['Blob'] = 'Blob';
+                    images['Minimalistic'] = 'Minimalistic';
+                    images['RedSilver'] = 'RedSilver';
+                    images['chairs'] = 'chairs';
+                    images['GetawayPurple'] = 'GetawayPurple';
+                    images['Classic'] = 'Classic';
+                    images['Jet'] = 'Jet';
+                    images['jasidogdotcom'] = 'jasidogdotcom';
+                    images['xand'] = 'xand';
+                    images['INFORME Style'] = 'informe_com';
+                return images;
+    }
+    function setSrc()
+    {
+        var images       = getPaths();
+        var objectSelect = document.getElementById('themeSelector');
+        var objectImage  = document.getElementById('previewImage');
+        var previewPath  = 'https://web.archive.org/web/20070629034026/http://www.informe.com/pix/thumbs/' + images[objectSelect.options[objectSelect.selectedIndex].label] + '.jpg';
+        objectImage.src = previewPath;
+    }
+    window.onload = setSrc;
+</script></div>
+            	</div>
+            </div>
+            <div id="footer">
+                <table class="footer" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="left"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="23"></td>
+                        <td class="menu">
+                            <div>2006&nbsp;&copy;&nbsp;INFORME.COM</div>
+                        </td>
+                        <td class="right"><img src="https://web.archive.org/web/20070629034026im_/http://www.informe.com/pix/spacer.gif" alt="." width="1" height="23"></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html><!--
+     FILE ARCHIVED ON 03:40:26 Jun 29, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:17:54 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.673
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.009
+  esindex: 0.018
+  cdx.remote: 21.196
+  LoadShardBlock: 700.913 (3)
+  PetaboxLoader3.datanode: 145.307 (4)
+  PetaboxLoader3.resolve: 1061.411 (2)
+  load_resource: 561.599
+-->

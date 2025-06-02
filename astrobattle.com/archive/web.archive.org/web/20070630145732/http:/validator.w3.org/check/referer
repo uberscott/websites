@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://validator.w3.org/check?uri=http%3A%2F%2Fwww.politische-bildung.de%2F","20070701123014","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1183293014");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+    <title>Result for http://www.politische-bildung.de/ - W3C Markup Validator</title>
+    <link rev="made" href="mailto:www-validator@w3.org"/>
+    <link rev="start" href="./" title="Home Page"/>
+    <style type="text/css" media="all">@import "/web/20070701123014cs_/http://validator.w3.org/base.css";</style>
+    <meta name="keywords" content="HTML, HyperText Markup Language, Validation,
+      W3C Markup Validation Service"/>
+
+    <meta name="description" content="W3C's easy-to-use
+      HTML validation service, based on an SGML parser."/>
+  </head>
+
+  <body>
+    <div id="banner">
+      <h1 id="title">
+	<a href="https://web.archive.org/web/20070701123014/http://www.w3.org/"><img height="48" alt="W3C" id="logo" src="https://web.archive.org/web/20070701123014im_/http://www.w3.org/Icons/WWW/w3c_home_nb"/></a>
+        <a href="https://web.archive.org/web/20070701123014/http://www.w3.org/QA/"><img src="https://web.archive.org/web/20070701123014im_/http://www.w3.org/QA/2002/12/qa-small.png" alt="QA"/></a>
+        Markup Validation Service</h1>
+	<span id="versioninfo"><abbr title="version">v</abbr>0.7.4</span>
+    </div>
+    <ul class="navbar" id="menu">
+        <li><span class="hideme"><a href="#skip" accesskey="2" title="Skip past navigation to main part of page">Skip Navigation</a> |</span>
+        <a href="./" accesskey="1" title="Go to the Home Page for The W3C Markup Validation Service"><strong>Home</strong></a></li>
+        <li><a href="./about.html" title="Information About this Service">About...</a></li>
+        <li><a href="./whatsnew.html" title="The changes made to this service recently">News</a></li>
+        <li><a href="./docs/" accesskey="3" title="Documentation for this Service">Docs</a></li>
+	<li><a href="./docs/help.html" title="Help and answers to frequently asked questions">Help&nbsp;&amp;&nbsp;<acronym title="Frequently Asked Questions">FAQ</acronym></a></li>
+        <li><a href="./feedback.html" accesskey="4" title="How to provide feedback on this service">Feedback</a></li>
+    </ul>
+
+
+
+    <div id="main">
+      <div id="head">
+              <div id="jumpbar">
+        Jump To:
+        <ul>
+          <li><a title="Result of Validation" href="#result">Results</a></li>
+  
+  
+  
+  
+  
+        </ul>
+      </div>
+
+        
+<form id="form" method="get" action="check">
+  <table class="header">
+    <tr>
+    <th>Result:</th>
+    
+    <td colspan="2" class="invalid">
+      Failed validation, 7 errors
+    
+    </td>
+    </tr>
+    <tr>
+
+      <th><label title="Address of Page to Validate" for="uri">Address</label>:</th>
+      <td colspan="2"><input type="text" id="uri" name="uri" value="http://www.politische-bildung.de/" size="50"/></td>
+
+    </tr>
+
+
+
+  
+    <tr>
+      <th><label title="Character Encoding" for="charset">Encoding</label>:</th>
+      <td>iso-8859-1</td><td><select name="charset" id="charset">
+  <option value="(detect automatically)">(detect automatically)</option>
+  <option value="utf-8">utf-8 (Unicode, worldwide)</option>
+  <option value="utf-16">utf-16 (Unicode, worldwide)</option>
+  <option value="iso-8859-1">iso-8859-1 (Western Europe)</option>
+  <option value="iso-8859-2">iso-8859-2 (Central Europe)</option>
+  <option value="iso-8859-3">iso-8859-3 (Southern Europe)</option>
+  <option value="iso-8859-4">iso-8859-4 (North European)</option>
+  <option value="iso-8859-5">iso-8859-5 (Cyrillic)</option>
+  <option value="iso-8859-6-i">iso-8859-6-i (Arabic)</option>
+  <option value="iso-8859-7">iso-8859-7 (Greek)</option>
+  <option value="iso-8859-8">iso-8859-8 (Hebrew, visual)</option>
+  <option value="iso-8859-8-i">iso-8859-8-i (Hebrew, logical)</option>
+  <option value="iso-8859-9">iso-8859-9 (Turkish)</option>
+  <option value="iso-8859-10">iso-8859-10 (Latin 6)</option>
+  <option value="iso-8859-11">iso-8859-11 (Latin/Thai)</option>
+  <option value="iso-8859-13">iso-8859-13 (Latin 7, Baltic Rim)</option>
+  <option value="iso-8859-14">iso-8859-14 (Latin 8, Celtic)</option>
+  <option value="iso-8859-15">iso-8859-15 (Latin 9)</option>
+  <option value="iso-8859-16">iso-8859-16 (Latin 10)</option>
+  <option value="us-ascii">us-ascii (basic English)</option>
+  <option value="euc-jp">euc-jp (Japanese, Unix)</option>
+  <option value="shift_jis">shift_jis (Japanese, Win/Mac)</option>
+  <option value="iso-2022-jp">iso-2022-jp (Japanese, email)</option>
+  <option value="euc-kr">euc-kr (Korean)</option>
+  <option value="gb2312">gb2312 (Chinese, simplified)</option>
+  <option value="gb18030">gb18030 (Chinese, simplified)</option>
+  <option value="big5">big5 (Chinese, traditional)</option>
+  <option value="tis-620">tis-620 (Thai)</option>
+  <option value="koi8-r">koi8-r (Russian)</option>
+  <option value="koi8-u">koi8-u (Ukrainian)</option>
+  <option value="iso-ir-111">iso-ir-111 (Cyrillic KOI-8)</option>  
+  <option value="macintosh">macintosh (MacRoman)</option>
+  <option value="windows-1250">windows-1250 (Central Europe)</option>
+  <option value="windows-1251">windows-1251 (Cyrillic)</option>
+  <option value="windows-1252">windows-1252 (Western Europe)</option>
+  <option value="windows-1253">windows-1253 (Greek)</option>
+  <option value="windows-1254">windows-1254 (Turkish)</option>
+  <option value="windows-1255">windows-1255 (Hebrew)</option>
+  <option value="windows-1256">windows-1256 (Arabic)</option>
+  <option value="windows-1257">windows-1257 (Baltic Rim)</option>
+</select>
+</td>
+    </tr>
+  
+  
+    <tr>
+      <th><label for="doctype" title="Document Type">Doctype</label>:</th>
+      <td>XHTML 1.0 Transitional</td><td><select id="doctype" name="doctype">
+  <option value="Inline">(detect automatically)</option>
+  <option value="XHTML 1.0 Strict">XHTML 1.0 Strict</option>
+  <option value="XHTML 1.0 Transitional">XHTML 1.0 Transitional</option>
+  <option value="XHTML 1.0 Frameset">XHTML 1.0 Frameset</option>
+  <option value="HTML 4.01 Strict">HTML 4.01 Strict</option>
+  <option value="HTML 4.01 Transitional">HTML 4.01 Transitional</option>
+  <option value="HTML 4.01 Frameset">HTML 4.01 Frameset</option>
+  <option value="HTML 3.2">HTML 3.2</option>
+  <option value="HTML 2.0">HTML 2.0</option>
+  <option value="ISO/IEC 15445:2000 (&quot;ISO HTML&quot;)">ISO/IEC 15445:2000 ("ISO HTML")</option>
+  <option value="XHTML 1.1">XHTML 1.1</option>
+  <option value="XHTML Basic 1.0">XHTML Basic 1.0</option>
+  <option value="XHTML-Print 1.0">XHTML-Print 1.0</option>
+  <option value="XHTML 1.1 plus MathML 2.0">XHTML 1.1 plus MathML 2.0</option> 
+  <option value="XHTML 1.1 plus MathML 2.0 plus SVG 1.1">XHTML 1.1 plus MathML 2.0 plus SVG 1.1</option> 
+  <option value="MathML 2.0">MathML 2.0</option>
+  <option value="SVG 1.0">SVG 1.0</option>
+  <option value="SVG 1.1">SVG 1.1</option>
+  <option value="SVG 1.1 Tiny">SVG 1.1 Tiny</option>
+  <option value="SVG 1.1 Basic">SVG 1.1 Basic</option>
+  <option value="SMIL 1.0">SMIL 1.0</option>
+  <option value="SMIL 2.0">SMIL 2.0</option>
+</select>
+</td>
+    </tr>
+  
+
+
+    <tr>
+      <th>Root Namespace:</th>
+      <td colspan="2"><a href="https://web.archive.org/web/20070701123014/http://www.w3.org/1999/xhtml">http://www.w3.org/1999/xhtml</a></td>
+    </tr>
+
+
+  </table>
+
+  <fieldset>
+    <legend>Revalidate With Options</legend>
+    <table class="header">
+      <tr>
+        <th rowspan="2"><input type="submit" value="Revalidate" title="Revalidate file"/>: </th>
+        <td><label title="Show Page Source" for="ss"><input type="checkbox" value="1" id="ss" name="ss"/>Show&nbsp;Source</label></td>
+              <td><label title="Show an Outline of the document" for="outline"><input type="checkbox" value="1" id="outline" name="outline"/>Show&nbsp;Outline</label></td>
+            </tr>
+            <tr>
+              <td><label title="Validate also pages for which the HTTP status code indicates an error" for="No200"><input type="checkbox" value="1" id="No200" name="No200"/>Validate&nbsp;error&nbsp;pages</label></td>
+              <td><label title="Show Verbose Output" for="verbose"><input type="checkbox" value="1" id="verbose" name="verbose"/>Verbose&nbsp;Output</label></td>
+            </tr>
+
+    </table>
+      <div class="moreinfo">
+        <p>
+          <a href="docs/users.html#Options">Help</a> on the options is available.
+        </p>
+      </div>
+      <div class="cheat"><!-- *sigh* --></div>
+  </fieldset>
+
+</form>
+
+
+      </div><!-- end of "head" -->
+      
+
+      
+        <p><strong>Note</strong>:
+        The Validator XML support has
+        <a href="https://web.archive.org/web/20070701123014/http://openjade.sourceforge.net/doc/xml.htm" title="Limitations in Validator XML support">some limitations</a>.
+        </p>
+      
+
+      <a id="skip" name="skip"></a>
+      
+          <div id="result">
+    <h2 id="results" class="invalid">This page is <strong>not</strong> Valid XHTML 1.0 Transitional!</h2>
+
+    <p>
+      Below are the results of checking this document for <a href="https://web.archive.org/web/20070701123014/http://www.w3.org/TR/REC-xml#sec-conformance">XML
+      well-formedness</a> and validity.
+    </p>
+
+
+<ol>
+
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 53 column 13</em>:
+        <span class="msg">ID &quot;menu&quot; already defined</span>.<pre><code class="input">    &#60;div id=&#34;<strong title="Position where error was detected.">m</strong>enu&#34;&#62; </code></pre>
+    <div class="ve mid-141">
+    <p>
+      An "id" is a unique identifier. Each time this attribute is used in a document
+      it must have a different value. If you are using this attribute as a hook for
+      style sheets it may be more appropriate to use classes (which group elements)
+      than id (which are used to identify exactly one element).
+    </p>
+  </div>
+    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=141#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_info">
+<span class="err_type">Info</span>
+        <em>Line 36 column 13</em>:
+        <span class="msg">ID &quot;menu&quot; first defined here</span>.<pre><code class="input">    &#60;div id=&#34;<strong title="Position where error was detected.">m</strong>enu&#34;&#62; </code></pre>      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 220 column 91</em>:
+        <span class="msg">end tag for &quot;p&quot; omitted, but OMITTAG NO was specified</span>.<pre><code class="input">...ildung zum Thema Rechtsextremismus&#60;/l<strong title="Position where error was detected.">i</strong>&#62;</code></pre>
+    <div class="ve mid-70">
+      <p>
+      You may have neglected to close an element, or perhaps you meant to 
+      "self-close" an element, that is, ending it with "/&gt;" instead of "&gt;".
+    </p>
+</div>
+    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=70#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_info">
+<span class="err_type">Info</span>
+        <em>Line 218 column 12</em>:
+        <span class="msg">start tag was here</span>.<pre><code class="input">            <strong title="Position where error was detected.">&#60;</strong>p&#62;&#60;a href=&#34;http://www.politische-bildung.de/links/spezial_rechtsext</code></pre>      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 296 column 701</em>:
+        <span class="msg">end tag for &quot;p&quot; omitted, but OMITTAG NO was specified</span>.<pre><code class="input">...put type=&#34;submit&#34; value=&#34;Abschicken&#34; <strong title="Position where error was detected.">/</strong>&#62;&#60;/form&#62;	</code></pre>    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=70#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_info">
+<span class="err_type">Info</span>
+        <em>Line 295 column 0</em>:
+        <span class="msg">start tag was here</span>.<pre><code class="input"><strong title="Position where error was detected.">&#60;</strong>p&#62;Die Charta der EU-Grundrechte</code></pre>      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 369 column 37</em>:
+        <span class="msg">NET-enabling start-tag not immediately followed by null end-tag</span>.<pre><code class="input">          Ohne Verfallsdatum!&#60;/a&#62;&#60;br/<strong title="Position where error was detected."> </strong>&#62;Der Gedenktage-Podcast</code></pre>
+    <div class="ve mid-407">
+    <p>
+      This error may occur when there is a mistake in how a self-closing tag is closed, e.g '.../ &gt;'.
+      The proper syntax is '... /&gt;' (note the position of the space).
+    </p>
+  </div>
+    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=407#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 369 column 37</em>:
+        <span class="msg">end tag for &quot;br&quot; omitted, but OMITTAG NO was specified</span>.<pre><code class="input">          Ohne Verfallsdatum!&#60;/a&#62;&#60;br/<strong title="Position where error was detected."> </strong>&#62;Der Gedenktage-Podcast</code></pre>    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=70#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_info">
+<span class="err_type">Info</span>
+        <em>Line 369 column 33</em>:
+        <span class="msg">start tag was here</span>.<pre><code class="input">          Ohne Verfallsdatum!&#60;/a&#62;<strong title="Position where error was detected.">&#60;</strong>br/ &#62;Der Gedenktage-Podcast</code></pre>      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 374 column 40</em>:
+        <span class="msg">NET-enabling start-tag not immediately followed by null end-tag</span>.<pre><code class="input">           Gender Mainstreaming &#60;/a&#62;&#60;br/<strong title="Position where error was detected."> </strong>&#62;E-Learning-Kurs der LpB Ba-Wü und Rhe</code></pre>    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=407#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_err">
+<span class="err_type">Error</span>
+        <em>Line 374 column 40</em>:
+        <span class="msg">end tag for &quot;br&quot; omitted, but OMITTAG NO was specified</span>.<pre><code class="input">           Gender Mainstreaming &#60;/a&#62;&#60;br/<strong title="Position where error was detected."> </strong>&#62;E-Learning-Kurs der LpB Ba-Wü und Rhe</code></pre>    <p class="helpwanted">
+      <a href="feedback.html?uri=http%3A%2F%2Fwww.politische-bildung.de%2F;errmsg_id=70#errormsg" title="Suggest improvements on this error message through our feedback channels">&#x2709;</a>
+    </p>
+      </li>
+  
+      <li class="msg_info">
+<span class="err_type">Info</span>
+        <em>Line 374 column 36</em>:
+        <span class="msg">start tag was here</span>.<pre><code class="input">           Gender Mainstreaming &#60;/a&#62;<strong title="Position where error was detected.">&#60;</strong>br/ &#62;E-Learning-Kurs der LpB Ba-Wü und Rhe</code></pre>      </li>
+  
+    
+</ol>
+
+
+
+
+  </div>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+    </div><!-- end of "main" -->
+
+    <address>
+      <a href="https://web.archive.org/web/20070701123014/http://validator.w3.org/check?uri=referer"><img src="https://web.archive.org/web/20070701123014im_/http://www.w3.org/Icons/valid-xhtml10" height="31" width="88" alt="Valid XHTML 1.0!"/></a>
+      <a title="Send Feedback for the W3C Markup Validation Service" href="./feedback.html">The W3C Validator Team</a><br/>
+    </address>
+  </body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 12:30:14 Jul 01, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:19:37 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.467
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.008
+  esindex: 0.008
+  cdx.remote: 388.487
+  LoadShardBlock: 159.153 (3)
+  PetaboxLoader3.datanode: 162.42 (4)
+  PetaboxLoader3.resolve: 172.951 (3)
+  load_resource: 198.355
+-->

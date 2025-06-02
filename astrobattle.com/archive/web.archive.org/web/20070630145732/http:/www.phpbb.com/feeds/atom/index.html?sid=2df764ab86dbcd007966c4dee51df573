@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<atom:feed xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:lang="en">
+<atom:link rel="self" type="application/atom+xml" href="http://www.phpbb.com/feeds/atom/" />
+		<atom:title>Latest phpBB.com announcments</atom:title>
+		<atom:subtitle>This feed displays the latest announcements at phpBB.com.</atom:subtitle>
+		<atom:link href="http://www.phpbb.com/community/viewforum.php?f=14" />
+		<atom:updated>2007-07-01T23:08:10+00:00</atom:updated>
+
+
+ <atom:author>
+   <atom:name>phpBB Group</atom:name>
+ </atom:author>
+ <atom:id>http://www.phpbb.com/feeds/atom/</atom:id>
+
+				<atom:entry>
+										<atom:author><atom:name>Acyd Burn</atom:name></atom:author>
+								
+						<atom:updated>2007-06-24T17:36:51+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=557849</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=557849"/>
+								
+						<atom:title>phpBB3 Release Candidate 2 (RC2) released</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=557849">
+							<xhtml:div>
+								Hello,<br /><br />We are very pleased to announce the availability of the phpBB3 RC2 package. This is the second release candidate which is meant to become the Gold release if no more bugs or problems arise. Of course there may be more release candidates.<br /><br />On release candidates full support is given, allowing language packs as well as modifications and styles. We only give support to those having a clean RC installation or updates from RC1, previous conversions or updates from betas <span style="font-weight: bold">will not be supported here</span>. We encourage only those running the release candidates wanting to test out the new version, it is still recommended to wait for the full release; after all this is a release <span style="font-weight: bold">candidate</span>.<br /><br />During the last weeks the convertor have seen a lot of bugfixes and updates, guaranteeing a much more stable conversion as well as numerous updates. Please refer to the complete changelog for a detailed list of fixes since RC-1:<br /><br /><!-- m --><a class="postlink" href="http://www.phpbb.com/support/documents.php?mode=changelog&amp;version=3">http://www.phpbb.com/support/documents. ... &amp;version=3</a><!-- m --><br /><br />To re-iterate the support guidelines, we won't support the following installation types:<br /><ul><li>Updates from phpBB3 Beta versions to phpBB3 RC1 and higher</li><li>Conversions from phpBB 2.0.x to phpBB3 Beta versions</li><li>phpBB3 Beta installations</li></ul><br />We give support for the following installation types:<br /><ul><li>Updates from phpBB3 RC1 to any higher version</li><li>Conversions from phpBB 2.0.x to phpBB3 RC1 and higher</li><li>New installations of phpBB3 RC1 and higher</li></ul><br />A short explanation of how to do a conversion is included within the provided INSTALL.html file, please be sure to read it. If you want to be on the safe side we suggest still waiting for later releases before you fully convert your 2.0.x installation.<br /><br />Regarding language packs you may have installed: Please be sure to update your language pack after updating or switch back to the english language pack. Else you may see php notices arising - please do not report any bugs regarding php notices within the posting screen if you have a language pack installed dating back to prior RC2 Release.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Minimum Requirements</span></span><br /><br />phpBB3 has a few requirements which must be met before you are able to install and use it.<br /><br /><ul><li>A webserver or web hosting account running on any major Operating System with support for PHP</li><li>A SQL database system, one of:<br /><ul><li>MySQL 3.23 or above (MySQLi supported)</li><li>PostgreSQL 7.3+</li><li>SQLite 2.8.2+</li><li>Firebird 2.0+</li><li>MS SQL Server 2000 or above (directly or via ODBC)</li><li>Oracle</li></ul></li><li><span style="font-weight: bold">PHP 4.3.3+ (&gt;=4.3.3, &gt;4.4.x, &gt;5.x.x, &gt;6.0-dev (compatible))</span> with support for the database you intend to use.</li><li>getimagesize() function need to be enabled</li><li>These optional presence of the following modules within PHP will provide access to additional features, but they are not required.<br /><ul><li>zlib Compression support</li><li>Remote FTP support</li><li>XML support</li><li>Imagemagick support</li><li>GD Support</li></ul></li></ul><br />The presence of each of these optional modules will be checked during the installation process.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Security</span></span><br /><br />Security issues found should be reported to our <a href="http&#58;//www&#46;phpbb&#46;com/bugs/security/" class="postlink">security tracker</a> in the usual way.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Available packages</span></span><br /><br />Since this is the first time our new automatic updater will be run on thousands of installations we recommend using the &quot;changed files only&quot; method for updating if you experience problems, especially if you modified your installation. Please report any bugs you notice within our bug tracker.<br /><br />With this release, there are four packages available.<br /><ul><li><span style="font-weight: bold">Full Package</span><br />Contains entire phpBB3 source and english language files.</li><li><span style="font-weight: bold">Changed Files Only</span><br />Contains only those files changed from previous versions of phpBB3. Please note this archive contains changed files for each previous release.</li><li><span style="font-weight: bold">Patch Files</span><br />Contains patch compatible patches from previous versions of phpBB3.</li><li><span style="font-weight: bold">Automatic Update Package</span><br />Update package for the automatic updater, containing the changes from the last release to this release.</li></ul>Select whichever package is most suitable for you.<br /><br /><span style="font-weight: bold"><span style="text-decoration: underline">Please ensure you read the INSTALL and README documents in docs/ before proceeding with installation, updates or conversions!</span></span>. <br /><br /><span style="font-weight: bold">The automatic update package does not include the file includes/utf/data/recode_cjk.php. If you use a SJIS encoding or a variant you should replace this file manually with the version included within the full package.</span><br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Download/Documentation</span></span><br /><br /><ul><li><a href="http&#58;//www&#46;phpbb&#46;com/downloads/" class="postlink">phpBB Downloads</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/development/" class="postlink">phpBB3 development section</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/support/documentation/3&#46;0/" class="postlink">phpBB3 Documentation</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/phpBB/viewforum&#46;php?f=46" class="postlink">phpBB3 support forum</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/bugs/phpbb3/" class="postlink">phpBB3 bug tracker</a></li><li><a href="http&#58;//area51&#46;phpbb&#46;com/docs/coding-guidelines&#46;html" class="postlink">phpBB3 Coding Guidelines</a></li><li><a href="http&#58;//area51&#46;phpbb&#46;com/docs/code/" class="postlink">phpBB3 Sourcecode Documentation</a></li></ul><br /><br />Have fun with the release,<br />the phpBB Teams.							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>wGEric</atom:name></atom:author>
+								
+						<atom:updated>2007-06-22T00:18:52+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=556899</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=556899"/>
+								
+						<atom:title>Unexpected downtime and errors on the site</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=556899">
+							<xhtml:div>
+								We had some unexpected downtime today from about 23:00 to 00:00. The website is currently running but there are still a few problems. We are working to get these problems resolved.<br /><br />If you find an error, please do not report it until we have finished restoring the website.							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>wGEric</atom:name></atom:author>
+								
+						<atom:updated>2007-06-19T16:20:26+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=555989</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=555989"/>
+								
+						<atom:title>MOD Authors Convention, 30 June 2007</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=555989">
+							<xhtml:div>
+								<span style="font-size: 175%; line-height: 116%;"><span style="color: indigo"><span style="font-weight: bold">MOD Authors Convention</span></span></span><br /><br />With the <a href="http&#58;//www&#46;phpbb&#46;com/community/viewtopic&#46;php?f=14&amp;t=543015" class="postlink">release of phpBB 3.0.0RC1</a> and subsequent <a href="http&#58;//www&#46;phpbb&#46;com/community/viewtopic&#46;php?f=70&amp;t=543793" class="postlink">opening of the phpBB3 MODs section</a>, the phpBB MOD team would like to invite MOD authors to the <span style="font-weight: bold">MOD Authors Convention</span>. The convention will be hosted in the #phpbb-mod IRC channel all day on June 30, 2007. The convention will go on all day. The topics of discussion will be anything MODding-related, specifically phpBB3-related MODding. Have you been meaning to start MODding? Do you have some questions about phpBB3 MODding that you would like cleared up? If so, now is the time to come and find out! Many members of the <a href="http&#58;//www&#46;phpbb&#46;com/community/memberlist&#46;php?mode=group&amp;g=7331" class="postlink">phpBB MOD Team</a> will show up. This is <span style="font-weight: bold">your</span> chance to speak up to ask your own questions, give us feedback, discuss your concerns, and talk about the future of MODding! Constructive criticism is welcome.<br /><br />In order to have structure during this convention, we will have specific slots during the day in which each topic will be discussed. It is not mandatory that you ask questions during the exact specified time slots, though it will help facilitate discussion. There are two 2-hour time slots for each topic, in order to accommodate participants in different timezones. You can use <a href="http&#58;//www&#46;timeanddate&#46;com" class="postlink">TimeAndDate.com</a> in order to calculate your local time from these given times. Here are the time slots.<br /><br /><span style="font-weight: bold"><span style="font-size: 150%; line-height: 116%;"><span style="color: #DD6900">Discussion Topics Time Slots</span></span></span><br /><span style="font-weight: bold">0:00 to 2:00 UTC, 6:00 to 8:00 UTC</span>: MODX<br /><span style="font-weight: bold">2:00 to 4:00 UTC, 12:00 to 14:00 UTC</span>: Writing MODs for phpBB3<br /><span style="font-weight: bold">4:00 to 6:00 UTC, 14:00 to 16:00 UTC</span>: Getting to know phpBB3's inner workings for MODding<br /><span style="font-weight: bold">8:00 to 10:00 UTC, 18:00 to 20:00 UTC</span> phpBB <a href="http&#58;//www&#46;phpbb&#46;com/mods/db/" class="postlink">MODs Database</a><br /><span style="font-weight: bold">10:00 to 12:00 UTC, 16:00 to 18:00 UTC</span>: <a href="http&#58;//www&#46;phpbb&#46;com/mods/documentation/" class="postlink">phpBB MODding Documentation</a><br /><span style="font-weight: bold">20:00 to 24:00 UTC</span>: Open MODding Discussion<br /><br /><span style="font-weight: bold"><span style="font-size: 150%; line-height: 116%;"><span style="color: #DD6900">Summary</span></span></span><br /><span style="font-weight: bold">What</span>: MOD Authors Convention<br /><span style="font-weight: bold">Who</span>: You! And the phpBB MOD Team.<br /><span style="font-weight: bold">When</span>: all day on June 30, 2007<br /><span style="font-weight: bold">Where</span>: phpBB MOD IRC channel (<a href="irc&#58;//chat&#46;freenode&#46;net/phpbb-mod" class="postlink">#phpbb-mod on chat.freenode.net</a>)<br /><span style="font-weight: bold">Topics</span>: phpBB3 code, phpBB3 MODding, MODX, new phpBB MODDB, MOD Documentation, etc.<br /><br />You may use <a href="http&#58;//java&#46;freenode&#46;net//index&#46;php?channel=phpbb-mod" class="postlink">this Java applet</a> provided by Freenode if you do not wish to install an IRC client. Go <a href="http&#58;//www&#46;wikipedia&#46;org/wiki/Internet_Relay_Chat" class="postlink">here</a> if you would like to learn more about IRC.<br /><br />We look forward to seeing you there! <img src="http://www.phpbb.com/community/images/smilies/icon_e_smile.gif" alt=":-)" title="Smile" /><br />The phpBB MOD Team							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>dhn</atom:name></atom:author>
+								
+						<atom:updated>2007-05-27T12:14:19+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=546797</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=546797"/>
+								
+						<atom:title>A parting</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=546797">
+							<xhtml:div>
+								After 5 years and 7 months Jonathan &quot;SHS`&quot; Roger Stanley is leaving the phpBB project and stepping down from his current Project Manager position, leaving me alone as the longest serving member on the team. After <a href="http&#58;//lambcutlet&#46;org/gallery/World_2005" class="postlink">traveling around the world in 2005</a> and dedicating full time to phpBB afterwards, he finally decided that it is time to take care for himself again and bid us farewell.<br /><br />He informed the team leaders 6 months ago of his intention to leave after RC1 was released and though we all tried to convince him to stay, we understand and respect his decision. We thank Jon for all the hard work he has done for the project. Without him we wouldn't be as far as we are today. <br /><br />Just to give some examples of his dedication: <br />During the 2 weeks we switched over to the new website he worked 14 hours / day, managing the server, converting database after database,to finally give the community phpbb.com back. But even during the calmer periods he spent up to 50 hours / week on the project managing advertisements, server maintenance, helped the developers and translators on the language files, and set up some plans that you will learn about soon. We don't even need to mention his many years as Moderator and Team Leader.<br /><br />We wish Jon all the best and hope he finds his way back to phpBB at some time in the future! Make sure to visit his <a href="http&#58;//lambcutlet&#46;org/" class="postlink">personal website</a> (lambcutlet.org) every now and then.<br /><br /><br />PS: Look out for an announcement with the title &quot;A return&quot; during the next few days <img src="http://www.phpbb.com/community/images/smilies/icon_e_wink.gif" alt=";)" title="Wink" />							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>SHS`</atom:name></atom:author>
+								
+						<atom:updated>2007-05-24T02:00:28+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=545201</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=545201"/>
+								
+						<atom:title>phpBB.com bringing hot web development jobs via JobCoin!</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=545201">
+							<xhtml:div>
+								Hello all<br /><br />With <a href="http&#58;//www&#46;phpbb&#46;com/" class="postlink">phpBB&#46;com</a>'s median demographic of Internet technology aware users in the age group of 18 to 40, we're pleased to announce the launch of the <a href="http&#58;//www&#46;jobcoin&#46;com/" class="postlink">JobCoin&#46;com</a> hosted <a href="http&#58;//phpbb&#46;jobcoin&#46;com/" class="postlink">phpBB&#46;com Jobs Board</a>, which will aggregate PHP, MySQL, XHTML+CSS and other related Technology jobs for <a href="http&#58;//www&#46;phpbb&#46;com/" class="postlink">phpBB&#46;com</a>'s passive job seekers.<br /><br />For prospective employers, posting to the JobCoin Network will help you reach the broadest possible set of potential candidates for your job as you'll be targeting them via sites they already visit, which as <a href="http&#58;//www&#46;phpbb&#46;com/" class="postlink">phpBB&#46;com</a>.<br /><br />Cheers! <img src="http://www.phpbb.com/community/images/smilies/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><br /><br />PS: Force refresh your browser to clear cached CSS.  <img src="http://www.phpbb.com/community/images/smilies/icon_e_ugeek.gif" alt=":ugeek:" title="Uber Geek" />							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>Acyd Burn</atom:name></atom:author>
+								
+						<atom:updated>2007-05-20T16:02:40+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=543015</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=543015"/>
+								
+						<atom:title>phpBB3 Release Candidate 1 (RC1) released</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=543015">
+							<xhtml:div>
+								Hello,<br /><br />We are very pleased to announce the availability of the phpBB3 RC1 package. This is the first release candidate which is meant to become the Gold release if no more bugs or problems arise. Of course there may be more than one release candidate.<br /><br />With this release we will give full support, allow uploading language packs as well as modifications and styles. Please note that during the first few weeks support questions may not be answered as fast as with the 2.0.x line. We also only give support to those having a clean RC1 installation, previous conversions or updates <span style="font-weight: bold">will not be supported</span>. We encourage only those running the release candidate wanting to test out the new version, it is still recommended to wait for the full release; after all this is a release <span style="font-weight: bold">candidate</span>.<br /><br />To re-iterate the support guidelines, we won't support the following installation types:<br /><ul><li>Updates from phpBB3 Beta versions to phpBB3 RC1 and higher</li><li>Conversions from phpBB 2.0.x to phpBB3 Beta versions</li><li>phpBB3 Beta installations</li></ul><br />We give support for the following installation types:<br /><ul><li>Updates from phpBB3 RC1 to any higher version (not relevant at the moment)</li><li>Conversions from phpBB 2.0.x to phpBB3 RC1 and higher</li><li>New installations of phpBB3 RC1 and higher</li></ul><br />For all those not needing support and want to take the risks... the database update file is present, though we were not able to provide a full update path due to the style and database changes. If you are running on mysql 4.0.3 or less you should completely re-install, because the complete schema changed for these versions.<br /><br />A short explanation of how to do a conversion is included within the provided INSTALL.html file, please be sure to read it.<br /><br />Conversions from 2.0.x to phpBB3 RC1 may be problematic, depending on your setup and the amount of MODs you installed. If you want to be on the safe side we suggest still waiting for later releases before you fully convert your 2.0.x installation.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Changes since Beta5</span></span><br /><br /><ul><li><a href="http&#58;//www&#46;phpbb&#46;com/bugs/phpbb3/statistics&#46;php?open_start=2007-01-28&amp;end=-1" class="postlink">Bug statistics for the timeframe between the Beta5 release and now</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/bugs/phpbb3/statistics&#46;php?version_id=25,26,27,28,29,30&amp;start=-1&amp;end=-1" class="postlink">Bug statistics for the beta releases up till now</a></li></ul><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Minimum Requirements</span></span><br /><br />phpBB3 has a few requirements which must be met before you are able to install and use it.<br /><br /><ul><li>A webserver or web hosting account running on any major Operating System with support for PHP</li><li>A SQL database system, one of:<br /><ul><li>MySQL 3.23 or above (MySQLi supported)</li><li>PostgreSQL 7.3+</li><li>SQLite 2.8.2+</li><li>Firebird 2.0+</li><li>MS SQL Server 2000 or above (directly or via ODBC)</li><li>Oracle</li></ul></li><li><span style="font-weight: bold">PHP 4.3.3+ (&gt;=4.3.3, &gt;4.4.x, &gt;5.x.x, &gt;6.0-dev (compatible))</span> with support for the database you intend to use.</li><li>getimagesize() function need to be enabled</li><li>These optional presence of the following modules within PHP will provide access to additional features, but they are not required.<br /><ul><li>zlib Compression support</li><li>Remote FTP support</li><li>XML support</li><li>Imagemagick support</li><li>GD Support</li></ul></li></ul><br />The presence of each of these optional modules will be checked during the installation process.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Security</span></span><br /><br />Security issues found should be reported to our <a href="http&#58;//www&#46;phpbb&#46;com/bugs/security/" class="postlink">security tracker</a> in the usual way.<br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Available packages</span></span><br /><br />With this release, there is one package available.<br /><ul><li><span style="font-weight: bold">Full Package</span><br />Contains entire phpBB3 source and english language files.</li></ul><br /><span style="font-weight: bold"><span style="text-decoration: underline">Please ensure you read the INSTALL and README documents in docs/ before proceeding with installation, updates or conversions!</span></span>. <br /><br /><span style="font-size: 117%; line-height: 116%;"><span style="font-weight: bold">Download/Documentation</span></span><br /><br /><ul><li><a href="http&#58;//www&#46;phpbb&#46;com/downloads/" class="postlink">phpBB Downloads</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/development/" class="postlink">phpBB3 development section</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/support/documentation/3&#46;0/" class="postlink">phpBB3 Documentation</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/phpBB/viewforum&#46;php?f=46" class="postlink">phpBB3 support forum</a></li><li><a href="http&#58;//www&#46;phpbb&#46;com/bugs/phpbb3/" class="postlink">phpBB3 bug tracker</a></li><li><a href="http&#58;//area51&#46;phpbb&#46;com/docs/coding-guidelines&#46;html" class="postlink">phpBB3 Coding Guidelines</a></li><li><a href="http&#58;//area51&#46;phpbb&#46;com/docs/code/" class="postlink">phpBB3 Sourcecode Documentation</a></li></ul><br /><br />Have fun with the release,<br />the phpBB Teams.							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>Acyd Burn</atom:name></atom:author>
+								
+						<atom:updated>2007-05-04T08:37:51+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538609</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538609"/>
+								
+						<atom:title>Small Status Update - phpBB3</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538609">
+							<xhtml:div>
+								Hello,<br /><br />i think it is time to give you a small heads up about the current status of phpBB3 (Olympus) now the Beta5 release was quite some time ago. :/<br /><br />The next intended release is indeed RC1. Those bugs currently tagged as &quot;review later&quot; within the bug tracker are those we will get to after RC1 is released - to us they are non-critical, minor bugs which can be handled with at a later stage. At the moment the code base is nearly RC1-ready, but there is still one component we want to finalize (apart from the remaining critical bugs) being the captcha which has shown to be not as effective as we thought (we used third party code and hoped it being more matured than ours). Once the remaining critical bugs are fixed and the captcha problem being resolved we will release the first release candidate.<br /><br />Please note, that with the first release candidate we won't provide a full update package for beta5 to RC1 - we were not able to due to the added files (changes within the installer) and the addition of prosilver as well as the renaming from subSilver to subsilver2. This only affects the files, which need to be updated by hand if you want to go through updating. Regarding the database update from Beta5 to RC1, those on MySQL &lt;= 4.0.3 would need to completely re-install, all others will be able to update their databases of course (the database update script will be provided).<br /><br />To re-iterate our support schema once RC1 is out:<br /><br />We <span style="font-weight: bold">won't support</span> the following installation types:<br /><ul><li>Updates from phpBB3 Beta versions to phpBB3 RC1 and higher</li><li>Conversions from phpBB 2.0.x to phpBB3 Beta versions</li><li>phpBB3 Beta installations</li></ul><br />We give support for the following installation types:<br /><ul><li>Updates from phpBB3 RC1 to any higher version (not relevant at the moment)</li><li>Conversions from phpBB 2.0.x to phpBB3 RC1 and higher</li><li>New installations of phpBB3 RC1 and higher</li></ul><br />So, what can <span style="font-weight: bold">you</span> do to speed up the process of releasing RC1?<br /><br />Beside bug reporting (and trying to provide solutions) - have a look at the <a href="http&#58;//www&#46;phpbb&#46;com/support/documentation/" class="postlink">documentation</a>. <img src="http://www.phpbb.com/community/images/smilies/icon_e_wink.gif" alt=";)" title="Wink" /> We still consider opening up the documentation for others to contribute, even if it may only be for adding comments. <img src="http://www.phpbb.com/community/images/smilies/icon_e_smile.gif" alt=":)" title="Smile" /> Our documentation team would be happy to receive feedback and maybe also partly written paragraphs? <img src="http://www.phpbb.com/community/images/smilies/icon_e_wink.gif" alt=";)" title="Wink" /><br /><br />The phpBB Team.							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>SHS`</atom:name></atom:author>
+								
+						<atom:updated>2007-05-03T03:39:30+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538301</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538301"/>
+								
+						<atom:title>phpBB is dead... long live phpBB!</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=538301">
+							<xhtml:div>
+								In an not entirely unexpected email to <a href="http&#58;//www&#46;phpbb&#46;com/about/team/" class="postlink">the team</a>, <a href="http&#58;//www&#46;phpbb&#46;com/community/memberlist&#46;php?mode=viewprofile&amp;u=3" class="postlink">James &quot;theFinn&quot; Atkinson</a> has, after a number of years inactivity even &quot;behind the scenes&quot; due to personal circumstance, has formally resigned as of the 30th of April, 2007.<br /><br />The now newly independent phpBB still has <a href="http&#58;//www&#46;phpbb&#46;com/about/team/" class="postlink">the same active contributors</a> and will continue to support the stable phpBB 2.0.x and develop the next-generation phpBB 3.0.x, with James having already allowed the transfer of the <a href="http&#58;//www&#46;phpbb&#46;com/" class="postlink">www.phpBB.com</a> domain for a majority share of the financial assets that have been generated by the project via advertising to date, so as to minimise disruption to phpBB's users.<br /><br />For advertisers, please note that the <span style="font-weight: bold">advertising <span style="font-style: italic">&lt;at&gt;</span> phpbb <span style="font-style: italic">&lt;dot&gt;</span> com</span> address <span style="font-weight: bold">is no longer used nor should payments be made to it</span> (via PayPal). Please update your address book to the new address of <span style="font-weight: bold">invoicing <span style="font-style: italic">&lt;at&gt;</span> phpbb <span style="font-style: italic">&lt;dot&gt;</span> com</span>.<br /><br />Furthermore, as all advertising campaigns prior the 1st of May, 2007 were contractually to <a href="http&#58;//www&#46;phpbb&#46;com/community/memberlist&#46;php?mode=viewprofile&amp;u=3" class="postlink">James &quot;theFinn&quot; Atkinson</a> as Sole Proprietor of phpBB; whilst the newly independent phpBB has no legal obligation to honour the contracts, we will allow already active campaigns to run their course so as to maintain relations.<br /><br />Thanks! <img src="http://www.phpbb.com/community/images/smilies/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" />							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>SHS`</atom:name></atom:author>
+								
+						<atom:updated>2007-04-30T00:39:03+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=537369</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=537369"/>
+								
+						<atom:title>MODs and Styles downloads are back!</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=537369">
+							<xhtml:div>
+								Hello all. Took a little longer than planned (the live DB is a bit slower as it's shared <img src="http://www.phpbb.com/community/images/smilies/icon_razz.gif" alt=":P" title="Razz" />) however approved MODs and Styles should be downloadable again without having to jump through hoops.<br /><br />Submitting new MODs and Styles, along with validation of submitted MODs and Styles are still work-in-progress and we hope to have them back in a week or so.<br /><br />Cheers! <img src="http://www.phpbb.com/community/images/smilies/icon_e_biggrin.gif" alt=":D" title="Very Happy" />							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+				<atom:entry>
+										<atom:author><atom:name>SHS`</atom:name></atom:author>
+								
+						<atom:updated>2007-04-29T00:24:31+00:00</atom:updated>
+								
+						<atom:id>http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=535105</atom:id>
+											<atom:link href="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=535105"/>
+								
+						<atom:title>[Downtime] phpBB3 updating... 22:00 UTC, 29th April 2007</atom:title>
+											<atom:content type="xhtml" xml:base="http://www.phpbb.com/community/viewtopic.php?f=14&amp;t=535105">
+							<xhtml:div>
+								The site will be down for around 2 to 3 hours so as to allow time for the posts table to be backed up and updated.<br /><br />It will be offline as of <a href="http&#58;//www&#46;timeanddate&#46;com/worldclock/fixedtime&#46;html?day=29&amp;month=04&amp;year=2007&amp;hour=22&amp;min=0&amp;sec=0&amp;p1=0" class="postlink">Sunday, 22:00 UTC, 29th April 2007</a> and be back up once the update is complete.<br /><br />In the meantime, support phpBB and other OSS projects hosted by OSUOSL by <a href="http&#58;//osuosl&#46;org/contribute/rackathon" class="postlink">participating in the 2006 Rackathon</a>! <img src="http://www.phpbb.com/community/images/smilies/icon_e_wink.gif" alt=";)" title="Wink" /> (yes it's still going!)<br /><br /><img src="http&#58;//www&#46;phpbb&#46;com/shop/images/dsc01787&#46;jpg" alt="Image" />							</xhtml:div>
+							
+						</atom:content>						
+								</atom:entry>
+	
+</atom:feed>

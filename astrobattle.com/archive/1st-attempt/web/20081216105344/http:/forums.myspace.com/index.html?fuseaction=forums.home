@@ -1,0 +1,1327 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--GLOBAL-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- ELS2MWEBNET1803 -->
+<!-- ForumsHome -->
+<head id="ctl00_ctl00_ctl00_Head1"><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://forums.myspace.com:80/?fuseaction=forums.home","20081216045651","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1229403411");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<script type="text/javascript">
+	
+var MySpace = {};
+var MySpaceRes = {};
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"ForumsHome"};
+
+	MySpace.StaticContentBase='https://web.archive.org/web/20081216045651/http://x.myspacecdn.com';
+	
+MySpace.ClientMaintenanceConfigs = {"asyncphotobrowsecaching":0,"msplinksconvertall":0,"photocommentsajax":0,"inf_ind_newvideocomment":0,"promptaftertagging":0,"enablevideocategorydropdown":0,"applications_userapppreferences":0,"applications_enablev2addapppopup":0,"inf_ind_unreadim":0,"webimtestclient":0,"applications_showafterloaduhp":0,"applications_showafterloadprofiles":0,"photoviewcountsui":0,"mailnavcounterclientsideupdates":0,"eventrounterfailover":0,"applications_enablev2settingspopup":0,"applications_enablev2requestpermissionpopup":0};
+MySpace.ClientIntMaintenanceConfigs = {};
+
+</script><title>
+	MySpace
+</title>
+	<!--MainXHTML-->
+	
+	<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"></meta>
+	<meta http-equiv="expires" content="0"/>
+	<meta http-equiv="Pragma" content="no-cache"/>	
+	
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="shortcut icon" type="image/ico" href="https://web.archive.org/web/20081216045651im_/http://forums.myspace.com/favicon.ico"/>
+    
+    
+    
+<script type="text/javascript" src="https://web.archive.org/web/20081216045651js_/http://x.myspacecdn.com/modules/forums/static/js/commonfunctions009.js"></script>
+    
+<script type="text/javascript" src="https://web.archive.org/web/20081216045651js_/http://x.myspacecdn.com/modules/forums/static/js/popup007.js"></script>
+    
+    
+
+
+<script type="text/javascript">
+MySpace.Ads = {};
+
+MySpace.Header = {}; MySpace.Header.IsTrueGlobalHeaderEnabled = false; MySpace.Header.Navigation = {};MySpace.Header.Navigation.OnAfterRender = function(){};
+var supressGeneralizeDomain=true;
+</script>
+
+<script type="text/javascript" src="https://web.archive.org/web/20081216045651js_/http://x.myspacecdn.com/modules/common/static/js/myspacejs068.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216045651cs_/http://x.myspacecdn.com/modules/forums/static/css/forum010.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216045651cs_/http://x.myspacecdn.com/modules/common/static/css/adprofileforum001.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216045651cs_/http://x.myspacecdn.com/modules/common/static/css/global028.css"/>
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20081216045651cs_/http://x.myspacecdn.com/modules/common/static/css/header/siteheader007.css"/>
+<script src="https://web.archive.org/web/20081216045651js_/http://cms.myspacecdn.com/cms/js/7d1331698b2044e98d8858bb096e2f270127.js" type="text/javascript"></script>
+</head>
+<body id="ctl00_ctl00_ctl00_body">
+
+	
+    <script type="text/javascript">randomseed = Date.parse(new Date());var ad_Topic_ID=0;</script>
+    <div id="wrap">
+		<!-- BOH Standard -->
+<!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript">var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false,"FunctionalContext":"ForumsHome"};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+msglobalnav.loadStrings({});
+</script><!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center"><div id="tkn_leaderboard"></div><script type="text/javascript">
+sdc_wrapper("tkn_leaderboard", "/MySpaceForum/ForumsHome,17000000", "Frame1");</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/" title="MySpace a place for friends" style="background-image:url(https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong>&nbsp;<em>a place for friends</em></a></h1></div>
+<span id="searchControlHeader"><!-- BOS -->
+<div id="searchContainer_Header" class="global"><form id="formSearch_Header" name="srch_Header" onsubmit="return (document.getElementById('search_q_Header').value.length > 0);" action="https://web.archive.org/web/20081216045651/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Header" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Header" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Header" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Header" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Header');" onmouseout="msglobalnav.hideSearchTypes('Header');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Header" onmouseover="msglobalnav.srchMenuList(true,'Header');" onmouseout="msglobalnav.srchMenuList(false,'Header');"><ul><li><a id="People_Header" href="javascript:msglobalnav.switchSearchTypeTo('People','Header')">People</a></li><li><a id="AllMySpace_Header" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Header')">MySpace</a></li><li><a id="Web_Header" href="javascript:msglobalnav.switchSearchTypeTo('Web','Header')">Web</a></li><li><a id="Music_Header" href="javascript:msglobalnav.switchSearchTypeTo('Music','Header')">Music</a></li><li><a id="MySpaceTV_Header" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Header')">Video</a></li><li><a id="Images_Header" href="javascript:msglobalnav.switchSearchTypeTo('Images','Header')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Header"/></div></div><div id="googleLogo_Header" style="background-image: url(https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><!-- Begin SetFocus on Header Search Box -->
+<script type="text/javascript">if (MySpace) if (!MySpace.Header) { MySpace.Header ={}; } MySpace.Header.SetFocus = "true";function setSearchBoxFocus(){if (MySpace && MySpace.Header && MySpace.ClientContext)if (MySpace.ClientContext.FunctionalContext != "Splash") if (MySpace.Header.SetFocus == "true") if (document.getElementById("search_q_Header")){document.getElementById("search_q_Header").focus();} } if(typeof(setSearchBoxFocus) != 'undefined'){setSearchBoxFocus();MySpace.Header.SetFocus="false";}</script><!-- End SetFocus on Header Search Box -->
+<!-- EOS -->
+</span></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.Writer = 'Global_StandardV2';
+//>]]>
+</script>
+<!-- _Nav: N:Global_StandardV2 V:All, Anonymous G:89321_20081210.1 F:null M:Standard-->
+
+<div id="topnav"><ul id="leftNav"><li><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/">Home</a></li><li><a href="https://web.archive.org/web/20081216045651/http://browseusers.myspace.com/Browse/Browse.aspx">Browse People</a></li><li><a href="https://web.archive.org/web/20081216045651/http://search.myspace.com/index.cfm?fuseaction=find">Find People</a></li><li><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20081216045651/http://music.myspace.com/">Music</a></li><li><a href="https://web.archive.org/web/20081216045651/http://vids.myspace.com/">Video</a></li><li><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav1999999" onmouseover="msglobalnav.toggle('1999999',true);" onmouseout="msglobalnav.toggle('1999999',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li id="nav4000055"><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=splash">Log In</a></li><li id="nav4000056"><a href="https://web.archive.org/web/20081216045651/http://signup.myspace.com/index.cfm?fuseaction=join">Sign Up</a></li></ul></div>
+<div id="subnav"><ul id="subNav1999999" onmouseover="msglobalnav.subToggle('1999999',true);" onmouseout="msglobalnav.subToggle('1999999',false);"><li class="divider"><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=splash.more">More on MySpace</a></li><li><a href="https://web.archive.org/web/20081216045651/http://apps.myspace.com/index.cfm?fuseaction=apps">Apps Gallery</a></li><li><a href="https://web.archive.org/web/20081216045651/http://classifieds.myspace.com/?cm_mmc_o=FYl5zgwCjCAlzCjCFzbEEzMCjCFzbEEzM">Classifieds</a></li><li><a href="https://web.archive.org/web/20081216045651/http://events.myspace.com/">Events</a></li><li><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="https://web.archive.org/web/20081216045651/http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="https://web.archive.org/web/20081216045651/http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="https://web.archive.org/web/20081216045651/http://blog.myspace.com/">Top Blogs</a></li><li><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/myspacemobile">Mobile</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://celebrity.myspace.com/index.cfm?fuseaction=celebrity">Celebrity</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://comedy.myspace.com/">Comedy</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://games.myspace.com/?refid=myspace2">Games</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=impact">IMPACT</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://ksolo.myspace.com/">Karaoke</a></li><li class="last"><a href="https://web.archive.org/web/20081216045651/http://movies.myspace.com/">Movies</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+<script type="text/javascript">//<![CDATA[
+MySpace.Header.Navigation.OnAfterRender();
+//>]]>
+</script></div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo_Header', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<noscript>
+<div style="TEXT-ALIGN: center">
+<div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; BACKGROUND: #ffcc99; PADDING-BOTTOM: 4px; MARGIN: 0px auto; WIDTH: 960px; COLOR: #d95801; PADDING-TOP: 4px; TEXT-ALIGN: center">Having trouble? You need to have <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/javascriptissues" target="_blank">JavaScript enabled</a>
+                    to use all of MySpace's features. <a style="FONT-WEIGHT: bold; COLOR: #036" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/javascriptissues" target="_blank">Click here</a>
+                    for help enabling it.</div></div></noscript><!-- EOH -->
+
+
+
+   <form name="aspnetForm" method="post" action="/web/20081216045651/http://forums.myspace.com/Default.aspx?fuseaction=forums.home" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA2NTg5NjE2OWRk"/>
+</div>
+
+<script language="javascript">function UseNoPicImage(img){img.src="https://web.archive.org/web/20081216045651/http://x.myspacecdn.com/modules/forums/static/img/no_pic.gif";}</script>
+	
+		<div class="ForumOuter">
+            
+	
+<script type="text/javascript">
+	
+		Sys.Application.add_load(CheckUserAvatarsForum);
+	
+</script>
+	
+	
+
+<div class="ForumTitlePadding">
+	<div class="ForumTitleArea">
+		<div><div><div class="tlTitle"><div class="trTitle">		
+		<div class="TitlePadding">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td>			
+			<span class="ForumTitle">MySpace&nbsp;<span class="ForumsText">FORUMS</span></span>			
+		</td>
+		<td align="right">					
+			<span></span>
+			<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/MyForums.aspx?fuseaction=forums.myforums&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14" class="btn"><div class="ForumImageTextButton ForumSavedTopicsButton">Saved Topics</div></a>
+			<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/MyTopics.aspx?fuseaction=forums.mytopics&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14" class="btn"><div class="ForumImageTextButton ForumMyTopicsButton">My Topics</div></a>
+			<a href="javascript:alert('You must be signed in to access settings.');" id="ctl00_ctl00_ctl00_cpMain_cpMain_CommonTop_RoundHeader_SettingsButton" class="btn"><div class="ForumImageTextButton ForumSettingsButton">Settings</div></a>
+		</td></tr>
+		</table>									
+		</div>
+		</div></div></div></div>
+	</div>	
+	<div class="ForumSubTitle">
+
+	<div class="subtitleTable">
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr><td>			
+			<span></span><select onchange="var link = 'https://web.archive.org/web/20081216045651/http://forums.myspace.com/{0}.aspx?fuseaction=forums.viewforum';location.href = link.replace('{0}',this.value);"><option selected="true">Choose MySpace Forum</option><optgroup label="Automotive"><option value="22">General</option><option value="23">Racing</option><option value="24">Imports</option><option value="95">Domestics</option><option value="96">European</option></optgroup><optgroup label="Business &amp; Entrepreneurs"><option value="25">General</option><option value="26">Business</option><option value="27">Money</option><option value="28">Stocks</option></optgroup><optgroup label="Campus Life"><option value="29">General</option></optgroup><optgroup label="Career Center"><option value="33">General</option></optgroup><optgroup label="Comedy"><option value="101">Comedian</option></optgroup><optgroup label="Computers &amp; Technology"><option value="34">General</option><option value="35">Computers</option><option value="36">Electronics</option><option value="37">Gadgets</option></optgroup><optgroup label="Culture, Arts &amp; Literature"><option value="38">General</option><option value="39">Arts</option><option value="40">Literature</option><option value="41">CulturalEvents</option></optgroup><optgroup label="Fashion"><option value="1919">General</option><option value="1957">Latest MySpace Fashion News</option></optgroup><optgroup label="Filmmakers"><option value="98">General</option></optgroup><optgroup label="Food &amp; Drink"><option value="42">General</option><option value="43">Recipes</option><option value="44">Restaurants</option></optgroup><optgroup label="Games"><option value="45">General</option><option value="46">BoardGames</option><option value="47">VideoGames</option><option value="48">RolePlayingGames</option><option value="49">EverythingElse</option></optgroup><option value="1">General Discussion</option><optgroup label="Health &amp; Fitness"><option value="50">General</option><option value="51">Exercise</option><option value="52">Nutrition</option></optgroup><optgroup label="Movies"><option value="57">General</option></optgroup><optgroup label="Music"><option value="58">General</option><option value="59">Punk</option><option value="60">Emo</option><option value="61">Rock</option><option value="62">Alternative</option><option value="63">Acoustic</option><option value="64">Hip-Hop</option><option value="65">Electronic/Dance</option><option value="66">Hardcore</option><option value="100">Metal</option></optgroup><optgroup label="MySpace"><option value="67">General</option><option value="68">Customizing</option><option value="103">Forums Feedback</option><option value="1816">MySpaceTV Feedback</option><option value="1958">App Feedback</option><option value="1959">Profile 2.0 Feedback</option><option value="10002">Search Feedback</option></optgroup><optgroup label="News &amp; Politics"><option value="69">General</option><option value="70">InternationalNews</option><option value="71">InternationalPolitics</option><option value="72">USNews</option><option value="73">USPolitics</option></optgroup><optgroup label="Religion &amp; Philosophy"><option value="74">General</option><option value="75">Philosophy</option><option value="76">Religion</option></optgroup><optgroup label="Science"><option value="77">General</option><option value="78">Biology</option><option value="79">Engineering</option><option value="80">Physics</option><option value="81">Space</option></optgroup><optgroup label="Sports"><option value="82">General</option><option value="83">TeamSports</option><option value="84">ExtremeSports</option><option value="85">ProfessionalSports</option><option value="99">College</option></optgroup><optgroup label="Television"><option value="86">General</option><option value="87">Anime</option><option value="88">Cable</option><option value="89">GameShows</option><option value="90">Primetime</option><option value="91">RealityShows</option></optgroup><optgroup label="Travel &amp; Vacations"><option value="92">General</option><option value="93">US</option><option value="94">International</option></optgroup></select>
+		</td>
+		<td align="right" class="ForumSearchCell">
+			<span><script type="text/javascript">var redirectUrl = "/Default.aspx?fuseaction=forums.home&filterlang=";function Changefilterlang(key){location.href = redirectUrl + key;}</script></span>Language:&nbsp;<select name="ctl00$ctl00$ctl00$cpMain$cpMain$CommonTop$RoundHeader$LanguageFilter$LanguageFilter" id="ctl00_ctl00_ctl00_cpMain_cpMain_CommonTop_RoundHeader_LanguageFilter_LanguageFilter" onchange="Changefilterlang(this.value);">
+	<option value="da-DK">Danish</option>
+	<option value="de-DE">German</option>
+	<option selected="selected" value="en-US">English</option>
+	<option value="es-ES">Spanish</option>
+	<option value="fi-FI">Finnish</option>
+	<option value="fr-FR">French</option>
+	<option value="it-IT">Italian</option>
+	<option value="ja-JP">Japanese</option>
+	<option value="nb-NO">Norwegian</option>
+	<option value="nl-NL">Dutch</option>
+	<option value="pl-PL">Polish</option>
+	<option value="pt-BR">Portuguese</option>
+	<option value="ru-RU">Russian</option>
+	<option value="sv-SE">Swedish</option>
+	<option value="tu-TR">Turkish</option>
+</select>&nbsp;
+			
+
+<script type="text/javascript">
+	var searchBaseUrl = "https://web.archive.org/web/20081216045651/http://forums.myspace.com/searchresults.aspx?fuseaction=forums.searchresults";
+	var searchFilterLang = "en-US";	
+	var searchErrorMsg = 'Please enter a valid search term. Thank you!';
+	var searchProgressMsg = 'Retrieving search results ...';
+	var searchMaxLength =  '100';
+
+</script>
+<span id="SearchTexbox" class="ForumFormField"> 
+      <input size="30" id="forumSearchQuery" value="" style="vertical-align:middle" onkeypress="return searchCheckEvent(event)"/>
+      
+      <a id="forumSearchButton" class="btn" href="javascript:search();"><div class="ForumImageTextButton ForumSearchButton"><span>Search</span></div></a>      
+</span>
+<div class="ErrorBox" id="SearchErrorBox"></div>
+		</td></tr>
+	</table>
+	</div>
+</div>
+</div>
+
+	
+
+
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" id="CommonBodyTable">
+				<tr>
+					
+					<td valign="top" id="CommonBodyColumn"><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
+						
+<div class="ForumContentArea">        
+    <div class="ForumContent">  			           		        		
+        
+        
+                <div class="ForumListAreaHome">			       
+		            
+					        <table cellpadding="0" cellspacing="0" border="0">
+					        <thead>
+						        <tr> 
+							        <th colspan="2" nowrap="nowrap" class="ForumListHeaderLeftMost ForumGroupImageAndNameHeader" align="center"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl00_ResourceControl3">Forums</span></th>
+							        <th class="ForumListHeader ForumGroupImageAndNameHeader" align="center"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl00_ResourceControl4">Last Post</span></th>                                    
+							        <th class="ForumListHeader ForumGroupTotalThreadsHeader" align="center"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl00_ResourceControl5">Topics</span></th>                                    
+							        <th class="ForumListHeader ForumGroupTotalPostsHeader" align="center"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl00_ResourceControl6">Posts</span></th>
+						        </tr>
+					        </thead>
+					        <tbody>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/20.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/20.aspx?fuseaction=forums.viewsubforum">Automotive</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/95.aspx?fuseaction=forums.viewforum">Domestics</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/96.aspx?fuseaction=forums.viewforum">European</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/22.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/24.aspx?fuseaction=forums.viewforum">Imports</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/23.aspx?fuseaction=forums.viewforum">Racing</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=242521665"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a621.ac-images.myspacecdn.com/images01/105/s_4cc02e23f4537432c96b5f28f22449cc.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312714.aspx?fuseaction=forums.viewthread" alt="g8 sports truck already dead?">g8 sports truck already d...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl01_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=242521665&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">sam</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:54 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">65,261</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,029,428</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/8.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/8.aspx?fuseaction=forums.viewsubforum">Business &amp; Entrepreneurs</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/26.aspx?fuseaction=forums.viewforum">Business</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/25.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/27.aspx?fuseaction=forums.viewforum">Money</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/28.aspx?fuseaction=forums.viewforum">Stocks</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=362137140"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a702.ac-images.myspacecdn.com/images01/1/s_95f4ec6cd8d7216b4dd69f1c1af59165.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4313086.aspx?fuseaction=forums.viewthread" alt="Forex Strategy Discussions">Forex Strategy Discussion...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl02_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=362137140&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">David</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:53 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">27,996</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">66,207</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/12.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/12.aspx?fuseaction=forums.viewsubforum">Campus Life</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/29.aspx?fuseaction=forums.viewforum">General</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=434102757"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/images/no_pic.gif" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4313070.aspx?fuseaction=forums.viewthread" alt="im stealing this from beto....">im stealing this from bet...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl03_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=434102757&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">?</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">58,188</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,373,429</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/7.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/7.aspx?fuseaction=forums.viewsubforum">Career Center</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/33.aspx?fuseaction=forums.viewforum">General</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=128628411"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://b2.ac-images.myspacecdn.com/01542/29/55/1542155592_s.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4307581.aspx?fuseaction=forums.viewthread">IS THIS REALLY LEGIT?</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl04_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=128628411&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Q</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:20 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">20,163</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">108,388</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/102.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/102.aspx?fuseaction=forums.viewsubforum">Comedy</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/101.aspx?fuseaction=forums.viewforum">Comedian</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=316346081"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c3.ac-images.myspacecdn.com/images02/24/s_3fffa0035b7249669f10aa11652f382a.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312972.aspx?fuseaction=forums.viewthread" alt="Random man throws 2 shoes at george bush lmao">Random man throws 2 shoes...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl05_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=316346081&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">♥Robin♥</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:52 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">24,960</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,218,420</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/11.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/11.aspx?fuseaction=forums.viewsubforum">Computers &amp; Technology</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/35.aspx?fuseaction=forums.viewforum">Computers</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/36.aspx?fuseaction=forums.viewforum">Electronics</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/37.aspx?fuseaction=forums.viewforum">Gadgets</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/34.aspx?fuseaction=forums.viewforum">General</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=424294682"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c3.ac-images.myspacecdn.com/images02/25/s_e9bd6764241f41b1ae68bc4e278722ca.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4287285.aspx?fuseaction=forums.viewthread">BLACKBERRY STORM</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl06_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=424294682&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14" alt="Erik is finger lickin' good">Erik is finger lickin' ...</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:47 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">64,850</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">463,738</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/9.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/9.aspx?fuseaction=forums.viewsubforum">Culture, Arts &amp; Literature</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/39.aspx?fuseaction=forums.viewforum">Arts</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/41.aspx?fuseaction=forums.viewforum">CulturalEvents</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/38.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/40.aspx?fuseaction=forums.viewforum">Literature</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=110850650"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://b5.ac-images.myspacecdn.com/01427/50/96/1427646905_s.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/3801001.aspx?fuseaction=forums.viewthread">Picture Association 2.0</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl07_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=110850650&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">RUATARE</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:54 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">52,702</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,025,502</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/1918.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/1918.aspx?fuseaction=forums.viewsubforum">Fashion</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1919.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1957.aspx?fuseaction=forums.viewforum">Latest MySpace Fashion News</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=2976210"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a81.ac-images.myspacecdn.com/images01/26/s_5510844a7dafd49902a1c658069c71f0.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4313075.aspx?fuseaction=forums.viewthread">I hate EMO</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl08_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=2976210&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">†&#176;&#164;a&#223;&#223;ie&#164;&#176;†</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:52 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">1,107</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">32,534</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/97.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/97.aspx?fuseaction=forums.viewsubforum">Filmmakers</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/98.aspx?fuseaction=forums.viewforum">General</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=59661982"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://b1.ac-images.myspacecdn.com/00722/12/05/722345021_s.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4313048.aspx?fuseaction=forums.viewthread" alt="first attempt at stop motion animation">first attempt at stop mot...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl09_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=59661982&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Crazy Eyes Productions</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:39 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">33,185</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">178,326</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/13.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/13.aspx?fuseaction=forums.viewsubforum">Food &amp; Drink</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/42.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/43.aspx?fuseaction=forums.viewforum">Recipes</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/44.aspx?fuseaction=forums.viewforum">Restaurants</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=33475993"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c4.ac-images.myspacecdn.com/images02/12/s_46cdfce35ddb4ed8bf614e1492caa65f.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4057100.aspx?fuseaction=forums.viewthread" alt="The Last Thing You Cooked From Scratch Was:">The Last Thing You Cooked...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl10_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=33475993&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">OIF Veteran Clark</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:48 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">18,893</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">328,688</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/18.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/18.aspx?fuseaction=forums.viewsubforum">Games</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/46.aspx?fuseaction=forums.viewforum">BoardGames</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/49.aspx?fuseaction=forums.viewforum">EverythingElse</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/45.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/48.aspx?fuseaction=forums.viewforum">RolePlayingGames</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/47.aspx?fuseaction=forums.viewforum">VideoGames</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=286475717"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a202.ac-images.myspacecdn.com/images01/10/s_72c3e7b7c8d9c8dc610d1633f6a17791.png" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/3907559.aspx?fuseaction=forums.viewthread">*Last Word* Game</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl11_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=286475717&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Michael</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">73,445</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,238,897</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1.aspx?fuseaction=forums.viewforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1.aspx?fuseaction=forums.viewforum">General Discussion</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=188422179"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a4.ac-images.myspacecdn.com/images01/10/s_0c1f45d9cbf7f4cea2efab86935ffbb3.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4174070.aspx?fuseaction=forums.viewthread" alt="Post what's on your mind right now">Post what's on your mind ...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl12_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=188422179&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14"> Nuckin Futs</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">4,948</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,381,476</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/17.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/17.aspx?fuseaction=forums.viewsubforum">Health &amp; Fitness</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/51.aspx?fuseaction=forums.viewforum">Exercise</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/50.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/52.aspx?fuseaction=forums.viewforum">Nutrition</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=49405959"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a371.ac-images.myspacecdn.com/images01/25/s_e666e10431fa8374d98ecbb95bf3975a.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312358.aspx?fuseaction=forums.viewthread">Capt. OR Nate</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl13_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=49405959&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14" alt="Capt Morgan The Powerlifting Yuppie">Capt Morgan The Powerli...</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">45,416</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">893,823</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/5.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/5.aspx?fuseaction=forums.viewsubforum">Movies</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/57.aspx?fuseaction=forums.viewforum">General</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=391637895"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c2.ac-images.myspacecdn.com/images02/46/s_49c777a7d94142e39e2daf7f9ddeb505.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/3887737.aspx?fuseaction=forums.viewthread">Movie Name Game</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl14_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=391637895&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Rhyot</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:55 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">24,858</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">693,122</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/4.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/4.aspx?fuseaction=forums.viewsubforum">Music</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/63.aspx?fuseaction=forums.viewforum">Acoustic</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/62.aspx?fuseaction=forums.viewforum">Alternative</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/65.aspx?fuseaction=forums.viewforum">Electronic/Dance</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/60.aspx?fuseaction=forums.viewforum">Emo</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/58.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/66.aspx?fuseaction=forums.viewforum">Hardcore</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/64.aspx?fuseaction=forums.viewforum">Hip-Hop</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/100.aspx?fuseaction=forums.viewforum">Metal</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/59.aspx?fuseaction=forums.viewforum">Punk</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/61.aspx?fuseaction=forums.viewforum">Rock</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=413188978"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c3.ac-images.myspacecdn.com/images02/51/s_1965a1ba1bfc42a597388a3f3ad1b07e.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/2938500.aspx?fuseaction=forums.viewthread">CONVERSE HERE</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl15_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=413188978&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Holiday Hank!</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">707,529</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">7,970,694</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/2.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/2.aspx?fuseaction=forums.viewsubforum">MySpace</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1958.aspx?fuseaction=forums.viewforum">App Feedback</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/68.aspx?fuseaction=forums.viewforum">Customizing</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/103.aspx?fuseaction=forums.viewforum">Forums Feedback</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/67.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1816.aspx?fuseaction=forums.viewforum">MySpaceTV Feedback</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/1959.aspx?fuseaction=forums.viewforum">Profile 2.0 Feedback</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/10002.aspx?fuseaction=forums.viewforum">Search Feedback</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=17125947"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a489.ac-images.myspacecdn.com/images01/30/s_91062443ead05911a0446555f7966000.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4300400.aspx?fuseaction=forums.viewthread" alt="Cannot change current courses">Cannot change current cou...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl16_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=17125947&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">*StEpHaNiE*</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">586,577</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">2,151,699</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/15.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/15.aspx?fuseaction=forums.viewsubforum">News &amp; Politics</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/69.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/70.aspx?fuseaction=forums.viewforum">InternationalNews</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/71.aspx?fuseaction=forums.viewforum">InternationalPolitics</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/72.aspx?fuseaction=forums.viewforum">USNews</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/73.aspx?fuseaction=forums.viewforum">USPolitics</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=172448876"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c2.ac-images.myspacecdn.com/images02/15/s_10a8f28eb69549e9966d1deea92b8d69.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4313052.aspx?fuseaction=forums.viewthread" alt="Let's say thanks to our troops!">Let's say thanks to our t...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl17_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=172448876&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">The Funny Man</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">24,332</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,475,175</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/16.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/16.aspx?fuseaction=forums.viewsubforum">Religion &amp; Philosophy</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/74.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/75.aspx?fuseaction=forums.viewforum">Philosophy</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/76.aspx?fuseaction=forums.viewforum">Religion</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=402805506"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c2.ac-images.myspacecdn.com/images02/41/s_5bea8512690346a783b168493a583655.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312902.aspx?fuseaction=forums.viewthread">The Sign of the Cross</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl18_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=402805506&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">Julius Scissor</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">126,663</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">4,809,197</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/21.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/21.aspx?fuseaction=forums.viewsubforum">Science</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/78.aspx?fuseaction=forums.viewforum">Biology</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/79.aspx?fuseaction=forums.viewforum">Engineering</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/77.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/80.aspx?fuseaction=forums.viewforum">Physics</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/81.aspx?fuseaction=forums.viewforum">Space</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=426161485"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c1.ac-images.myspacecdn.com/images02/16/s_d25fe8b4ef3e4cb39884465367695554.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312924.aspx?fuseaction=forums.viewthread" alt="This Christmas, You are given the power to create one device, bu">This Christmas, You are g...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl19_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=426161485&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">michael</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:33 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">14,375</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">196,250</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/19.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/19.aspx?fuseaction=forums.viewsubforum">Sports</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/99.aspx?fuseaction=forums.viewforum">College</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/84.aspx?fuseaction=forums.viewforum">ExtremeSports</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/82.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/85.aspx?fuseaction=forums.viewforum">ProfessionalSports</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/83.aspx?fuseaction=forums.viewforum">TeamSports</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=57040361"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c2.ac-images.myspacecdn.com/images02/46/s_e3bcc0c97f484f1a9b058296b38b4665.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4312812.aspx?fuseaction=forums.viewthread" alt="Bobby Lashley calls out Lesnar; Promises it will happen.">Bobby Lashley calls out L...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl20_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=57040361&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14" alt="AZRAEL>Motive of Fist&amp;Sword<DIES TONIGHT">AZRAEL&gt;Motive of Fist&amp;S...</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:52 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">75,680</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,762,910</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/6.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/6.aspx?fuseaction=forums.viewsubforum">Television</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/87.aspx?fuseaction=forums.viewforum">Anime</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/88.aspx?fuseaction=forums.viewforum">Cable</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/89.aspx?fuseaction=forums.viewforum">GameShows</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/86.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/90.aspx?fuseaction=forums.viewforum">Primetime</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/91.aspx?fuseaction=forums.viewforum">RealityShows</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=116052766"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://a398.ac-images.myspacecdn.com/images01/9/s_0ed610ea689bc9d0e6a7a1421547fb05.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/2530692.aspx?fuseaction=forums.viewthread" alt="How to Deal with Trolls and Spam">How to Deal with Trolls a...</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl21_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=116052766&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">T</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:56 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">63,085</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">1,259,104</td>
+					        </tr>
+				        
+					        <tr>
+						        <td class="ForumListCellLeftMostImageOnly ForumGroupImageColumn">
+									<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/10.aspx?fuseaction=forums.viewsubforum"><img src="https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/forums/static/img/forum_status.gif" border="0"></a>
+						        </td>
+						        <td class="ForumListCellCenter ForumGroupNameColumn">
+						            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+						            <tr>
+						            <td><a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/s/10.aspx?fuseaction=forums.viewsubforum">Travel &amp; Vacations</a></td>
+						            <td align="right" valign="top"><a href="#" onclick="alert('You must be signed in to use the chat rooms.'); return false;" class="chatroomLink">(Chat Room)</a></td>
+						            </tr>
+						            </table>	            							        
+							        
+							        <br/>
+							        <div id="subforums">
+										<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/92.aspx?fuseaction=forums.viewforum">General</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/94.aspx?fuseaction=forums.viewforum">International</a>, <a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/93.aspx?fuseaction=forums.viewforum">US</a>
+									</div>
+						        </td>
+						        <td class="ForumListCell ForumGroupLastPostColumn">
+				                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+				                    <tr><td style="width:45px">
+									    <div class="forumAvatar">
+	<a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=21045421"><img width="40" src="https://web.archive.org/web/20081216045651im_/http://c4.ac-images.myspacecdn.com/images02/14/s_085a58ef073048528f4dc707cd9fa38f.jpg" onerror="UseNoPicImage(this)"/></a>
+</div>
+									</td><td align="left">
+				                        <div class="PostSubjectLink">
+	<a href="https://web.archive.org/web/20081216045651/http://forums.myspace.com/t/4303005.aspx?fuseaction=forums.viewthread">Puerto Rico</a>
+</div>
+                                        <div class="PostAuthorLink"><span id="ctl00_ctl00_ctl00_cpMain_cpMain_bcr_GroupList1_ctl00_ForumList1_ctl22_ResourceControl8">by</span>&nbsp;
+                                            <a href="https://web.archive.org/web/20081216045651/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=21045421&amp;MyToken=69674c67-fbc2-4e51-b324-306f9ff39c14">jals</a>
+                                        </div>
+                                        <span>12-15-2008</span>        
+                                        <span>8:38 PM</span>                                                                                                                                                                                
+                                    </td></tr>
+                                    </table>
+						        </td>
+						        <td class="ForumListCell ForumGroupTotalThreadsColumn" align="center">18,459</td>
+						        <td class="ForumListCell ForumGroupTotalPostsColumn" align="center">80,702</td>
+					        </tr>
+				        
+					        </tbody>
+					        </table>				
+				        				        
+			    </div>
+                        
+	</div>	
+</div>
+
+					</td></tr></table></td>
+					
+						<td valign="top" class="ForumSidebar">
+							
+    <div id="ctl00_ctl00_ctl00_cpMain_cpMain_rcr_CMS_Forums" name="ctl00_ctl00_ctl00_cpMain_cpMain_rcr_CMS_Forums">
+	<script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		document.write('<style> #ad-wrap {width: 180px; height: auto; font: 11px verdana,sans-serif; overflow: hidden;} #ad-hdr {width: auto; color: #000; text-align: right; border-bottom: 1px solid #a5a5a5; margin: 0; padding: 0;} #ad-wrap a {text-align:left; text-decoration: none; display: block; margin: 0; padding: 10px 0;} #ad-wrap p {color: #000; font-weight: normal; margin: 0; padding: 0;} #ad-wrap span {color: #01a920; font-weight: normal; text-decoration: none; } #ad-wrap strong {color: #1619fc; font-weight: bold; text-decoration: underline; } </style>');
+		str += ' <div id="ad-wrap">  <div id="ad-hdr">Sponsored Links</div>  ';
+			for (l = 0; l < 4; l++)
+			{
+			if (google_ads[i] == null) break;
+			str += '   <a href="' + google_ads[i].url + '" onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" onmouseout="window.status=\'\';" target=_blank>   <strong>' + google_ads[i].line1 + '</strong>   <p>' + google_ads[i].line2 + '<br>' + google_ads[i].line3 + '</p>   <span>' + google_ads[i].visible_url + '</span></a>  ';
+			i++;
+			}
+			str += ' </div>';
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_ad_client = "fim_myspace_forums_js";
+var google_encoding = "utf8";
+var google_ad_channel = "fim_myspace_forums_category-homepage,fim_myspace_united-states";
+var google_cust_ch = "";
+var google_max_num_ads = 4;
+var google_ad_type = "text";
+var google_language = "en";
+var google_adtest = "off";
+var google_ed = "";
+var google_ad_output = "js";
+var google_safe = "high";
+</script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20081216045651js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+						</td>
+						
+				</tr>
+			</table>
+		</div>
+    
+
+</form>
+   
+	
+		<!-- Footer:Standard Start -->
+<script type="text/javascript">if (MySpace.Footer == null)MySpace.Footer = {};MySpace.Footer.InternationalLinkFunction = function() {if (document.getElementById("intlLink") != null){ if (document.getElementById("internationalLinks") == null){document.getElementById("intlLink").href = "https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=InternationalMap";document.getElementById("intlLink").innerHTML = "MySpace International";}else{document.getElementById("intlLink").href = "javascript:msglobalnav.toggleInternationalLinks();";}}}; $addHandler(window, 'load', MySpace.Footer.InternationalLinkFunction);  </script><style type="text/css">
+#footer{POSITION :static;}
+</style>
+
+<script>
+var isIntlFooterOn = false;
+var isie = navigator.userAgent.indexOf('MSIE') >= 0
+msglobalnav.toggleInternationalLinks = function() {
+    var internationalLinks = document.getElementById('internationalLinks');
+            var intlLink = document.getElementById('intlLink');
+            if (isIntlFooterOn) {
+                 internationalLinks.style.visibility = 'hidden';
+		    }
+            else {
+                var pos = Sys.UI.DomElement.getLocation(intlLink);
+                if (!isie) {
+                    internationalLinks.style.marginLeft = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) + 25) + 'px';
+                }
+                else {
+                    var lo = (pos.x - (internationalLinks.offsetWidth / 2) - (intlLink.offsetWidth / 2) - (document.body.offsetWidth / 2));
+                    if (-lo > internationalLinks.offsetWidth) 
+                        lo = lo + (document.body.offsetWidth / 2);
+                    internationalLinks.style.marginLeft = lo + 'px';
+                }
+                internationalLinks.style.visibility = 'visible';
+
+            }
+            isIntlFooterOn = !isIntlFooterOn;
+    };
+</script>
+
+<script type="text/javascript">
+MySpace.GoogleChannelHandler = function (){
+	if (window.google_ad_client !== undefined && window.google_ad_channel !== undefined) {
+   	var headID = document.getElementsByTagName("head")[0];  
+	var qry = "google_ad_client=" + google_ad_client + "&google_ad_channel=" + google_ad_channel + "&pfc=" + MySpace.ClientContext.FunctionalContext + "&culture=" + MySpaceClientContext.PreferredCulture;
+   	var scp = document.createElement("script");
+   	scp.src="https://web.archive.org/web/20081216045651/http://www.myspace.com/Modules/Common/HttpHandlers/CMS.ashx?" + qry;
+	headID.appendChild(scp);
+   }  
+}
+$addHandler(window, 'load', MySpace.GoogleChannelHandler);
+</script>
+
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><br/><a class="text" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">About</a>
+ | <a class="text" href="https://web.archive.org/web/20081216045651/http://faq.myspace.com/" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">FAQ</a>
+ | <a class="text" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Terms</a>
+ | <a class="text" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Privacy Policy</a>
+ | <a class="text" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safety_pagehome" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Safety Tips</a>
+ | <a class="text" href="https://web.archive.org/web/20081216045651/http://www.myspace.com/index.cfm?fuseaction=misc.contact" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Contact MySpace</a> |
+<!-- REPORT ABUSE LINK -->
+<script type="text/javascript">
+//<![CDATA[
+    if (MySpace != null && MySpace.ClientContext != null && MySpace.ClientContext.DisplayFriendId != null && MySpace.ClientContext.DisplayFriendId > 0) {
+        document.write("<a hr" + "ef='https://web.archive.org/web/20081216045651/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\">Report Abuse<" + "/a> | ");
+    }
+//>]]>
+
+</script> 
+<a class="text" href="https://web.archive.org/web/20081216045651/https://advertise.myspace.com/login.html?adv=gf.1" target="_blank" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">Advertise</a> <span style="color:red">New!</span>
+ | <a class="text" id="intlLink" href="javascript:msglobalnav.toggleInternationalLinks();">MySpace International  ▼</a> 
+ <span id="msLatino">| <a class="text" href="https://web.archive.org/web/20081216045651/http://latino.myspace.com/" onclick="MySpace.CMS.track('53f43423-839a-45e3-9093-750ba10cd51d')">MySpace Latino</a></span>
+<script type="text/javascript">function popLanguageOverlay(culture, url){ MySpace.UI.Header.languageLinkClick(culture, url, 1); }</script>
+
+<br/><span id="searchControlFooter"><!-- BOS -->
+<div id="searchContainer_Footer" class="global"><form id="formSearch_Footer" name="srch_Footer" onsubmit="return (document.getElementById('search_q_Footer').value.length > 0);" action="https://web.archive.org/web/20081216045651/http://searchservice.myspace.com/index.cfm" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction_Footer" name="fuseaction" value="sitesearch.results"/><input type="hidden" id="search_t_Footer" name="type" value="Web"/><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Footer" maxlength="100" class="srchTextfld" type="text" value=""/><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Footer" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Footer');" onmouseout="msglobalnav.hideSearchTypes('Footer');">Web<small>&#9660;</small></a></span><div id="srchMenuListBox_Footer" onmouseover="msglobalnav.srchMenuList(true,'Footer');" onmouseout="msglobalnav.srchMenuList(false,'Footer');"><ul><li><a id="People_Footer" href="javascript:msglobalnav.switchSearchTypeTo('People','Footer')">People</a></li><li><a id="AllMySpace_Footer" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Footer')">MySpace</a></li><li><a id="Web_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Web','Footer')">Web</a></li><li><a id="Music_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Music','Footer')">Music</a></li><li><a id="MySpaceTV_Footer" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Footer')">Video</a></li><li><a id="Images_Footer" href="javascript:msglobalnav.switchSearchTypeTo('Images','Footer')">Images</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit_Footer"/></div></div><div id="googleLogo_Footer" style="background-image: url(https://web.archive.org/web/20081216045651im_/http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div></form></div><script type="text/javascript">var _notImportant = 12;</script><!-- EOS -->
+</span><div class="clear">&copy;2003-2008 MySpace.com. All Rights Reserved.
+<style type="text/css">
+#topnav ul li.dropDown { z-index: 1000001; }
+</style>
+
+</div><style><!--
+
+div#searchContainer_Footer {z-index:1000000 !important;}
+div#internationalLinks{z-index:1000009 !important;}
+
+
+--></style>
+<div id="internationalLinks" style="height: 485px;margin-top: -485px; .margin-top: -485px;">
+<div class="closer"><a href="javascript:msglobalnav.toggleInternationalLinks();">Close</a></div>
+<div class="column"><div class="header">Americas</div>
+<ul class="bottomMargin"><li><a href="https://web.archive.org/web/20081216045651/http://br.myspace.com/">Brazil</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://ca.myspace.com/">Canada </a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://cf.myspace.com/">Canada (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://la.myspace.com/">Latin America (Español)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://mx.myspace.com/">Mexico</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://us.myspace.com/">United States (English)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://latino.myspace.com/">United States (Latino)</a></li>
+</ul><div class="header">Asia Pacific</div>
+<ul><li><a href="https://web.archive.org/web/20081216045651/http://au.myspace.com/">Australia</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://in.myspace.com/">India</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://jp.myspace.com/">Japan</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://kr.myspace.com/">Korea</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://nz.myspace.com/">New Zealand</a></li>
+</ul></div>
+<div class="column"><div class="header">Europe</div>
+<ul><li><a href="https://web.archive.org/web/20081216045651/http://at.myspace.com/">Austria</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://belgie.myspace.com/">Belgium (Nederland)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://belgique.myspace.com/">Belgium (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://dk.myspace.com/">Denmark</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://fi.myspace.com/">Finland</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://fr.myspace.com/">France</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://de.myspace.com/">Germany</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://ie.myspace.com/">Ireland</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://it.myspace.com/">Italy</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://nl.myspace.com/">Netherlands</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://no.myspace.com/">Norway</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://pt.myspace.com/">Portugal</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://pl.myspace.com/">Poland</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://ru.myspace.com/">Russia</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://es.myspace.com/">Spain</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://se.myspace.com/">Sweden</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://schweiz.myspace.com/">Switzerland (Deutsch)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://suisse.myspace.com/">Switzerland (Français)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://svizzera.myspace.com/">Switzerland (Italiano)</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://tr.myspace.com/">Turkey</a></li>
+<li><a href="https://web.archive.org/web/20081216045651/http://uk.myspace.com/">UK</a></li>
+</ul></div></div>
+
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googleLogo_Footer', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+</script>
+<![endif]-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20081216045651/https://ssl." : "https://web.archive.org/web/20081216045651/http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6293770-1");
+pageTracker._setDomainName(".myspace.com");
+pageTracker._setSampleRate("1"); //sets sampling rate to 1 percent
+pageTracker._trackPageview(); 
+</script><!-- Footer:Standard End -->
+
+		</div>
+	
+   
+   
+<script type="text/javascript" src="https://web.archive.org/web/20081216045651js_/http://x.myspacecdn.com/modules/common/static/js/global039.js"></script>
+	
+   
+<script type="text/javascript">
+	MySpace.Application._raiseDOMloaded();
+</script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 04:56:51 Dec 16, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:13:06 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.749
+  exclusion.robots: 0.023
+  exclusion.robots.policy: 0.011
+  esindex: 0.015
+  cdx.remote: 78.077
+  LoadShardBlock: 212.384 (3)
+  PetaboxLoader3.datanode: 277.625 (4)
+  load_resource: 260.324
+  PetaboxLoader3.resolve: 45.34
+-->

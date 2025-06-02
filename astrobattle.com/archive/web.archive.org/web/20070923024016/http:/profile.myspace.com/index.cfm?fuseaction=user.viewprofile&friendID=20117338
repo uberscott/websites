@@ -1,0 +1,2697 @@
+<!-- 462 -->
+
+<!-- ProfileV1 -->
+<html>
+<!-- ELS2MWEBNET1845 -->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://profile.myspace.com:80/index.cfm?fuseaction=user.viewprofile&amp;friendID=20117338","20070921023524","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1190342124");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<title>
+	MySpace.com - TCOOO - Taking Reggae 2 New Heights - Reggae / Hip Hop / Rap  - www.myspace.com/tcooo
+</title><meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking"/><meta name="description" content="MySpace music profile for TCOOO - Taking Reggae 2 New Heights with tour dates, songs, videos, pictures, blogs, band information, downloads and more"/><meta http-equiv="expires" content="0"/><meta http-equiv="Pragma" content="no-cache"/>
+	<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/js/videos/swfobject.js"></script>
+    <form><input type="hidden" id="bandgenre1" value="37"/><input type="hidden" id="bandgenre2" value="21"/><input type="hidden" id="bandgenre3" value="36"/></form>
+<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/modules/common/static/js/myspacejs039.js"></script>
+
+	<base href="https://web.archive.org/web/20070921023524/http://www.myspace.com/" target="_self"/>
+	
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070921023524cs_/http://x.myspace.com/modules/common/static/css/global003.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070921023524cs_/http://x.myspace.com/modules/common/static/css/myspace.css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070921023524cs_/http://x.myspace.com/modules/common/static/css/google-003.css"/>
+<script type="text/javascript">
+	if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+Type.registerNamespace("MySpace");
+Type.registerNamespace("MySpaceRes");
+MySpaceRes.Common = {"Yes":"Yes","No":"No","Ok":"Ok","Attention":"Attention"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":20117338,"IsLoggedIn":false};
+
+</script></head>
+<body bgcolor="e5e5e5" alink="4e607b" link="4e607b" vlink="4e607b" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" style="visibility:visible; display:block" class="bodyContent">
+	 
+
+
+<style type="text/css">
+
+form>img#googleTLogo
+{
+	background-image:url(https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/powered_by_google_white.png);
+	background-repeat: no-repeat;
+}
+
+#googleTLogo
+{
+	vertical-align:bottom;
+	width:120px;
+	height:30px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://x.myspace.com/images/powered_by_google_white.png', sizingMethod='image');
+}
+
+</style>
+
+<span id="ctl00_Header_ctl00_CMSGlobalHeader"><!-- CMS:29be3023-326a-4472-b34d-a9cb8ad7be06:20070827.2 -->
+<!-- CMS Placement ID = "global_header" -->
+<style type="text/css">
+#browseMain td {text-align:left;}
+</style>
+<!-- End CMS Content -->
+</span>
+<script type="text/javascript">
+function InsertWatermark()
+{
+    var culture = document.getElementById("currentCulture").value
+    if (culture!="ja-JP")
+    {
+        return
+    }
+    
+    var strWarning = "Currently you can search in only English"  
+    document.getElementById("searchrequest").value = strWarning
+}
+function clearWatermark()
+{
+    var culture = document.getElementById("currentCulture").value
+    if (culture!="ja-JP")
+    {
+        return
+    }
+    
+    var strWarning = "Currently you can search in only English"  
+    if (document.getElementById("searchrequest").value == strWarning)
+    {
+        document.getElementById("searchrequest").value = ""
+    }
+}
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/js/searchHeader001.js"></script>
+<div id="tipDiv" style="position:absolute; visibility:hidden; z-index:100"></div>
+<div align="center">
+	
+	<table width="800" border="0" align="center" cellspacing="0" cellpadding="0" bgcolor="003399">
+		<tr>
+			<td id="headerBanner" style="height:96px; text-align:center; vertical-align:text-top;">
+				<div id="ctl00_Header_ctl00_bannerAdEmitter1_ctlGoogleAdEmitter" name="ctl00_Header_ctl00_bannerAdEmitter1_ctlGoogleAdEmitter">
+	<script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		str += '<noscript>    <img height=1 width=1 border=0 src="https://web.archive.org/web/20070921023524/http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-fim_myspace_uvp_728x90&event=noscript"/> </noscript>';
+		i++;
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_color_line = "ffffff";
+var google_language = "en";
+var google_ad_client = "fim_myspace_uvp_728x90";
+var google_ad_height = 90;
+var google_ad_width = 728;
+var google_ed = "::0:0:NDgzYTQ5Y2ViNDg4NTNjYYN6cFY3I389XT5HR84a6Ay4QRk4BrhvwzL4FGdXD5o_HQdLHQCL-Omi0fuWExToaDuEKDtwlUYQRunl9KqdMXTr71AYi64OKk7MAQVUBmWP";
+var google_ad_output = "html";
+var google_color_border = "ffffff";
+var google_safe = "high";
+var google_ad_type = "text,image";
+var google_ad_channel = "fim_myspace_uvp,fim_myspace_united-states";
+var google_adtest = "off";
+var google_color_bg = "ffffff";
+var google_encoding = "utf8";
+var google_cust_ch = "";
+var google_ad_format = "728x90_pas_sln";
+var google_color_link = 003197;
+var google_color_url = 003197;
+</script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20070921023524js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<script src="https://web.archive.org/web/20070921023524js_/http://creative.myspace.com/cms/js/ad_wrapper0041.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+ Advertiser.SDC.DropPixel();
+}
+catch(e) {}
+try{
+ Advertiser.SDC.DisplayedFriendEUD = "::0:0:NDgzYTQ5Y2ViNDg4NTNjYYN6cFY3I389XT5HR84a6Ay4QRk4BrhvwzL4FGdXD5o_HQdLHQCL-Omi0fuWExToaDuEKDtwlUYQRunl9KqdMXTr71AYi64OKk7MAQVUBmWP";
+}
+catch(e) {}
+sdc_wrapper("tkn_leaderboard", "/UserView/UserViewProfile,11013005", "Frame1");
+ad_wrapper("tkn_leaderboardband", "www.myspace.com/bandprofile,11021002", "Frame1");
+ad_wrapper("tkn_leaderboardfilm", "www.myspace.com/viewprofile,11022011", "Frame1");
+ad_wrapper("tkn_leaderboardcomedy", "www.myspace.com/comedianprofile,29000001", "Frame1");
+</script>
+
+        
+			</td>
+		</tr>
+		<tr>
+			<td>
+				
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">
+    	        <span id="ctl00_Header_ctl00_searchControls">
+				<form name="srch" id="srch" action="https://web.archive.org/web/20070921023524/http://search.myspace.com/index.cfm?advancedFind.hub" method="get" onsubmit="return chkGHeader();">
+					<input type="text" name="q" style="height:22px; width:400px" class="txt"/>
+					<select id="t" name="t"><option value="tms">MySpace</option><option value="tpeople">People</option><option value="tweb">Web</option><option value="tmusic">Music</option><option value="tvideos">Music Videos</option><option value="tblog">Blog</option><option value="tvid">Video</option><option value="tevents">Events</option><option value="tgroups">Groups</option><option value="tfilm">Film</option><option value="tbooks">Books</option><option value="tclass">Classifieds</option><option value="tcomedy">Comedy</option><option value="tjobs">Jobs</option></select>
+					<input type="submit" id="submitBtn" value="Search" style="font-size:12px"/>
+					<img id="googleTLogo" alt"powered by google" src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/spacer.gif"/>
+					<input type="hidden" name="fuseaction" value="advancedFind.hub"/>
+				</form>
+				</span>
+			</td>
+		</tr>
+	</table>
+	
+	<input type="hidden" id="currentCulture" name="currentCulture" value="en-US"/>
+</div>    
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="800" class="navigationBar">
+	<tr>
+			<td width="800" height="26" bgcolor="6698CB">
+			<table width="800" height="26" border="0" cellspacing="0" cellpadding="0">
+				<tr valign="middle">
+					<td align="center"><font face="Arial, Helvetica, sans-serif" color="#000000">
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/">Home</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://browseusers.myspace.com/browse/browse.aspx?&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Browse</a> 
+					&nbsp;|&nbsp;
+
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://search.myspace.com/index.cfm?fuseaction=find&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Search</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://invite.myspace.com/index.cfm?fuseaction=invite&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Invite</a>
+					&nbsp;|&nbsp;
+					<span id="ctl00_Header_ctl00_Span1">
+						<a class="navbar" href="https://web.archive.org/web/20070921023524/http://film.myspace.com/">Film</a>
+						&nbsp;|&nbsp;
+					</span>					
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Mail</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/">Blog</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://favorites.myspace.com/index.cfm?fuseaction=user.favorites&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Favorites</a>
+					&nbsp;|&nbsp;
+
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://forum.myspace.com/">Forum</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://groups.myspace.com/">Groups</a>
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://events.myspace.com/">Events</a>
+					
+					<span id="ctl00_Header_ctl00_Span3">
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://vids.myspace.com/">Videos</a>
+					</span>
+					
+					&nbsp;|&nbsp;
+					<a class="navbar" href="https://web.archive.org/web/20070921023524/http://music.myspace.com/">Music</a>
+					<span id="ctl00_Header_ctl00_Span4">
+						&nbsp;|&nbsp;				
+						<a class="navbar" href="https://web.archive.org/web/20070921023524/http://comedy.myspace.com/">Comedy</a>						
+					</span>
+					<span id="ctl00_Header_ctl00_Span2">
+						&nbsp;|&nbsp;					
+						<a class="navbar" href="https://web.archive.org/web/20070921023524/http://classifieds.myspace.com/">Classifieds</a>
+					</span>
+					</font>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+</div>
+
+	
+	<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070921023524cs_/http://x.myspace.com/js/CSS/profile.css" id="defaultProfileStyles"/>
+	
+	<script type="text/javascript">
+	function viewerIsLoggedIn() { return False; }
+	function getDisplayFriendID() { return 20117338; }
+	function currentUserIsFriend() { return False; }
+</script>
+
+
+<div align="center">
+<style type="text/css">
+	#musicnav {width:800px; border-bottom:1px solid #000; background-color:#990033; color:#FFFFFF;}
+	#musicnav a {color:#FFFFFF; font-weight:normal; font-size:90%; display:inline-block;}
+</style>
+<span id="ctl00_Main_ctl00_musicHeader1_CMSGlobalHeader"><!-- CMS:29be3023-326a-4472-b34d-a9cb8ad7be06:20070827.2 -->
+<!-- CMS Placement ID = "global_header" -->
+<style type="text/css">
+#browseMain td {text-align:left;}
+</style>
+<!-- End CMS Content -->
+</span>
+<table id="musicnav">
+	<tr>
+		<td width="125">
+			<a class="navbar" href="https://web.archive.org/web/20070921023524/http://music.myspace.com/">
+				<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/music_logo.gif" width="125" height="26" border="0"/>
+			</a>
+		</td>
+		<td align="right" nowrap>
+		    <span id="ctl00_Main_ctl00_musicHeader1_spnMusicVideo">
+			    <a href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=videos">Music Videos</a>&nbsp;|
+			</span>
+			<a href="https://web.archive.org/web/20070921023524/http://music.myspace.com/index.cfm?fuseaction=music.directory">Directory</a>&nbsp;|
+			<a href="https://web.archive.org/web/20070921023524/http://musicsearch.myspace.com/index.cfm?fuseaction=music.search">Search</a>&nbsp;|
+			<a href="https://web.archive.org/web/20070921023524/http://topartists.myspace.com/index.cfm?fuseaction=music.topBands">Top Artists</a>&nbsp;|
+			<a href="https://web.archive.org/web/20070921023524/http://music.myspace.com/index.cfm?fuseaction=music.shows">Shows</a>&nbsp;|
+			<a href="https://web.archive.org/web/20070921023524/http://forum.myspace.com/index.cfm?fuseaction=messageboard.viewSubCategory&amp;CategoryID=4">Music Forums</a>&nbsp;|
+			
+			<span id="ctl00_Main_ctl00_musicHeader1_spnMusicClassifieds">
+			   <a href="https://web.archive.org/web/20070921023524/http://classifieds.myspace.com/index.cfm?fuseaction=classifieds.listAds&amp;catId=9">Music Classifieds</a>&nbsp;|
+			</span>
+			<a href="https://web.archive.org/web/20070921023524/http://signup.myspace.com/index.cfm?fuseaction=bandjoin">Artist Signup</a>&nbsp;
+		</td>
+	</tr>
+</table>
+</div>
+
+
+<div style="text-align: center;">
+	 <div style="width: 800px; background: #FFF; text-align: left; margin-left: auto; margin-right: auto;">
+		<span id="ctl00_Main_ctl00_BandProfileMarketing1_ContentView1"><!-- CMS:00000000-0000-0000-0000-000000000000: -->
+</span>  
+	 </div>
+</div>
+
+<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+	 <tr>
+		  <td width="20" bgcolor="#ffffff">
+				<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="2" border="0"></td>
+		  <td width="780" align="center" bgcolor="#ffffff">
+				<table cellspacing="0" cellpadding="0" border="0">
+					 <tr>
+						  <td width="275" height="33" align="center" valign="top" bgcolor="#ffffff">
+								<br>
+								
+
+<table border="0" cellspacing="0" cellpadding="0" width="300" height="100">
+	<tr>
+		<td width="300" bgcolor="#ffffff" class="text" colspan="3" align="left" valign="bottom" style="WORD-WRAP:break-word"><span class="nametext">TCOOO - Taking Reggae 2 New Heights</span><br>
+			<font color="#033330" size="1" face="Arial, Helvetica, sans-serif"><strong>
+					Reggae / Hip Hop / Rap 
+				</strong></font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" width="300" align="center">
+				<tr>
+					<td width="75" height="75" bgcolor="#ffffff" class="text">
+						<a id="ctl00_Main_ctl00_UserBasicInformation1_hlDefaultImage" href="https://web.archive.org/web/20070921023524/http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&amp;friendID=20117338"><img src="https://web.archive.org/web/20070921023524im_/http://a855.ac-images.myspacecdn.com/images01/79/m_18344a6ef68f2e4c86effb590a86844e.jpg" border="0"/></a>
+					</td>
+					<td width="15" height="75" bgcolor="#ffffff" class="text"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0"></td>
+					<td width="193" height="75" bgcolor="#ffffff" class="text"><br>
+						<font color="#033330" size="1" face="Arial, Helvetic, sans-serif"><strong>
+								"'Do You Wanna Live?' by Vineyard.. get it now"
+							</strong></font>
+						<br>
+						<br>
+						
+						<br>
+						Jamaica
+						<br>
+						<br>
+						Profile Views:&nbsp;
+						173277
+						<br>
+						<br>
+                            
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>							
+						<br>
+						<br>
+						Last Login:&nbsp;
+						9/20/2007<br>
+					</td>
+				</tr>
+				<tr align="center" valign="middle">
+					<td>
+						View My:
+						<a id="ctl00_Main_ctl00_UserBasicInformation1_ctrlViewMorePics" href="https://web.archive.org/web/20070921023524/http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewAlbums&amp;friendID=20117338">Pics</a>
+						 | <a href="https://web.archive.org/web/20070921023524/http://vids.myspace.com/index.cfm?fuseaction=vids.showvids&amp;friendID=20117338&amp;n=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Videos</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+
+								
+<table class="contactTable" border="1" cellspacing="0" cellpadding="0" width="300" bordercolor="#6699cc">
+	<tr>
+		<td width="300" height="15" bgcolor="#6699cc" class="text tdborder" align="left" style="WORD-WRAP:break-word">&nbsp;&nbsp;&nbsp;<span class="whitetext12">Contacting
+				TCOOO - Taking Reggae 2 New Heights
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="tdborder">
+			<table border="0" cellspacing="0" cellpadding="0" width="300" bordercolor="#000000">
+				<tr>
+					<td><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="1" height="5" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="120" height="5" nowrap bgcolor="#ffffff" align="center" class="text">
+						<a href="https://web.archive.org/web/20070921023524/http://messaging.myspace.com/index.cfm?fuseaction=mail.message&amp;friendID=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" id="ctl00_Main_ctl00_UserContactLinks1_MailLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/mail_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0"></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20070921023524/http://messaging.myspace.com/index.cfm?fuseaction=mail.forward&amp;friendID=20117338&amp;f=forwardprofile" id="ctl00_Main_ctl00_UserContactLinks1_ForwardLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/forward_1.gif" border="0" align="middle"/></a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20070921023524/http://collect.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&amp;friendID=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" id="ctl00_Main_ctl00_UserContactLinks1_AddFriendLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/friend_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="1" border="0"/></td>
+					<td width="150" nowrap height="2" bgcolor="#ffffff" align="center" class="text" valign="middle"><a href="https://web.archive.org/web/20070921023524/http://collect.myspace.com/index.cfm?fuseaction=user.addToFavorite&amp;friendID=20117338&amp;public=0" id="ctl00_Main_ctl00_UserContactLinks1_AddFavoriteLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/favorite_1.gif" border="0" align="middle"/></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="javascript: IsMySpaceIMInstalled();" id="ctl00_Main_ctl00_UserContactLinks1_MessageFriendLink">
+							<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/im_1.gif" border="0" align="middle"/>
+						</a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="8" border="0"></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top"><a href="https://web.archive.org/web/20070921023524/http://collect.myspace.com/index.cfm?fuseaction=block.blockUser&amp;userID=20117338" id="ctl00_Main_ctl00_UserContactLinks1_BlockFriendLink" onclick="return confirm('Are you sure you want to block this user?\n- to block this user, hit OK\n- otherwise, hit Cancel');"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/block_1.gif" border="0" align="middle"/></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="1" height="2" border="0"/></td>
+				</tr>				
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="https://web.archive.org/web/20070921023524/http://groups.myspace.com/index.cfm?fuseaction=groups.addtogroup&amp;friendID=20117338" id="ctl00_Main_ctl00_UserContactLinks1_AddToGroupLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/group_1.gif" border="0" align="middle"/></a>
+					</td>
+					<td width="15" bgcolor="#ffffff">
+					    <img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="15" height="1" border="0"/>
+					</td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+					    <a href="https://web.archive.org/web/20070921023524/http://collect.myspace.com/index.cfm?fuseaction=RateImage.UserRating&amp;UserID=20117338" id="ctl00_Main_ctl00_UserContactLinks1_RateFriendLink"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/profile/rank_1.gif" border="0" align="middle"/></a>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/clear.gif" width="1" height="5" border="0"/></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+
+								
+
+<table border="0" align="center" cellspacing="0" cellpadding="1" width="300">
+		<tr> 
+			<td height="10" valign="top"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/1by1.gif" width="1" height="10"></td>
+		</tr>
+		<tr valign="top"> 
+			<td bgcolor="6699CC" align="center">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr bgcolor="FFFFFF"> 
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+								<tr> 
+									<td width="70%"><div align="left"><strong>&nbsp;MySpace URL:&nbsp;</strong></div></td>
+									<td width="30%"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr bgcolor="FFFFFF"> 
+						<td><div align="left">&nbsp;&nbsp;http://www.myspace.com/tcooo&nbsp;&nbsp;</div></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr> 
+			<td height="10" valign="top"><img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/1by1.gif" width="1" height="10"></td>
+		</tr>
+	</table>
+	
+	<br/>
+								
+<table bordercolor="#6699cc" cellspacing="0" cellpadding="0" width="300" bgcolor="#6699cc" border="1">
+		<tr>
+			<td class="text" valign="middle" align="left" width="300" bgcolor="#6699cc" height="10" wrap="" style="WORD-WRAP:break-word">&nbsp;&nbsp;&nbsp;<span class="whitetext12">TCOOO - Taking Reggae 2 New Heights: General Info</span>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+				<table bordercolor="#000000" cellspacing="3" cellpadding="3" width="300" align="center" bgcolor="#ffffff" border="0">
+             <tr id="Member" sincerow><td valign="top" align="left" width="100" bgcolor="#b1d0f0" nowrap><span class="lightbluetext8">Member Since</span></td><td id="ProfileMember Since" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">6/29/2005</td></tr><tr id="Band" websiterow><td valign="top" align="left" width="100" bgcolor="#b1d0f0" nowrap><span class="lightbluetext8">Band Website</span></td><td id="ProfileBand Website" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word"><a href="https://web.archive.org/web/20070921023524/http://rastatravel.com/">rastatravel.com</a></td></tr><tr id="Band" membersrow><td valign="top" align="left" width="100" bgcolor="#b1d0f0" nowrap><span class="lightbluetext8">Band Members</span></td><td id="ProfileBand Members" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word"><b> Do you wanna live - Vineyard.  The Jamaican Star and Xnews called the album 'The most conscious and uplifting music for 2006'.  Also check out more of Vineyard's music on the other TCOOO compilations below. </b> </br>
+<a href="https://web.archive.org/web/20070921023524/http://cdbaby.com/cd/vineyard"><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripetop_200_red.gif" width="200" height="22" alt="Buy the CD" border="0"><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.name/v/i/vineyard.jpg" width="200" height="200" alt="album cover" border="0"/><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripebottom_200_red.gif" width="200" height="22" alt="click to order" border="0"></a>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=150864760&amp;s=143441">
+Click to Download on ITunes</a>
+</br></br></br>
+
+<a href="https://web.archive.org/web/20070921023524/http://cdbaby.com/cd/reggaegold2"><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripetop_200_green.gif" width="200" height="22" alt="Buy the CD" border="0"><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.name/r/e/reggaegold2.jpg" width="200" height="200" alt="album cover" border="0"/><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripebottom_200_green.gif" width="200" height="22" alt="click to order" border="0"></a>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=69861253&amp;s=143441">
+Click to Download on ITunes</a>
+<a href="https://web.archive.org/web/20070921023524/http://music.yahoo.com/release/26788752">
+Click to Download on Yahoo Music</a>
+</br></br></br></br>
+<a href="https://web.archive.org/web/20070921023524/http://cdbaby.com/cd/reggaegold"><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripetop_200_yellow.gif" width="200" height="22" alt="Buy the CD" border="0"><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.name/r/e/reggaegold.jpg" width="200" height="200" alt="album cover" border="0"/><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripebottom_200_yellow.gif" width="200" height="22" alt="click to order" border="0"></a>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=53787431&amp;s=143441">
+Click to Download on ITunes</a>
+<a href="https://web.archive.org/web/20070921023524/http://music.yahoo.com/release/16181131">
+Click to Download on Yahoo Music</a>
+</br></br></br></br>
+<a href="https://web.archive.org/web/20070921023524/http://cdbaby.com/cd/anytypewar"><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripetop_200_green.gif" width="200" height="22" alt="Buy the CD" border="0"><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.name/a/n/anytypewar.jpg" width="200" height="200" alt="album cover" border="0"/><br><img src="https://web.archive.org/web/20070921023524im_/http://cdbaby.com/gif/cdbaby_stripebottom_200_green.gif" width="200" height="22" alt="click to order" border="0"></a>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=5917173&amp;s=143441">
+Click to Download on ITunes</a>
+<a href="https://web.archive.org/web/20070921023524/http://music.yahoo.com/release/8718266">
+Click to Download on Yahoo Music</a>
+</br></br></br></br></td></tr><tr id="Type" of labelrow><td valign="top" align="left" width="100" bgcolor="#b1d0f0" nowrap><span class="lightbluetext8">Type of Label</span></td><td id="ProfileType of Label" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">None</td></tr>		
+            
+				</table>
+			</td>
+		</tr>
+	</table>
+	<br>
+
+								
+						  </td>
+						  <td valign="top" align="center" width="15" bgcolor="#ffffff">
+								<img id="ctl00_Main_ctl00_Img2" height="1" width="20" border="0"/></td>
+						  <td class="text" valign="top" align="center" width="435" bgcolor="#ffffff">
+								<br>
+								<!-- NETWORK INFORMATION : BEGIN -->
+								
+
+
+	<script>
+
+function rate(id){
+  window.open('https://web.archive.org/web/20070921023524/http://music.myspace.com/index.cfm?fuseaction=rankmusic.rateform&friendid=20117338&MyToken=69ba3335-5e74-470f-ba84-73f88c448324&songid='+id,'rate','scrollbars=no,width=650,height=458');
+}
+function comment(id){
+  window.open('https://web.archive.org/web/20070921023524/http://music.myspace.com/index.cfm?fuseaction=Rankmusic.allcomments&friendid=20117338&MyToken=69ba3335-5e74-470f-ba84-73f88c448324&songid='+id,'Comments','scrollbars=yes,resizable,width=650,height=700');
+}
+function lyrics(id){
+  window.open('https://web.archive.org/web/20070921023524/http://music.myspace.com/index.cfm?fuseaction=bandprofile.songLyrics&friendid=20117338&MyToken=69ba3335-5e74-470f-ba84-73f88c448324&songid='+id,'Lyrics','scrollbars=yes,resizable,width=650,height=700');
+}
+
+	</script>
+	<object id="mp3player" codebase="https://web.archive.org/web/20070921023524oe_/http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab##version=8,0,0,0" height="345" width="450" border="0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" viewastext>
+		<param name="_cx" value="11906">
+		<param name="_cy" value="9128">
+        <param name="FlashVars" value="culture=en-US"/>	
+		<param name="Movie" value="http://lads.myspace.com/music/musicplayer.swf?n=aHR0cDovL211c2ljLm15c3BhY2UuY29t&amp;t=ex2SPBIdd3g7Gwb+IELDa1cBJ+Cf1r0n8G4XzorkshxD3kpG93gSS783ikNHL0imtvTJ2VHVU3rg0y1dRrC9jw==&amp;u=LTE=&amp;a=0&amp;d=MjAxMTczMzheMTE5MDMxNzUyNA==">
+		<param name="Src" value="http://lads.myspace.com/music/musicplayer.swf?n=aHR0cDovL211c2ljLm15c3BhY2UuY29t&amp;t=/NNJuXHUsAoTl+pv7qlthfFzA5n3/dWxYoh8tVRRb97VDT1RsU9Q4zmmr89nC+sRHWAFCJUv6HVKar0lJGlFlQ==&amp;u=LTE=&amp;a=0&amp;d=MjAxMTczMzheMTE5MDMxNzUyNA==">
+		<param name="WMode" value="Window">
+		<param name="Play" value="-1">
+		<param name="Loop" value="-1">
+		<param name="Quality" value="High">
+		<param name="SAlign" value="">
+		<param name="Menu" value="-1">
+		<param name="Base" value="">
+		<param name="AllowScriptAccess" value="always">
+		<param name="Scale" value="ShowAll">
+		<param name="DeviceFont" value="0">
+		<param name="EmbedMovie" value="0">
+		<param name="BGColor" value="FFFFFF">
+		<param name="SWRemote" value="">
+		<param name="MovieData" value="">
+		<param name="SeamlessTabbing" value="1">
+		<embed src="https://web.archive.org/web/20070921023524oe_/http://lads.myspace.com/music/musicplayer.swf?n=aHR0cDovL211c2ljLm15c3BhY2UuY29t&amp;t=EP7rNPX3saEC5F6tFVmz8ePQMAuhp8GFq6nt8n75pI0sHCZ3NkgU1b6ZCWCz040p/uwy4GJnYaLWuvscfFjJkA==&amp;u=LTE=&amp;a=0&amp;d=MjAxMTczMzheMTE5MDMxNzUyNA==" quality="high" bgcolor="#FFFFFF" width="450" height="345" name="mp3player" align="" type="application/x-shockwave-flash" flashvars="culture=en-US" pluginspage="http://www.macromedia.com/go/getflashplayer"> </embed>
+	</object>
+	<br>
+
+
+
+								
+
+<div style="background-image: url(https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/Snocap/MyStore_background2.gif);width:452;height:375;margin-top:-3px;margin-left:0px;background-repeat:no-repeat">
+<embed src="https://web.archive.org/web/20070921023524oe_/http://store.snocap.com/a/s/T3-31324-GYTCN32YPR-U/" width="425" height="300" style="position:relative; top:52; bottom:0; left:2; right:0; z-index:1; margin-top:-3px;background: url(https://web.archive.org/web/20070921023524im_/http://store.snocap.com/a/b/T3-31324-GYTCN32YPR-U/)"/>
+
+<br/>
+</div>
+<br/><br/>
+								<br/>
+								
+								
+
+<table bordercolor="000000" cellspacing="3" cellpadding="0" width="435" align="center" bgcolor="ffffff" border="0" class="latestBlogEntry">
+		<tr>
+			<td width="435" style="word-wrap:break-word"><span class="btext">TCOOO - Taking Reggae 2 New Heights's Latest Blog Entry&nbsp;</span>[<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.ConfirmSubscribe&amp;friendID=20117338">Subscribe to this Blog</a>]<br/><br/></td>
+		</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">The Devil is a Woman</span>&nbsp;
+					(<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=20117338&amp;blogID=311314177">view more</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">Judgment &amp; Justice in Jena.</span>&nbsp;
+					(<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=20117338&amp;blogID=311876148">view more</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">OJ Simpson arrested: Is this karma or what?</span>&nbsp;
+					(<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=20117338&amp;blogID=310600410">view more</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">Do you believe in psychic powers, voodoo or Black Magic?</span>&nbsp;
+					(<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=20117338&amp;blogID=310156578">view more</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">Did the U.S. help to build up Bin Laden?</span>&nbsp;
+					(<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.view&amp;friendID=20117338&amp;blogID=309870314">view more</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+				
+				
+		
+		<tr>
+			<td valign="top" align="left" bgcolor="ffffff" height="25">[<a href="https://web.archive.org/web/20070921023524/http://blog.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=20117338">View All Blog Entries</a>]</td>
+		</tr>
+	</table><br>
+
+								
+
+<table bordercolor="ffcc99" cellspacing="0" cellpadding="0" width="435" bgcolor="ffcc99" border="0">
+	<tr>
+		<td class="text" valign="center" align="left" width="300" bgcolor="ffcc99" height="17" wrap="" style="word-wrap:break-word">&nbsp;&nbsp;&nbsp;<span class="orangetext15">About&nbsp;TCOOO - Taking Reggae 2 New Heights</span></td>
+	</tr>
+	<tr>
+		<td>
+			<table bordercolor="000000" cellspacing="3" cellpadding="3" width="435" align="center" bgcolor="ffffff" border="0">
+				<tr>
+					<td valign="top" align="left" width="435" bgcolor="ffffff" style="word-wrap:break-word">
+						TCOOO (Taking Care Of Our Own) is a relatively new and growing reggae
+label.  The company was named TCOOO because of our strong beliefs in the
+teachings of Marcus Garvey and the importance of self reliance.  Rather
+than creating demos and shopping around for record deals, a group of
+artists decided to pool their resources together in order to achieve one
+ultimate goal.  Our goal is to spread our music to every corner of the
+earth.  We started out booking studio times to make beats, voice, record
+and mix until we were able to build our own studio.  Our first release was
+the rhythm driven Any Type War which produced two songs that enjoyed a
+lot of airplay and major spins in the clubs.  The two songs were Party all
+night by Dre and the controversial Stepping Razor by Bookman which still
+have people sending us mails even today about the songs comment regarding
+Colin Powell and the Bush administration.  We then release 18 Karat Reggae
+Gold which the XNews, a leading entertainment paper in Jamaica referred to
+as a Refreshing, Breath of Fresh Air.  The album did very well on Amazon
+and enjoyed thousands of downloads on sites like ITunes, MSN Music and
+Yahoo Music.  This was also the album that had people calling and writing
+us that they wanted to hear more from Vineyard.  Our plan was to release a
+third compilation before we started doing individual albums.  We had to
+change our plans however, because while we were in the studio working on
+the third compilation, people from far away as Ghana, Africa were writing
+and calling TCOOO saying they wanted to hear more music from Vineyard.
+While we all knew that Stolen Legacy was a classic song, we
+underestimated the impact it would have on people worldwide.  TCOOO is one
+for all and all for one, so we decided if the people wanted Vineyard that
+is what we will give them.  We wrapped up production on 18 Karat Reggae
+Gold 2006, but decided to only release it via digital downloads, so we
+could use the money we had to press CDs to instead work on Vineyards solo
+project.  We have released Vineyards CD and we are currently in the
+process of promoting and marketing it now.  Be on the lookout for Vineyard
+and the whole TCOOO crew on tour this summer. </br>
+
+
+<img src="https://web.archive.org/web/20070921023524im_/http://myspace-955.vo.llnwd.net/00736/55/90/736740955_m.jpg" border="0"/> <br/>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=69861253&amp;s=143441"> Click here to Buy '18 Karat Reggae Gold 2006' on ITunes</a>
+<br/><br/>
+<img src="https://web.archive.org/web/20070921023524im_/http://myspace-787.vo.llnwd.net/00736/78/79/736799787_m.jpg" border="0"/><br/>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=53787431&amp;s=143441"> Click here to  Buy '18 Karat Reggae Gold' on ITunes</a>
+<br/><br/>
+<img src="https://web.archive.org/web/20070921023524im_/http://myspace-584.vo.llnwd.net/00580/48/53/580513584_m.jpg" border="0"/><br/>
+<a href="https://web.archive.org/web/20070921023524/http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=5917173&amp;s=143441"> Click here to Buy 'Any Type War' on ITunes</a>
+<br/><br/>
+<b>DO YOU WANNA LIVE? by Vineyard</b>
+<b>Get the new album now</b>
+
+<img src="https://web.archive.org/web/20070921023524im_/http://myspace-806.vo.llnwd.net/00647/60/80/647800806_m.jpg" border="0"/>
+</b><br/>
+<a href="https://web.archive.org/web/20070921023524/http://www.cdbaby.com/vineyard">Click here to buy CD</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+								
+
+    <table bordercolor="000000" cellspacing="0" cellpadding="0" width="435" border="0" class="friendSpace">
+		<tr>
+			<td class="text" align="left" width="435" bgcolor="ffffff" height="20">
+			<table height="20" cellspacing="0" cellpadding="0" width="435" bgcolor="ffcc99">
+				<tr>
+					<td width="435" style="word-wrap:break-word">&nbsp;&nbsp;&nbsp;<span class="orangetext15">TCOOO - Taking Reggae 2 New Heights's Friend Space</span></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="5" width="435" align="center" border="0">
+				<tr>
+					<td bgcolor="ffffff" colspan="4" width="435" style="word-wrap:break-word">
+						<span class="btext">
+							TCOOO - Taking Reggae 2 New Heights&nbsp;has <span class="redbtext">47728</span> friends.
+						</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+							
+						
+						<table width="435" border="0" cellspacing="0" cellpadding="5" align="center">
+							<tr>
+									
+					
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=60746665" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl00_friendLink">T.L. vineyard</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=60746665" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl00_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a632.ac-images.myspacecdn.com/images01/18/s_d80cfadb806591bf123cf0f842bb1f1f.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=69389921" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl01_friendLink">High Grade Reggae</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=69389921" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl01_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://b1.ac-images.myspacecdn.com/00639/12/41/639021421_s.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=78021604" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl02_friendLink">Afayah</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=78021604" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl02_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://b3.ac-images.myspacecdn.com/01385/34/85/1385425843_s.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=190300880" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl03_friendLink">BonFire Inc</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=190300880" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl03_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a186.ac-images.myspacecdn.com/images01/74/s_65d55c5038550efba0149ba8160c0d81.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=77775119" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl04_friendLink">Dr. Serious</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=77775119" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl04_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://b7.ac-images.myspacecdn.com/01145/73/83/1145303837_s.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=79227972" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl05_friendLink">Stapler and Attorney</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=79227972" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl05_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://b5.ac-images.myspacecdn.com/00751/54/68/751478645_s.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=112886972" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl06_friendLink">ScorpianKing</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=112886972" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl06_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a744.ac-images.myspacecdn.com/images01/71/s_f783108f6ae2a791052905a38046f30f.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=111264443" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl07_friendLink">ZEEGO ZARRO</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=111264443" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl07_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://b0.ac-images.myspacecdn.com/01202/07/64/1202504670_s.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=157016226" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl08_friendLink">GIGI JAMES</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=157016226" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl08_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a691.ac-images.myspacecdn.com/images01/67/s_4295fbb3242c9f3390bba640c241c8da.jpg"></a><br>
+														
+														
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=67456896" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl09_friendLink">Track Set World Wide...</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=67456896" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl09_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a882.ac-images.myspacecdn.com/images01/17/s_644a48a36375272a090143227b011369.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=57321180" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl10_friendLink">Greg Peyer</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=57321180" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl10_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a672.ac-images.myspacecdn.com/images01/103/s_cebf7465fab2aacbed595eafa47fcdff.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=205608098" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl11_friendLink">Ras Berhanie Selassie</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=205608098" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl11_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a87.ac-images.myspacecdn.com/images01/127/s_15faa773da290b68d2f2c68c6b619f0e.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=61860265" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl12_friendLink">Gemini Fox</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=61860265" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl12_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a481.ac-images.myspacecdn.com/images01/14/s_41501952d2a9dc89bc5ad81c8cf55828.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=5689237" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl13_friendLink">Miles &quot;M.I&quot; Aaron</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=5689237" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl13_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a186.ac-images.myspacecdn.com/images01/109/s_32a65a4b90a18edc10cab5b571a03f51.jpg"></a><br>
+														
+														
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=886" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl14_friendLink">[MEGA]</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=886" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl14_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a980.ac-images.myspacecdn.com/images01/107/s_15113dcb9c8141725e6c654be15c3c5b.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=1273" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl15_friendLink">Queen Nefertiti</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=1273" id="ctl00_Main_ctl00_UserFriends1_FriendRepeater_ctl15_friendImageLink"><img src="https://web.archive.org/web/20070921023524im_/http://a788.ac-images.myspacecdn.com/images01/115/s_ed4af2cf6ff0dff12bae0c4e0c522fd3.jpg"></a><br>
+														
+														
+
+<br/>
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+												
+											
+											
+									</tr>
+								</table>
+											
+						
+						
+						
+
+						
+					</td>
+				</tr>
+				
+				<div id="ctl00_Main_ctl00_UserFriends1_pnlAllFriendsLink">
+	
+				<tr id="ctl00_Main_ctl00_UserFriends1_Tr1" valign="center" align="right">
+		<td bgcolor="FFFFFF" colspan="4">							
+								<a class="redlink" href="https://web.archive.org/web/20070921023524/http://friends.myspace.com/index.cfm?fuseaction=user.viewfriends&amp;friendID=20117338">
+								View All of
+								TCOOO - Taking Reggae 2 New Heights
+								's Friends</a>
+							<br><br>
+						</td>
+	</tr>
+	
+				
+</div>
+			</table>
+			</td>
+		</tr>
+	</table>
+	<br>
+
+
+						  </td>
+					 </tr>
+				</table>
+				
+
+<style type="text/css">
+.commentlinks a { font-weight:normal; font-size:9px; }
+</style>
+<script type="text/javascript">
+function confirmDeleteComment()
+{
+	return confirm("Are you sure you want to delete this comment?");
+}
+</script>
+
+<table bordercolor="000000" cellspacing="0" cellpadding="0" width="435" border="0" class="friendsComments">
+    <tr>
+        <td class="text" align="left" width="435" bgcolor="ffffff" height="20">
+            <table bordercolor="ffcc99" height="20" cellspacing="0" cellpadding="0" width="441" bgcolor="ffcc99" border="1">
+                <tr>
+                    <td width="441" style="word-wrap: break-word">
+                        <span class="orangetext15">
+                            TCOOO - Taking Reggae 2 New Heights's Friends Comments
+                        </span>
+                    </td>
+                </tr>
+            </table>           
+            
+            
+                 <table bordercolor="000000" cellspacing="3" cellpadding="0" width="435" align="center" bgcolor="ffffff" border="0">
+                
+                    <tr>
+                        <td>
+                            <b>Displaying<span class="redtext"> 50 </span>of<span class="redtext"> 11593 </span>comments&nbsp;
+                           ( <a href="https://web.archive.org/web/20070921023524/http://comment.myspace.com/index.cfm?fuseaction=user.viewComments&amp;friendID=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">View All</a> | <a href="https://web.archive.org/web/20070921023524/http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&amp;friendID=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">Add Comment</a> )
+                        </td>
+                    </tr>
+                
+                            <tr>
+                                <td bordercolor="ff9933" bgcolor="ffcccc">
+                                    <table width="100%" border="1" cellspacing="0" cellpadding="3" bordercolor="FFffff">
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=132413712">
+                                        Dean
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=132413712">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a371.ac-images.myspacecdn.com/images01/105/s_6e7fe58557bfdf61b468084336881c0a.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 4:54P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Bless up and respect.....
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=155050328">
+                                        TeaSea
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=155050328">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/no_pic.gif" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 4:05P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    WzUp UP, NICE PLACE 2 VISIT &amp; VOICE A WORD OR 2..KEEP IT UP. I DONT GET ON TILL LATE MOST OF THE TIME. SEE U SOON
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=25254172">
+                                        P-TOWN&#39;s GREATEST
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=25254172">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b0.ac-images.myspacecdn.com/01302/07/29/1302929270_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 3:34P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Nosheng dosen&#39;t understand what the pic on your profile is about!!! The noose is why all this stuff with the Jena six is going on right now. If those kids had never hung the nooses on that tree, the 6 young men wouldn&#39;t be languishing in prison
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=89673543">
+                                        Mizz.
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=89673543">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a110.ac-images.myspacecdn.com/images01/70/s_cbfd31752512e5093949d5716f148565.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 3:24P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    DO you even know what the Pic is about??? <br/>to the lady befor me.... <br/><br/>Yes my king free Jena six!! <br/>Bless up !
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=112266641">
+                                        NOSHENG
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=112266641">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a560.ac-images.myspacecdn.com/images01/61/s_04e03e92b62b5cceead017404ce63577.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 1:47P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    U have so brave heart i understand from your blogs but this photo of your profile won&#39;t be a good sample for young people i think... It can encourage them to do bad things..<br/>Take care G
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=88354988">
+                                        MISS ROOTS ROCK REGGAE
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=88354988">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b1.ac-images.myspacecdn.com/01087/18/92/1087422981_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 10:42A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    HAVE A GOOD DAY!!!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=38196961">
+                                        Damian - The SharpShooter®&trade;
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=38196961">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a342.ac-images.myspacecdn.com/images01/114/s_94e58507cd2b21cbc0856ee6609841e5.gif" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 9:14A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Peace to you brother.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=92139757">
+                                        HAROLD BEANE JR
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=92139757">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a323.ac-images.myspacecdn.com/images01/81/s_a10789869d5ad7ff98fe956d0aa70a5a.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 8:32A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    showing some luv
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=215799393">
+                                        Laura
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=215799393">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a711.ac-images.myspacecdn.com/images01/117/s_e497f687f668c6bf87ae1f04460d480e.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 7:44A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    bless ;]
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=246673138">
+                                        Empress~n~Ohio
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=246673138">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a505.ac-images.myspacecdn.com/images01/119/s_925a358e54f9d6c83cb8b0676ddbdbf8.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 6:53A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Stopping through to show you &amp; your oge some love!<br/><br/>JAH BLESS
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=226376401">
+                                        Gg &hearts; ~ oK ~ What-ever! ~
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=226376401">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a678.ac-images.myspacecdn.com/images01/97/s_315eaf3fa932df1063765115091c2dcd.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 20 2007 2:41A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Just stopping by to say hello.<br/>:)
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=61447248">
+                                        ...U R...
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=61447248">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a931.ac-images.myspacecdn.com/images01/55/s_1902aa1fa4e1a0c00445a1bf5d2059ba.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 11:30P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    bless!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=97163753">
+                                        D MILES&trade; AND THEY LOVE IT
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=97163753">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a962.ac-images.myspacecdn.com/images01/80/s_d77eaee97e27d00d89a8a8c57a48a4e1.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 7:09P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    WAS HOOD
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=34120590">
+                                        Fake DJ
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=34120590">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a787.ac-images.myspacecdn.com/images01/87/s_b6f622a7364ffd613c200b05ff8990fa.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 12:17P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hey Just letting you know about my new promo mix Session3. It&#39;s available to download on my page, the tracklisting is in my blog, let me know what you think of it.<br/>thanks :)
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=124838280">
+                                        cutie cute
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=124838280">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a716.ac-images.myspacecdn.com/images01/47/s_e1832e261812eb27f41fc08c75129463.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 7:57A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    whats up
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=47389416">
+                                        alegria
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=47389416">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b8.ac-images.myspacecdn.com/01454/88/60/1454910688_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 6:57A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    yeah.<br/>silly is right.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=72947548">
+                                        Mahogany
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=72947548">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a446.ac-images.myspacecdn.com/images01/110/s_a89ee327c3fa7e2b8562ba1be410a02d.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 19 2007 5:57A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanks for the ADD
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=191502288">
+                                        Milett
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=191502288">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a779.ac-images.myspacecdn.com/images01/106/s_7f6e72eb3db840023f113548cc42979a.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 10:13P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hey watz goOd juzt thOught I drOp thrOugh and shOw yOu and ur page sOme luv hOpe yOu dO the same
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=220726688">
+                                        Pseudo
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=220726688">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a583.ac-images.myspacecdn.com/images01/120/s_84ecd87360808308c14604a0507fd4ee.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 2:29P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Please read my blog at http://blog.myspace.com/index.cfm?fuseaction=blog.ListAll&amp;friendID=220726688<br/><br/>Kudos and comments welcome. I&#39;d love to hear your feelings about my posts. Really appreciate it so much.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=162183785">
+                                        Official Janbiggs pro page
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=162183785">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a290.ac-images.myspacecdn.com/images01/5/s_8c2322908f55d5c6e87c2085d1ebe6e9.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 1:48P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Passing through to bless ur page enjoy the rest of the day.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=59627872">
+                                        ajah83
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=59627872">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a173.ac-images.myspacecdn.com/images01/116/s_a2566ae1ba5e182b6f39d0cc1d94987c.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 9:19A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    long time no talk to just wanted to stop bye and say hello
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=137786435">
+                                        Breezi
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=137786435">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a774.ac-images.myspacecdn.com/images01/90/s_2b3dfec1ff03cdf23ddb690c5d2ff91d.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 9:02A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Just breezin&#39; through 2 bless up your space - hope everything is crisp! ONE Blessed Love
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=113033505">
+                                        In Memory of Mr. V
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=113033505">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b3.ac-images.myspacecdn.com/01223/38/57/1223077583_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 18 2007 6:32A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    it&#39;s a pleasure to meet you. great blogs! thanks for accepting.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=233693054">
+                                        Shadowgrrrl
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=233693054">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/no_pic.gif" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 17 2007 5:49P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Too cool.  Love the people on this site and dialogue.  Keep the posts commin.&#39;
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=98720958">
+                                        young bran
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=98720958">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b6.ac-images.myspacecdn.com/01005/64/66/1005876646_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 17 2007 4:35P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    JUST COME&#39;N THREW TO SHOW SUM LUV TO YA PAGE KEEP IT UP.CHECK OUT MY MUSIC TO THO CLICK ON MY PROFILE
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=229083163">
+                                        J. ENA 6
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=229083163">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a684.ac-images.myspacecdn.com/images01/80/s_903d779aaa61bb12be7c3471b83b10eb.png" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 17 2007 2:19P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    just showin one luv brudda!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=171850535">
+                                        Dancehall Nikky Spicy
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=171850535">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a299.ac-images.myspacecdn.com/images01/60/s_602a8f4f02a311db0962f7b46f682c32.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 17 2007 12:08P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    What’s up my friend ?everything’s cool ? nuff respect outta France
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=123525127">
+                                        jujugirl
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=123525127">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a964.ac-images.myspacecdn.com/images01/97/s_4d16c5c65990956d1aca18229ff15fe3.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 17 2007 5:18A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    thanks for the add my rasta baby and god bless u and to all what u are doing
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=173088889">
+                                        Collage In Three Persons~Blessed Trinity
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=173088889">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a2.ac-images.myspacecdn.com/images01/107/s_c7c574df6e0722ccc7f0c38905103fd9.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 7:12P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Loving the energy over here.  Respect!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=154483929">
+                                        Jive Connection
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=154483929">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a669.ac-images.myspacecdn.com/images01/6/s_32dfdf2f827e06b9dcb71adefaeffb94.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 5:35P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thank u for the add Rasman TCOOO yah Reggae is cool peace and love Jah guiadance one love Rastafarai.Norman Zulu/Jive Connection.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=245030763">
+                                        Dr. Laquisha Rice
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=245030763">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a963.ac-images.myspacecdn.com/images01/68/s_76ef413e22eaee07f4c5fc95bece5be2.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 4:55P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanx For The Add Sweetie..;)
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=99076365">
+                                        Preecha Kungo
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=99076365">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a1000.ac-images.myspacecdn.com/images01/51/s_773abe8f59ade11e000b7853921f0f6f.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 1:38P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    One love,one heart,one mind thank for the add feel free to stop by any time Rastafari live..........
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=84711712">
+                                        ~Mis~
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=84711712">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a401.ac-images.myspacecdn.com/images01/61/s_1917e22cd5f9ecd2616fec9a561cd738.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 8:45A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    How r u doin? Jut wanted to send some love.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=73896797">
+                                        Maria
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=73896797">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a253.ac-images.myspacecdn.com/images01/14/s_c35b4a5d676e67fe4180ea430f33932c.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 5:12A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    I was never fit to say a word to a sinner, except when I had a broken heart myself.<br/>      - Edward Payson
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=155050328">
+                                        TeaSea
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=155050328">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/no_pic.gif" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 16 2007 12:39A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    LOVE THE PLAIN TRUTH...THANKS FOR THE MAIL...THE CAPTIVES DONT SEEM 2 CARE ABOUT THEMSELFS...SOON.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=177536581">
+                                        Free the Jena 6
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=177536581">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a55.ac-images.myspacecdn.com/images01/96/s_0c710291434183365b34450fe9536be6.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 10:01P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    You REALLY have to change that song from your profile.  I&#39;m linking one to my profile... Energy from Afayah.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=113180190">
+                                         Queen Jah-Hari
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=113180190">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b9.ac-images.myspacecdn.com/01210/92/02/1210562029_s.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 3:46P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Peace&amp;Blessings!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=18974155">
+                                        .::* II doNT eVeN NeeD a HeaDliNE *::(CRUNKFEST07)
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=18974155">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a679.ac-images.myspacecdn.com/images01/83/s_57302d88e1905b150b79ca4a1b0b6b0e.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 2:04P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    COME OUT 2 MAH PARTY!!!!!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=29036885">
+                                        Spud (Todd Langwell)
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=29036885">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b7.ac-images.myspacecdn.com/00223/72/43/223923427_s.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 1:30P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    You&#39;ve got the best blog on Myspace... hands down!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=129482375">
+                                        mamacita*Gwen*
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=129482375">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a528.ac-images.myspacecdn.com/images01/83/s_04486c4df34182c9e5007209709a945f.gif" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 11:01A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    ♥I<br/>♥may<br/>♥not<br/>♥be<br/>♥the<br/>♥most<br/>♥important<br/>♥person<br/>♥in<br/>♥your<br/>♥LiFE<br/>♥I<br/>♥just<br/>♥hope<br/>♥that<br/>♥when<br/>♥you<br/>♥hear<br/>♥my<br/>♥name<br/>♥you<br/>♥smile<br/>♥&amp;<br/>♥say<br/>♥&quot;DATS MY HOMIE!&quot; ♥<br/>♥SEND TO ALL UR HOMIES THAT YOU LOVE
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=221981384">
+                                        kollateral
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=221981384">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a435.ac-images.myspacecdn.com/images01/99/s_2a58a9dabd6f5ab4444df5759470f44a.jpg" border="0"></a><br>
+                                       
+                                        
+<img src="https://web.archive.org/web/20070921023524im_/http://x.myspace.com/images/onlinenow.gif" width="80" height="20" alt="Is Online" class="ImgOnlineNow"/>
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 10:24A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    RESPECT BIG MAN.JUST A PASS BY.BLESSED.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=92675450">
+                                        MizzE
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=92675450">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a820.ac-images.myspacecdn.com/images01/88/s_5b5d244a60a098abea82cb40fc778e5b.gif" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 15 2007 5:45A
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Saint Theresa&#39;s Prayer<br/><br/>May today there be peace within.   <br/><br/>May you trust God that you are exactly where you are meant to be.   <br/><br/>May you not forget the infinite possibilities that are born of faith.   <br/><br/>May you use those gifts that you have received, and pass on the love that has been given to you.   <br/><br/>May you be content knowing you are a child of God.  Let this presence settle into your bones, and allow your soul the freedom to sing, dance, praise and love..   <br/><br/>It is there for each and every one of us. <br/><br/>Have a Blessed weekend my friend!<br/>Jah Love!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=46089189">
+                                        RAKELL
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=46089189">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a857.ac-images.myspacecdn.com/images01/119/s_b09547a5106d9fee751121570eeb41e8.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 8:10P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hey there, how is everything? Just stopping by to show some love... love the pics by the way!<br/>Check it out my new video * what u like* how u like it...<br/><br/>Keep it sexy,<br/><br/>Kell
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=105415727">
+                                        Mike
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=105415727">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://b9.ac-images.myspacecdn.com/01397/94/07/1397327049_s.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 8:05P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    I love how you talk about things so real and your blogs have a video that so goes with it. You&#39;re amazing with words and then have the little bit of audio to back it up and you&#39;ve got the Reggae down. Peace.
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=231826913">
+                                        Evidence
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=231826913">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a766.ac-images.myspacecdn.com/images01/95/s_a72f76b69f401540b5ebd2c27154e49d.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 7:23P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    1 Love, God Bless!!!<br/>~Evidence~
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=125368374">
+                                        Infinite Value
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=125368374">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a954.ac-images.myspacecdn.com/images01/49/s_66ace81fcd5106bdf94de8443b4131c1.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 6:32P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Peace and Blessings
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=97047341">
+                                        Planning on faking my DEATH!! 
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=97047341">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a903.ac-images.myspacecdn.com/images01/124/s_a46002777ff7d0e44b41ac86eddc2ba6.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 6:13P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hey stranger, how are you????
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=218922613">
+                                        SueT
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=218922613">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a834.ac-images.myspacecdn.com/images01/105/s_50295eca3229df8992458d2faa2a00a1.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 5:14P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    just stopping by to show lol
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=9377771">
+                                        Heaven
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=9377771">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a317.ac-images.myspacecdn.com/images01/102/s_305e3d2b3f678a44e1524195310dcf8c.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 1:06P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    comin thru showin love...MUAH!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=166594016">
+                                        CRAZY
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="https://web.archive.org/web/20070921023524/http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&amp;friendid=166594016">
+                                        <img src="https://web.archive.org/web/20070921023524im_/http://a398.ac-images.myspacecdn.com/images01/73/s_daf54570b369920d1cda96e229cf5015.jpg" border="0"></a><br>
+                                       
+                                        
+
+<br/>
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word">
+                                    <span class="blacktext10">
+                                        Sep 14 2007 12:16P
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    good job!
+                                </td>
+                            </tr>
+                        
+                            </table> </td> </tr> 
+                        
+                    <tr>
+            <td align="right">
+                <a href="https://web.archive.org/web/20070921023524/http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&amp;friendID=20117338&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324">
+                Add Comment</a>
+            </td>
+        </tr>
+        </table> </td>
+    </tr>
+</table>
+
+<img id="ctl00_Main_ctl00_UserComments1_indimg" width="1" height="1"/>
+		  </td>
+	 </tr>
+</table>
+
+
+	
+    
+    <script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/js/phs-006.js"></script>
+     <script type="text/javascript">
+        phscheck("Urgent Security Alert","<p><strong>Warning:</strong> You are submitting information to an outside site. This could be an attempt to steal your username and password.</p> <p>This is <strong>not</strong> a MySpace login page, please do not enter your MySpace login information (email address or password).</p> <p>Do you wish to continue your form submission?</p>","NO, CANCEL my button click","YES, I'll Continue Anyway","&raquo; Learn more about &quot;phishing&quot; &amp; your security");
+     </script>
+    
+
+<style>
+a .text 
+ {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+</style>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr bgcolor="#e5e5e5" valign="top">
+		<td>
+			<div align="center">
+                <div align="center"><br/>
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>About</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=misc.faq&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>FAQ</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=misc.terms&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>Terms</u></a>&nbsp;|&nbsp; 
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=misc.privacy&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>Privacy</u></a>&nbsp;|&nbsp;
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=help.safetytips&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324 %>" target="_blank"><u>Safety Tips</u></a>&nbsp;|&nbsp; 
+                    
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=misc.contact&amp;MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>Contact MySpace</u></a>&nbsp;|&nbsp; 
+                    
+                         <a class="text" href="https://web.archive.org/web/20070921023524/http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&amp;ProfileContentID=20117338" target="_blank"><u>Report Abuse</u></a>&nbsp;|&nbsp;   
+                    
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/modules/common/pages/sales.aspx?MyToken=69ba3335-5e74-470f-ba84-73f88c448324" target="_blank"><u>Advertise</u></a>&nbsp;|&nbsp; 
+                         
+                    <a class="text" href="https://web.archive.org/web/20070921023524/http://www.myspace.com/index.cfm?fuseaction=InternationalMap"><u>MySpace International</u></a>
+                      
+                 </div>
+                <br/>
+                <br/>
+                <font face="Arial, Helvetica, sans-serif" size="0">
+	                &copy;2003-2007 MySpace.com. All Rights Reserved.
+                </font>                
+                <script type="text/javascript">
+</script>
+
+													
+						<img src="https://web.archive.org/web/20070921023524im_/http://nb.myspace.com/isf.gif"/>	
+					
+
+			</div>
+		</td>
+	</tr>
+</table>
+
+<script src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/js/urchin001.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct="UA-812293-1";
+_udn="myspace.com";
+urchinTracker("/en-US/UserViewProfile");
+</script>
+
+	<style type="text/css">
+		body, html {visibility:visible !important; display:block !important}
+	</style>
+	
+<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/modules/common/static/js/global003.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20070921023524js_/http://x.myspace.com/modules/common/static/js/wddx.js"></script>
+
+	
+<iframe src="/web/20070921023524if_/http://www.myspace.com/" name="onl765407723xyz588905025" id="onl765407723xyz588905025" style="border:0;width:0;height:0;"></iframe>
+<script type="text/javascript">
+	onlineNowInfoURL="https://web.archive.org/web/20070921023524/http://onlinenow.myspace.com/OnlineNow/UsersOnline.html";
+	javaScriptURL="https://web.archive.org/web/20070921023524/http://x.myspace.com";
+	ImageStore=new Array();
+	ImageStore[0]=new Object();
+	ImageStore[0].url="https://web.archive.org/web/20070921023524/http://i.myspace.com";
+	ImageStore[0].baseID=0;
+	clearImage=new Image();
+	clearImage.src="https://web.archive.org/web/20070921023524/http://i.myspace.com/site/images/clear.gif";
+	onlineNowImage=new Image();
+	onlineNowImage.src="https://web.archive.org/web/20070921023524/http://x.myspace.com/images/onlinenow.gif";		
+</script>
+<script type="text/javascript" defer="defer">
+	window.setTimeout("onlineNowNodeParser=new OnlineNowNodeParser(\"onl765407723xyz588905025\");onlineNowNodeParser.run();", 100);
+</script>
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 02:35:24 Sep 21, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:57:00 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 1.045
+  exclusion.robots: 0.043
+  exclusion.robots.policy: 0.025
+  esindex: 0.033
+  cdx.remote: 14.613
+  LoadShardBlock: 425.058 (3)
+  PetaboxLoader3.datanode: 279.306 (4)
+  PetaboxLoader3.resolve: 518.277 (2)
+  load_resource: 415.603
+-->

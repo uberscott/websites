@@ -1,0 +1,1042 @@
+ <!-- --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+	
+
+	
+	
+
+	
+		
+	
+
+	
+
+	
+			
+				
+					
+
+<link rel="stylesheet" type="text/css" href="http://x.myspace.com/js/groups-001.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://x.myspace.com/js/navigation-001.css" media="all" />
+<div align="center">
+
+
+
+
+
+	
+	
+	
+
+
+
+    
+
+
+
+<!-- false -->
+<!-- 1 -->
+<!-- YES -->
+
+
+	
+	
+		
+		<!-- ELS2MWEBBLU0173 -->
+		<!-- GroupsListGroups -->
+		<html lang="en" xml:lang="en">
+		<head>
+			<title>MySpace</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<meta http-equiv="Content-Language" content="en" />
+			<meta http-equiv="expires" content="0">
+			<meta http-equiv="Pragma" content="no-cache">
+			<meta name="keywords" content="friends networking sharing photos finding friends blogs journals blogging journaling bands music rate pics join groups forums classifieds online social networking">
+			
+			
+			
+			
+        
+          <link rel="stylesheet" type="text/css" href="http://x.myspace.com/js/myspace.css">
+	
+        		
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/common/static/css/global016.css" />
+				
+
+
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/common/static/css/master.css" />
+				
+	
+        		
+			<link rel="stylesheet" type="text/css" href="http://x.myspace.com/js/google-003.css">
+	
+			<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/common/static/css/header/siteheader004.css">
+			
+		      	
+	
+	
+
+
+
+    
+
+		      
+			
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="http://x.myspacecdn.com/modules/common/static/js/system.web.extensions/1.0.61025.0/microsoftajax.js"></script>
+						
+			
+			
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+			
+				<script type="text/javascript" src="http://x.myspacecdn.com/modules/common/static/js/myspacejs056.js"></script>
+         		
+         		
+			<script type="text/javascript">
+				randomseed = Date.parse(new Date());				
+				
+			    //from var			
+					var ad_Topic_ID =	8;
+				
+			</script>
+        
+				
+			<script>
+				if(typeof Type==="undefined") throw "ASP.NET AJAX framework missing.";
+				Type.registerNamespace("MySpace");
+				
+				MySpace.ClientContext = {"UserId":0,"DisplayFriendId":0,"IsLoggedIn":false};
+				
+				
+				Type.registerNamespace("MySpaceRes");
+				
+				
+				MySpaceRes.Header = {"Cancel":"Cancel / Cancelación","Continue":"Continue / Continuar"};				
+			</script>
+			
+			
+        
+		</head>
+
+
+	<body bgcolor="e5e5e5" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" text="000000" alink="003399" vlink="003399" link="003399">
+
+		<script type="text/javascript">if(top != self){top.location.replace(self.location.href);}</script>
+      
+      <div align="center">
+        <div  style="background:white;width:960px;margin:0 auto;padding:0;">
+       
+			<!--[if lte IE 6]>
+<style type="txt/css">
+.loc2 a small { font-size:12px; } div.srchButton div input#submit { padding:5px 0 5px 0; } div#shortcuts {margin: 4px 0px 0px 5px !important; padding: 7px 0 0 7px !important;}
+</style>
+<![endif]-->
+<script type="text/javascript" >var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":0,"IsLoggedIn":false};
+
+MySpaceClientContext.PreferredCulture = 'en-US';
+</script><script type="text/javascript">
+var disableMSPLinks=1; 
+</script>
+
+<style type="text/css">
+#header * { font-family:verdana,arial,sans-serif,helvetica; }
+.popup_wrapper {z-index: 1000001 !important;}
+</style>
+<script type="text/javascript">
+	msglobalnav.applyAlphaImageLoader = function(id, url, method)
+	{
+        var el = document.getElementById(id);
+        if (el == null) return;
+        var img = new Image();
+        img.src = url;
+	    el.style.backgroundImage = 'none';
+		$addHandler(window, 'load', function()
+		{
+	        el.style.filter = 'progid:DXImagetransform.Microsoft.AlphaImageLoader(enabled="true", src="' + url + '", sizingMethod="' + method + '");';				
+		});
+    }	
+
+</script>
+<!--[if lte IE 6]>
+<style type="text/css">
+#headerWrap #header #topnav
+{
+	background: none !important;
+}
+</style>
+<![endif]-->
+<div id="header" class="clearfix globalWidth"><div id="leaderboard" class="clearfix globalLeaderboard"><div id="tkn_leaderboardDiv" style="height:90px;" align="center" ><div id="tkn_leaderboard"></div><script src="http://creative.myspace.com/cms/js/ad_wrapper0103.js" type="text/javascript"></script>
+<script type="text/javascript">
+sdc_wrapper("tkn_leaderboard", "/MySpaceGroups/GroupsList,12011001", "Frame1");
+</script>
+</div></div><div id="googlebar" class="clearfix"><div id="logo" class="global"><h1 class="mslogo"><a id="mshomelink" href="http://www.myspace.com" style="background-image:url(http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png);"><strong>MySpace</strong><em>a place for friends</em></a></h1></div>
+<div id="searchheader" class="global"><form id="srch" name="srch" onsubmit="return (document.getElementById('search_q').value.length &gt; 0);" action="http://searchservice.myspace.com/index.cfm?" method="get" style="padding:0;margin:0;"><input type="hidden" id="fuseaction" name="fuseaction" value="sitesearch.results" /><input type="hidden" id="search_t" name="type" value="Web" /><div class="srchfield"><div><div><input name="qry" id="search_q" maxlength="100" class="srchTextfld" type="text" value="" /><div id="srchMenu"><span class="loc2"><a id="searchTypeValue" onclick="msglobalnav.openSearchTypes();" onmouseout="msglobalnav.hideSearchTypes();">Web<small>&#9660;</small></a></span><div id="srchMenuList" onmouseover="msglobalnav.srchMenuList(true);" onmouseout="msglobalnav.srchMenuList(false);"><ul><li><a id="People" href="javascript:msglobalnav.switchSearchTypeTo('People')">People</a></li><li><a id="AllMySpace" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace')">MySpace</a></li><li><a id="Web" href="javascript:msglobalnav.switchSearchTypeTo('Web')">Web</a></li><li><a id="Music" href="javascript:msglobalnav.switchSearchTypeTo('Music')">Music</a></li><li><a id="MySpaceTV" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV')">Video</a></li></ul></div></div></div></div></div>
+<div class="srchButton"><div><input type="submit" name="submit" value="Search" id="submit" /></div></div>
+<div id="googleLogo" style="background-image:url(http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png);"><span>Powered by Google
+</span></div>
+</form></div>
+</div>
+<div id="topnav"><ul id="leftNav"><li><a href="http://www.myspace.com/">Home</a></li><li><a href="http://browseusers.myspace.com/Browse/Browse.aspx">Browse</a></li><li><a href="http://search.myspace.com/index.cfm?fuseaction=find">Find People</a></li><li><a href="http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="http://music.myspace.com/">Music</a></li><li><a href="http://vids.myspace.com/">MySpaceTV</a></li><li><a href="http://www.myspace.com/index.cfm?fuseaction=splash.more" id="nav0" onmouseover="msglobalnav.toggle('0',true);" onmouseout="msglobalnav.toggle('0',false);">More&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><a href="http://signup.myspace.com/index.cfm?fuseaction=join">Sign Up</a></li></ul></div>
+<div id="subnav"><ul id="subNav0" onmouseover="msglobalnav.subToggle('0',true);" onmouseout="msglobalnav.subToggle('0',false);"><li><a href="http://apps.myspace.com/Modules/AppGallery/Pages/featuredappgallery.aspx?fuseaction=apps">Apps Gallery</a></li><li><a href="http://classifieds.myspace.com/?cm_mmc_o=FYl5zgwCjCAlzCjCFzbEEzMCjCFzbEEzM">Classifieds</a></li><li><a href="http://events.myspace.com/">Events</a></li><li><a href="http://forums.myspace.com/?fuseaction=forums.home">Forums</a></li><li><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Groups</a></li><li><a href="http://collect.myspace.com/index.cfm?fuseaction=schools.main">Schools</a></li><li class="divider"><a href="http://blog.myspace.com/">Top Blogs</a></li><li><a href="http://www.myspace.com/myspaceim">IM</a></li><li class="divider"><a href="http://www.myspace.com/myspacemobile">Mobile</a></li><li><a href="http://celebrity.myspace.com/">Celebrity</a></li><li><a href="http://comedy.myspace.com/">Comedy</a></li><li><a href="http://games.myspace.com/?refid=myspace2">Games</a></li><li><a href="http://www.myspace.com/index.cfm?fuseaction=impact">Impact</a></li><li><a href="http://ksolo.myspace.com/">Karaoke</a></li><li class="last"><a href="http://movies.myspace.com/">Movies</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+</div>
+<!--[if lte IE 6]>
+<script type="text/javascript">
+msglobalnav.applyAlphaImageLoader('googlebar', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_msbar.png', 'scale');
+msglobalnav.applyAlphaImageLoader('mshomelink', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/mslogo.png', 'crop');
+msglobalnav.applyAlphaImageLoader('googleLogo', 'http://x.myspacecdn.com/modules/common/static/img/header/en-us/poweredbyGoogle.png', 'crop');
+msglobalnav.applyAlphaImageLoader('topnav', 'http://x.myspacecdn.com/modules/common/static/img/header/bkg_menubar.png', 'scale');
+</script>
+<![endif]-->
+<!-- EOH -->
+	
+			
+		
+
+		
+      
+	
+
+
+
+<style type="text/css">
+* html div#groupsmain a{font-size:100%;}
+div#groupsmain a{font-size:inherit;}
+/*google ad*/
+div#groupswideleft{width:500px;}
+div#groupsnarrowright{width:260px;}
+table#groupslist td.info{width:285px;}
+p.sortedby1 a#lnksortedby1,
+p.sortedby2 a#lnksortedby2,
+p.sortedby3 a#lnksortedby3{
+	font-weight:normal;
+	color:#000;
+	}
+
+div#gar_top,
+div#gar_bottom{
+	margin:1em 0;
+	}
+</style>
+<div id="groupsmain" class="results">
+	<h1><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.categories&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">MySpace Groups</a>&nbsp;<span class="pointer">&gt;</span> Cultures & Community</h1>
+	<p class="sortedby2">Sort by::
+		<a id="lnksortedby1" href="http://searchresults.myspace.com/index.cfm?fuseaction=groups.ListGroups&keyword=&advanced=0&searchCategory=0&searchString=&zipcode=&miles=any&searchtype=name&country=US&state=any&city=&userID=0&OrderBy=1&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">newest</a> | 
+		<a id="lnksortedby2" href="http://searchresults.myspace.com/index.cfm?fuseaction=groups.ListGroups&keyword=&advanced=0&searchCategory=0&searchString=&zipcode=&miles=any&searchtype=name&country=US&state=any&city=&userID=0&OrderBy=2&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">most popular</a> | 
+		<a id="lnksortedby3" href="http://searchresults.myspace.com/index.cfm?fuseaction=groups.ListGroups&keyword=&advanced=0&searchCategory=0&searchString=&zipcode=&miles=any&searchtype=name&country=US&state=any&city=&userID=0&OrderBy=3&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Group Name</a>
+	</p>
+	<form name="PageForm" action="http://searchresults.myspace.com/index.cfm" method="get">
+		<input type="hidden" name="fuseaction" value="groups.listGroups">
+		<input type="hidden" name="categoryID" value="8">
+		<input type="hidden" name="orderby" value="2">
+		<input type="hidden" name="advanced" value="0">
+		<input type="hidden" name="keyword" value="">
+		<input type="hidden" name="searchCategory" value="0">
+		<input type="hidden" name="searchString" value="">
+		<input type="hidden" name="searchType" value="name">
+		<input type="hidden" name="zipcode" value="">
+		<input type="hidden" name="miles" value="any">
+		<input type="hidden" name="country" value="US">
+		<input type="hidden" name="state" value="any">
+		<input type="hidden" name="city" value="">
+		<input type="hidden" name="userID" value="0">
+		<input type="hidden" name="page" value="">
+		<input type="hidden" name="xargstringp" value="">
+		<input type="hidden" name="xargstringn" value="">
+		<input type="hidden" name="lastpagesent" value="0">
+		<input type="hidden" name="get" value="1">
+		<input type="hidden" name="SearchBoxID" value="GroupSearchResultsPagination">
+		<input type=hidden name=Mytoken value=EF2920F7-004E-4E99-B2443E62C2C8AA7288078683>
+	</form>
+	<div id="groupsnarrowright">
+		<div class="groupssidelinks">
+			<ul>
+				<li><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.categories&z=1&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Groups Home</a></li>
+				<li><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.myGroups&userid=-1&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">My Groups</a></li>
+				<li><a href="http://groups.myspace.com/index.cfm?fuseaction=Groups.createGroup&lang=en&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Create Group</a></li>
+				
+					<li class="last"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.categories&advSearch=1&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Search Groups</a></li>
+				
+			</ul>
+		</div>
+		
+		
+			
+
+<script type="text/javascript" src="http://x.myspace.com/js/country-state-006.js"></script>
+<script type="text/javascript">
+	i18lSetCulture('en-US');
+	i19lSetCountries('AU','AT','CA','ES','FR','IE','IT','JP','MX','NL','NZ','UK','US','IE','DE','CN','CH','IN','BR','KR','NO','DK','FI','SE','RU','PL','TR','PT','BE');
+	i18lSetStrings("-- Please select --","loading...","There was a problem retrieving the data.","");//");//');
+	
+</script>
+
+<style type="text/css">
+div#advSrch{
+	background-color:#D6E8FC;
+	}
+div#advSrch th,
+div#advSrch td{
+	padding:0 0 3px 5px;
+	vertical-align:top;
+	}
+div#advSrch ul{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	}
+div#advSrch li{
+	margin:0;
+	padding:0 0 .4em;
+	float:left;
+	width:42%;
+	white-space:nowrap;
+	}
+div#advSrch select{
+	width:170px;
+	}
+
+/**/
+div#advSrch label.checkbox{
+	cursor:pointer;
+	}
+div#advSrch input.txt{
+	border:1px solid #A5ACB4;
+	width:170px;
+	padding-left:2px;
+	}
+
+/**/
+div#advSrch select#advSrchDistance{width:50px;}
+div#advSrch input#advSrchZip{width:60px;}
+div#advSrch input#advSrchSubmit{margin:0 0 5px 5px;}
+
+div.advanced div#advSrch{
+	border:1px solid #639ACE;
+	background-color:#fff;
+	}
+div.advanced div#advSrch li{
+	padding:0 1em .4em 0;
+	float:none;
+	display:inline;
+	width:auto;
+	white-space:nowrap;
+	}
+div.advanced div#advSrch th{
+	font-size:12px;
+	font-weight:normal;
+	text-align:left;
+	}
+
+div.results div#advSrch table *{
+	font-size:10px;
+	}
+div.results div#advSrch th{
+	color:#369;
+	font-weight:bold;
+	text-align:left;
+	}
+</style>
+<script type="text/javascript">
+function setSelect(pID,pSelectedValue){
+	var h=document.getElementById(pID);
+	if (h.options==undefined) return false;
+	for (var i=0; i<h.options.length; i++){
+		if (h.options[i].value == pSelectedValue){
+			h.selectedIndex = i;
+			break;
+		}//if
+	}//for
+}// fn: setSelect
+
+function setRadio(pIdList,pSelectedValue){
+	var aryIDs=pIdList.split(",");
+	for (var i=0; i<aryIDs.length; i++){
+		var h=document.getElementById(aryIDs[i]);
+		if (h != null) h.checked=(h.value == pSelectedValue);
+	}//for
+}// fn: setRadio
+
+function trim(i){i=i.replace(/([ \t\r\n\f])*$/gi,"");	return i.replace(/^([ \t\r\n\f])*/gi,"");}
+</script>
+
+<script type="text/javascript">
+function handleCountryChange(pCount){
+	var s=document.getElementById('advSrchStates');
+	if (pCount < 1){
+		s.options[0].text='N.A.';//';
+		s.options[0].value=-1;
+		s.disabled=true;
+	}else{
+		s.options[0].text='-- Any --';//';
+		s.options[0].value=0;
+		s.disabled=false;
+	}
+
+  var advSrchCountry=  document.getElementById('advSrchCountry');
+  var advSrchDistance = document.getElementById('advSrchDistance');
+  var advSrchZip = document.getElementById('advSrchZip');
+  
+  if(trim(advSrchCountry.value) != 'US'){	
+		advSrchDistance.disabled = true;
+		advSrchDistance.selectedIndex = 0;
+		advSrchZip.disabled = true;
+		advSrchZip.value = '';
+	}
+	else{
+		advSrchDistance.disabled = false;
+		advSrchZip.disabled = false;			
+	}	
+}
+	
+function chkSrch(){
+	var h=document.getElementById("advSrchString");
+	h.value= trim(h.value);
+	if(h.value == ""){
+		alert ("Enter either a group name or keyword in perform a search.");//");
+		h.focus();
+		return false;
+	}
+	return true;
+}
+</script>
+	<div id="advSrch">
+		<h3>Search Groups</h3>
+		<form name="advancedSearchForm" id="advSrchForm" action="http://searchresults.myspace.com/index.cfm" method="get"  onsubmit="return chkSrch();">
+		<input type="hidden" name="fuseaction" value="groups.listGroups">
+		<input type="hidden" name="advanced" value="1">
+		<input type="hidden" name="lang" value="en" />
+		<table>
+			<tr>
+				<th><label for="advSrchString">Keyword</label></th>
+				<td><input type="text" class="txt" name="searchString" id="advSrchString" value="" /></td>
+				</tr>
+			<tr>
+				<th><label for="">Search By:</label></th>
+				<td><input type="radio" name="searchType" id="advSrchType_Name" value="name" checked><label class="checkbox"
+					for="advSrchType_Name">Name</label>
+				<input type="radio" name="searchType" id="advSrchType_Key" value="key"><label class="checkbox"
+					for="advSrchType_Key">Keyword</label>
+				</td>
+				</tr>
+			<tr>
+				<th><label for="advSrchCategory">Category</label></th>
+				<td><select name="searchCategory" id="advSrchCategory">
+					<option value="-1" selected> All</option>
+					<option value="1">Activities</option><option value="2">Automotive</option><option value="3">Business & Entrepreneurs</option><option value="4">Cities & Neighborhoods</option><option value="5">Companies / Co-workers</option><option value="6">Computers & Internet</option><option value="7">Countries & Regional</option><option value="8">Cultures & Community</option><option value="9">Entertainment</option><option value="11">Family & Home</option><option value="31">Fan Clubs</option><option value="10">Fashion & Style</option><option value="12">Film & Television</option><option value="13">Food, Drink & Wine</option><option value="14">Games</option><option value="15">Gay, Lesbian & Bi</option><option value="16">Government & Politics</option><option value="17">Health, Wellness, Fitness</option><option value="18">Hobbies & Crafts</option><option value="19">Literature & Arts</option><option value="20">Money & Investing</option><option value="21">Music</option><option value="32">Nightlife & Clubs</option><option value="22">Non-Profit & Philanthropic</option><option value="23">Other</option><option value="24">Pets & Animals</option><option value="25">Places & Travel</option><option value="33">Professional Organizations</option><option value="26">Recreation & Sports</option><option value="27">Religion & Beliefs</option><option value="29">Schools & Alumni</option><option value="30">Science & History</option><option value="34">Sorority/Fraternities </option>
+					</select></td>
+				</tr>
+			<tr>
+				<th><label for="advSrchCountry">Country</label></th>
+				<td><select name="Country" id="advSrchCountry">
+					<option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegowina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocoa (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="CI">Cote Divoire</option><option value="CT">Croatia (Hrvatska)</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DS">DoDDs Schools</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="TP">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands (Malvinas)</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="YU">Former Yugoslavia</option><option value="FR">France</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard and Mc Donald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran (Islamic Republic of)</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KP">Korea,  Democratic Peoples Republic of</option><option value="KR">Korea,  Republic of</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Lao Peoples Democratic Republic</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libyan Arab Jamahiriya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macau</option><option value="MK">Macedonia, The Former Yugoslav Republic of</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="MX">Mexico</option><option value="FM">Micronesia, Federated States of</option><option value="MD">Moldova,  Republic of</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RO">Romania</option><option value="RU">Russian Federation</option><option value="RW">Rwanda</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovakia (Slovak Republic)</option><option value="SI">Slovenia</option><option value="Sb">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SH">St. Helena</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen Islands</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syrian ArabRepublic</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania,  United Republic of</option><option value="TH">Thailand</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United ArabEmirates</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City State(Holy See)</option><option value="VE">Venezuela</option><option value="VN">Viet Nam</option><option value="VG">Virgin Islands (British)</option><option value="VI">Virgin Islands (U.S.)</option><option value="EH">Western Sahara</option><option value="YE">Yeman</option><option value="ZR">Zaire</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option>
+					</select></td>
+				</tr>
+			<tr>
+				<td></td>
+				<td><select name="State" id="advSrchStates"><option value="-1">N.A.</option></select></td>
+				</tr>
+
+			<tr>
+
+				<td></td>
+				<td><select name="miles" id="advSrchDistance"  >
+					<option value="">Any</option>
+					<option value="5">5</option>
+					<option value="10">10</option>
+					<option value="25">25</option>
+					<option value="50">50</option>
+					<option value="100">100</option>
+					</select>
+					<label for="advSrchZip">miles from</label>
+					<input type="text" class="txt" name="zipcode" id="advSrchZip" maxlength="10" value=""  />
+					</td>
+				</tr>
+			<tr>
+				<th>Sort by:</th>
+					<td>
+						<input type="radio" name="OrderBy" id="advSrchOrderBy_1" value="1"><label for="advSrchOrderBy_1" class="checkbox">newest</label><br />
+						<input type="radio" name="OrderBy" id="advSrchOrderBy_2" value="2"><label for="advSrchOrderBy_2" class="checkbox">most popular</label><br />
+						<input type="radio" name="OrderBy" id="advSrchOrderBy_3" value="3"><label for="advSrchOrderBy_3" class="checkbox">Group Name</label>
+					</td>
+				</tr>
+		</table>
+		<input type="submit" id="advSrchSubmit" value="Search" />
+		</form>
+	</div>
+<script type="text/javascript">
+	setRadio( "advSrchOrderBy_3,advSrchOrderBy_2,advSrchOrderBy_1", "2");
+	setRadio( "advSrchType_Name,advSrchType_Key", "key");
+	setSelect( "advSrchDistance", "any" );
+	setSelect( "advSrchCategory", "8" );
+	i18lSetCallback(handleCountryChange);
+	i18lSetAddChoose(true);
+	i18lInitCountry(document.getElementById('advSrchCountry'),document.getElementById('advSrchStates'),'code',"US","any");
+</script>
+
+		
+		<br />
+		
+		
+			
+				
+				
+					
+					
+						
+					
+				
+					
+					
+				
+					
+					
+						
+					
+				
+					
+					
+						
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+						
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+			
+
+			
+			
+
+
+
+
+
+
+
+			<div id="side_google"><script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		str += '<DIV class=googleafc> <DIV class=vert> <DIV class=googlehdr>Sponsored Links</DIV> <DIV class=adcount4 id=gafc>';
+			for (l = 0; l < 4; l++)
+			{
+			if (google_ads[i] == null) break;
+			str += '<A onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" onmouseout="window.status=\'\';" href="' + google_ads[i].url + '" target=_blank><STRONG>' + google_ads[i].line1 + '</STRONG>  <P>' + google_ads[i].line2 + '<BR>' + google_ads[i].line3 + '</P><SPAN>' + google_ads[i].visible_url + '</SPAN></A>';
+			i++;
+			}
+			str += ' </DIV></DIV></DIV>';
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_ad_client = "fim_myspace_groups_js";
+var google_encoding = "utf8";
+var google_ad_channel = "fim_myspace_groups_list,fim_myspace_united-states";
+var google_cust_ch = 1185158580;
+var google_max_num_ads = 4;
+var google_ad_type = "text";
+var google_language = "en";
+var google_adtest = "off";
+var google_ed = "";
+var google_ad_output = "js";
+var google_safe = "high";
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+			
+		
+		
+	</div>
+	<div id="groupswideleft">
+		
+		<script language="JavaScript">
+function pgNxt(p){
+	document.PageForm.page.value=p;
+	document.PageForm.submit();
+}
+</script>
+
+<div class="pgnv">
+	<div class="pgnvlist">Listing 1-10 of 97472</div>
+	<div class="pgnvpgs">
+		<span class="pgnvhere" title="current page">1</span><a href="#" onclick="pgNxt(1)">2</a><a href="#" onclick="pgNxt(2)">3</a><a href="#" onclick="pgNxt(3)">4</a><a href="#" onclick="pgNxt(4)">5</a>
+		<a href="#" onclick="pgNxt('5')" title="go forward 5 pages">&gt;&gt;</a>
+		of 
+		<a href="#" onclick="pgNxt('9747')" title="go to last page">9748</a>
+	</div>
+	<div class="pgnvpvnt">&nbsp;<a href="#" onclick="pgNxt('1')" title="go forward one page">Next</a> &gt;</div>
+	<div class="pgnvbtm">&nbsp;<br />&nbsp;</div>
+</div>
+
+		<h3>Cultures & Community&nbsp;</h3>
+		<table cellspacing="1" id="groupslist">
+			
+				
+					
+					
+						
+						<tr valign="middle" class="text11 even">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100003313&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00000/00/53/123500_s.jpg " width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100003313&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Tattoos</a> 
+								(Private Group)
+								
+									<br />Biggest Tattoo group on MySpace&lt;br&gt;
+&lt;br&gt;
+Ok ppl's I am the NEW moderator of this group! My name is Bonnie and glad to be your mod.Thank you!&lt;br&gt;
+&lt;br&gt;
+~Bonnie
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100003313&groupname=Tattoos&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jun 14, 2004
+								<br /><strong>Members</strong> 45,585
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 odd">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100000841&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00001/92/55/1755529_s.jpg " width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100000841&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">I Was Made In The 80s!!</a> 
+								(Public Group)
+								
+									<br />All about the 80s ;)
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100000841&groupname=I%20Was%20Made%20In%20The%2080s%21%21&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jun 7, 2004
+								<br /><strong>Members</strong> 43,630
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 even">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100004120&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00000/27/94/14972_s.jpg " width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100004120&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Latinoz On The Houze</a> 
+								(Public Group)
+								
+									<br />Join this favorite latin group.&lt;br&gt;
+This is like no other latin group. We accept everyone as long as u dont spam unacceptable stuff. besides that come and join us an have fun.
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100004120&groupname=Latinoz%20On%20The%20Houze&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jun 16, 2004
+								<br /><strong>Members</strong> 30,001
+							</td>
+						</tr>
+					
+				
+					
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 odd">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100305419&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00014/09/40/14750490_s.jpg" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100305419&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Toking Times</a> 
+								(Private Group)
+								
+									<br />How will you remember your: Drive Thru Adventures,  Late Night Tokes,  Herbal Missions,  Spotting,  Sharing...How will you remember your "Toking Times"
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100305419&groupname=Toking%20Times&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Mar 22, 2005
+								<br /><strong>Members</strong> 26,426
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 even">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100091581&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00003/95/65/3185659_s.gif" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100091581&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Cool Group</a> 
+								(Public Group)
+								
+									<br />Cool group for cool people
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100091581&groupname=Cool%20Group&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Nov 26, 2004
+								<br /><strong>Members</strong> 26,326
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 odd">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=106369623&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00022/23/26/22676232_s.jpg" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=106369623&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">MYSPACE CHAT ROOM</a> 
+								(Public Group)
+								
+									<br />CHAT **MEET SOMEONE NEW**
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=106369623&groupname=MYSPACE%20CHAT%20ROOM&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jul 23, 2007
+								<br /><strong>Members</strong> 24,900
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 even">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100008406&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00018/46/55/18245564_s.jpg" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100008406&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">AsianScene Worldwide</a> 
+								(Public Group)
+								
+									<br />Networking and appreciating Asian beauty. Features models of AsianScene.com. Contact: asiansceneceo@aol.com
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100008406&groupname=AsianScene%20Worldwide&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jun 28, 2004
+								<br /><strong>Members</strong> 24,039
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 odd">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=101340909&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00006/98/18/6508189_s.jpg" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=101340909&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">EyeC@ndy LATINAZ & the Men ♥them</a> 
+								(Public Group)
+								
+									<br />All LATINAS / LATINOS of myspace join & the men who love us as well
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=101340909&groupname=EyeC%40ndy%20LATINAZ%20%26%20the%20Men%20%E2%99%A5them&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Oct 24, 2005
+								<br /><strong>Members</strong> 22,542
+							</td>
+						</tr>
+					
+				
+					
+					
+						
+						<tr valign="middle" class="text11 even">
+							<td class="photo"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100007823&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">
+									
+									
+										<img src="http://c.myspace.com/Groups/00003/39/89/3939893_s.jpg" width="55" height="55">
+									</a></td>
+							<td class="info"><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.groupProfile&groupID=100007823&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Irish Luck</a> 
+								(Public Group)
+								
+									<br />A group for anybody with Irish in them or anybody obsessed with Irish boys/girls.  &lt;3's for all you Irish people!  Ay
+								
+							</td>
+							<td><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.join&groupID=100007823&groupname=Irish%20Luck&categoryID=8&Mytoken=37B115AE-84CD-4124-B17D474F19765AD888078683">Join Group</a>
+								<br /><br /><strong>Founded:</strong> Jun 26, 2004
+								<br /><strong>Members</strong> 21,699
+							</td>
+						</tr>
+					
+				
+			
+		</table>
+		<script language="JavaScript">
+function pgNxt(p){
+	document.PageForm.page.value=p;
+	document.PageForm.submit();
+}
+</script>
+
+<div class="pgnv">
+	<div class="pgnvlist">Listing 1-10 of 97472</div>
+	<div class="pgnvpgs">
+		<span class="pgnvhere" title="current page">1</span><a href="#" onclick="pgNxt(1)">2</a><a href="#" onclick="pgNxt(2)">3</a><a href="#" onclick="pgNxt(3)">4</a><a href="#" onclick="pgNxt(4)">5</a>
+		<a href="#" onclick="pgNxt('5')" title="go forward 5 pages">&gt;&gt;</a>
+		of 
+		<a href="#" onclick="pgNxt('9747')" title="go to last page">9748</a>
+	</div>
+	<div class="pgnvpvnt">&nbsp;<a href="#" onclick="pgNxt('1')" title="go forward one page">Next</a> &gt;</div>
+	<div class="pgnvbtm">&nbsp;<br />&nbsp;</div>
+</div>
+
+		
+	</div>
+<p class="uberclear">.<!-- dspGroupList --></p>
+</div>
+</div>
+
+
+				
+			
+	
+    <style type="text/css">
+	    div#msft{background-color:#e5e5e5;width:100%;text-align:center;line-height:2em;}
+	    div#msft a{color:#039;font-family:Arial,Helvetica,sans-serif;font-weight:bold;text-decoration:underline;font-size:8pt;}
+	    div#msft a#cprt{color:#000;font-weight:normal;font-size:90%;}div#msft a:hover{color:#39e !important;}
+    </style>
+
+    
+	    
+	    
+	        
+    		    
+	        
+    		
+		    
+    		
+		    
+    
+
+    
+        <div id="msft">
+            <!-- Footer:Standard Start -->
+<script type="text/javascript">var displayAbuseReportLink = false;</script>
+<div id="footer"><BR><A class=text href="http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target=_blank><U>About</U></A> | <A class=text href="http://www.myspace.com/index.cfm?fuseaction=misc.faq" target=_blank><U>FAQ</U></A> | <A class=text href="http://www.myspace.com/index.cfm?fuseaction=misc.terms" target=_blank><U>Terms</U></A> |  <A class=text href="http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target=_blank><U>Privacy Policy</U></A> | <A class=text href="http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&placement=safetysite" target=_blank><U>Safety Tips</U></A> | <A class=text href="http://www.myspace.com/index.cfm?fuseaction=misc.contact" target=_blank><U>Contact MySpace</U></A> |
+<SCRIPT type=text/javascript>
+if(displayAbuseReportLink == true)
+{
+document.write("<a hr" + "ef='http://collect.myspace.com/index.cfm?fuseaction=misc.contactInput&ProfileContentID=" + MySpace.ClientContext.DisplayFriendId + "' target=\"_blank\" class=\"text\"><u>Report Abuse</u><" + "/a> | ");
+}
+</SCRIPT>
+ <A class=text href="http://www.myspace.com/modules/common/pages/sales.aspx" target=_blank><U>Advertise</U></A> | <A class=text href="http://www.myspace.com/index.cfm?fuseaction=InternationalMap"><U>MySpace International</U></A> <span id="msLatino">| <A href="http://latino.myspace.com")><U>MySpace Latino</U></A></span>
+<script type="text/javascript">
+    function hideLatinoForGames(){
+        var sUrl = document.URL;
+        if(sUrl.indexOf('fuseaction=games')>-1){            
+            var msLatino = document.getElementById('msLatino');
+            if(msLatino!=null)msLatino.style.display='none';
+        }
+    } 
+hideLatinoForGames();
+</script>
+<SCRIPT type=text/javascript>
+var intlProfileVisibleStr = "False";
+intlProfileVisibleStr = intlProfileVisibleStr.toLowerCase();
+
+if(intlProfileVisibleStr == "true")
+{
+document.write("| <a href=\"http://www.myspace.com/myspaceusa\" class=\"text\" ><u>MySpace USA</u></a>");
+}
+</SCRIPT>
+<script>	
+function popLanguageOverlay(culture, url)
+{
+        MySpace.UI.Header.languageLinkClick(culture, url, 1);
+}	
+</script>
+ 
+ 
+
+<br /><br />&copy;2003-2008 MySpace.com. All Rights Reserved.
+
+</div>
+<script type="text/javascript"> var updateClientTimeZone = 1; </script><!-- Footer:Standard End -->
+
+        </div>
+    
+    
+      </div>
+    
+
+    
+        
+
+
+
+
+	
+	
+
+
+
+    
+    
+	
+         
+		<script type="text/javascript" src="http://x.myspacecdn.com/modules/common/static/js/global031.js"></script>
+         
+    
+</body>
+</html>
+		
+
+
+	
+
+
+
+<!-- onRequestEnd -->
+
+	
+
+
+

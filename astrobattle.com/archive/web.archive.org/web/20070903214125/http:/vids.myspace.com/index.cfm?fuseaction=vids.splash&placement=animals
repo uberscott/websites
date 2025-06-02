@@ -1,0 +1,562 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=animals","20070901063954","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1188628794");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+<!-- *** ELS2MWEBNET1757 *** --><meta http-equiv="content-type" content="text/html; charset=UTF-8"/><title>
+	MySpaceTV:  Animals 
+</title><meta name="description" content="Upload and share videos, find and watch funny clips, vote and comment on your favorites, subscribe to online video channels, add cool videos to your MySpace profile at MySpaceTV.com"/><meta name="keywords" content="videos,watch,share,upload,trailers,movies,films,tv shows,music videos,video games,commercials,animation,view,babes,girls,cartoons,clips,tag,funny"/><meta http-equiv="expires" content="0"/><meta http-equiv="Pragma" content="no-cache"/><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070901063954cs_/http://x.myspace.com/js/google-003.css"/><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070901063954cs_/http://x.myspace.com/css/myspacetv/header-001.css"/><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070901063954cs_/http://x.myspace.com/css/myspacetv/layout-001.css"/><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070901063954cs_/http://x.myspace.com/css/myspacetv/common-007.css"/><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20070901063954cs_/http://x.myspace.com/css/myspacetv/videos-004.css"/>
+	<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/video-007.js"></script>
+	<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/wordBreak-004.js"></script>
+	<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/prototype.js"></script>
+	<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/ajax-functions-012.js"></script>
+	<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/simple-drag-001.js"></script>
+	
+<meta name="verify-v1" content="7YGMEkLzqZwwDvnyumG9QeSJq7JgzCye9uyzdjF5j0s="/>
+
+<style type="text/css">
+ /* ----------------------------------------------------------------------- *|
+		Animals Home Page Variant: "brown"
+|* ----------------------------------------------------------------------- */
+
+/*	we're going to approach this by OVERWRITING the built-in styles for the home page.
+	this would make sense if we wanted to put all of our home variants in a common 
+	externally linked CSS.
+*/
+
+/* Hot Video */
+div#hotvideo,
+div#hotvideo h5{
+	background:#663300;
+}
+
+/* subnav corners : Blue */
+div#nav_sub{
+	background-color:#663300;
+	}
+div#nav_sub,
+div#nav_sub div,
+div#nav_sub div div,
+div#nav_sub div div div{
+	background-image:url(https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/content/myspacetv/animals/rounded-tabs-subnav-brown.gif);
+	}
+
+/* tabs: Blue */
+div#vids_tabs li a span{background-image:url(https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/content/myspacetv/animals/brown-tab-left.gif);}
+div#vids_tabs li a{
+	color:#31426f;
+	background-color:#663300 ;
+	background-image:url(https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/content/myspacetv/animals/brown-tab-right.gif)
+	}
+div#vids_tabs li a:hover{
+	color:#fff;
+	background-color:#b87f7f;
+	}
+div#vids_tabs li a:hover span{	}
+
+/* highlight the selected tab, which for us, is always the "Home" (aka Featured) tab */
+div#vids_tabs.featured li#nav_tab_featured a{
+	color:#fff;
+	background-color:#663300;
+	}
+div#vids_tabs.featured li#nav_tab_featured a:hover{
+	color:#ffde00;
+	}
+
+/* now let's set the color of the selected SubNav link ... THIS page's name */
+div#nav_sub a.selected{
+	color:#ffde00;
+}
+
+</style>
+
+<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://x.myspace.com/js/myspacetv/swfobject.js"></script>
+<script type="text/javascript">var tvcatmasterid=2;var tvcat=1;var videoid=5198932;var tvchanid=43771828;</script>
+
+	<script type="text/javascript" id="scriptJSConfig" src="/web/20070901063954js_/http://vids.myspace.com/index.cfm?fuseaction=vids.jsconfig&amp;culture=en-US&amp;ver=1.02"></script>
+	<link rel="shortcut icon" href="https://web.archive.org/web/20070901063954im_/http://x.myspace.com/images/myspacetv/favicon.ico"/>
+<script type="text/javascript" language="JavaScript">var ageRange=0; var userGender='M';</script>
+<script type="text/javascript" src="https://web.archive.org/web/20070901063954js_/http://creative.myspace.com/doubleclick/js/syncbanner.js"></script></head>
+<body id="myspacetvbody" class="home_animals">
+<div id="vids_page">
+	
+<div id="header">
+	<form id="srch" method="get" action="/web/20070901063954/http://vids.myspace.com/index.cfm" onsubmit="return validateHeadSearch(Resources.header_alert_searchempty);">
+	<input name="SearchBoxID" value="SplashHeader" type="hidden"/>
+	<input name="fuseaction" value="vids.search" type="hidden" id="srchfuse"/>
+	<table id="header_components">
+		<tr>
+			<td id="header_logo" rowspan="2"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash"><img src="https://web.archive.org/web/20070901063954im_/http://x.myspace.com/images/myspacetv/tv-beta-logo.png" alt="myspacetv.com" height="56" width="261"/></a></td>
+			<td id="header_links">
+				<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=splash">MySpace.com</a> | 
+				<a href="https://web.archive.org/web/20070901063954/http://home.myspace.com/index.cfm?fuseaction=user">MySpace Home</a> | 
+				<a href="https://web.archive.org/web/20070901063954/http://messaging.myspace.com/index.cfm?fuseaction=mail.inbox">Mail</a> | 
+				<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.help">Help</a> | 
+				<a href="https://web.archive.org/web/20070901063954/http://signup.myspace.com/index.cfm?fuseaction=join&amp;MyToken=e9ac0a96-b22a-4ce0-a771-acf583bced2f">SignUp</a>
+				<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/"><img alt="a MySpace Site" src="https://web.archive.org/web/20070901063954im_/http://x.myspace.com/images/myspacetv/a-myspace-site.gif" align="absbottom" height="14"/></a>
+			</td>
+		</tr>
+		<tr>
+			<td id="header_search">
+				<span id="searchButton"><input type="submit" value="Search"/></span>
+				<input type="text" name="q" id="srchq"/>
+				<select name="t" id="srchtype">
+					<option value="tvid" selected="selected">Videos</option>
+					<option value="tms">MySpace</option>
+					<option value="tpeople">People</option>
+					<option value="tweb">Web</option>
+					<option value="tmusic">Music</option>
+					<option value="tvideos">Music Videos</option>
+					<option value="tblog">Blogs</option>
+					<option value="tevents">Events</option>
+				</select>
+				<br/><img id="googleLogo" alt="powered by Google" src="https://web.archive.org/web/20070901063954im_/http://x.myspace.com/images/myspacetv/powered-by-google.gif"/>
+			</td>
+		</tr>
+	</table>
+	</form>
+</div><!-- header -->
+	<div id="pagecontent">
+		
+
+<div id="vids_tabs" class="featured">
+	<ul>
+		<li id="nav_tab_featured"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash"><span>Home</span></a></li>
+		<li id="nav_tab_videos"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts"><span>Video Charts</span></a></li>
+		<li id="nav_tab_categories"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.categories"><span>Categories</span></a></li>
+		
+			<li id="nav_tab_channels"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channels"><span>Channels</span></a></li>
+		
+		<li id="nav_tab_myvideos"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.myVideos"><span>My Videos</span></a></li>
+	</ul>
+	<a id="upload_videos_link" href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.upload">Upload Videos</a>&nbsp;
+	<div id="nav_sub"><div><div><div><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=all">Home</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=animals">Animals</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=comedy">Comedy</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=entertainment">Film</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=games">Games</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=music">Music</a> | <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.splash&amp;placement=sports">Sports</a>&nbsp;</div></div></div></div>
+</div>
+
+ <h1>Funny Animals and Pets</h1> 
+
+<div id="layout_home">
+	<table>
+		<tr>
+			<td class="col_1">
+<div id="hotvideo">
+	<h5>Hot Video</h5>
+	<div id="flashcontent"><blockquote>Hello, you either have JavaScript turned off or an old version of Macromedia's Flash Player. <a href="https://web.archive.org/web/20070901063954/http://www.macromedia.com/go/getflashplayer/">Click here</a> to get the latest flash player.</blockquote></div>
+	<table>
+		<tr>
+			<td>
+				<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=5198932">Lion Hugs Woman</a></h2>
+				<h3 class="author">Added: <span>Friday, January 12, 2007 5:57 PM</span>
+					<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=43771828">Dave</a></a>
+				</h3>
+			</td>
+			<td id="rating_box">
+				<div class="rating">Rating<strong><span style="font-weight:bold;font-size:23px;">96%</span></strong></div>
+				<div id="rate_btns" class="rate_btns">
+					<div id="rate_yes"><a href="javascript:LoginAlert(Resources.login_alert);">Booyah !</a></div>
+					<div id="rate_no"><a href="javascript:LoginAlert(Resources.login_alert);">No Way !</a></div>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<div class="description">Crazy Lady hugging a Lion.</div>
+				<div class="metrics">Plays: <span>322,064</span> |
+					<span id="profile"><a href="javascript:LoginAlert(Resources.login_alert);">Add to Profile</a></span> |
+					<span id="favorites"><a href="javascript:LoginAlert(Resources.login_alert);">Save to favorites</a></span>
+				</div>
+			</td>
+		</tr>
+	</table>
+</div>
+
+<script type="text/javascript">
+function getVarOrNull(name){
+	var v = eval("typeof("+name+")");
+	if (v == "undefined")
+		return null;
+	return eval(name);
+}
+</script>
+<script type="text/javascript">
+	// <![CDATA[
+	var m = 1727595850;
+	var s = "https://web.archive.org/web/20070901063954/http://lads.myspace.com/videos/myspacetv_vplayer0005.swf";
+	var so = new SWFObject( s , "vplayer", "350", "281", "8", "#000000");
+	
+	so.addVariable("m", m);
+	so.addVariable("a", "0");
+	so.addVariable("ap", "1");
+	so.addVariable("v", "2");
+	so.addVariable("culture", "en-US");
+	so.addParam("allowscriptaccess", "always");
+	so.write("flashcontent");
+	// ]]>
+</script>
+<script type="text/javascript">
+	fl_init(false,null,1727595850);
+</script>
+
+</td>
+			<td class="col_2">
+    <h5 class="lime"><div><a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=17036440">The Countdown</a></div></h5>
+    <div class="promoSpot">
+			<a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=17036440"><img alt="" src="https://web.archive.org/web/20070901063954im_/http://cms.myspacecdn.com/cms/MySpaceTV_Home_All/Featured_Spots_All/8_30_countdown.jpg"/></a> 
+			Episode Three, Rag &amp; Bone.
+    </div>
+  
+    <h5 class="lime"><div><a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=17118886">On the Road with DMB - Part 2</a></div></h5>
+    <div class="promoSpot">
+			<a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=17118886"><img alt="" src="https://web.archive.org/web/20070901063954im_/http://cms.myspacecdn.com/cms/MySpaceTV_Home_All/Featured_Spots_All/8_31_DMB.jpg"/></a> 
+			More behind the scenes DMB summer tour footage!
+    </div>
+  
+    <h5 class="lime"><div><a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=2052919040">"Great World of Sound" Trailer</a></div></h5>
+    <div class="promoSpot">
+			<a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;videoid=2052919040"><img alt="" src="https://web.archive.org/web/20070901063954im_/http://cms.myspacecdn.com/cms/MySpaceTV_Home_All/Featured_Spots_All/8_30_sound.jpg"/></a> 
+			An audience-pleasing riff on the dirty underbelly of the American Idol.
+    </div>
+  
+    <h5 class="lime"><div><a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16985510">The Tales Of A Meaty-Breasted Zilch</a></div></h5>
+    <div class="promoSpot">
+			<a href="https://web.archive.org/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16985510"><img alt="" src="https://web.archive.org/web/20070901063954im_/http://cms.myspacecdn.com/cms/MySpaceTV_Home_Games/Featured_Spots_Games/8_29_norton.jpg"/></a> 
+			Episode 2 of 3. Stories from comic Jim Norton's childhood.
+    </div>
+  </td>
+			<td class="col_3">
+				<div id="home_ad"><div id="tkn_medrec"></div></div>
+				<div style="BACKGROUND-IMAGE: url(https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/myspacetv_help.jpg); WIDTH: 300px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 200px">
+<div style="PADDING-LEFT: 90px; FONT-SIZE: 13px; COLOR: black; PADDING-TOP: 50px; FONT-FAMILY: verdana">Need help? Checkout our MySpaceTV Community and get the latest FAQs<br>
+<ul>
+<li><a href="https://web.archive.org/web/20070901063954/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=ca3d0286-e222-4318-982c-5d94870407e1&amp;_u=http%3a%2f%2fwww.myspace.com%2faplaceforvideo" onmouseover="window.status='https://web.archive.org/web/20070901063954/http://www.myspace.com/aplaceforvideo';return true;" onmouseout="window.status='';">MySpaceTV FAQ</a> 
+<li><a href="https://web.archive.org/web/20070901063954/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=ca3d0286-e222-4318-982c-5d94870407e1&amp;_u=http%3a%2f%2fwww.myspace.com%2fModules%2fCommon%2fPages%2fTermsConditions.aspx" onmouseover="window.status='https://web.archive.org/web/20070901063954/http://www.myspace.com/Modules/Common/Pages/TermsConditions.aspx';return true;" onmouseout="window.status='';">Terms and Conditions</a> 
+<li><a href="https://web.archive.org/web/20070901063954/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=ca3d0286-e222-4318-982c-5d94870407e1&amp;_u=http%3a%2f%2fwww.myspace.com%2findex.cfm%3ffuseaction%3dcms.viewpage%26placement%3dsafetytips" onmouseover="window.status='https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safetytips';return true;" onmouseout="window.status='';">Safety Tips</a> </li></ul></div></div>
+			</td>
+		</tr>
+	</table>
+</div>
+<div id="layout_home2">
+	<table>
+		<tr>
+			<td class="col_2">
+				
+<h5 class="orange marBottom5"><div>More Featured Videos</div></h5>
+
+<table class="featuredVideoList">
+	<tr>
+		<td class="still"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16599781" class="still"><img src="https://web.archive.org/web/20070901063954im_/http://myspace-590.vo.llnwd.net/02054/09/56/2054966590_thumb1.jpg"/></a>
+		<td class="detail">
+			<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16599781">Cute Baby Bunny Grooming</a></h2>
+			<div class="text"><strong>Runtime: 0:32</strong></div>
+			<div class="description">Cute Baby Bunny Grooming</div>
+			<div class="text">
+				Added: <span>7 days ago</span> 
+				<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=58715194">~*annyong haseyo,chonun essie*~</a>
+				<br/>Plays: <span>45,503</span> Comments: <span>182</span>
+				<br/>Tags: <a href="index.cfm?fuseaction=vids.search&amp;t=Baby">Baby</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=Bunny">Bunny</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=Cute">Cute</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=Grooming">Grooming</a>
+				<br/>Categories: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=4">Comedy and Humor</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=5">Entertainment</a>
+			</div>
+		</td>
+		<td class="rating"><div class="rating">Rating:<strong>85%</strong></div></td>
+	</tr>
+</table>
+<table class="featuredVideoList">
+	<tr>
+		<td class="still"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=5400191" class="still"><img src="https://web.archive.org/web/20070901063954im_/http://myspace-687.vo.llnwd.net/01773/78/66/1773216687_thumb1.jpg"/></a>
+		<td class="detail">
+			<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=5400191">confused kitten</a></h2>
+			<div class="text"><strong>Runtime: 1:45</strong></div>
+			<div class="description">kitten playing with cats on a tv screen</div>
+			<div class="text">
+				Added: <span>7 months ago</span> 
+				<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=150317706">Barbie</a>
+				<br/>Plays: <span>36,286</span> Comments: <span>214</span>
+				<br/>Tags: <a href="index.cfm?fuseaction=vids.search&amp;t=kitten">kitten</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=silly">silly</a>
+				<br/>Categories: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=4">Comedy and Humor</a>
+			</div>
+		</td>
+		<td class="rating"><div class="rating">Rating:<strong>86%</strong></div></td>
+	</tr>
+</table>
+<table class="featuredVideoList">
+	<tr>
+		<td class="still"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16601567" class="still"><img src="https://web.archive.org/web/20070901063954im_/http://myspace-977.vo.llnwd.net/02054/77/91/2054971977_thumb1.jpg"/></a>
+		<td class="detail">
+			<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=16601567">octopus break out</a></h2>
+			<div class="text"><strong>Runtime: 0:39</strong></div>
+			<div class="description">octopus escapes through tiny hole in some dude&#39;s box</div>
+			<div class="text">
+				Added: <span>7 days ago</span> 
+				<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=233644809">noneja</a>
+				<br/>Plays: <span>252,949</span> Comments: <span>171</span>
+				<br/>Tags: <a href="index.cfm?fuseaction=vids.search&amp;t=break">break</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=octopus">octopus</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=out">out</a>
+				<br/>Categories: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>
+			</div>
+		</td>
+		<td class="rating"><div class="rating">Rating:<strong>89%</strong></div></td>
+	</tr>
+</table>
+<table class="featuredVideoList">
+	<tr>
+		<td class="still"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=14865914" class="still"><img src="https://web.archive.org/web/20070901063954im_/http://myspace-817.vo.llnwd.net/02049/71/83/2049643817_thumb1.jpg"/></a>
+		<td class="detail">
+			<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=14865914">Spider Cat</a></h2>
+			<div class="text"><strong>Runtime: 0:47</strong></div>
+			<div class="description">Watch as this Cat climbs the side of a vertical wall, simply amazing!</div>
+			<div class="text">
+				Added: <span>28 days ago</span> 
+				<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=204566">Freddy Four Fingers</a>
+				<br/>Plays: <span>56,385</span> Comments: <span>184</span>
+				<br/>Tags: <a href="index.cfm?fuseaction=vids.search&amp;t=Cat">Cat</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=Spider">Spider</a>
+				<br/>Categories: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=4">Comedy and Humor</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=5">Entertainment</a>
+			</div>
+		</td>
+		<td class="rating"><div class="rating">Rating:<strong>92%</strong></div></td>
+	</tr>
+</table>
+<table class="featuredVideoList">
+	<tr>
+		<td class="still"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=15774403" class="still"><img src="https://web.archive.org/web/20070901063954im_/http://myspace-888.vo.llnwd.net/02052/88/82/2052512888_thumb1.jpg"/></a>
+		<td class="detail">
+			<h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.individual&amp;VideoID=15774403">Cone Snail Eats a Live Fish Whole</a></h2>
+			<div class="text"><strong>Runtime: 0:12</strong></div>
+			<div class="description">This is pretty cool. A cone snail catches and devours a fish whole.</div>
+			<div class="text">
+				Added: <span>18 days ago</span> 
+				<br/>By: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;channelid=202155058">Jason the Vid Guy</a>
+				<br/>Plays: <span>434,013</span> Comments: <span>758</span>
+				<br/>Tags: <a href="index.cfm?fuseaction=vids.search&amp;t=cone">cone</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=eat">eat</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=fish">fish</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=kill">kill</a>, <a href="index.cfm?fuseaction=vids.search&amp;t=snail">snail</a>
+				<br/>Categories: <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=6">Extreme Videos</a>
+			</div>
+		</td>
+		<td class="rating"><div class="rating">Rating:<strong>88%</strong></div></td>
+	</tr>
+</table>
+				<div class="moreFeaturedVideoLinks"><div style="padding:10px">Featured videos are picked by MySpaceTV's editors. See more featured videos in <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=1">Animals</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=4">Comedy</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=5">Film</a>, <a href="https://web.archive.org/web/20070901063954/http://profile.myspace.com/index.cfm?fuseaction=cms.goto&amp;_i=57e03b6b-a252-462f-9b5e-49fbc8952dad&amp;_u=http%3a%2f%2f10.40.31.202%2findex.cfm%3ffuseaction%3dvids.splash%26placement%3dgames" onmouseover="window.status='https://web.archive.org/web/20070901063954/http://10.40.31.202/index.cfm?fuseaction=vids.splash&amp;placement=games';return true;" onmouseout="window.status='';">Games</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=9">Music</a>, <a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.charts&amp;category=14">Sports</a>, <br><br>Have you seen a video we should feature? <a href="https://web.archive.org/web/20070901063954/mailto:videos@myspace.com">Send us a Link.</a></div></div>
+			</td>
+			<td class="col_3">				
+<h5 class="blue"><div>Featured Channels</div></h5>
+<table id="home_featured_channels">
+<tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=216217522" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://cms.myspacecdn.com/cms/MySpaceTV_Home_All/Featured_Channels_All/actionsports_animated.gif"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=216217522">Action Sports</a></h2>
+			<div class="text"><span>Videos 3</span>
+				<br/>Plays : 73,648</span>
+				<br/>Subscribers: <span>0</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=41603551" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/fashion.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=41603551">MySpace Fashion</a></h2>
+			<div class="text"><span>Videos 30</span>
+				<br/>Plays : 489,183</span>
+				<br/>Subscribers: <span>748</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=26544757" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_Games/Featured_Channels_Games/0706_planet.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=26544757">OurPlanet</a></h2>
+			<div class="text"><span>Videos 13</span>
+				<br/>Plays : 124,905</span>
+				<br/>Subscribers: <span>217</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=164206596" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/prom_queen.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=164206596">Prom Queen</a></h2>
+			<div class="text"><span>Videos 109</span>
+				<br/>Plays : 8,507,641</span>
+				<br/>Subscribers: <span>6,678</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=171184815" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/trailerpark.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=171184815">Trailer Park</a></h2>
+			<div class="text"><span>Videos 15</span>
+				<br/>Plays : 3,977,226</span>
+				<br/>Subscribers: <span>2,321</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=140377960" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/artistonartist.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=140377960">Artist on Artist</a></h2>
+			<div class="text"><span>Videos 21</span>
+				<br/>Plays : 3,086,421</span>
+				<br/>Subscribers: <span>493</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=50102613" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/list.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=50102613">The List</a></h2>
+			<div class="text"><span>Videos 43</span>
+				<br/>Plays : 3,137,874</span>
+				<br/>Subscribers: <span>584</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=21539603" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/hiphop.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=21539603">A Place For Hip Hop</a></h2>
+			<div class="text"><span>Videos 30</span>
+				<br/>Plays : 1,423,113</span>
+				<br/>Subscribers: <span>928</span>
+			</div>
+		</td>
+	</tr><tr>
+		<td class="picture">
+			<a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.channel&amp;ChannelID=191627007" class="channelpic">
+<img alt="channel" src="https://web.archive.org/web/20070901063954im_/http://creative.myspace.com/cms/MySpaceTV_Home_All/Featured_Channels_All/90x75ssu.jpg"/>
+</a>
+
+		</td>
+		<td><h2 class="title"><a href="/web/20070901063954/http://vids.myspace.com/index.cfm?fuseaction=vids.Channel&amp;ChannelID=191627007">MySpace Secret Standup</a></h2>
+			<div class="text"><span>Videos 4</span>
+				<br/>Plays : 682,762</span>
+				<br/>Subscribers: <span>790</span>
+			</div>
+		</td>
+	</tr>
+</table></td>
+		</tr>
+	</table>
+	<div id="ctl00_vidsBody_TVHome_GoogleAFC" name="ctl00_vidsBody_TVHome_GoogleAFC">
+	<script type="text/javascript" language="JavaScript">
+
+function google_ad_request_done(google_ads)
+{
+	var i = 0;
+	if (google_ads == null || google_ads.length == 0) return;
+	var ctl = null;
+	var str = '';
+			str = '';
+		str += '<DIV class=googleafc> <DIV class=horz> <DIV class=googlehdr>Sponsored Links</DIV> <DIV class=adcount4 id=gafc>';
+			for (l = 0; l < 4; l++)
+			{
+			if (google_ads[i] == null) break;
+			str += '<A onmouseover="window.status=\'go to ' + google_ads[i].visible_url + '\'; return true;" onmouseout="window.status=\'\';" href="' + google_ads[i].url + '" target=_blank><STRONG>' + google_ads[i].line1 + '</STRONG>  <P>' + google_ads[i].line2 + ' ' + google_ads[i].line3 + '</P><SPAN>' + google_ads[i].visible_url + '</SPAN></A>';
+			i++;
+			}
+			str += ' </DIV> <DIV style="CLEAR: left; FONT-SIZE: 1px; TEXT-INDENT: -5000px">.</DIV></DIV></DIV>';
+	document.write(str);
+var gafc = document.getElementById("gafc");
+if (gafc == null) return;
+gafc.className = gafc.className.replace("adcount4", "adcount" + google_ads.length);
+}
+var google_ad_client = "fim_myspace_videos_js";
+var google_encoding = "utf8";
+var google_ad_channel = "fim_myspace_videos_homepage,fim_myspace_united-states";
+var google_cust_ch = "";
+var google_max_num_ads = 4;
+var google_ad_type = "text";
+var google_language = "en";
+var google_adtest = "off";
+var google_ed = "";
+var google_ad_output = "js";
+var google_safe = "high";
+</script>
+<script type="text/javascript" language="JavaScript" src="https://web.archive.org/web/20070901063954js_/http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+</div>
+
+	</div><!-- vids_pagecontent -->
+</div><!-- vids_page -->
+
+<div id="msft">
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.aboutus">About</a> |
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.faq">FAQ</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.terms">Terms</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.privacy">Privacy</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safetytips">Safety Tips</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.contact">Contact  My Space</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=misc.promote">Promote!</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=cms.viewcontent&amp;placement=footer_advertise">Advertise</a> | 
+<a href="https://web.archive.org/web/20070901063954/http://www.myspace.com/index.cfm?fuseaction=InternationalMap">MySpace International</a>
+<br/>&copy; 2003-2007 MySpace, Inc. All Rights Reserved.
+</div>
+<script type="text/javascript">
+wireSearch(Resources.search_default_text);
+</script>
+
+<script type="text/javascript">
+loadDone( "Home");
+</script>
+
+<script src="https://web.archive.org/web/20070901063954js_/http://creative.myspace.com/cms/js/ad_wrapper0037.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+ Advertiser.SDC.DropPixel();
+}
+catch(e) {}
+ad_wrapper("tkn_medrec", "/vids/splash,91000000", "x14");
+</script>
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 06:39:54 Sep 01, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:10:29 Jun 02, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.732
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.012
+  esindex: 0.013
+  cdx.remote: 7.028
+  LoadShardBlock: 149.079 (3)
+  PetaboxLoader3.datanode: 374.399 (4)
+  load_resource: 451.614
+  PetaboxLoader3.resolve: 80.974
+-->
