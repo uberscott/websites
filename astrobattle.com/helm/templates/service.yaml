@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: astrobattle
+  labels:
+    app.kubernetes.io/name: astrobattle
+    helm.sh/chart: {{ include "helm.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+spec:
+  selector:
+    app: astrobattle
+  type: NodePort
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
+

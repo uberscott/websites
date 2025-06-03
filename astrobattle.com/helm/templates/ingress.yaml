@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: astrobattle
+  labels:
+    app.kubernetes.io/name: astrobattle
+    helm.sh/chart: {{ include "helm.chart" . }}
+    app.kubernetes.io/instance: {{ .Release.Name }}
+    app.kubernetes.io/managed-by: {{ .Release.Service }}
+  annotations:
+    kubernetes.io/ingress.global-static-ip-name: astrobattle
+    networking.gke.io/managed-certificates: astrobattle
+    kubernetes.io/ingress.class: "gce"  
+
+spec:
+  ingressClassName: "gce"
+  defaultBackend:
+    service:
+      name: astrobattle
+      port:
+        number: 80
+

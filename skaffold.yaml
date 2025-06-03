@@ -12,6 +12,9 @@ build:
     context: starlane.io
   - image: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
     context: punch-line.app
+  - image: us-central1-docker.pkg.dev/uberscott/uberscott/astrobattle 
+    context: astrobattle.com 
+
 
 
 deploy:
@@ -36,6 +39,12 @@ deploy:
       chartPath: punch-line.app/helm
       values:
         punchline: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
+
+    - name: astrobattle
+      namespace: astrobattle
+      chartPath: astrobattle.com/helm
+      values:
+        astrobattle: us-central1-docker.pkg.dev/uberscott/uberscott/astrobattle
 
 
 

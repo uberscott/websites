@@ -1,7 +1,4 @@
 {{ define "main" }}
-<!--<h1>{{ .Title }}</h1>-->
-  {{ $image := resources.Get "images/box-art.png" }}
-  <img src="$image"/>
-
+<h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
