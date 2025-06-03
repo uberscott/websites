@@ -6,7 +6,7 @@ build:
 deploy: build
 	skaffold run
 
-all: deploy
+all: build 
 
 
 clean:
