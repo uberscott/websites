@@ -1,0 +1,264 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Unification at Last - Astro Battle</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../prolog.html">Prolog: A Ghastral's Offer</a></li><li class="chapter-item expanded affix "><a href="../title.html">Astro Battle</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus.html"><strong aria-hidden="true">1.</strong> Prelude to the Battle of Illus</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/negotiating_surrender.html"><strong aria-hidden="true">1.1.</strong> Negotiating Surrender</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/safety_is_just_a_fold_away.html"><strong aria-hidden="true">1.2.</strong> Safety Is Just a Fold Away</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/late_to_the_appointment.html"><strong aria-hidden="true">1.3.</strong> Late to the Appointment</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/one_lester_mann.html"><strong aria-hidden="true">1.4.</strong> One Lester Mann</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/disembarkation.html"><strong aria-hidden="true">1.5.</strong> Disembarkation</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/the_surrender.html"><strong aria-hidden="true">1.6.</strong> The Surrender</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/victory.html"><strong aria-hidden="true">1.7.</strong> Victory</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/a_fight_after_all.html"><strong aria-hidden="true">1.8.</strong> A Fight After All</a></li><li class="chapter-item expanded "><a href="../prelude_to_the_battle_of_illus/unification_at_last.html" class="active"><strong aria-hidden="true">1.9.</strong> Unification at Last</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Astro Battle</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="unification-at-last"><a class="header" href="#unification-at-last">UNIFICATION AT LAST</a></h1>
+<p>The Red Destiny did a victory roll and turned towards the Ronin fleet.  Several ships projected holograms of their crew cheering for the Commander they thought they lost. The Red Destiny then slowed and made a non threatening drift towards the Alliance Fleet.</p>
+<p>The flagship was disabled, but not destroyed. It listed in dereliction and contents were still spilling out from the puncture.  Mudd and his command crew had certainly been killed and more would die in the fires raging through the ship.</p>
+<p>“A familiar comm request reached Alexander.  Slither survived.  He broadcast on a private channel to the Ronnins: “Deploy marines to perform rescue and suppression of the survivors.  Do not allow the Alliance fleet to participate in the rescue.”  Then only to his snakes: “ If any surviving bridge officers are encountered, kill them as discreetly as possible."</p>
+<p>“Pete?” Alexander asked.</p>
+<p>“searching.” Slyther responded..</p>
+<p>“FIND HIM.” Alexander delivered imperative, he knew the two were not fond of each other.  “Glad you survived”  Slyther’s always-half-smile grew imperceptively then he gave a light bow and backed into the darkness.</p>
+<p>"Twenty-Eight minutes until we reach the asymptote," Fae reported.</p>
+<p>"Now to secure the loyalty of the Defence fleet. I wish I could do this later, but it has to be now.</p>
+<p>"Fae, Are there any corpses floating in space?", Alexander asked.</p>
+<p>"Seventeen.", Said Fae.</p>
+<p>"Let me see them.  Tractor them with dignity to the Red Destiny. Assume our position for the speech. ", A menu of the seventeen corpses appeared on Alexander's screen each with an accompanying close up video of the body.</p>
+<p>"Genlty, place sixteen of the corpses in two rows extending out in front of and slightly below the center line of the Red Destiny. Straighten their bodies.  Take this one", he selected one of the corpses from his corpse menu, "And make his velocity approach the red destiny slowly along the center line of the Red Destiny and in between the two rows of corpses... Do not straighten his body, I like the mangled look it has.  Time everything so the final body meets with me right at the base of the two rows, nearest the Red Destiny. Launch a spy drone and have it film me."</p>
+<p>He donned his space helmet and an automatic process began making his armor space worthy.</p>
+<p>"How much time do I have?", Alexander asked.</p>
+<p>"Five minutes till Asym"</p>
+<p>"That will have to do.", Alexander ambled down a hatch on the side of the bridge, exited the forward space hatch, and floated slowly into the dark of space approaching the uneasy Defence fleet.</p>
+<p>Now Supreme Commander Alexander drifted solemnly towards the rows of the dead.  The camera drone travelled a meter before him broadcasting to every last human that lived.</p>
+<p>His motion came to a rest in between the first row of the dead.   The drone kept floating away and the bodies moved through the broadcast's perspective like church pews move through the perspective of a bride walking down the isle.</p>
+<p>The seventeenth entered the scene and Alexander gently stopped its momentum by cradling the body.  Alexander removed his dark-red cape, the symbol of the Ronin Commander, and wrapped it around the mangled body of the poor Alliance man.  And then he steadied the bundle at his feet, in the same plane as the eight other corpses between the two rows but aligned perpendicularly.  Fae subtly used her tractor beam to straighten the final body.</p>
+<p>He spoke slowly and stoically. "I speak to all who serve in the Alliance fleet.  And I ask every other human to hear my words, for it is the sacrifice of the Alliance fleet that has protected our race’s future since the Zell first attacked."</p>
+<p>"Few soldiers escape death. It never becomes easier to endure.  As noble soldiers your heart can never be numb to this experience. That is what makes you human.  Humanity is amazing that way."</p>
+<p>"The life of a single soldier is worth more than the lives of the entire Zell fleet.  But soldiers are made to go in harms way, and soldiers protect what is precious to them no matter the cost.</p>
+<p>“The life that has just left us, the life of these soldiers before me, was not given to protect what they cherished.  These lives were squandered in the name of greed and arrogance.  These lives were paid as tribute to serve Commander Mudd’s ambitions."</p>
+<p>"I killed these men. I crushed them for why they fough....  But I did so to protect WHAT they fought for."</p>
+<p>"More soldiers will die today, but none more will die in vain.  For we must face an enemy four times our strength, before another enemy of an unfathomable size bears down upon us in twenty hours.</p>
+<p>Now I ask you to Follow me. Fight for me. Defend what these soldiers protected with their lives… They protected you.  They protected humanity itself.  And that we will do.</p>
+<p>And we will do it Not by running away, sculking into the ever deeper levels of hell hoping our enemy tires of pursuit.  We will not only defend the precious human experience but we will bring an end to the Zell for good!"</p>
+<p>"You have heard my rationale and now you must choose. Defenceless, I stand before you and I ask you to join my fleet or avenge your unworthy Commander and kill me now. "</p>
+<p>A long pause followed.</p>
+<p>Crew Holo projections began appearing in front of the Alliance fleet.  Emotional clapping and approval poured out from the Holoprojections.</p>
+<p>"We have messages from the entire defence fleet.  They have consented to join you.” from Slyther.</p>
+<p>“Twenty-Three then asym.", Fae Reported.   Little time remained for Alexander’s plan.</p>
+<p>"I am deeply humbled that you have accepted me as your Commander. I will treat your trust with the honor that it has always deserved!"</p>
+<p>"Now Let us crush the Zell and rid the universe of their evil forever! TO WAR!"</p>
+<p>Loud cheering erupted from holo projections of both fleets.</p>
+<p>Fae*Dra  tractored Alexander and the bodies into the entry portal.  The bodies lay strewn about the exit ready room in complete disarray. Alexander had to shove and kick them into place as he had no other free space to store them.  Alex retrieved his red cape from the mangled corpse, put it on and resumed his position in the Bridge.</p>
+<p>Alexander transmitted another prepared message instructing the former Alliance fleet where to maneuver and how they were going to participate in this battle.  For the most part he left the Alliance fleet in the same protective position, but he moved some Seventy-Five thousand phalanx unit and Twenty-Five thousand skirmishers to the front line.</p>
+<p>"stink!", Fae was righ…. Unsightly dead bodies stink. “Eject them!” She posited.</p>
+<p>"That might send the wrong signal to the fleet.  Sorry we have to tolerate the smell.  We can incinerate them further in space we are out of view.", Alexander explained.</p>
+<p>Fae lit the boosters and the Red Destiny raced to the front planes.  A ronin entourage followed as well as some newly acquired hodge podge of Alliance ships.</p>
+<p>“Now for the battle of Illus and victory”, Alex said confidently.</p>
+<h1 id=""><a class="header" href="#"></a></h1>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../prelude_to_the_battle_of_illus/a_fight_after_all.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../prelude_to_the_battle_of_illus/a_fight_after_all.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>
