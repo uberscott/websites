@@ -10,4 +10,4 @@ metadata:
     app.kubernetes.io/managed-by: {{ .Release.Service }}
 spec:
   domains:
-    - starlane.io
+    - starlane.app

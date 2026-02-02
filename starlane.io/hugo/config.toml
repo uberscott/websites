@@ -1,4 +1,4 @@
-baseURL = "http://starlane.io/"
+baseURL = "http://starlane.app/"
 languageCode = "en-us"
 title = "STARLANE"
 theme = "starlane"

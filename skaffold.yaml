@@ -10,8 +10,8 @@ build:
     context: uberscott.com
   - image: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
     context: starlane.io
-  - image: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
-    context: punch-line.app
+#  - image: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
+#    context: punch-line.app
   - image: us-central1-docker.pkg.dev/uberscott/uberscott/astrobattle 
     context: astrobattle.com 
 
@@ -34,11 +34,11 @@ deploy:
       values:
         starlane: us-central1-docker.pkg.dev/uberscott/uberscott/starlane
 
-    - name: punchline
-      namespace: punchline
-      chartPath: punch-line.app/helm
-      values:
-        punchline: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
+#    - name: punchline
+#      namespace: punchline
+#      chartPath: punch-line.app/helm
+#      values:
+#        punchline: us-central1-docker.pkg.dev/uberscott/uberscott/punchline
 
     - name: astrobattle
       namespace: astrobattle
